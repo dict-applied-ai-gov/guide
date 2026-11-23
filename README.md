@@ -35,6 +35,14 @@ vercel          # first run links the project and makes a preview deployment
 vercel --prod   # production deployment
 ```
 
+## Sharing previews and search
+
+`index.html` carries the description, Open Graph and Twitter tags, and the favicons (`public/favicon.ico`, `favicon.svg`, `apple-touch-icon.png`, `site.webmanifest`). The share image is `public/og-image.png` (1200 x 630).
+
+Social sites need absolute links, so the build adds them: the canonical link, `og:url`, `og:image`, `twitter:image`, event details for search engines (JSON-LD), `robots.txt` and `sitemap.xml`. On Vercel the production domain is picked up automatically. To use a custom domain, set `SITE_URL` in the Vercel project's environment variables, for example `https://guide.example.gov.ph`, and redeploy.
+
+After deploying, check a link with the [Facebook Sharing Debugger](https://developers.facebook.com/tools/debug/) and press **Scrape Again** if an old preview is cached.
+
 ## Where things are
 
 | Path | What it holds |

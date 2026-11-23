@@ -249,6 +249,11 @@ export function Shell() {
   useEffect(() => {
     const page = pages.find((p) => p.to === location.pathname);
     document.title = page && page.to !== "/" ? `${page.label}: ${course.short}` : `${course.short}: ${course.city}, ${course.dates}`;
+    const description =
+      page && page.to !== "/"
+        ? `${page.desc}. ${course.title}, ${course.city}, ${course.dates}.`
+        : `Participant guide for ${course.title}, a three-day government workforce training in ${course.city}, ${course.dates}.`;
+    document.querySelector('meta[name="description"]')?.setAttribute("content", description);
     if (location.hash) {
       const el = document.getElementById(location.hash.slice(1));
       if (el) {
