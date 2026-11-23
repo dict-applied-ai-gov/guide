@@ -1,5 +1,5 @@
 import { Plus, Trash2 } from "lucide-react";
-import { capstoneTimeline, capstoneIdeas, rubric } from "@/data/reference";
+import { capstoneTimeline, capstoneIdeas, capstoneTheme, capstoneTracks, rubric } from "@/data/reference";
 import { useStored } from "@/lib/storage";
 import { PageHead, Section, TableWrap, DefinitionRows } from "@/components/ui";
 import { Page, TrackedChecklist, TrackedWorksheet } from "@/components/tracked";
@@ -88,8 +88,17 @@ export function Capstone() {
     <Page to="/capstone">
       <PageHead
         title="Capstone project"
-        lead="Teams of 3, mixed ICT and non-ICT. One real office problem, solved with the sample data, demonstrated in 5 minutes on Thursday."
+        lead="Teams of 3, mixed ICT and non-ICT. One real office task, automated, checked, and turned into a decision, with the sample data. Demonstrated in 5 minutes on Thursday."
       />
+
+      <Section id="theme" title="Theme" intro={capstoneTheme.title}>
+        <p>{capstoneTheme.why}</p>
+        <DefinitionRows rows={capstoneTheme.rules} />
+      </Section>
+
+      <Section id="tracks" title="Pick a track" intro="Choose one on Day 1 and write it on your Pain Point Card.">
+        <DefinitionRows rows={capstoneTracks} />
+      </Section>
 
       <Section id="timeline" title="Timeline">
         <TableWrap label="Capstone timeline">
@@ -116,7 +125,7 @@ export function Capstone() {
         <TrackedWorksheet id="pain-point" />
       </Section>
 
-      <Section id="ideas" title="Project ideas" intro="Start from one of these, or bring your own.">
+      <Section id="ideas" title="More project ideas" intro="Each fits one of the tracks above. Start from one, or bring your own.">
         <DefinitionRows rows={capstoneIdeas} />
       </Section>
 
@@ -124,7 +133,7 @@ export function Capstone() {
         <TrackedWorksheet id="canvas" />
       </Section>
 
-      <Section id="checklist" title="Responsible AI checklist" intro="Complete it during sprint 2. The rubric gives it a fifth of the score.">
+      <Section id="checklist" title="Responsible AI checklist" intro="Complete it during the afternoon build. The rubric gives it a fifth of the score.">
         <TrackedChecklist id="responsible" anchor={false} />
       </Section>
 

@@ -8,7 +8,7 @@ export function LocalAi() {
     <Page to="/local-ai">
       <PageHead
         title="Running AI on your own computer"
-        lead="Module D, Day 2, 2:15 to 3:00. The trainer turns Wi-Fi off and the model keeps answering. Your data never left the laptop."
+        lead="Module D, Day 2, 1:40 to 2:15, as a demo. The trainer turns Wi-Fi off and the model keeps answering. Your data never left the laptop."
       />
 
       <Section id="when" title="Cloud or local">

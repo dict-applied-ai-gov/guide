@@ -157,10 +157,12 @@ export const faq = [
 ];
 
 export const capstoneTimeline = [
-  ["Day 1, 4:30 PM", "Choose your problem", "Pain Point Card"],
-  ["Day 2, 4:30 PM", "Plan your solution", "Capstone Project Canvas"],
-  ["Day 3, 11:30 AM to 3:00 PM", "Build and test", "Lunch 12:00 to 1:00 falls inside the build"],
-  ["Day 3, 3:15 PM", "Present", "5-minute demo and 3-minute Q&A"],
+  ["Day 1, 4:00 PM", "Pick a track and a task", "Pain Point Card with a baseline number"],
+  ["Day 2, 4:15 PM", "Plan automate, check, decide", "Capstone Project Canvas"],
+  ["Day 3, 11:30 AM", "Kit check", "Files, sample dataset, and roles ready"],
+  ["Day 3, 1:00 to 3:00 PM", "Build and test", "Working prototype and Responsible AI checklist"],
+  ["Day 3, 3:15 PM", "Present", "5-minute demo and 2-minute Q&A"],
+  ["Next 30 days", "Keep going at the office", "30-day AI Action Plan"],
 ];
 
 export const capstoneIdeas = [
@@ -180,7 +182,7 @@ export const rubric = [
     criterion: "Problem relevance",
     weight: 20,
     levels: [
-      "Real, clearly defined office problem with a measurable pain point (time, errors, backlog)",
+      "Real office task in a chosen track, with a baseline number (time, errors, backlog)",
       "Clear problem, impact partly described",
       "Problem is general or vague",
       "Problem unclear",
@@ -190,7 +192,7 @@ export const rubric = [
     criterion: "Solution functionality",
     weight: 25,
     levels: [
-      "Working prototype, tested with the synthetic dataset (or a trainer-checked, cleared office file), runs end to end",
+      "Automates the task end to end with the synthetic dataset (or a trainer-checked, cleared office file)",
       "Works with minor gaps",
       "Partially working, or mostly a mock-up",
       "Not working",
@@ -210,7 +212,7 @@ export const rubric = [
     criterion: "Responsible AI, privacy, and verification",
     weight: 20,
     levels: [
-      "Complete checklist; synthetic data used, or the data protocol followed for a cleared file; human review and verification built in; risks and bias addressed",
+      "The check step is built in: complete checklist, synthetic or cleared data, human review and verification, risks and bias addressed",
       "Most safeguards present",
       "Safeguards mentioned but not built in",
       "Safeguards missing",
@@ -220,7 +222,7 @@ export const rubric = [
     criterion: "Presentation and sustainability",
     weight: 15,
     levels: [
-      "Clear demo; expected benefit estimated; realistic rollout plan for the office",
+      "Clear demo of automate, check, decide; result compared with the baseline; realistic 30-day plan for the office",
       "Clear demo; some plan",
       "Demo unclear; little plan",
       "No clear demo",
@@ -285,4 +287,23 @@ export const analysisPrompts = [
   "For each number in your table, give me the Google Sheets formula (COUNTIFS or QUERY) I can use to check it myself.",
   "Suggest three charts for a one-page dashboard for the head of office, and say which question each chart answers.",
   "List anything in this data that could mislead a decision: missing months, duplicate rows, or offices with very few records.",
+];
+
+export const capstoneTheme = {
+  title: "One office task, end to end: automate it, check it, decide with it",
+  why: "Built around the readiness survey: half of you (11 of 22) have not automated anything yet, most rate yourselves beginners in verifying outputs and decision support, 17 of 22 know little about data privacy, and 9 named the cost of paid tools as a barrier. So every project takes one real task, automates it with free tools, builds in a human check, and ends with a number someone can decide with.",
+  rules: [
+    ["Mixed teams", "3 people, at least one from ICT and one from outside ICT."],
+    ["A baseline number", "Write down today’s time, errors, or backlog on the Pain Point Card, and compare against it in your demo."],
+    ["Free tools only", "Every core project runs on free accounts."],
+    ["It keeps going", "Your 30-day AI Action Plan continues the capstone back at the office."],
+  ],
+};
+
+export const capstoneTracks = [
+  ["Frontline transactions", "A Form-fed daily log (such as the clearance applications log), an automatic daily summary, and a dashboard of volume and waiting times."],
+  ["Accounts check", "AI-written formulas (XLOOKUP, COUNTIFS, QUERY) that match two lists, flag mismatches for a person to review, and total what is still open."],
+  ["Supplies and property", "A Form for issuance and returns, a Sheets inventory with low-stock alerts, and a chart for reorder decisions."],
+  ["Citizen feedback", "A FAQ assistant grounded in your office’s sample FAQ, plus a feedback survey summarized into the top three service issues."],
+  ["Build track (ICT-led)", "A script, small web app, agent, or local AI helper, with a privacy-by-design review and a non-ICT teammate as the tester."],
 ];

@@ -7,7 +7,7 @@ export function Mcp() {
     <Page to="/mcp">
       <PageHead
         title="Connecting agents to apps with MCP"
-        lead="Module F, Day 2, 1:00 to 2:15. MCP lets an AI app reach into Drive, Canva or Slack. Think of it as a USB-C port for AI."
+        lead="Module F, Day 2, 1:00 to 1:40, as a demo. MCP lets an AI app reach into Drive, Canva or Slack. Think of it as a USB-C port for AI."
       />
 
       <Section id="what" title="In plain words">
