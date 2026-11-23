@@ -694,3 +694,7 @@ legend { padding: 0; }
   .code pre, .builder__prompt, .library__item pre { max-height: none; overflow: visible; }
   .hero-card, .card, .sheet, .worksheet { box-shadow: none; }
 }
+
+.file-list { display: grid; gap: 8px; padding-left: 1.2em; }
+.file-list a { font-weight: 600; }
+.file-list__note { color: var(--muted-fg); }

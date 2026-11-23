@@ -35,6 +35,24 @@ export function DayPage({ day }) {
         <SessionList day={day} />
       </Section>
 
+      {day.materials && (
+        <Section id="materials" title="Materials and exercise files" intro="Sample files only, with fake names and numbers. Open them in Google Drive, or download and upload them to the AI tool the exercise names.">
+          <ul className="file-list">
+            {day.materials.map(([file, label, note]) => (
+              <li key={file}>
+                <a href={`/materials/${day.id}/${file}`} download>
+                  {label}
+                </a>
+                <span className="file-list__note">
+                  {" "}
+                  ({file.split(".").pop()}): {note}
+                </span>
+              </li>
+            ))}
+          </ul>
+        </Section>
+      )}
+
       <Section id="advanced" title="Advanced track">
         <p>{day.advanced.replace(/^Advanced track \(([^)]+)\):\s*/, "In the $1: ").replace(/^Advanced track:\s*/, "")}</p>
       </Section>

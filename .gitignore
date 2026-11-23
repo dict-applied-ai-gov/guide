@@ -49,3 +49,6 @@ coverage
 
 # Hallmark design-tool working files
 .hallmark
+
+# Trainer-only answer keys and demo files; keep out of the public repo
+materials/day-1-trainer/

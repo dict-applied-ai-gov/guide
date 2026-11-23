@@ -163,6 +163,17 @@ export const days = [
         link: { to: "/capstone#pain-point", label: "Pain Point Card" },
       },
     ],
+    materials: [
+      ["01-day-1-workbook.docx", "Workbook", "All ten exercises, to print or fill in"],
+      ["02-day-1-handout.docx", "Handout", "R-T-C-F-C, output checks, Data Traffic Light, laws, and the agents not demonstrated"],
+      ["03-sample-circular.docx", "Sample circular", "For the hallucination check, the memo, and the NotebookLM demo"],
+      ["04-citizen-request-letter.docx", "Citizen request letter", "For the reply letter task"],
+      ["05-staff-meeting-notes.docx", "Staff meeting notes", "For the memo task"],
+      ["06-spot-the-hallucination.docx", "Spot the hallucination", "An AI summary with six errors"],
+      ["07-redaction-drill.xlsx", "Redaction drill", "12 fake client records to mask"],
+      ["09-model-comparison-scoresheet.xlsx", "Model scoresheet", "Scores the five models, with totals"],
+      ["10-data-traffic-light-cards.docx", "Traffic Light cards", "Printable game cards"],
+    ],
     advanced:
       "Advanced track (prompting session): system prompts, few-shot prompting, structured JSON outputs, and building a Gemini Gem or custom GPT for a repeat task.",
   },
