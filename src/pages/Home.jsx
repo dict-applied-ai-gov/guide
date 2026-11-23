@@ -61,7 +61,7 @@ export function Home() {
           {course.title}
         </h1>
         <p className="hero-card__lead">
-          Use AI safely, responsibly, and productively in government work: better prompts, office tasks automated with free tools, agents
+          Use AI safely, responsibly, and productively in government work: better prompts, office tasks automated with tools your office can keep, agents
           connected to apps, local AI, and AI-assisted decisions. Bring one real task; leave with it automated.
         </p>
         <StatusChip />
@@ -97,7 +97,7 @@ export function Home() {
             </li>
           ))}
         </ul>
-        <p className="home-section__note">Every core activity works on free accounts. Paid features are shown only as optional extras.</p>
+        <p className="home-section__note">Use the AI you already subscribe to, or a free account: every core activity works on both. Sample data only, either way.</p>
       </section>
 
       <section className="home-section" aria-labelledby="journey-h">

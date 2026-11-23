@@ -121,11 +121,12 @@ export const faq = [
   {
     group: "Before the training",
     items: [
-      ["Do I need a paid AI account?", "No. Everything you need for the core activities works on free accounts. Paid features are shown only as optional extras."],
+      ["Do I need a paid AI account?", "No. If you already subscribe to ChatGPT, Claude, Gemini, Grok, or Copilot, use it; you will get more from the stronger model. If not, free accounts cover every core activity."],
+      ["I pay for my AI. Can I use it for office data?", "Not without your office’s clearance. A personal plan, paid or free, is a consumer account: turn off the setting that lets your chats train the model, and use it for sample data and public information. Office data needs a business or enterprise plan the office has cleared, or a local model."],
       ["Can I use a Chromebook?", "Yes, for the core activities. To try local AI models on the advanced track, a Windows or Mac laptop with at least 16 GB RAM works best; Chromebooks can’t run the local AI tools easily."],
       ["Is a phone enough?", "No. Bring a laptop with its charger. A phone alone is not enough for the hands-on activities, but bring it for 2-step verification."],
       ["My agency restricts AI tools on office accounts. What do I use?", "Use your personal accounts with the sample (synthetic) data only."],
-      ["I couldn’t set up the recommended accounts. Should I still come?", "Yes. Come anyway; the trainer will demo them. The required ones are a Google account and ChatGPT Free."],
+      ["I couldn’t set up the recommended accounts. Should I still come?", "Yes. Come anyway; the trainer will demo them. The required ones are a Google account and one AI chat app: the one you subscribe to, or ChatGPT on a free account."],
       ["Should I download AI models at the venue?", "No. Model files are several gigabytes, too heavy for shared venue Wi-Fi. Download them at home."],
       ["I need large print, seating help, or language support.", "Tell the training lead before Day 1 or at registration. Filipino or Hiligaynon explanations, large-print handouts, and seating near the screen, aisle, or exit can be arranged."],
     ],
@@ -202,7 +203,7 @@ export const rubric = [
     criterion: "Appropriate use of AI and automation",
     weight: 20,
     levels: [
-      "Tools well matched to the task; free and sustainable; prompts and steps documented",
+      "Tools well matched to the task; the office can keep running it; prompts and steps documented",
       "Mostly appropriate; some documentation",
       "Tool choice weak or undocumented",
       "AI used without clear purpose",
@@ -291,11 +292,11 @@ export const analysisPrompts = [
 
 export const capstoneTheme = {
   title: "One office task, end to end: automate it, check it, decide with it",
-  why: "Built around the readiness survey: half of you (11 of 22) have not automated anything yet, most rate yourselves beginners in verifying outputs and decision support, 17 of 22 know little about data privacy, and 9 named the cost of paid tools as a barrier. So every project takes one real task, automates it with free tools, builds in a human check, and ends with a number someone can decide with.",
+  why: "Built around the readiness survey: half of you (11 of 22) have not automated anything yet, most rate yourselves beginners in verifying outputs and decision support, 17 of 22 know little about data privacy. So every project takes one real task, automates it, builds in a human check, and ends with a number someone can decide with.",
   rules: [
     ["Mixed teams", "3 people, at least one from ICT and one from outside ICT."],
     ["A baseline number", "Write down today’s time, errors, or backlog on the Pain Point Card, and compare against it in your demo."],
-    ["Free tools only", "Every core project runs on free accounts."],
+    ["Tools the office can keep", "Build with your own AI subscription if you like, but the finished workflow should run on tools the office has or has cleared: Sheets, Forms, Apps Script, or an approved plan."],
     ["It keeps going", "Your 30-day AI Action Plan continues the capstone back at the office."],
   ],
 };

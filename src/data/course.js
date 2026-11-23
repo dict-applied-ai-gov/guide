@@ -16,7 +16,7 @@ export const course = {
 export const welcome = [
   "Welcome to three days of hands-on learning. This training is built around what you told us in the AI Training Readiness Assessment. Most of you already use tools like ChatGPT and Gemini, so we go beyond the basics and focus on using AI safely, responsibly, and productively in government work.",
   "You learn by doing. Each day has short talks, live demos, and plenty of hands-on practice. On the last day, you and your team build and present a small working solution for a real task in your own office.",
-  "Free tools first. Everything you need for the core activities works on free accounts. Paid features are shown only as optional extras.",
+  "Bring the AI you already use. Most of you subscribe to a model such as ChatGPT, Claude, Gemini, Grok, or Copilot, and you will work in it all three days. A free account still covers every core activity. Paying gets you a stronger model; it does not make a personal account cleared for office data.",
 ];
 
 export const outcomes = [
@@ -38,7 +38,7 @@ export const outcomes = [
   },
   {
     short: "Automate a repetitive task",
-    text: "Automate a repetitive office task with free tools (Google Forms, Sheets, Slides, Apps Script, and AI assistants, or Power Automate for Microsoft 365 offices).",
+    text: "Automate a repetitive office task with tools your office can keep running (Google Forms, Sheets, Slides, Apps Script, and AI assistants, or Power Automate for Microsoft 365 offices).",
   },
   {
     short: "Turn data into a decision brief",
@@ -50,7 +50,7 @@ export const outcomes = [
   },
   {
     short: "Connect apps safely with MCP",
-    text: "Explain MCP in plain words and apply the safety checklist (least privilege, read-only first, approvals on, demo folder only). Where the free tier allows, try a read-only connector on a trainer-provided demo folder. Watching the live demo and completing the checklist meets the objective.",
+    text: "Explain MCP in plain words and apply the safety checklist (least privilege, read-only first, approvals on, demo folder only). Where your plan allows, try a read-only connector on a trainer-provided demo folder. Watching the live demo and completing the checklist meets the objective.",
   },
   {
     short: "Build and present a solution",
@@ -186,7 +186,7 @@ export const days = [
     dateLabel: "November 25",
     title: "Automating routine tasks, app connections, local AI, and agents",
     objective:
-      "Automate repetitive document, spreadsheet, and workflow tasks with free tools, connect agents to everyday apps safely through MCP, and understand when to run AI locally.",
+      "Automate repetitive document, spreadsheet, and workflow tasks with tools your office can keep running, connect agents to everyday apps safely through MCP, and understand when to run AI locally.",
     keyOutput:
       "Cleaned dataset, a working Form to Sheet to email workflow, the MCP demo flow, and a safe agent task",
     sessions: [
@@ -251,6 +251,17 @@ export const days = [
         produce: "Approved project canvas",
         link: { to: "/capstone#canvas", label: "Project canvas" },
       },
+    ],
+    materials: [
+      ["01-day-2-workbook.docx", "Workbook", "All ten exercises, to print or fill in"],
+      ["02-day-2-handout.docx", "Handout", "Prompt templates, formulas, certificate fixes, MCP and local AI reference"],
+      ["03-raw-meeting-notes.docx", "Raw meeting notes", "To turn into minutes and action items"],
+      ["04-messy-inventory.xlsx", "Messy inventory", "To clean with AI help"],
+      ["05-clearance-applications-log.xlsx", "Clearance applications log", "390 fake applications, for the formula, the pivot table, and Day 3"],
+      ["06-certificate-script.txt", "Certificate script", "The ready-made Apps Script for the certificate lab"],
+      ["07-training-attendance-sample.xlsx", "Training attendance", "The sheet the MCP demo reads"],
+      ["08-sample-office-faq.docx", "Sample office FAQ", "The only source for your FAQ assistant"],
+      ["09-reconciliation-advanced.xlsx", "Reconciliation (advanced)", "Two lists with planted mismatches"],
     ],
     advanced:
       "Advanced track: time-driven triggers, generating Google Docs from templates with Apps Script, and calling the Gemini API from Apps Script.",
@@ -349,7 +360,7 @@ export const modules = [
 ];
 
 export const quickAnswers = [
-  { q: "Do I need a paid AI account?", a: "No. Every core activity runs on free accounts." },
+  { q: "Do I need a paid AI account?", a: "No. Use the one you already pay for, or a free account. Either way, sample data only." },
   { q: "Should I bring office data?", a: "No. Every exercise uses sample data with fake names." },
   { q: "Will a Chromebook work?", a: "Yes, for the core track. Local AI needs a Windows or Mac laptop with 16 GB RAM." },
   { q: "What if my agency blocks AI tools?", a: "Use your personal accounts with the sample data only." },

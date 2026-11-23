@@ -34,7 +34,7 @@ export function QuickReference() {
             </div>
             <div>
               <dt>Restricted (red)</dt>
-              <dd>Personal, sensitive, confidential. Not in free tools.</dd>
+              <dd>Personal, sensitive, confidential. Not in personal AI accounts, paid or free.</dd>
             </div>
           </dl>
         </section>

@@ -43,7 +43,7 @@ export function Mcp() {
         <Steps items={mcpDemo} />
         <Note title="Trying it yourself">
           <p>
-            Where your free plan allows, try a read-only connector on the trainer’s demo folder. If your plan doesn’t, watching the demo and
+            Where your plan allows, try a read-only connector on the trainer’s demo folder. If your plan doesn’t, watching the demo and
             completing the checklist below meets the objective.
           </p>
         </Note>

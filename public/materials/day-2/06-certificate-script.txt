@@ -1,0 +1,115 @@
+/**
+ * Automated Certificates - reference script (trainer fallback)
+ * Bound to the Google Sheet that receives the Google Form responses.
+ * 1) Fill in the SETTINGS below. 2) Run createTrigger() once. 3) Submit the form to test.
+ */
+
+// ===== SETTINGS: change these =====
+const TEMPLATE_ID = 'PASTE_SLIDES_TEMPLATE_ID_HERE'; // from the Slides URL: /presentation/d/THIS_PART/edit
+const FOLDER_ID = 'PASTE_DRIVE_FOLDER_ID_HERE';       // from the folder URL: /folders/THIS_PART
+const TRAINING_NAME = 'Applied AI for Automation and Decision Support';
+const NAME_QUESTION = 'Full Name';        // must match the form question title exactly
+const EMAIL_QUESTION = 'Email Address';   // must match the form question (or collected email) title exactly
+const STATUS_HEADER = 'Certificate Status';
+
+// Runs automatically every time someone submits the form (after createTrigger() is run once).
+function onFormSubmit(e) {
+  const sheet = e.range.getSheet();
+  const row = e.range.getRow();
+  try {
+    const name = getAnswer_(e, NAME_QUESTION);
+    const email = getAnswer_(e, EMAIL_QUESTION);
+    const dateText = Utilities.formatDate(new Date(), Session.getScriptTimeZone(), 'MMMM d, yyyy');
+
+    // 1. Copy the Slides template into the certificates folder
+    const folder = DriveApp.getFolderById(FOLDER_ID);
+    const copy = DriveApp.getFileById(TEMPLATE_ID).makeCopy('Certificate - ' + name, folder);
+
+    // 2. Replace the placeholders in the copy
+    const deck = SlidesApp.openById(copy.getId());
+    deck.replaceAllText('{{Name}}', name);
+    deck.replaceAllText('{{Date}}', dateText);
+    deck.replaceAllText('{{Training}}', TRAINING_NAME);
+    deck.saveAndClose(); // save changes before exporting
+
+    // 3. Export the copy as a PDF and save it in the folder
+    const pdfBlob = DriveApp.getFileById(copy.getId())
+      .getAs('application/pdf')
+      .setName('Certificate - ' + name + '.pdf');
+    const pdfFile = folder.createFile(pdfBlob);
+
+    // 4. Email the PDF to the respondent
+    //    (MailApp.sendEmail works the same way and asks for a narrower, send-only permission.)
+    GmailApp.sendEmail(
+      email,
+      'Your Certificate - ' + TRAINING_NAME,
+      'Hi ' + name + ',\n\n' +
+        'Thank you for joining ' + TRAINING_NAME + '. Your certificate is attached.\n\n' +
+        'This is an automated message.',
+      { attachments: [pdfBlob], name: 'Training Team' }
+    );
+
+    // 5. Optional: remove the editable Slides copy and keep only the PDF
+    copy.setTrashed(true);
+
+    // 6. Log the result in the response sheet
+    logStatus_(sheet, row, 'Sent ' + dateText + ' - ' + pdfFile.getUrl());
+  } catch (err) {
+    logStatus_(sheet, row, 'Error: ' + err.message);
+    console.error(err);
+  }
+}
+
+// Reads one answer from the form submission by its question title.
+function getAnswer_(e, question) {
+  const values = e.namedValues[question];
+  if (!values || !values[0]) {
+    throw new Error('No answer found for "' + question + '". Check that the question title matches exactly.');
+  }
+  return String(values[0]).trim();
+}
+
+// Writes a status message in a "Certificate Status" column (created if missing).
+function logStatus_(sheet, row, message) {
+  const lastCol = sheet.getLastColumn();
+  const headers = sheet.getRange(1, 1, 1, lastCol).getValues()[0];
+  let col = headers.indexOf(STATUS_HEADER) + 1;
+  if (col === 0) {
+    col = lastCol + 1;
+    sheet.getRange(1, col).setValue(STATUS_HEADER);
+  }
+  sheet.getRange(row, col).setValue(message);
+}
+
+// Run this ONCE from the editor: creates the "On form submit" trigger (removes old copies first).
+function createTrigger() {
+  ScriptApp.getProjectTriggers()
+    .filter(function (t) { return t.getHandlerFunction() === 'onFormSubmit'; })
+    .forEach(function (t) { ScriptApp.deleteTrigger(t); });
+  ScriptApp.newTrigger('onFormSubmit')
+    .forSpreadsheet(SpreadsheetApp.getActive())
+    .onFormSubmit()
+    .create();
+}
+
+// Optional test: re-sends the certificate for the LAST response row, without submitting the form again.
+function testLastResponse() {
+  const sheet = SpreadsheetApp.getActive().getSheets()[0]; // the form responses tab
+  const lastRow = sheet.getLastRow();
+  const lastCol = sheet.getLastColumn();
+  const headers = sheet.getRange(1, 1, 1, lastCol).getValues()[0];
+  const values = sheet.getRange(lastRow, 1, 1, lastCol).getDisplayValues()[0];
+  const namedValues = {};
+  headers.forEach(function (h, i) { namedValues[h] = [values[i]]; });
+  onFormSubmit({ range: sheet.getRange(lastRow, 1, 1, lastCol), namedValues: namedValues, values: values });
+}
+
+// Cleanup after the session: removes all triggers of this project.
+function deleteTriggers() {
+  ScriptApp.getProjectTriggers().forEach(function (t) { ScriptApp.deleteTrigger(t); });
+}
+
+// Shows how many more email recipients this account can send to today.
+function checkEmailQuota() {
+  Logger.log('Remaining email recipients today: ' + MailApp.getRemainingDailyQuota());
+}
