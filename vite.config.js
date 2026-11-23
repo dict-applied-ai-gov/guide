@@ -9,9 +9,10 @@ import { course } from "./src/data/course.js";
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 
 // The public address of the site, used for absolute share links, the sitemap and robots.txt.
-// Set SITE_URL to a custom domain; on Vercel the production domain is picked up automatically.
+// Set SITE_URL to override it, for example for a custom domain.
+const DEFAULT_SITE_URL = "https://dict-ai-automation.vercel.app";
 function siteUrl() {
-  const raw = process.env.SITE_URL || (process.env.VERCEL_PROJECT_PRODUCTION_URL ? `https://${process.env.VERCEL_PROJECT_PRODUCTION_URL}` : "");
+  const raw = process.env.SITE_URL || DEFAULT_SITE_URL;
   return raw.replace(/\/+$/, "");
 }
 
