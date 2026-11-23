@@ -1,0 +1,28 @@
+{
+  "name": "applied-ai-guide",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Participant guide website for Applied AI for Automation and Decision Support (Bacolod, November 24 to 26, 2026).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "lucide-react": "1.18.0",
+    "react": "19.2.7",
+    "react-dom": "19.2.7",
+    "react-router-dom": "7.17.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "10.0.1",
+    "@vitejs/plugin-react": "6.0.2",
+    "eslint": "10.5.0",
+    "eslint-plugin-react-hooks": "7.1.1",
+    "eslint-plugin-react-refresh": "0.5.3",
+    "globals": "17.6.0",
+    "vite": "8.0.16"
+  }
+}
