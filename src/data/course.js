@@ -236,8 +236,8 @@ export const days = [
         start: "9:00",
         end: "9:15",
         title: "Recap",
-        do: "A quick 5-question quiz on Day 1, and a look at the questions from the exit tickets.",
-        produce: "Recap quiz",
+        do: "The trainer answers your questions from Slido, including any not reached at the end of Day 1, and the questions from the exit tickets. Still unsure about something? Post it in Slido now.",
+        produce: "Your Day 1 questions answered",
       },
       {
         start: "9:15",

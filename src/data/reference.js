@@ -260,8 +260,8 @@ export const assessment = {
   ],
   formative: [
     ["Daily exit tickets", "Three questions: what I learned, what is still unclear, what I will use at work."],
-    ["Morning recap quizzes", "On Days 2 and 3."],
-    ["Lab outputs", "Prompt library, cleaned dataset, automated workflow, dashboard, decision brief."],
+    ["Morning recap", "Day 2 opens with Slido questions; Day 3 with a quick quiz."],
+    ["Lab outputs", "Prompt library, office app, automated workflow, dashboard, decision brief."],
   ],
   evaluation: [
     ["Reaction", "Satisfaction, relevance, trainer effectiveness, venue and logistics", "Training evaluation form", "End of Day 3"],
