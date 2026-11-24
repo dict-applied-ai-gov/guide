@@ -477,6 +477,7 @@ export const n8nStretch = [
 ];
 
 export const n8nCleanup = [
+  "For the Day 2 form: take a screenshot of the workflow and of one draft reply, and download the workflow (⋯ menu → Download). The file does not contain your Gemini key.",
   "Unpublish (deactivate) the Reply drafter workflow.",
   "Delete the test executions (Overview → Executions) and any Data table you created.",
   "Delete the Gemini API key at aistudio.google.com → API keys, and the credential in n8n.",

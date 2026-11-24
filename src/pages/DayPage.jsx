@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import { dataRule } from "@/data/course";
-import { PageHead, Section, Note } from "@/components/ui";
+import { PageHead, Section, Note, DefinitionRows } from "@/components/ui";
 import { SessionList } from "@/components/content";
 import { Page, TrackedWorksheet } from "@/components/tracked";
 import { formatClock } from "@/lib/time";
@@ -51,6 +51,24 @@ export function DayPage({ day }) {
               </li>
             ))}
           </ul>
+        </Section>
+      )}
+
+      {day.submission && (
+        <Section id="submit" title={`Submit your Day ${day.number} outputs`} intro="One Google Form, four things, before you leave. Collect them during the day.">
+          <div className="submit-box">
+            <div>
+              <DefinitionRows rows={day.submission.items} />
+              <p className="submit-box__link">
+                <a className="btn btn--primary" href={day.submission.url} target="_blank" rel="noreferrer">
+                  Open the Day {day.number} form
+                </a>{" "}
+                <span className="muted">{day.submission.url.replace("https://", "")}</span>
+              </p>
+              <p className="muted">{day.submission.note}</p>
+            </div>
+            <img className="submit-box__qr" src={day.submission.qr} width="200" height="200" alt={`QR code for the Day ${day.number} form`} />
+          </div>
         </Section>
       )}
 

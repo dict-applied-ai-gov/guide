@@ -46,6 +46,7 @@ export const phoneSteps = [
       "Go back to **Settings** and open **Developer options**. On many phones it is under **System**.",
       "Switch on **USB debugging** and confirm.",
     ],
+    note: "Heads-up: banking and e-wallet apps may refuse to open while USB debugging is on. You switch it off again at cleanup, and they work again.",
   },
   {
     title: "Get a cable that carries data",
@@ -78,7 +79,7 @@ export const stitchSteps = [
       "Use Stitch’s download or export option if you see one.",
       "Or take a screenshot of the screens. Windows: press **Windows + Shift + S**. Mac: press **Command + Shift + 4**.",
     ],
-    note: "The picture shows AI Studio how your app should look.",
+    note: "The picture shows AI Studio how your app should look. Keep it: it goes in the Day 2 form.",
   },
 ];
 
@@ -242,7 +243,8 @@ export const appStretch = [
 ];
 
 export const appCleanup = [
+  "For the Day 2 form: keep your Stitch screenshots, and copy your app’s share link from AI Studio.",
   "Uninstall the test app from your phone: press and hold its icon, then tap Uninstall.",
-  "Turn off USB debugging: Settings → Developer options → USB debugging.",
-  "Keep the app private in AI Studio: do not share its link. Delete it if you will not use it again.",
+  "Turn off USB debugging (Settings → Developer options → USB debugging), so your banking and e-wallet apps work again.",
+  "Keep the app in AI Studio until you have submitted the Day 2 form. Share its link only in the form, and delete the app afterwards if you will not use it again.",
 ];

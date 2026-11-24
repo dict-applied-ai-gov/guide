@@ -120,10 +120,10 @@ export const thinkAbout = [
 ];
 
 export const datasets = [
-  { name: "Synthetic memo and request texts", detail: "Memos, circulars, request letters, meeting notes", used: "Day 1 prompting, Day 2 documents" },
-  { name: "Synthetic NBI clearance applications log", detail: "Fake names, dates, fees, and status", used: "Day 2 automation, Day 3 dashboard, capstone" },
-  { name: "Synthetic premium and loan reconciliation sheet", detail: "With planted mismatches", used: "Day 2 reconciliation exercise, capstone" },
-  { name: "Synthetic supplies and property inventory", detail: "The messy version", used: "Day 2 data cleaning, capstone" },
+  { name: "Synthetic memo and request texts", detail: "Memos, circulars, request letters, meeting notes", used: "Day 1 prompting, Day 2 extra practice" },
+  { name: "Synthetic NBI clearance applications log", detail: "Fake names, dates, fees, and status", used: "Day 3 dashboard, capstone (Day 2 extra practice)" },
+  { name: "Synthetic premium and loan reconciliation sheet", detail: "With planted mismatches", used: "Day 2 advanced track, capstone" },
+  { name: "Synthetic supplies and property inventory", detail: "The messy version", used: "Day 2 extra practice, capstone" },
   { name: "Synthetic FAQ document and client feedback survey", detail: "For an office service", used: "Day 2 office app and n8n lab, Day 3 analysis" },
   { name: "Certificate attendee list", detail: "Your own name and email only", used: "Day 2 certificate activity" },
 ];

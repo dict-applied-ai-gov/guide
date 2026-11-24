@@ -21,7 +21,7 @@ export function OfficeApp() {
     <Page to="/office-app">
       <PageHead
         title="Hands-on: build an office assistant app"
-        lead="Day 2, 9:15 to 10:15. Sketch the screens with Google Stitch, build the app with Google AI Studio, and test it on your own phone. No coding."
+        lead="Day 2, 9:15 to 10:15, Exercise 1 in your workbook. Sketch the screens with Google Stitch, build the app with Google AI Studio, and test it on your own phone. No coding."
       />
 
       <Section id="pattern" title="Sketch, build, test">

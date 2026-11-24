@@ -24,7 +24,7 @@ export function N8n() {
     <Page to="/n8n">
       <PageHead
         title="Hands-on: build a simple app with n8n"
-        lead="Day 2, 2:35 to 4:15. Set up n8n, then build a Reply drafter: a web form where staff paste a citizen’s message and get a labelled draft reply, written only from the office FAQ."
+        lead="Day 2, 2:35 to 4:15, Exercise 5 in your workbook. Set up n8n, then build a Reply drafter: a web form where staff paste a citizen’s message and get a labelled draft reply, written only from the office FAQ."
       />
 
       <Section id="pattern" title="Trigger, action, output, without code">

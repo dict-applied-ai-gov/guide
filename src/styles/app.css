@@ -372,6 +372,10 @@ img, svg { display: block; max-width: 100%; }
 .steps__actions li::marker { color: var(--muted-fg); font-family: var(--font-mono); font-size: 0.9em; }
 .steps__note { margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--border); font-size: 14px; }
 .steps p.steps__note { color: var(--muted-fg); }
+.submit-box { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 24px; align-items: start; }
+.submit-box__link { margin-top: 16px; display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+.submit-box .muted { color: var(--muted-fg); font-size: 14px; }
+.submit-box__qr { border: 1px solid var(--border); border-radius: var(--radius); background: #fff; padding: 8px; }
 .fix-list { display: grid; gap: 6px; margin: 0; padding-left: 1.1em; }
 .fix-list strong { color: var(--fg); font-weight: 600; }
 .protocol__check { margin-top: 8px; font-size: 14px; }
@@ -693,6 +697,8 @@ legend { padding: 0; }
   .page-nav__link--next { grid-column: 1; }
   .tabs { display: flex; }
   .tabs__tab { flex: 1 1 0; padding-inline: 10px; }
+  .submit-box { grid-template-columns: minmax(0, 1fr); }
+  .submit-box__qr { justify-self: start; }
   .steps > li, .protocol li, .tasks li { padding: 14px 16px 14px 56px; }
   .steps > li::before, .protocol li::before, .tasks li::before { left: 16px; }
 }

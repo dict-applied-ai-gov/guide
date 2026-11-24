@@ -17,7 +17,7 @@ export function Certificates() {
     <Page to="/certificates">
       <PageHead
         title="Hands-on: automated certificates"
-        lead="Day 2, 10:45 to 12:00. Submit a Google Form, and your own PDF certificate lands in your inbox a minute later."
+        lead="Day 2, 10:45 to 12:00, Exercise 2 in your workbook. Submit a Google Form, and your own PDF certificate lands in your inbox a minute later."
       />
 
       <Section id="pattern" title="Trigger, action, output">

@@ -300,7 +300,7 @@ export const mcpDemo = [
   "The trainer connects two apps to an AI app, using a demo account: Google Drive (read only, so the AI can look but not change anything) and Canva.",
   "The trainer asks: “Open the ‘Training Attendance (sample)’ Sheet in my Drive, count participants per office, and write a 3-sentence summary.”",
   "Next: “Create a Canva poster announcing the results, using the summary, in our office colors.”",
-  "Next: “Draft (do not send) a Gmail message to the training coordinator with the summary and the poster link.” Watch for the moment the AI stops and asks for approval. Exercise 6 in your workbook asks at which step it happened.",
+  "Next: “Draft (do not send) a Gmail message to the training coordinator with the summary and the poster link.” Watch for the moment the AI stops and asks for approval. Exercise 3 in your workbook asks at which step it happened.",
   "Last, the trainer shows the permission screen for the connection, and how to disconnect the app afterwards.",
 ];
 
