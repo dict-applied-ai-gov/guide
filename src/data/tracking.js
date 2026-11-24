@@ -5,6 +5,7 @@ import { outputChecklist, responsibleChecklist, biasChecklist } from "./referenc
 import { mcpSafety, skillSafety } from "./modules";
 import { certificateCleanup } from "./certificates";
 import { n8nChecks, n8nCleanup } from "./n8n";
+import { appChecks, appCleanup } from "./officeApp";
 
 const PRIVACY = ["Public (green)", "Internal (yellow)", "Restricted (red)"];
 
@@ -27,6 +28,8 @@ export const checklists = [
   { id: "mcp-safety", title: "MCP safety checklist", items: mcpSafety, to: "/mcp#safety" },
   { id: "skill-safety", title: "Skill safety", items: skillSafety, to: "/skills#safety" },
   { id: "cert-cleanup", title: "Certificate cleanup", note: "Never skipped.", items: certificateCleanup, to: "/certificates#cleanup" },
+  { id: "app-checks", title: "Office app checks", items: appChecks, to: "/office-app#fix" },
+  { id: "app-cleanup", title: "Office app cleanup", note: "Never skipped.", items: appCleanup, to: "/office-app#cleanup" },
   { id: "n8n-checks", title: "Reply drafter checks", items: n8nChecks, to: "/n8n#samples" },
   { id: "n8n-cleanup", title: "n8n cleanup", note: "Never skipped.", items: n8nCleanup, to: "/n8n#cleanup" },
   {

@@ -7,7 +7,7 @@ export function Skills() {
     <Page to="/skills">
       <PageHead
         title="Using agent skills"
-        lead="Module G, the Day 1 demo and the Day 2 skills lab. A skill is a how-to an agent loads when a task matches: write the instructions once, reuse them every time."
+        lead="Module G, the Day 1 demo, and optional practice for the advanced track. A skill is a how-to an agent loads when a task matches: write the instructions once, reuse them every time."
       />
 
       <Section id="what" title="What a skill is">
@@ -22,7 +22,7 @@ export function Skills() {
         <DefinitionRows rows={skillSupport} />
       </Section>
 
-      <Section id="write" title="Write your own" intro="Everyone does this in the Day 2 skills lab. No agent is needed for the guided version.">
+      <Section id="write" title="Write your own" intro="Optional, for the advanced track or after the training. No agent is needed for the guided version.">
         <Steps items={skillSteps} />
       </Section>
 

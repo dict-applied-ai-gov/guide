@@ -39,6 +39,24 @@ export const prepChecklist = [
     ],
   },
   {
+    id: "prep-phone",
+    title: "For the office app lab (Day 2)",
+    note: "No Android phone? You can still build the app and test it in your browser, and pair with a seatmate for the phone step.",
+    items: [
+      "An Android phone and a USB cable that carries data (the one that came with the phone is best).",
+      "Developer options and USB debugging turned on: Settings → About phone → tap Build number seven times, then Settings → Developer options → USB debugging. Steps are on the office app page.",
+    ],
+  },
+  {
+    id: "prep-n8n",
+    title: "For the n8n lab (Day 2)",
+    note: "Do this at home: n8n is a large download. On a Chromebook, or a laptop where you cannot install software, skip it and use the n8n Cloud trial on the day.",
+    items: [
+      "Node.js 24 installed from nodejs.org/en/download. Pick v24 in the version list, not 26: n8n does not install on 26 yet.",
+      "n8n downloaded once: open Command Prompt (Windows) or Terminal (Mac), type npx n8n, and press Enter. Type y if asked. When it says http://localhost:5678, press Ctrl+C to stop it. It needs about 3 GB of free space.",
+    ],
+  },
+  {
     id: "prep-skills",
     title: "Skills you should be comfortable with",
     items: [
@@ -66,7 +84,7 @@ export const advancedChecklist = {
   items: [
     "A Windows or Mac laptop with at least 16 GB RAM, to try local AI models. Chromebooks can’t run the local AI tools easily.",
     "Ollama (ollama.com) or LM Studio (lmstudio.ai), with one small (3 to 8B) model already downloaded.",
-    "Node.js 24 (nodejs.org/en/download, pick v24 in the version list) and Git (git-scm.com), needed for command-line coding agents and for running n8n on your laptop. Not the newer Node.js 26 that is now labelled LTS: n8n does not install on it yet.",
+    "Git (git-scm.com), needed for command-line coding agents. They also need Node.js 24, from the n8n list above.",
     "VS Code or Google Antigravity (antigravity.google).",
     "A command-line coding agent: opencode (opencode.ai), Codex CLI (with a ChatGPT account), or Antigravity CLI.",
     "clasp, Google’s command-line tool for Apps Script (for the certificate activity’s agent track).",
@@ -106,6 +124,6 @@ export const datasets = [
   { name: "Synthetic NBI clearance applications log", detail: "Fake names, dates, fees, and status", used: "Day 2 automation, Day 3 dashboard, capstone" },
   { name: "Synthetic premium and loan reconciliation sheet", detail: "With planted mismatches", used: "Day 2 reconciliation exercise, capstone" },
   { name: "Synthetic supplies and property inventory", detail: "The messy version", used: "Day 2 data cleaning, capstone" },
-  { name: "Synthetic FAQ document and client feedback survey", detail: "For an office service", used: "Day 2 FAQ assistant, Day 3 analysis" },
+  { name: "Synthetic FAQ document and client feedback survey", detail: "For an office service", used: "Day 2 office app and n8n lab, Day 3 analysis" },
   { name: "Certificate attendee list", detail: "Your own name and email only", used: "Day 2 certificate activity" },
 ];

@@ -35,6 +35,7 @@ export const navGroups = [
     label: "Hands-on",
     items: [
       { to: "/prompting", label: "Prompting and checking", desc: "R-T-C-F-C prompt builder, prompt library, output checklist" },
+      { to: "/office-app", label: "Build an office app", desc: "Stitch + AI Studio, then test it on your phone" },
       { to: "/certificates", label: "Automated certificates", desc: "Forms, Sheets, Slides, Apps Script, Gmail" },
       { to: "/n8n", label: "Build an app with n8n", desc: "Set up n8n, then a form + AI Reply drafter" },
       { to: "/decision-support", label: "Decision support", desc: "Data analysis, dashboard, decision brief, bias check" },

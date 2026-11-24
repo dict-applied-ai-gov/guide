@@ -24,7 +24,7 @@ export function N8n() {
     <Page to="/n8n">
       <PageHead
         title="Hands-on: build a simple app with n8n"
-        lead="Day 2, 2:35 to 3:35. Set up n8n, then build a Reply drafter: a web form where staff paste a citizen’s message and get a labelled draft reply, written only from the office FAQ."
+        lead="Day 2, 2:35 to 4:15. Set up n8n, then build a Reply drafter: a web form where staff paste a citizen’s message and get a labelled draft reply, written only from the office FAQ."
       />
 
       <Section id="pattern" title="Trigger, action, output, without code">
@@ -77,11 +77,16 @@ export function N8n() {
         </TableWrap>
       </Section>
 
-      <Section id="setup" title="Part 1: Set up n8n" intro="Choose one path. Path A is the default for everyone.">
+      <Section id="setup" title="Part 1: Set up n8n" intro="Everyone starts with Path A, on your own laptop. Path B, n8n Cloud, is optional: use it only if Path A does not work for you.">
         {n8nPaths.map((path) => (
           <div key={path.id} id={`setup-${path.id}`}>
             <h3 className="subhead">{path.title}</h3>
             <p>{path.when}</p>
+            {path.tip && (
+              <Note title="Do this early" tone="accent">
+                <p>{path.tip}</p>
+              </Note>
+            )}
             <Steps items={path.steps} />
             {path.commands?.map((c) => (
               <CopyBlock key={c.caption} caption={c.caption} text={c.text} lang="shell" />

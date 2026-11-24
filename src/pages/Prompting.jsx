@@ -9,7 +9,7 @@ export function Prompting() {
     <Page to="/prompting">
       <PageHead
         title="Prompting and checking"
-        lead="Day 1, 1:25 to 2:30, and the Day 2 document lab. Five parts make a prompt that works the first time, and a checklist catches what it gets wrong."
+        lead="Day 1, 1:25 to 2:30. Five parts make a prompt that works the first time, and a checklist catches what it gets wrong."
       />
 
       <Section id="rtcfc" title="R-T-C-F-C">

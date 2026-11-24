@@ -105,7 +105,7 @@ export function QuickReference() {
               </div>
             ))}
           </dl>
-          <p className="qref__hours">Day 1, 9:00 AM to 5:00 PM; Days 2 and 3, 8:00 AM to 5:00 PM. Lunch 12:00 to 1:00; breaks are on each day’s schedule.</p>
+          <p className="qref__hours">Days 1 and 2, 9:00 AM to 5:00 PM; Day 3, 8:00 AM to 5:00 PM. Lunch 12:00 to 1:00; breaks are on each day’s schedule.</p>
         </section>
       </div>
     </Page>

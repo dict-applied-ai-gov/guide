@@ -47,7 +47,7 @@ function seo() {
         name: course.title,
         description:
           "Three hands-on days on using AI safely, responsibly, and productively in government work: prompting, office automation with free tools, agents and MCP, local AI, and AI-assisted decision support.",
-        startDate: `${course.start}T08:00:00+08:00`,
+        startDate: `${course.start}T09:00:00+08:00`,
         endDate: `${course.end}T17:00:00+08:00`,
         eventStatus: "https://schema.org/EventScheduled",
         eventAttendanceMode: "https://schema.org/OfflineEventAttendanceMode",

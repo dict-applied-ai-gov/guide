@@ -8,17 +8,17 @@
 
 export const n8nObjectives = [
   "Explain what a workflow tool like n8n does, using the same trigger, action, output pattern as the certificate lab.",
-  "Set up n8n, either in the cloud with a free trial or on your own laptop, and connect it to an AI model.",
+  "Install n8n on your own laptop (or, if that is not possible, use the free cloud trial) and connect it to an AI model.",
   "Build a small working app: a web form that sends a message to AI and shows the answer on a results page.",
   "Keep a person in charge: the app drafts, a staff member checks and sends.",
   "Switch the app off and clean up keys and test data when you are done.",
 ];
 
 export const n8nTiming = [
-  ["Part 1", "What n8n is, and open your n8n (cloud or laptop)", "10 min"],
-  ["Part 2", "Connect an AI model (Gemini API key, or LM Studio on your laptop)", "10 min"],
-  ["Part 3", "Build the Reply drafter: form, AI step, results page", "25 min"],
-  ["Part 4", "Test with the sample messages, then clean up", "15 min"],
+  ["Part 1", "What n8n is, and start n8n on your laptop (cloud trial if needed)", "25 min"],
+  ["Part 2", "Connect an AI model (Gemini API key, or LM Studio on your laptop)", "15 min"],
+  ["Part 3", "Build the Reply drafter: form, AI step, results page", "40 min"],
+  ["Part 4", "Test with the sample messages, then clean up", "20 min"],
 ];
 
 export const n8nWords = [
@@ -29,51 +29,25 @@ export const n8nWords = [
   ["Credential", "The place where n8n keeps a key safe so its nodes can use it."],
   ["Expression", "A field that fills itself in from an earlier step. The parts inside {{ }} are replaced with real values, such as what someone typed into the form."],
   ["Execute, Publish", "Execute workflow runs a test right now, for you only. Publish switches the form on for anyone with the link, until you unpublish it."],
-  ["Terminal (Path B only)", "A window where you type commands instead of clicking. On Windows it is called PowerShell; on Mac, Terminal."],
+  ["Terminal", "A window where you type commands instead of clicking. On Windows, use Command Prompt; on Mac, Terminal. You only need it to start n8n."],
 ];
 
 export const n8nPaths = [
   {
-    id: "cloud",
-    title: "Path A: n8n Cloud (default)",
-    when: "Use this unless the trainer tells you otherwise. Nothing to install, works on any laptop or Chromebook.",
-    steps: [
-      {
-        title: "Sign up",
-        actions: [
-          "Go to `n8n.io` and choose **Get started**.",
-          "Sign up with the Google account you use for the training.",
-        ],
-        note: "The free trial lasts 14 days.",
-      },
-      {
-        title: "Set up your workspace",
-        actions: [
-          "Answer the short welcome questions. Any answers are fine.",
-          "Name your workspace and wait for it to open.",
-        ],
-        note: "You land on the **Overview** page.",
-      },
-      {
-        title: "Bookmark it",
-        text: "Bookmark the address. It looks like `yourname.app.n8n.cloud`.",
-      },
-    ],
-  },
-  {
     id: "laptop",
-    title: "Path B: on your own laptop (advanced track)",
-    when: "For laptops where you can install software. Your workflows and the data in them stay on your laptop, and n8n can use the AI model in LM Studio with Wi-Fi off.",
+    title: "Path A: on your own laptop (everyone starts here)",
+    when: "n8n runs on your own laptop, so your workflows and the data in them stay with you, and it is free to keep using. You need a Windows or Mac laptop where you can install software.",
+    tip: "Do steps 1 and 3 before the session if you can, at lunch or the break. n8n is a large download (about 3 GB once installed), and everyone shares the venue Wi-Fi.",
     steps: [
       {
         title: "Install Node.js 24",
         actions: [
           "Go to `nodejs.org/en/download`.",
-          "Pick **v24** in the version list, not 26, and install it.",
-          "Close and reopen your terminal.",
-          "Run `node --version`. It should start with `v24`.",
+          "Pick **v24** in the version list, not 26.",
+          "Download the installer for your laptop (Windows: the .msi file; Mac: the .pkg file).",
+          "Run it and click **Next** or **Continue** until it finishes. Keep the default options.",
         ],
-        note: "n8n 2.49 does not install on Node.js 26, which is now the default download and the one labelled LTS.",
+        note: "Node.js is the free program n8n runs on. n8n 2.49 does not install on Node.js 26, which is now the default download and the one labelled LTS.",
       },
       {
         title: "Only if you use nvm",
@@ -87,8 +61,10 @@ export const n8nPaths = [
       {
         title: "Start n8n",
         actions: [
-          "Open a terminal (Windows: **PowerShell**; Mac: **Terminal**), or keep the one where you ran `nvm use 24`.",
-          "Run `npx n8n`. It is also in the box below, with a Copy button.",
+          "Open a terminal. Windows: open the Start menu, type `cmd`, and open **Command Prompt**. Mac: press Command and Space, type `Terminal`, and press Return. (If you ran `nvm use 24`, keep that window.)",
+          "Check the version: type `node --version` and press Enter. It should start with `v24`.",
+          "Type `npx n8n` and press Enter. It is also in the box below, with a Copy button.",
+          "If it asks `Ok to proceed? (y)`, type `y` and press Enter.",
           "Wait until the terminal says the editor is accessible at `http://localhost:5678`.",
         ],
         note: "The first run downloads n8n, which takes a few minutes. `localhost` means your own laptop, so this address works only on the laptop running n8n.",
@@ -105,7 +81,7 @@ export const n8nPaths = [
         title: "Keep it running",
         actions: [
           "Keep the terminal open while you work. Closing it stops n8n.",
-          "Tomorrow, run `npx n8n` again to continue where you left off (after `nvm use 24` if you use nvm).",
+          "Tomorrow, open the terminal and run `npx n8n` again to continue where you left off (after `nvm use 24` if you use nvm).",
         ],
       },
     ],
@@ -113,15 +89,15 @@ export const n8nPaths = [
   },
   {
     id: "docker",
-    title: "Path B with Docker (if you already use Docker)",
-    when: "Same as Path B, but n8n runs in a container. Docker does not need Node.js, so skip the Node.js 24 steps.",
+    title: "Path A with Docker (only if you already use Docker)",
+    when: "Same as Path A, but n8n runs in a container. Docker does not need Node.js, so skip the Node.js 24 steps.",
     steps: [
       {
         title: "Start n8n",
         actions: [
           "Run the two commands below for your system, one after the other.",
           "Wait until the terminal says the editor is accessible at `http://localhost:5678`.",
-          "Open it in Chrome and create the owner account, as in Path B.",
+          "Open it in Chrome and create the owner account, as in Path A.",
         ],
       },
       {
@@ -142,6 +118,33 @@ export const n8nPaths = [
       {
         caption: "Linux",
         text: "docker volume create n8n_data\ndocker run -it --rm --name n8n -p 5678:5678 --add-host=host.docker.internal:host-gateway -v n8n_data:/home/node/.n8n docker.n8n.io/n8nio/n8n",
+      },
+    ],
+  },
+  {
+    id: "cloud",
+    title: "Path B: n8n Cloud (optional)",
+    when: "Use this only if Path A does not work for you: a Chromebook, a laptop where you cannot install software, or an install that fails. Nothing to install. n8n Cloud cannot reach LM Studio on your laptop, so use Gemini in Part 2.",
+    steps: [
+      {
+        title: "Sign up",
+        actions: [
+          "Go to `n8n.io` and choose **Get started**.",
+          "Sign up with the Google account you use for the training.",
+        ],
+        note: "The free trial lasts 14 days.",
+      },
+      {
+        title: "Set up your workspace",
+        actions: [
+          "Answer the short welcome questions. Any answers are fine.",
+          "Name your workspace and wait for it to open.",
+        ],
+        note: "You land on the **Overview** page.",
+      },
+      {
+        title: "Bookmark it",
+        text: "Bookmark the address. It looks like `yourname.app.n8n.cloud`.",
       },
     ],
   },
@@ -190,7 +193,7 @@ export const n8nModels = [
   },
   {
     id: "lmstudio",
-    title: "Option 2: LM Studio on your laptop (Path B only)",
+    title: "Option 2: LM Studio on your laptop (Path A only)",
     steps: [
       {
         title: "Start the LM Studio server",
@@ -408,7 +411,15 @@ export const n8nErrors = [
     fix: [
       "In LM Studio’s **Developer** tab, load a model and start the server.",
       "Check that the **Base URL** ends in `/v1`.",
-      "On n8n Cloud? It cannot reach your laptop. Use Path B, or switch to Gemini.",
+      "On n8n Cloud? It cannot reach your laptop. Use Path A, or switch to Gemini.",
+    ],
+  },
+  {
+    problem: "Windows: npx cannot be loaded because running scripts is disabled on this system",
+    fix: [
+      "You are in PowerShell, which blocks this by default. Close it.",
+      "Open **Command Prompt** instead (Start menu, type `cmd`) and run `npx n8n` there.",
+      "Or, in PowerShell, type `npx.cmd n8n` instead.",
     ],
   },
   {
@@ -431,7 +442,7 @@ export const n8nErrors = [
 
 export const n8nGoodToKnow = [
   "n8n has 400+ ready-made connections (Google Sheets, Gmail, Slack, Telegram, databases). Each one asks you to sign in, the same permission step as the certificate lab. Read what you approve.",
-  "The free Cloud trial ends after 14 days. The laptop version (Path B) is free to keep using under n8n’s Sustainable Use License, including inside your office for internal work.",
+  "The free Cloud trial ends after 14 days. The laptop version (Path A) is free to keep using under n8n’s Sustainable Use License, including inside your office for internal work.",
   "A published form is public to anyone with the link. Before an office uses one with real citizens, the head of office and the data protection officer must clear it, and it should run on an office-approved n8n, not a personal account.",
   "Every run is saved under Executions with the full input and output, including what people typed. Delete test executions when you are done.",
 ];
@@ -469,7 +480,7 @@ export const n8nCleanup = [
   "Unpublish (deactivate) the Reply drafter workflow.",
   "Delete the test executions (Overview → Executions) and any Data table you created.",
   "Delete the Gemini API key at aistudio.google.com → API keys, and the credential in n8n.",
-  "Path A: cancel or let the trial end; nothing is charged. Path B: stop n8n with Ctrl+C in the terminal.",
+  "Path A: stop n8n with Ctrl+C in the terminal. Path B (Cloud): cancel or let the trial end; nothing is charged.",
 ];
 
 export const n8nWorkflowFile = "10-n8n-reply-drafter.json";
