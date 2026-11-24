@@ -267,17 +267,36 @@ export function DefinitionRows({ rows, className = "" }) {
   );
 }
 
+// Light inline marks for step text: **Button or field name** and `text to type or pick exactly`.
+export function Marked({ text }) {
+  return text.split(/(\*\*[^*]+\*\*|`[^`]+`)/g).map((part, i) => {
+    if (part.length > 4 && part.startsWith("**") && part.endsWith("**")) return <strong key={i}>{part.slice(2, -2)}</strong>;
+    if (part.length > 2 && part.startsWith("`") && part.endsWith("`")) return <code key={i} className="typed">{part.slice(1, -1)}</code>;
+    return part;
+  });
+}
+
+// A step is a string, or { title, text?, actions?, note? }: actions become a lettered
+// sub-list, one click or entry per line; note is the short "why" shown after them.
 export function Steps({ items, start = 1 }) {
   return (
     <ol className="steps" start={start}>
       {items.map((s, i) => (
         <li key={i}>
           {typeof s === "string" ? (
-            <p>{s}</p>
+            <p><Marked text={s} /></p>
           ) : (
             <>
               <h3>{s.title}</h3>
-              <p>{s.text}</p>
+              {s.text && <p><Marked text={s.text} /></p>}
+              {s.actions && (
+                <ol className="steps__actions">
+                  {s.actions.map((a) => (
+                    <li key={a}><Marked text={a} /></li>
+                  ))}
+                </ol>
+              )}
+              {s.note && <p className="steps__note"><Marked text={s.note} /></p>}
             </>
           )}
         </li>

@@ -352,16 +352,28 @@ img, svg { display: block; max-width: 100%; }
 .def-rows--lights .def-rows__row:nth-child(3) dt::before { background: var(--light-red-bg); }
 
 .steps, .protocol, .tasks { list-style: none; padding: 0; display: grid; gap: 10px; counter-reset: step; }
-.steps li, .protocol li, .tasks li {
+.steps > li, .protocol li, .tasks li {
   position: relative; counter-increment: step; padding: 16px 20px 16px 64px;
   border: 1px solid var(--border); border-radius: var(--radius-lg); background: var(--card);
 }
-.steps li::before, .protocol li::before, .tasks li::before {
+.steps > li::before, .protocol li::before, .tasks li::before {
   content: counter(step); position: absolute; left: 20px; top: 15px; display: grid; place-items: center; width: 28px; height: 28px;
   border-radius: 50%; background: var(--primary); color: var(--primary-fg); font-family: var(--font-mono); font-size: 13px; font-weight: 600;
 }
 .steps h3, .protocol h3, .tasks h3 { margin-bottom: 4px; }
 .steps p, .protocol p, .tasks p { color: var(--fg-2); max-width: 68ch; }
+.steps strong { color: var(--fg); font-weight: 600; }
+.typed {
+  padding: 1px 6px; border: 1px solid var(--border); border-radius: var(--radius-sm);
+  background: var(--muted); color: var(--fg); font-size: 0.86em; overflow-wrap: anywhere;
+}
+.steps__actions { display: grid; gap: 6px; margin: 8px 0 0; padding-left: 1.5em; max-width: 68ch; color: var(--fg-2); list-style: lower-alpha; }
+.steps__actions li { padding-left: 4px; }
+.steps__actions li::marker { color: var(--muted-fg); font-family: var(--font-mono); font-size: 0.9em; }
+.steps__note { margin-top: 10px; padding-top: 10px; border-top: 1px dashed var(--border); font-size: 14px; }
+.steps p.steps__note { color: var(--muted-fg); }
+.fix-list { display: grid; gap: 6px; margin: 0; padding-left: 1.1em; }
+.fix-list strong { color: var(--fg); font-weight: 600; }
 .protocol__check { margin-top: 8px; font-size: 14px; }
 
 .sheets { display: grid; gap: 16px; }
@@ -681,8 +693,8 @@ legend { padding: 0; }
   .page-nav__link--next { grid-column: 1; }
   .tabs { display: flex; }
   .tabs__tab { flex: 1 1 0; padding-inline: 10px; }
-  .steps li, .protocol li, .tasks li { padding: 14px 16px 14px 56px; }
-  .steps li::before, .protocol li::before, .tasks li::before { left: 16px; }
+  .steps > li, .protocol li, .tasks li { padding: 14px 16px 14px 56px; }
+  .steps > li::before, .protocol li::before, .tasks li::before { left: 16px; }
 }
 
 /* ---------- Print ---------- */

@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
-import { agentTools, agentTalkingPoints, pricesNote } from "@/data/modules";
-import { PageHead, Section, DefinitionRows } from "@/components/ui";
+import { agentTools, agentTalkingPoints, pricesNote, faqAssistantSteps } from "@/data/modules";
+import { PageHead, Section, DefinitionRows, Steps } from "@/components/ui";
 import { AgentFit } from "@/components/content";
 import { Page } from "@/components/tracked";
 
@@ -9,7 +9,7 @@ export function Agents() {
     <Page to="/agents">
       <PageHead
         title="Agent tools"
-        lead="Module C, Day 1, 3:15 to 4:00, and Day 2, 2:35 to 4:15. A chatbot gives you text; an agent takes actions. Here is what each one does, and what it costs you in risk."
+        lead="Module C, Day 1, 2:45 to 3:30, and Day 2, 3:35 to 4:15. A chatbot gives you text; an agent takes actions. Here is what each one does, and what it costs you in risk."
       />
 
       <Section id="basics" title="Before you pick one">
@@ -47,11 +47,11 @@ export function Agents() {
         <AgentFit />
       </Section>
 
-      <Section id="day-2" title="On Day 2">
+      <Section id="day-2" title="Day 2 lab: build a FAQ assistant" intro="Everyone, Day 2, 3:35 to 4:15. Exercise 8 in the workbook. No coding.">
+        <Steps items={faqAssistantSteps} />
         <p>
-          Track 1 builds a FAQ assistant in NotebookLM or a Gemini Gem from the sample FAQ document, then red-teams it for 5 minutes: try to make it
-          answer outside the document, reveal its instructions, or make something up. Track 2 builds with a coding agent in a sandbox folder.
-          Everyone then writes a simple skill in the <Link to="/skills">skills lab</Link>.
+          Advanced track: build with a coding agent in a sandbox folder (a test folder with nothing important in it), then write a simple skill in
+          the <Link to="/skills">skills lab</Link>.
         </p>
       </Section>
     </Page>

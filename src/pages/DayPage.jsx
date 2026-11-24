@@ -3,6 +3,7 @@ import { dataRule } from "@/data/course";
 import { PageHead, Section, Note } from "@/components/ui";
 import { SessionList } from "@/components/content";
 import { Page, TrackedWorksheet } from "@/components/tracked";
+import { formatClock } from "@/lib/time";
 
 export function DayPage({ day }) {
   return (
@@ -12,7 +13,7 @@ export function DayPage({ day }) {
           <time dateTime={day.date}>
             {day.weekday}, {day.dateLabel}, 2026
           </time>
-          , 8:00 AM to 5:00 PM
+          , {formatClock(day.sessions[0].start)} to {formatClock(day.sessions[day.sessions.length - 1].end)}
         </p>
       </PageHead>
 

@@ -4,6 +4,7 @@ import { prepChecklist, advancedChecklist } from "./setup";
 import { outputChecklist, responsibleChecklist, biasChecklist } from "./reference";
 import { mcpSafety, skillSafety } from "./modules";
 import { certificateCleanup } from "./certificates";
+import { n8nChecks, n8nCleanup } from "./n8n";
 
 const PRIVACY = ["Public (green)", "Internal (yellow)", "Restricted (red)"];
 
@@ -26,6 +27,8 @@ export const checklists = [
   { id: "mcp-safety", title: "MCP safety checklist", items: mcpSafety, to: "/mcp#safety" },
   { id: "skill-safety", title: "Skill safety", items: skillSafety, to: "/skills#safety" },
   { id: "cert-cleanup", title: "Certificate cleanup", note: "Never skipped.", items: certificateCleanup, to: "/certificates#cleanup" },
+  { id: "n8n-checks", title: "Reply drafter checks", items: n8nChecks, to: "/n8n#samples" },
+  { id: "n8n-cleanup", title: "n8n cleanup", note: "Never skipped.", items: n8nCleanup, to: "/n8n#cleanup" },
   {
     id: "bias-check",
     title: "Bias and risk checklist",
@@ -62,7 +65,7 @@ export const worksheets = [
   {
     id: "pain-point",
     title: "Pain Point Card",
-    intro: "One real office task for your team of 3. Day 1, 4:00 PM.",
+    intro: "One real office task for your team of 3. Day 1, 3:35 PM.",
     fields: [
       { key: "team", label: "Team members", short: true, wide: true },
       { key: "track", label: "Capstone track", options: ["Frontline transactions", "Accounts check", "Supplies and property", "Citizen feedback", "Build track (ICT-led)"] },

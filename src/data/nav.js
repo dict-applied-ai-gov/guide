@@ -36,6 +36,7 @@ export const navGroups = [
     items: [
       { to: "/prompting", label: "Prompting and checking", desc: "R-T-C-F-C prompt builder, prompt library, output checklist" },
       { to: "/certificates", label: "Automated certificates", desc: "Forms, Sheets, Slides, Apps Script, Gmail" },
+      { to: "/n8n", label: "Build an app with n8n", desc: "Set up n8n, then a form + AI Reply drafter" },
       { to: "/decision-support", label: "Decision support", desc: "Data analysis, dashboard, decision brief, bias check" },
       { to: "/capstone", label: "Capstone project", desc: "Pain Point Card, project canvas, rubric" },
     ],

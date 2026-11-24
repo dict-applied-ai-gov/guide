@@ -8,7 +8,7 @@ export function ResponsibleAi() {
     <Page to="/responsible-ai">
       <PageHead
         title="Responsible and ethical AI in government"
-        lead="Day 1, 10:15 to 11:15. AI is an assistant. The officer who approves the work is accountable, not the tool and not the vendor."
+        lead="Day 1, 10:55 to 12:00. AI is an assistant. The officer who approves the work is accountable, not the tool and not the vendor."
       />
 
       <Section id="principles" title="Five principles">

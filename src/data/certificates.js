@@ -13,50 +13,114 @@ export const certificateTiming = [
   ["Step 11", "Troubleshooting, the stretch task, and cleanup", "20 min"],
 ];
 
+export const certificateWords = [
+  ["Apps Script", "Google’s free tool for small programs that work inside Sheets, Forms, Slides, Gmail, and Drive. You paste a ready-made one; you do not write code."],
+  ["Script", "A list of instructions the computer follows. Here, it makes the certificate and emails it."],
+  ["Trigger", "A setting that runs the script by itself when something happens. Here: when someone sends the form."],
+  ["Placeholder", "A marker such as {{Name}} on the certificate. The script swaps it for the real name."],
+  ["ID", "The long code in a file or folder’s web address. It tells the script exactly which file or folder to use."],
+  ["Permission screen", "Google’s page that asks if the script may use your Drive, Slides, Sheets, and Gmail. Only you can say yes."],
+];
+
 export const certificateSteps = [
   {
     title: "Create the form",
-    text: "Go to forms.google.com and create a blank form named “Certificate Request”. Add a short-answer question titled exactly Full Name (make it required). For the email, either turn on Settings → Responses → Collect email addresses, or add a short-answer question titled exactly Email Address. The titles must match the script exactly.",
+    text: "Using the trainer’s kit? Make your own copy of each file as the trainer shows, then start at step 4.",
+    actions: [
+      "Go to `forms.google.com` and create a blank form named `Certificate Request`.",
+      "Add a **Short answer** question titled `Full Name` and switch on **Required**.",
+      "For the email, do one of these: turn on **Settings** → **Responses** → **Collect email addresses**, or add a **Short answer** question titled `Email Address`.",
+    ],
+    note: "Type the question titles exactly as shown. The script looks for them by name.",
   },
   {
     title: "Link the form to a Sheet",
-    text: "In the form, open the Responses tab and click Link to Sheets → Create a new spreadsheet. This is your response Sheet.",
+    actions: [
+      "In the form, open the **Responses** tab.",
+      "Click **Link to Sheets** → **Create a new spreadsheet**.",
+    ],
+    note: "This Sheet collects every form answer. It is your response Sheet.",
   },
   {
     title: "Make the certificate template",
-    text: "Go to slides.google.com and design a one-slide certificate (a Canva design exported to Slides is fine too). Type these placeholders exactly where the text should go, including the double curly braces: {{Name}}, {{Date}}, {{Training}}.",
+    actions: [
+      "Go to `slides.google.com` and design a one-slide certificate. A Canva design exported to Slides is fine too.",
+      "Where the name should appear, type `{{Name}}`.",
+      "Where the date should appear, type `{{Date}}`.",
+      "Where the training title should appear, type `{{Training}}`.",
+    ],
+    note: "Type each placeholder exactly, with both pairs of curly braces. The script replaces them with the real details.",
   },
   {
     title: "Copy two IDs",
-    text: "From the Slides address bar, copy the template ID: the long code between /d/ and /edit. In Google Drive, create a folder named “Certificates”, open it, and copy the folder ID: the code after /folders/. Paste both into a note.",
+    actions: [
+      "In the Slides address bar, copy the template ID: the long code between `/d/` and `/edit`.",
+      "In Google Drive, create a folder named `Certificates` and open it.",
+      "In the address bar, copy the folder ID: the code after `/folders/`.",
+      "Paste both IDs into a note so you have them ready.",
+    ],
   },
   {
     title: "Get the script",
-    text: "Default: copy the trainer reference script (below, also in the shared training folder). Stretch: paste the ready-to-paste prompt into Gemini, ChatGPT, or Claude and use the script it gives you.",
+    actions: [
+      "Copy the trainer’s ready-made script from “The reference script” section below. It is also in the training folder as `06-certificate-script.txt`.",
+    ],
+    note: "Stretch: paste the prompt from “Stretch: have AI write it” into Gemini, ChatGPT, or Claude, and use the script it gives you instead.",
   },
   {
     title: "Open the script editor",
-    text: "In your response Sheet, click Extensions → Apps Script. Delete the sample code in Code.gs and paste the script.",
+    actions: [
+      "In your response Sheet, click **Extensions** → **Apps Script**.",
+      "Delete the sample code in **Code.gs**.",
+      "Paste the script.",
+    ],
   },
   {
-    title: "Set your IDs",
-    text: "Replace the template ID and folder ID placeholders at the top of the script with your two IDs. Check that the question titles in the script match your form. Click Save. Optional: in Project Settings, set the time zone to (GMT+08:00) Manila so dates are correct.",
+    title: "Put in your IDs",
+    actions: [
+      "At the top of the script, replace the template ID placeholder with your Slides template ID.",
+      "Replace the folder ID placeholder with your folder ID.",
+      "Check that the question titles in the script match your form.",
+      "Click **Save** (the disk icon).",
+    ],
+    note: "Optional: in **Project Settings** (the gear icon), set the time zone to `(GMT+08:00) Manila` so dates come out right.",
   },
   {
-    title: "Add the trigger",
-    text: "Select createTrigger from the function list and click Run. Or click Triggers (the alarm clock icon) → Add Trigger → choose onFormSubmit, event source From spreadsheet, event type On form submit → Save.",
+    title: "Switch on the trigger",
+    actions: [
+      "In the function list at the top, select `createTrigger`.",
+      "Click **Run**.",
+    ],
+    note: "The trigger makes the script run by itself each time someone sends the form. Another way: click **Triggers** (the alarm clock icon) → **Add Trigger**, choose `onFormSubmit`, event source **From spreadsheet**, event type **On form submit**, then **Save**.",
   },
   {
     title: "Approve permissions",
-    text: "Google asks you to review permissions. Choose your account. If you see “Google hasn’t verified this app”, that is expected for your own scripts: click Advanced → Go to (your project name) (unsafe) → Allow. Read the list first: the script asks to manage your Drive files, Slides, spreadsheets, and send email as you. Only approve scripts you understand.",
+    actions: [
+      "Google asks you to review permissions. Choose your account.",
+      "If you see “Google hasn’t verified this app”, click **Advanced** → **Go to (your project name) (unsafe)**.",
+      "Read the list: the script asks to manage your Drive files, Slides, and spreadsheets, and to send email as you.",
+      "Click **Allow**.",
+    ],
+    note: "The “not verified” warning is normal for a script you made yourself. Only approve scripts you understand.",
   },
   {
     title: "Test it",
-    text: "Open the form’s preview (the eye icon), submit your own name and email, and check your inbox for the certificate PDF. Check the Certificates folder and the new Certificate Status column in the Sheet.",
+    actions: [
+      "Open the form’s preview (the eye icon).",
+      "Submit your own name and email.",
+      "Check your inbox for the certificate PDF.",
+      "Check the **Certificates** folder, and the new **Certificate Status** column in the Sheet.",
+    ],
   },
   {
     title: "Fix errors with AI",
-    text: "If nothing arrives, open Executions in Apps Script or read the Certificate Status column. Copy the error message, paste it back to the AI with “Here is the error, please fix the script”, then paste the corrected script, save, and test again. Or ask a setup buddy.",
+    actions: [
+      "If nothing arrives, open **Executions** in Apps Script, or read the **Certificate Status** column in the Sheet.",
+      "Copy the error message.",
+      "Paste it to your AI app with `Here is the error, please fix the script`.",
+      "Paste the corrected script, save, and test again.",
+    ],
+    note: "Stuck? Ask your setup buddy or the trainer. The “When it doesn’t work” table below lists the common errors.",
   },
 ];
 
@@ -189,27 +253,45 @@ function checkEmailQuota() {
 export const certificateErrors = [
   {
     problem: "Authorization is required, or You do not have permission",
-    fix: "Run createTrigger again and complete the approval screen. Make sure you are signed in to the right Google account: several accounts in one browser often cause this, so use one Chrome profile per account.",
+    fix: [
+      "Run `createTrigger` again and finish the permission screen.",
+      "Check you are signed in to the right Google account. Several accounts in one browser often cause this, so use one Chrome profile per account.",
+    ],
   },
   {
     problem: "No item with the given ID could be found, or Unexpected error while getting the method",
-    fix: "Wrong IDs. Check that the template ID came from the Slides file (not the folder) and the folder ID from the folder, with no extra characters such as /edit.",
+    fix: [
+      "One of the IDs is wrong.",
+      "Check that the template ID came from the Slides file and the folder ID from the folder.",
+      "Check there are no extra characters such as `/edit` at the end.",
+    ],
   },
   {
     problem: "The certificate shows {{Name}} unchanged",
-    fix: "The placeholder in Slides must match exactly, including capital letters and both curly braces. Retype it in one go so Slides doesn’t split the text formatting.",
+    fix: [
+      "The placeholder on the slide must match exactly, including capital letters and both pairs of curly braces.",
+      "Delete it and retype it in one go, so Slides does not split it into pieces.",
+    ],
   },
   {
     problem: "The form works but nothing happens",
-    fix: "The trigger is not set. Check the Triggers page for an onFormSubmit, On form submit trigger.",
+    fix: [
+      "The trigger is not switched on.",
+      "Open **Triggers** (the alarm clock icon) and check for an `onFormSubmit` trigger with **On form submit**. If it is missing, run `createTrigger`.",
+    ],
   },
   {
     problem: "Cannot read properties of undefined",
-    fix: "You ran onFormSubmit directly from the editor. That is normal: it only works from a form submission. Submit the form, or run testLastResponse instead.",
+    fix: [
+      "You clicked Run on `onFormSubmit` in the editor. That is normal: it only works when the form is sent.",
+      "Submit the form instead, or run `testLastResponse`.",
+    ],
   },
   {
     problem: "No answer found for “Full Name”",
-    fix: "The form question titles must match NAME_QUESTION and EMAIL_QUESTION in the script exactly.",
+    fix: [
+      "The question titles in the form must match `NAME_QUESTION` and `EMAIL_QUESTION` at the top of the script exactly.",
+    ],
   },
 ];
 

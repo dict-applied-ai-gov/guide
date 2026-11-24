@@ -66,7 +66,7 @@ export const advancedChecklist = {
   items: [
     "A Windows or Mac laptop with at least 16 GB RAM, to try local AI models. Chromebooks can’t run the local AI tools easily.",
     "Ollama (ollama.com) or LM Studio (lmstudio.ai), with one small (3 to 8B) model already downloaded.",
-    "Node.js LTS (nodejs.org) and Git (git-scm.com), needed for command-line coding agents.",
+    "Node.js 24 (nodejs.org/en/download, pick v24 in the version list) and Git (git-scm.com), needed for command-line coding agents and for running n8n on your laptop. Not the newer Node.js 26 that is now labelled LTS: n8n does not install on it yet.",
     "VS Code or Google Antigravity (antigravity.google).",
     "A command-line coding agent: opencode (opencode.ai), Codex CLI (with a ChatGPT account), or Antigravity CLI.",
     "clasp, Google’s command-line tool for Apps Script (for the certificate activity’s agent track).",

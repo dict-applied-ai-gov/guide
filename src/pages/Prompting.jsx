@@ -9,7 +9,7 @@ export function Prompting() {
     <Page to="/prompting">
       <PageHead
         title="Prompting and checking"
-        lead="Day 1, 1:00 to 3:00, and the Day 2 document lab. Five parts make a prompt that works the first time, and a checklist catches what it gets wrong."
+        lead="Day 1, 1:25 to 2:30, and the Day 2 document lab. Five parts make a prompt that works the first time, and a checklist catches what it gets wrong."
       />
 
       <Section id="rtcfc" title="R-T-C-F-C">
@@ -64,7 +64,7 @@ export function Prompting() {
         </ul>
       </Section>
 
-      <Section id="check" title="Checking AI outputs" intro="Day 1, 2:30 to 3:00. Pairs check each other’s lab outputs with this list.">
+      <Section id="check" title="Checking AI outputs" intro="Day 1, 2:15 to 2:30. Pairs check each other’s lab outputs with this list.">
         <TrackedChecklist id="output-check" anchor={false} />
         <DefinitionRows rows={verifyMoves} />
       </Section>

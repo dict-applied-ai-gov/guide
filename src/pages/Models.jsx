@@ -8,7 +8,7 @@ export function Models() {
     <Page to="/models">
       <PageHead
         title="Intro to different AI models"
-        lead="Module B, Day 1, 9:00 to 10:00. One prompt goes to five models; you score the answers and learn why they differ."
+        lead="Module B, Day 1, 9:45 to 10:55. One prompt goes to five models; you score the answers, learn why they differ, then hunt for six errors in an AI summary."
       />
 
       <Section id="basics" title="Four things to know first">
@@ -46,7 +46,7 @@ export function Models() {
       <Section
         id="scores"
         title="Tool comparison worksheet"
-        intro="Send the same prompt to each model, then score each answer. Mark any made-up fact you catch: that is the spot-the-hallucination exercise."
+        intro="Send the same prompt to each model, then score each answer. Mark any made-up fact you catch. After the break, Exercise 2 is a longer hunt: six errors in an AI summary of the sample circular."
       >
         <ToolScores />
         <Note title="Before you trust the winner">

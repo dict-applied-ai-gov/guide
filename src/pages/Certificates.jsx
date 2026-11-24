@@ -1,5 +1,6 @@
 import {
   certificateObjectives,
+  certificateWords,
   certificateTiming,
   certificateSteps,
   certificatePrompt,
@@ -8,7 +9,7 @@ import {
   certificateGoodToKnow,
   agentTrack,
 } from "@/data/certificates";
-import { PageHead, Section, TableWrap, Steps, CopyBlock, Note } from "@/components/ui";
+import { PageHead, Section, TableWrap, Steps, CopyBlock, Note, Marked, DefinitionRows } from "@/components/ui";
 import { Page, TrackedChecklist } from "@/components/tracked";
 
 export function Certificates() {
@@ -42,6 +43,10 @@ export function Certificates() {
         </ul>
       </Section>
 
+      <Section id="words" title="Words you will see" intro="New to these terms? Read this once. The steps below use them.">
+        <DefinitionRows rows={certificateWords} />
+      </Section>
+
       <Section id="timing" title="Timing">
         <TableWrap label="Activity timing">
           <tbody>
@@ -60,7 +65,7 @@ export function Certificates() {
         <Steps items={certificateSteps} />
       </Section>
 
-      <Section id="script" title="The reference script" intro="Paste into Code.gs, replace the two IDs at the top, save, then run createTrigger once.">
+      <Section id="script" title="The reference script" intro="The ready-made script. Paste it into Code.gs, put your two IDs at the top, save, then run createTrigger once.">
         <CopyBlock caption="Code.gs" text={certificateScript} lang="javascript" collapsible />
       </Section>
 
@@ -80,7 +85,13 @@ export function Certificates() {
             {certificateErrors.map((e) => (
               <tr key={e.problem}>
                 <th scope="row">{e.problem}</th>
-                <td>{e.fix}</td>
+                <td>
+                  <ul className="fix-list">
+                    {e.fix.map((f) => (
+                      <li key={f}><Marked text={f} /></li>
+                    ))}
+                  </ul>
+                </td>
               </tr>
             ))}
           </tbody>

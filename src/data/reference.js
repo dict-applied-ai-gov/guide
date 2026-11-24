@@ -37,9 +37,20 @@ export const labTasks = [
 export const glossary = [
   ["Generative AI", "AI that creates new text, images, or other content from your instructions."],
   ["Large language model (LLM)", "The brain behind tools like ChatGPT, Claude, and Gemini, trained on huge amounts of text."],
+  ["Model", "The AI engine that writes the answers. Most apps offer a fast model and a smarter one in their model picker."],
   ["Prompt", "The instruction or question you give to an AI."],
+  ["Token", "A small piece of text the model reads and writes. In English, one token is roughly three-quarters of a word."],
   ["Hallucination", "When AI confidently gives wrong or made-up information."],
   ["Context window", "How much text the AI can keep in mind at once."],
+  ["Knowledge cutoff", "The date the model’s training data ends. For newer rules or events, turn on web search or paste the official text."],
+  ["Web search", "The AI looks up current web pages and lists its sources. Open the links: a listed source is not yet a checked one."],
+  ["Reasoning mode", "The model works through a problem step by step before it answers (Thinking, Extended thinking). Slower, better on hard tasks."],
+  ["File upload, multimodal", "Giving the AI a PDF, spreadsheet, photo, or screenshot instead of typed text. Every upload leaves your computer."],
+  ["Artifact, Canvas", "Something the AI builds in its own panel for you to keep and edit: a document, table, slides, or small app."],
+  ["Project", "A workspace that keeps related chats, reference files, and instructions together (Gems in Gemini, Notebooks in Copilot)."],
+  ["Custom instructions", "Standing directions the AI follows in every chat, such as the tone and format you want. Keep personal details out."],
+  ["Memory", "The app saves facts about you from past chats and uses them later. You can view, delete, or turn it off."],
+  ["Parameters", "A model’s size, written as B for billions: 4B, 8B, 70B. Bigger is usually smarter but needs more memory."],
   ["AI agent", "An AI that takes actions (browses, edits files, uses apps, runs commands), not just answers."],
   ["Approval, human in the loop", "A step where a person must say yes before the AI acts."],
   ["MCP (Model Context Protocol)", "A standard way to plug AI apps into other tools like Google Drive, Canva, or Slack. Think of it as a USB-C port for AI."],
@@ -108,7 +119,7 @@ export const tools = [
   { group: "Grounded research", items: [["NotebookLM", "https://notebooklm.google.com"]] },
   { group: "Documents and presentations", items: [["Google Docs", "https://docs.google.com"], ["Google Slides", "https://slides.google.com"], ["Canva", "https://www.canva.com"]] },
   { group: "Data", items: [["Google Sheets", "https://sheets.google.com"], ["Looker Studio", "https://lookerstudio.google.com"]] },
-  { group: "Automation", items: [["Google Forms", "https://forms.google.com"], ["Apps Script", "https://script.google.com"], ["Power Automate", "https://make.powerautomate.com"]] },
+  { group: "Automation", items: [["Google Forms", "https://forms.google.com"], ["Apps Script", "https://script.google.com"], ["n8n", "https://n8n.io"], ["n8n docs", "https://docs.n8n.io"], ["Power Automate", "https://make.powerautomate.com"]] },
   { group: "Advanced and coding", items: [["Google AI Studio", "https://aistudio.google.com"], ["Google Antigravity", "https://antigravity.google"], ["opencode", "https://opencode.ai"]] },
   { group: "Local AI", items: [["Ollama", "https://ollama.com"], ["LM Studio", "https://lmstudio.ai"]] },
   { group: "Install for coding agents", items: [["Node.js", "https://nodejs.org"], ["Git", "https://git-scm.com"]] },
@@ -135,7 +146,7 @@ export const faq = [
     group: "Data",
     items: [
       ["Do I need to bring office data?", "No. Every exercise, lab, demo, and the capstone uses sample (synthetic) datasets the trainer provides: realistic-looking records with fake names."],
-      ["Can I use my own office file?", "Only as an exception: you already have written office clearance and the file is fully masked. It is checked at the 8:30 Day 1 setup check before any upload. No check, no upload."],
+      ["Can I use my own office file?", "Only as an exception: you already have written office clearance and the file is fully masked. It is checked in the 9:15 Day 1 setup session before any upload. No check, no upload."],
       ["Can I connect my work Gmail or Drive to an agent?", "Not during the training. Demo accounts only. Real office connections need IT and DPO approval and an enterprise plan whose terms cover the data."],
     ],
   },
@@ -158,7 +169,7 @@ export const faq = [
 ];
 
 export const capstoneTimeline = [
-  ["Day 1, 4:00 PM", "Pick a track and a task", "Pain Point Card with a baseline number"],
+  ["Day 1, 3:35 PM", "Pick a track and a task", "Pain Point Card with a baseline number"],
   ["Day 2, 4:15 PM", "Plan automate, check, decide", "Capstone Project Canvas"],
   ["Day 3, 11:30 AM", "Kit check", "Files, sample dataset, and roles ready"],
   ["Day 3, 1:00 to 3:00 PM", "Build and test", "Working prototype and Responsible AI checklist"],

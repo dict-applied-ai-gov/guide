@@ -36,7 +36,7 @@ export function LocalAi() {
         </TableWrap>
       </Section>
 
-      <Section id="hardware" title="What your computer needs" intro="Approximate, for quantized models. Bigger models are slower and need more memory.">
+      <Section id="hardware" title="What your computer needs" intro="Approximate, for the compressed (quantized) model files most people download. B means billions of parameters: a bigger model is smarter but slower, and needs more memory. GPU memory is the memory on a separate graphics card; without one, the model uses the computer’s normal memory (RAM) and runs slower.">
         <TableWrap label="Hardware by model size">
           <thead>
             <tr>

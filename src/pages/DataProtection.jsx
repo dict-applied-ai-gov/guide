@@ -15,7 +15,7 @@ export function DataProtection() {
     <Page to="/data-protection">
       <PageHead
         title="Protecting data given to AI and agents"
-        lead="Module E, Day 1, 11:15 to 12:00, then inside every Day 2 lab. Decide what a file is before it goes anywhere."
+        lead="Module E, Day 1, 11:20 to 12:00 and 1:00 to 1:25, then inside every Day 2 lab. Decide what a file is before it goes anywhere."
       />
 
       <Section id="rule" title="The data rule">

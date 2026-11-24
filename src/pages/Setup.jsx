@@ -10,7 +10,7 @@ const prepIds = checklists.filter((c) => c.id.startsWith("prep-") && c.id !== "p
 export function Setup() {
   return (
     <Page to="/setup">
-      <PageHead title="Before you come" lead="Get these done at home before Tuesday. The 8:30 setup check on Day 1 is for fixing what’s left, not for starting." />
+      <PageHead title="Before you come" lead="Get these done at home before Tuesday. The 9:15 setup session on Day 1 is for fixing what’s left, not for starting." />
 
       <Section id="welcome" title="Welcome">
         {welcome.map((p) => (

@@ -13,6 +13,7 @@ import { LocalAi } from "@/pages/LocalAi";
 import { Skills } from "@/pages/Skills";
 import { Prompting } from "@/pages/Prompting";
 import { Certificates } from "@/pages/Certificates";
+import { N8n } from "@/pages/N8n";
 import { DecisionSupport } from "@/pages/DecisionSupport";
 import { Capstone } from "@/pages/Capstone";
 import { ResponsibleAi } from "@/pages/ResponsibleAi";
@@ -44,6 +45,7 @@ export function App() {
           <Route path="skills" element={<Skills />} />
           <Route path="prompting" element={<Prompting />} />
           <Route path="certificates" element={<Certificates />} />
+          <Route path="n8n" element={<N8n />} />
           <Route path="decision-support" element={<DecisionSupport />} />
           <Route path="capstone" element={<Capstone />} />
           <Route path="responsible-ai" element={<ResponsibleAi />} />

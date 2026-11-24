@@ -45,12 +45,13 @@ export function trainingStatus(now) {
   const day = days.find((d) => d.date === date);
   if (date < course.start) {
     const n = daysBetween(date, course.start);
-    return { phase: "before", label: n === 1 ? "Starts tomorrow, 8:00 AM" : `Starts in ${n} days`, day: null };
+    return { phase: "before", label: n === 1 ? `Starts tomorrow, ${formatClock(days[0].sessions[0].start)}` : `Starts in ${n} days`, day: null };
   }
   if (date > course.end) return { phase: "after", label: "The training has ended. Your 30-day plan starts now.", day: null };
   if (!day) return { phase: "between", label: "", day: null };
   const session = day.sessions.find((s) => minutes >= toMinutes(s.start) && minutes < toMinutes(s.end));
-  if (minutes < toMinutes("8:00")) return { phase: "today", label: `Day ${day.number} starts at 8:00 AM`, day, session: null };
+  const first = day.sessions[0].start;
+  if (minutes < toMinutes(first)) return { phase: "today", label: `Day ${day.number} starts at ${formatClock(first)}`, day, session: null };
   if (minutes >= toMinutes("5:00")) return { phase: "today-done", label: `Day ${day.number} is done for today`, day, session: null };
   return { phase: "live", label: session ? `Now: ${session.title}` : `Day ${day.number} in progress`, day, session, minutes };
 }
