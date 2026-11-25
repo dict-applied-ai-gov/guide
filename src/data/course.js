@@ -242,7 +242,7 @@ export const days = [
       {
         start: "9:15",
         end: "10:15",
-        title: "Exercise 1: Build an office assistant app",
+        title: "Hands-on: build an office assistant app",
         do: "Sketch the screens of a citizen helper app in Google Stitch, build it in Google AI Studio from your sketch, install it on your own Android phone over a USB cable, then test it and have AI fix what is wrong. No coding. iPhone users test in the browser and pair with an Android user.",
         produce: "An office assistant app on your phone",
         link: { to: "/office-app", label: "Office app lesson" },
@@ -251,7 +251,7 @@ export const days = [
       {
         start: "10:45",
         end: "12:00",
-        title: "Exercise 2: Automated certificates",
+        title: "Hands-on: automated certificates",
         do: "Start from a pre-built kit: copy the trainer\u2019s Form, Sheet, and Slides template, then paste the ready-made script, approve the permission screen, test with your own entry, and clean up. Stretch: have AI write the script. Cleanup at the end is never skipped.",
         produce: "Your own certificate in your inbox",
         link: { to: "/certificates", label: "Certificate activity" },
@@ -260,7 +260,7 @@ export const days = [
       {
         start: "1:00",
         end: "1:40",
-        title: "Connecting AI agents to apps (MCP), and Exercise 3: the demo and safety checklist",
+        title: "Connecting AI agents to apps (MCP)",
         module: "F",
         do: "Demo only, with demo accounts: watch an AI connected to Drive and Canva read a Sheet, make a poster, and draft an email. Complete the safety checklist. Trying a read-only connector is optional, for the advanced track.",
         produce: "MCP demo and safety checklist",
@@ -269,7 +269,7 @@ export const days = [
       {
         start: "1:40",
         end: "2:15",
-        title: "Running AI on your own computer, and Exercise 4: Cloud or local?",
+        title: "Running AI on your own computer",
         module: "D",
         do: "Demo only: see AI run offline on a laptop with Wi-Fi off, compare it with a cloud model, and decide cloud or local for five office scenarios.",
         produce: "Cloud-or-local decision sheet",
@@ -279,7 +279,7 @@ export const days = [
       {
         start: "2:35",
         end: "4:15",
-        title: "Exercise 5: Build a Reply drafter in n8n",
+        title: "Hands-on: build a simple app with n8n",
         do: "Install n8n on your own laptop (the free online trial is optional, for laptops where installing does not work), connect it to Gemini, and build a Reply drafter: an n8n form where staff paste a citizen\u2019s message and get a label, urgency, and a draft reply written only from the office FAQ. Test it with five sample messages, including a hidden instruction, then unpublish and clean up.",
         produce: "A working Reply drafter in n8n",
         link: { to: "/n8n", label: "n8n lesson" },
@@ -287,23 +287,12 @@ export const days = [
       {
         start: "4:15",
         end: "5:00",
-        title: "Exercise 6: Capstone Project Canvas, and Exercise 7: Exit ticket",
+        title: "Capstone planning",
         do: "Plan your project with the Capstone Project Canvas in three parts: automate it, check it, decide with it. Confirm your track and baseline number. The trainer gives quick feedback to each team. Then submit your Day 2 outputs in the Google Form (your Stitch screenshots, your AI Studio share link with a short description of your app, and a screenshot of your n8n Reply drafter with its exported workflow .json file), and fill in the exit ticket.",
         produce: "Approved project canvas",
         link: { to: "/capstone#canvas", label: "Project canvas" },
       },
     ],
-    submission: {
-      url: "https://forms.gle/MTemPTDDwr7vRGcF9",
-      qr: "/materials/day-2/day-2-form-qr.png",
-      items: [
-        ["Stitch", "Screenshots of the screens you sketched (save them in Part 1 of the office app lab)."],
-        ["AI Studio", "The share link to your app (copy it before the office app cleanup)."],
-        ["About your app", "Two or three sentences: what it does, and who it is for."],
-        ["n8n", "A screenshot of your workflow and one draft reply, plus the exported workflow (.json) file (save them before the n8n cleanup)."],
-      ],
-      note: "No API keys, passwords, or real personal data in any screenshot.",
-    },
     materials: [
       ["01-day-2-workbook.docx", "Workbook", "All seven exercises, plus optional extra practice, to print or fill in"],
       ["02-day-2-handout.docx", "Handout", "Prompt templates, formulas, certificate fixes, MCP and local AI reference"],
