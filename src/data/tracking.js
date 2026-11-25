@@ -6,6 +6,7 @@ import { mcpSafety, skillSafety } from "./modules";
 import { certificateCleanup } from "./certificates";
 import { n8nChecks, n8nCleanup } from "./n8n";
 import { appChecks, appCleanup } from "./officeApp";
+import { slopChecks } from "./dataWebsite";
 
 const PRIVACY = ["Public (green)", "Internal (yellow)", "Restricted (red)"];
 
@@ -32,6 +33,7 @@ export const checklists = [
   { id: "app-cleanup", title: "Office app cleanup", note: "Never skipped.", items: appCleanup, to: "/office-app#cleanup" },
   { id: "n8n-checks", title: "Reply drafter checks", items: n8nChecks, to: "/n8n#samples" },
   { id: "n8n-cleanup", title: "n8n cleanup", note: "Never skipped.", items: n8nCleanup, to: "/n8n#cleanup" },
+  { id: "slop-check", title: "Data website slop check", items: slopChecks, to: "/data-website#skill" },
   {
     id: "bias-check",
     title: "Bias and risk checklist",
@@ -39,6 +41,19 @@ export const checklists = [
     to: "/decision-support#bias",
   },
   { id: "responsible", title: "Responsible AI checklist", items: responsibleChecklist, to: "/capstone#checklist" },
+  {
+    id: "closing",
+    title: "Before you leave on Day 3",
+    items: [
+      "Submitted my capstone in the Google Form: the link, a screenshot, and two or three sentences.",
+      "Answered the post-assessment.",
+      "Answered the training evaluation from the DICT staff.",
+      "Wrote down how to get my certificate.",
+      "Copied my worksheets from this guide into a Google Doc.",
+      "Cleaned up: n8n unpublished, API keys deleted, uploads and chats with training files deleted.",
+    ],
+    to: "/day-3#closing",
+  },
 ];
 
 const exitFields = [
@@ -105,12 +120,12 @@ export const worksheets = [
   {
     id: "canvas",
     title: "Capstone Project Canvas",
-    intro: "Plan the solution in three parts before you build it: automate it, check it, decide with it. The trainer gives quick feedback. Day 2, 4:15 PM.",
+    intro: "Plan your app in three parts before you build it: automate it, check it, decide with it. The trainer gives quick feedback. Day 2, 2:35 PM.",
     fields: [
       { key: "problem", label: "Problem and track", hint: "The office task, your track, and your baseline number.", wide: true },
       { key: "users", label: "Users", hint: "Who uses the solution, and who benefits." },
       { key: "data", label: "Data and its classification", hint: "Which sample dataset, and green, yellow, or red." },
-      { key: "tools", label: "1. Automate it: tools", hint: "Free AI tools, Forms, Sheets, or scripts you will use." },
+      { key: "tools", label: "1. Automate it: tools", hint: "The tools you will build with: AI Studio, Stitch, n8n, Forms and Sheets, Apps Script, or another AI builder." },
       { key: "workflow", label: "1. Automate it: workflow", hint: "Trigger, steps, and output.", rows: 4 },
       { key: "check", label: "2. Check it", hint: "Where a person reviews, what you verify, and the privacy risks and how you handle each one.", rows: 3 },
       { key: "decide", label: "3. Decide with it", hint: "The number, chart, or brief your head of office will use, and the decision it supports.", rows: 3 },
@@ -121,13 +136,15 @@ export const worksheets = [
   {
     id: "insights",
     title: "Three checked insights",
-    intro: "From the dashboard lab. Write each insight, then how you checked the number in Sheets.",
+    intro: "From the data website lab. Each insight has a number, a place, and a time; then write how you checked it against the CSV.",
     fields: [
+      { key: "question", label: "My question and dataset", wide: true },
       { key: "one", label: "Insight 1, and how you checked it", wide: true },
       { key: "two", label: "Insight 2, and how you checked it", wide: true },
       { key: "three", label: "Insight 3, and how you checked it", wide: true },
+      { key: "decision", label: "A decision these could support, and who makes it", wide: true },
     ],
-    to: "/decision-support#insights",
+    to: "/data-website#insights",
   },
   {
     id: "decision-brief",
@@ -158,11 +175,15 @@ export const worksheets = [
     to: "/assessment#action-plan",
   },
   {
-    id: "exit-day-3",
-    title: "Day 3 exit ticket",
-    intro: "Three short answers before the closing.",
-    fields: exitFields,
-    to: "/day-3#exit",
+    id: "capstone-feedback",
+    title: "Feedback notes",
+    intro: "During the presentations and feedback, 3:00 to 4:00. Write what you will change in your own app.",
+    fields: [
+      { key: "heard", label: "Feedback that applies to my app too", rows: 4, wide: true },
+      { key: "change", label: "What I will change first", wide: true },
+      { key: "next", label: "Who in my office I will show it to", short: true },
+    ],
+    to: "/capstone#feedback",
   },
 ];
 

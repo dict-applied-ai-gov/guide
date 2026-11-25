@@ -1,0 +1,99 @@
+{
+ "name": "Applied AI training data API",
+ "description": "Read-only copies of public Philippine Statistics Authority (PSA) tables for the Day 3 data website lab. Free, no key, and readable from any web page (CORS open). Each dataset comes as JSON (with its source, notes and column descriptions) and as CSV.",
+ "live_source": {
+  "name": "PSA OpenSTAT API",
+  "docs": "https://openstat.psa.gov.ph/",
+  "base": "https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/"
+ },
+ "license_note": "Data from the Philippine Statistics Authority. Cite PSA as the source on anything you publish.",
+ "datasets": [
+  {
+   "id": "population",
+   "title": "Population and annual growth rate, by region, province, city, and municipality",
+   "publisher": "Philippine Statistics Authority (PSA)",
+   "rows": 1528,
+   "json": "https://dict-ai-automation.vercel.app/api/v1/population.json",
+   "csv": "https://dict-ai-automation.vercel.app/api/v1/population.csv",
+   "source": "PSA OpenSTAT, Population and Annual Population Growth Rate of the Philippines and its Regions, Provinces, and Highly Urbanized Cities Based on the 2010, 2015, 2020 and 2024 Population Census",
+   "source_url": "https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/1A/PO_2024/0211A6DAPG0.px",
+   "retrieved": "2026-11-26",
+   "columns": [
+    "area",
+    "area_level",
+    "population_2010",
+    "population_2015",
+    "population_2020",
+    "population_2024",
+    "growth_rate_2010_2015",
+    "growth_rate_2015_2020",
+    "growth_rate_2015_2024",
+    "growth_rate_2020_2024"
+   ]
+  },
+  {
+   "id": "poverty",
+   "title": "Poverty incidence among population, by region, province, and highly urbanized city",
+   "publisher": "Philippine Statistics Authority (PSA)",
+   "rows": 142,
+   "json": "https://dict-ai-automation.vercel.app/api/v1/poverty.json",
+   "csv": "https://dict-ai-automation.vercel.app/api/v1/poverty.csv",
+   "source": "PSA OpenSTAT, Table 2a. Annual Per Capita Poverty Threshold and Poverty Incidence Among Population with Measures of Precision, by Region, Province and Highly Urbanized Cities: 2018, 2021, and 2023",
+   "source_url": "https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/1F/FY/0041F3DF02A.px",
+   "retrieved": "2026-11-26",
+   "columns": [
+    "area",
+    "area_level",
+    "poverty_incidence_pct_2018",
+    "poverty_incidence_pct_2021",
+    "poverty_incidence_pct_2023",
+    "poverty_threshold_php_2018",
+    "poverty_threshold_php_2021",
+    "poverty_threshold_php_2023",
+    "cv_2018",
+    "cv_2021",
+    "cv_2023"
+   ]
+  },
+  {
+   "id": "rice-prices",
+   "title": "Retail prices of rice per kilogram, monthly",
+   "publisher": "Philippine Statistics Authority (PSA)",
+   "rows": 2862,
+   "json": "https://dict-ai-automation.vercel.app/api/v1/rice-prices.json",
+   "csv": "https://dict-ai-automation.vercel.app/api/v1/rice-prices.csv",
+   "source": "PSA OpenSTAT, Cereals: Retail Prices of Agricultural Commodities by Geolocation, Commodity, Year and Period (2018-based, new geographic code)",
+   "source_url": "https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/2M/2018NEW/0042M4ARN01.px",
+   "retrieved": "2026-11-26",
+   "columns": [
+    "date",
+    "year",
+    "month",
+    "area",
+    "area_level",
+    "commodity",
+    "price_php_per_kg"
+   ]
+  },
+  {
+   "id": "inflation",
+   "title": "Inflation rate (year-on-year change of the Consumer Price Index), monthly",
+   "publisher": "Philippine Statistics Authority (PSA)",
+   "rows": 2820,
+   "json": "https://dict-ai-automation.vercel.app/api/v1/inflation.json",
+   "csv": "https://dict-ai-automation.vercel.app/api/v1/inflation.csv",
+   "source": "PSA OpenSTAT, Year-on-Year Changes of the Consumer Price Index in Percent by Commodity Group (2018=100)",
+   "source_url": "https://openstat.psa.gov.ph/PXWeb/api/v1/en/DB/2M/PI/CPI/2018NEW/0012M4ACP23.px",
+   "retrieved": "2026-11-26",
+   "columns": [
+    "date",
+    "year",
+    "month",
+    "area",
+    "area_level",
+    "item",
+    "inflation_pct"
+   ]
+  }
+ ]
+}

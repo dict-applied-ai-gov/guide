@@ -16,6 +16,7 @@ import { Certificates } from "@/pages/Certificates";
 import { N8n } from "@/pages/N8n";
 import { OfficeApp } from "@/pages/OfficeApp";
 import { DecisionSupport } from "@/pages/DecisionSupport";
+import { DataWebsite } from "@/pages/DataWebsite";
 import { Capstone } from "@/pages/Capstone";
 import { ResponsibleAi } from "@/pages/ResponsibleAi";
 import { QuickReference } from "@/pages/QuickReference";
@@ -48,6 +49,7 @@ export function App() {
           <Route path="office-app" element={<OfficeApp />} />
           <Route path="certificates" element={<Certificates />} />
           <Route path="n8n" element={<N8n />} />
+          <Route path="data-website" element={<DataWebsite />} />
           <Route path="decision-support" element={<DecisionSupport />} />
           <Route path="capstone" element={<Capstone />} />
           <Route path="responsible-ai" element={<ResponsibleAi />} />

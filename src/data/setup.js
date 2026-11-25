@@ -49,7 +49,7 @@ export const prepChecklist = [
   },
   {
     id: "prep-n8n",
-    title: "For the n8n lab (Day 2)",
+    title: "For the n8n lab (Day 3)",
     note: "Do this at home: n8n is a large download. On a Chromebook, or a laptop where you cannot install software, skip it and use the n8n Cloud trial on the day.",
     items: [
       "Node.js 24 installed from nodejs.org/en/download. Pick v24 in the version list, not 26: n8n does not install on 26 yet.",
@@ -121,9 +121,10 @@ export const thinkAbout = [
 
 export const datasets = [
   { name: "Synthetic memo and request texts", detail: "Memos, circulars, request letters, meeting notes", used: "Day 1 prompting, Day 2 extra practice" },
-  { name: "Synthetic NBI clearance applications log", detail: "Fake names, dates, fees, and status", used: "Day 3 dashboard, capstone (Day 2 extra practice)" },
+  { name: "Synthetic NBI clearance applications log", detail: "Fake names, dates, fees, and status", used: "Capstone (Day 2 extra practice)" },
   { name: "Synthetic premium and loan reconciliation sheet", detail: "With planted mismatches", used: "Day 2 advanced track, capstone" },
   { name: "Synthetic supplies and property inventory", detail: "The messy version", used: "Day 2 extra practice, capstone" },
-  { name: "Synthetic FAQ document and client feedback survey", detail: "For an office service", used: "Day 2 office app and n8n lab, Day 3 analysis" },
+  { name: "Synthetic FAQ document and client feedback survey", detail: "For an office service", used: "Day 2 office app, Day 3 n8n lab" },
+  { name: "Public PSA data: population, poverty, rice prices, inflation", detail: "Real government statistics, from the training API", used: "Day 3 data website lab, capstone" },
   { name: "Certificate attendee list", detail: "Your own name and email only", used: "Day 2 certificate activity" },
 ];

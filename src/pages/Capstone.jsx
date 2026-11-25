@@ -1,10 +1,27 @@
 import { Plus, Trash2 } from "lucide-react";
-import { capstoneTimeline, capstoneIdeas, capstoneTheme, capstoneTracks, rubric } from "@/data/reference";
+import {
+  capstoneTimeline,
+  capstoneIdeas,
+  capstoneTheme,
+  capstoneTracks,
+  capstoneInspiration,
+  capstoneQuestions,
+  painPointExample,
+  planModeSteps,
+  planModePrompt,
+  capstoneTools,
+  presentFormat,
+  feedbackFormat,
+  submitItems,
+  rubric,
+} from "@/data/reference";
 import { useStored } from "@/lib/storage";
-import { PageHead, Section, TableWrap, DefinitionRows } from "@/components/ui";
+import { Link } from "react-router-dom";
+import { PageHead, Section, TableWrap, DefinitionRows, Note, CopyBlock } from "@/components/ui";
 import { Page, TrackedChecklist, TrackedWorksheet } from "@/components/tracked";
 
 const LEVELS = [4, 3, 2, 1];
+const CAPSTONE_FORM = "https://forms.gle/qmzxZ8eHNrq7mKVS7";
 
 function teamScore(team) {
   const scored = rubric.filter((r) => team.levels?.[r.criterion]);
@@ -18,7 +35,7 @@ function Scorer() {
 
   return (
     <div className="scorer">
-      {teams.length === 0 && <p className="scorer__empty">No teams scored yet. Add one when the first demo starts.</p>}
+      {teams.length === 0 && <p className="scorer__empty">No one scored yet. Add a presenter when the first demo starts.</p>}
       {teams.map((t, n) => {
         const score = teamScore(t);
         const complete = rubric.every((r) => t.levels?.[r.criterion]);
@@ -27,7 +44,7 @@ function Scorer() {
             <legend className="visually-hidden">Team {n + 1}</legend>
             <div className="scorer__head">
               <div className="field">
-                <label htmlFor={`team-${t.id}`}>Team</label>
+                <label htmlFor={`team-${t.id}`}>Presenter</label>
                 <input id={`team-${t.id}`} type="text" value={t.name} onChange={(e) => update(t.id, { name: e.target.value })} />
               </div>
               <p className="scorer__total">
@@ -77,7 +94,7 @@ function Scorer() {
         onClick={() => setTeams((prev) => [...prev, { id: Date.now(), name: "", levels: {}, note: "" }])}
       >
         <Plus size={16} aria-hidden="true" />
-        <span>Add a team</span>
+        <span>Add a presenter</span>
       </button>
     </div>
   );
@@ -88,7 +105,7 @@ export function Capstone() {
     <Page to="/capstone">
       <PageHead
         title="Capstone project"
-        lead="Teams of 3, mixed ICT and non-ICT. One real office task, automated, checked, and turned into a decision, with the sample data. Demonstrated in 5 minutes on Thursday."
+        lead="Your own app for your office or the government, built with the tools you choose. Planned on Day 2, built on Day 3 from 1:00 to 2:45, and submitted by 4:15. Five participants, drawn at random, demo theirs at 3:00."
       />
 
       <Section id="theme" title="Theme" intro={capstoneTheme.title}>
@@ -96,8 +113,42 @@ export function Capstone() {
         <DefinitionRows rows={capstoneTheme.rules} />
       </Section>
 
-      <Section id="tracks" title="Pick a track" intro="Choose one on Day 1 and write it on your Pain Point Card.">
+      <Section id="inspiration" title="Find inspiration" intro="Before you plan, see what others have already built. Borrow the idea, not the code or the brand.">
+        <div className="card-list">
+          {capstoneInspiration.map((src) => (
+            <article key={src.name} className="card inspo">
+              <h3 className="inspo__title">
+                <a href={src.url} target="_blank" rel="noreferrer">
+                  {src.name}
+                </a>
+              </h3>
+              <p>{src.what}</p>
+              {src.examples && (
+                <>
+                  <p className="muted">Apps listed there that an office could learn from:</p>
+                  <DefinitionRows rows={src.examples} />
+                </>
+              )}
+            </article>
+          ))}
+        </div>
+        <h3 className="subhead">Ask these while you browse</h3>
+        <ul className="rule-list">
+          {capstoneQuestions.map((q) => (
+            <li key={q}>{q}</li>
+          ))}
+        </ul>
+      </Section>
+
+      <Section id="tracks" title="Tracks" intro="Optional: use one to narrow your idea. You chose one on your Day 1 Pain Point Card.">
         <DefinitionRows rows={capstoneTracks} />
+      </Section>
+
+      <Section id="tools" title="Choose your tools" intro="Anything from the three days, or another AI builder. Pick the one that gives you a link you can share at the end.">
+        <DefinitionRows rows={capstoneTools} />
+        <p>
+          Whatever you build, load the <Link to="/data-website#skill">design skill</Link> so it does not look generated.
+        </p>
       </Section>
 
       <Section id="timeline" title="Timeline">
@@ -125,6 +176,19 @@ export function Capstone() {
         <TrackedWorksheet id="pain-point" />
       </Section>
 
+      <Section id="example" title="Example Pain Point Card" intro="An invented example with sample data: the Friday clearance tally.">
+        <DefinitionRows rows={painPointExample} />
+      </Section>
+
+      <Section id="plan" title="Plan before you build" intro="Use plan mode, or the starter prompt, to turn your card into a plan. The plan is a draft: you decide, and the officer who signs owns the result.">
+        <ol className="rule-list">
+          {planModeSteps.map((t) => (
+            <li key={t}>{t}</li>
+          ))}
+        </ol>
+        <CopyBlock caption="Starter prompt, for any AI chat" text={planModePrompt} />
+      </Section>
+
       <Section id="ideas" title="More project ideas" intro="Each fits one of the tracks above. Start from one, or bring your own.">
         <DefinitionRows rows={capstoneIdeas} />
       </Section>
@@ -133,8 +197,39 @@ export function Capstone() {
         <TrackedWorksheet id="canvas" />
       </Section>
 
-      <Section id="checklist" title="Responsible AI checklist" intro="Complete it during the afternoon build. The rubric gives it a fifth of the score.">
+      <Section id="build" title="Build: Day 3, 1:00 to 2:45">
+        <ul className="rule-list">
+          <li>Start from the smallest version that works: one screen, one form, or one chart that answers one question.</li>
+          <li>Use sample or public data only. Load the design skill. Test it the way a staff member or a citizen would.</li>
+          <li>Ask the trainer when you are stuck for more than five minutes.</li>
+          <li>By 2:45: a screenshot, a link that opens, and the Responsible AI checklist below ticked.</li>
+        </ul>
+      </Section>
+
+      <Section id="checklist" title="Responsible AI checklist" intro="Complete it during the build. The rubric gives it a fifth of the score.">
         <TrackedChecklist id="responsible" anchor={false} />
+      </Section>
+
+      <Section id="present" title="Present: Day 3, 3:00 to 3:35" intro="Five names are drawn at random, so everyone gets ready. 5 minutes each.">
+        <DefinitionRows rows={presentFormat} />
+        <Note title="Be ready to be called">
+          <p>Keep the app open in a browser tab, logged in, with a sample entry ready to type. If the Wi-Fi fails, show your screenshot and walk through it.</p>
+        </Note>
+      </Section>
+
+      <Section id="feedback" title="Feedback: Day 3, 3:35 to 4:00" intro="After the five demos. Short and specific.">
+        <DefinitionRows rows={feedbackFormat} />
+        <TrackedWorksheet id="capstone-feedback" />
+      </Section>
+
+      <Section id="submit" title="Submit: Day 3, 4:00 to 4:15" intro="Everyone submits, not only the five presenters.">
+        <DefinitionRows rows={submitItems} />
+        <p>
+          <a className="btn btn--primary" href={CAPSTONE_FORM} target="_blank" rel="noreferrer">
+            Open the capstone form
+          </a>{" "}
+          <span className="muted">{CAPSTONE_FORM.replace("https://", "")}</span>
+        </p>
       </Section>
 
       <Section id="rubric" title="Rubric">
@@ -165,7 +260,7 @@ export function Capstone() {
         </TableWrap>
       </Section>
 
-      <Section id="score" title="Score the other teams" intro="During the presentations. Your scores stay in this browser; hand them in the way your trainer asks.">
+      <Section id="score" title="Score the presenters" intro="Optional, during the presentations. Your scores stay in this browser; hand them in the way your trainer asks.">
         <Scorer />
       </Section>
     </Page>

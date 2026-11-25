@@ -1,0 +1,2863 @@
+date,year,month,area,area_level,commodity,price_php_per_kg
+2018-01,2018,1,Philippines,0,"Rice, Regular-Milled",40.66
+2018-02,2018,2,Philippines,0,"Rice, Regular-Milled",41.03
+2018-03,2018,3,Philippines,0,"Rice, Regular-Milled",41.69
+2018-04,2018,4,Philippines,0,"Rice, Regular-Milled",42.09
+2018-05,2018,5,Philippines,0,"Rice, Regular-Milled",42.42
+2018-06,2018,6,Philippines,0,"Rice, Regular-Milled",42.76
+2018-07,2018,7,Philippines,0,"Rice, Regular-Milled",43.29
+2018-08,2018,8,Philippines,0,"Rice, Regular-Milled",44.36
+2018-09,2018,9,Philippines,0,"Rice, Regular-Milled",46.22
+2018-10,2018,10,Philippines,0,"Rice, Regular-Milled",46.58
+2018-11,2018,11,Philippines,0,"Rice, Regular-Milled",45.23
+2018-12,2018,12,Philippines,0,"Rice, Regular-Milled",44.07
+2019-01,2019,1,Philippines,0,"Rice, Regular-Milled",43.44
+2019-02,2019,2,Philippines,0,"Rice, Regular-Milled",43.13
+2019-03,2019,3,Philippines,0,"Rice, Regular-Milled",42.66
+2019-04,2019,4,Philippines,0,"Rice, Regular-Milled",42.13
+2019-05,2019,5,Philippines,0,"Rice, Regular-Milled",41.66
+2019-06,2019,6,Philippines,0,"Rice, Regular-Milled",41.41
+2019-07,2019,7,Philippines,0,"Rice, Regular-Milled",40.97
+2019-08,2019,8,Philippines,0,"Rice, Regular-Milled",40.68
+2019-09,2019,9,Philippines,0,"Rice, Regular-Milled",40.16
+2019-10,2019,10,Philippines,0,"Rice, Regular-Milled",39.62
+2019-11,2019,11,Philippines,0,"Rice, Regular-Milled",39.16
+2019-12,2019,12,Philippines,0,"Rice, Regular-Milled",38.87
+2020-01,2020,1,Philippines,0,"Rice, Regular-Milled",38.52
+2020-02,2020,2,Philippines,0,"Rice, Regular-Milled",38.24
+2020-03,2020,3,Philippines,0,"Rice, Regular-Milled",38.1
+2020-04,2020,4,Philippines,0,"Rice, Regular-Milled",39.14
+2020-05,2020,5,Philippines,0,"Rice, Regular-Milled",39.48
+2020-06,2020,6,Philippines,0,"Rice, Regular-Milled",39.72
+2020-07,2020,7,Philippines,0,"Rice, Regular-Milled",39.83
+2020-08,2020,8,Philippines,0,"Rice, Regular-Milled",39.7
+2020-09,2020,9,Philippines,0,"Rice, Regular-Milled",39.54
+2020-10,2020,10,Philippines,0,"Rice, Regular-Milled",39.01
+2020-11,2020,11,Philippines,0,"Rice, Regular-Milled",38.7
+2020-12,2020,12,Philippines,0,"Rice, Regular-Milled",38.64
+2021-01,2021,1,Philippines,0,"Rice, Regular-Milled",38.26
+2021-02,2021,2,Philippines,0,"Rice, Regular-Milled",38.13
+2021-03,2021,3,Philippines,0,"Rice, Regular-Milled",38.1
+2021-04,2021,4,Philippines,0,"Rice, Regular-Milled",38.22
+2021-05,2021,5,Philippines,0,"Rice, Regular-Milled",38.38
+2021-06,2021,6,Philippines,0,"Rice, Regular-Milled",38.29
+2021-07,2021,7,Philippines,0,"Rice, Regular-Milled",38.41
+2021-08,2021,8,Philippines,0,"Rice, Regular-Milled",38.44
+2021-09,2021,9,Philippines,0,"Rice, Regular-Milled",38.45
+2021-10,2021,10,Philippines,0,"Rice, Regular-Milled",38.37
+2021-11,2021,11,Philippines,0,"Rice, Regular-Milled",38.18
+2021-12,2021,12,Philippines,0,"Rice, Regular-Milled",38.13
+2022-01,2022,1,Philippines,0,"Rice, Regular-Milled",38.51
+2022-02,2022,2,Philippines,0,"Rice, Regular-Milled",38.69
+2022-03,2022,3,Philippines,0,"Rice, Regular-Milled",38.69
+2022-04,2022,4,Philippines,0,"Rice, Regular-Milled",38.85
+2022-05,2022,5,Philippines,0,"Rice, Regular-Milled",38.92
+2022-06,2022,6,Philippines,0,"Rice, Regular-Milled",39.12
+2022-07,2022,7,Philippines,0,"Rice, Regular-Milled",39.32
+2022-08,2022,8,Philippines,0,"Rice, Regular-Milled",39.51
+2022-09,2022,9,Philippines,0,"Rice, Regular-Milled",39.5
+2022-10,2022,10,Philippines,0,"Rice, Regular-Milled",39.44
+2022-11,2022,11,Philippines,0,"Rice, Regular-Milled",39.57
+2022-12,2022,12,Philippines,0,"Rice, Regular-Milled",39.63
+2023-01,2023,1,Philippines,0,"Rice, Regular-Milled",39.59
+2023-02,2023,2,Philippines,0,"Rice, Regular-Milled",39.65
+2023-03,2023,3,Philippines,0,"Rice, Regular-Milled",39.9
+2023-04,2023,4,Philippines,0,"Rice, Regular-Milled",40.31
+2023-05,2023,5,Philippines,0,"Rice, Regular-Milled",40.62
+2023-06,2023,6,Philippines,0,"Rice, Regular-Milled",40.89
+2023-07,2023,7,Philippines,0,"Rice, Regular-Milled",41.23
+2023-08,2023,8,Philippines,0,"Rice, Regular-Milled",43.29
+2023-09,2023,9,Philippines,0,"Rice, Regular-Milled",47.54
+2023-10,2023,10,Philippines,0,"Rice, Regular-Milled",45.42
+2023-11,2023,11,Philippines,0,"Rice, Regular-Milled",46.73
+2023-12,2023,12,Philippines,0,"Rice, Regular-Milled",48.48
+2024-01,2024,1,Philippines,0,"Rice, Regular-Milled",49.65
+2024-02,2024,2,Philippines,0,"Rice, Regular-Milled",50.44
+2024-03,2024,3,Philippines,0,"Rice, Regular-Milled",51.11
+2024-04,2024,4,Philippines,0,"Rice, Regular-Milled",51.25
+2024-05,2024,5,Philippines,0,"Rice, Regular-Milled",51.03
+2024-06,2024,6,Philippines,0,"Rice, Regular-Milled",51.07
+2024-07,2024,7,Philippines,0,"Rice, Regular-Milled",50.9
+2024-08,2024,8,Philippines,0,"Rice, Regular-Milled",50.66
+2024-09,2024,9,Philippines,0,"Rice, Regular-Milled",50.47
+2024-10,2024,10,Philippines,0,"Rice, Regular-Milled",50.22
+2024-11,2024,11,Philippines,0,"Rice, Regular-Milled",49.24
+2024-12,2024,12,Philippines,0,"Rice, Regular-Milled",48.81
+2025-01,2025,1,Philippines,0,"Rice, Regular-Milled",48.25
+2025-02,2025,2,Philippines,0,"Rice, Regular-Milled",47.23
+2025-03,2025,3,Philippines,0,"Rice, Regular-Milled",46.09
+2025-04,2025,4,Philippines,0,"Rice, Regular-Milled",44.45
+2025-05,2025,5,Philippines,0,"Rice, Regular-Milled",43.19
+2025-06,2025,6,Philippines,0,"Rice, Regular-Milled",42.35
+2025-07,2025,7,Philippines,0,"Rice, Regular-Milled",41.31
+2025-08,2025,8,Philippines,0,"Rice, Regular-Milled",40.43
+2025-09,2025,9,Philippines,0,"Rice, Regular-Milled",40.23
+2025-10,2025,10,Philippines,0,"Rice, Regular-Milled",40.09
+2025-11,2025,11,Philippines,0,"Rice, Regular-Milled",40.29
+2025-12,2025,12,Philippines,0,"Rice, Regular-Milled",41.49
+2026-01,2026,1,Philippines,0,"Rice, Regular-Milled",43.29
+2026-02,2026,2,Philippines,0,"Rice, Regular-Milled",45.27
+2026-03,2026,3,Philippines,0,"Rice, Regular-Milled",47.71
+2026-04,2026,4,Philippines,0,"Rice, Regular-Milled",51.51
+2026-05,2026,5,Philippines,0,"Rice, Regular-Milled",51.29
+2026-06,2026,6,Philippines,0,"Rice, Regular-Milled",50.0
+2026-07,2026,7,Philippines,0,"Rice, Regular-Milled",49.55
+2026-08,2026,8,Philippines,0,"Rice, Regular-Milled",49.82
+2026-09,2026,9,Philippines,0,"Rice, Regular-Milled",50.1
+2026-10,2026,10,Philippines,0,"Rice, Regular-Milled",49.9
+2018-01,2018,1,Philippines,0,"Rice, Special",52.27
+2018-02,2018,2,Philippines,0,"Rice, Special",52.76
+2018-03,2018,3,Philippines,0,"Rice, Special",53.23
+2018-04,2018,4,Philippines,0,"Rice, Special",53.5
+2018-05,2018,5,Philippines,0,"Rice, Special",53.65
+2018-06,2018,6,Philippines,0,"Rice, Special",54.0
+2018-07,2018,7,Philippines,0,"Rice, Special",54.22
+2018-08,2018,8,Philippines,0,"Rice, Special",55.06
+2018-09,2018,9,Philippines,0,"Rice, Special",56.58
+2018-10,2018,10,Philippines,0,"Rice, Special",56.84
+2018-11,2018,11,Philippines,0,"Rice, Special",56.29
+2018-12,2018,12,Philippines,0,"Rice, Special",55.97
+2019-01,2019,1,Philippines,0,"Rice, Special",55.85
+2019-02,2019,2,Philippines,0,"Rice, Special",55.73
+2019-03,2019,3,Philippines,0,"Rice, Special",55.51
+2019-04,2019,4,Philippines,0,"Rice, Special",55.06
+2019-05,2019,5,Philippines,0,"Rice, Special",54.84
+2019-06,2019,6,Philippines,0,"Rice, Special",54.45
+2019-07,2019,7,Philippines,0,"Rice, Special",54.15
+2019-08,2019,8,Philippines,0,"Rice, Special",54.01
+2019-09,2019,9,Philippines,0,"Rice, Special",53.45
+2019-10,2019,10,Philippines,0,"Rice, Special",52.93
+2019-11,2019,11,Philippines,0,"Rice, Special",52.88
+2019-12,2019,12,Philippines,0,"Rice, Special",52.8
+2020-01,2020,1,Philippines,0,"Rice, Special",52.65
+2020-02,2020,2,Philippines,0,"Rice, Special",52.42
+2020-03,2020,3,Philippines,0,"Rice, Special",52.21
+2020-04,2020,4,Philippines,0,"Rice, Special",52.85
+2020-05,2020,5,Philippines,0,"Rice, Special",53.09
+2020-06,2020,6,Philippines,0,"Rice, Special",53.36
+2020-07,2020,7,Philippines,0,"Rice, Special",53.23
+2020-08,2020,8,Philippines,0,"Rice, Special",53.13
+2020-09,2020,9,Philippines,0,"Rice, Special",52.85
+2020-10,2020,10,Philippines,0,"Rice, Special",52.53
+2020-11,2020,11,Philippines,0,"Rice, Special",52.29
+2020-12,2020,12,Philippines,0,"Rice, Special",52.46
+2021-01,2021,1,Philippines,0,"Rice, Special",52.38
+2021-02,2021,2,Philippines,0,"Rice, Special",52.53
+2021-03,2021,3,Philippines,0,"Rice, Special",52.68
+2021-04,2021,4,Philippines,0,"Rice, Special",52.78
+2021-05,2021,5,Philippines,0,"Rice, Special",52.75
+2021-06,2021,6,Philippines,0,"Rice, Special",52.72
+2021-07,2021,7,Philippines,0,"Rice, Special",52.77
+2021-08,2021,8,Philippines,0,"Rice, Special",52.89
+2021-09,2021,9,Philippines,0,"Rice, Special",52.58
+2021-10,2021,10,Philippines,0,"Rice, Special",52.63
+2021-11,2021,11,Philippines,0,"Rice, Special",52.64
+2021-12,2021,12,Philippines,0,"Rice, Special",52.61
+2022-01,2022,1,Philippines,0,"Rice, Special",52.63
+2022-02,2022,2,Philippines,0,"Rice, Special",52.71
+2022-03,2022,3,Philippines,0,"Rice, Special",52.7
+2022-04,2022,4,Philippines,0,"Rice, Special",52.81
+2022-05,2022,5,Philippines,0,"Rice, Special",52.77
+2022-06,2022,6,Philippines,0,"Rice, Special",53.05
+2022-07,2022,7,Philippines,0,"Rice, Special",53.15
+2022-08,2022,8,Philippines,0,"Rice, Special",53.34
+2022-09,2022,9,Philippines,0,"Rice, Special",53.21
+2022-10,2022,10,Philippines,0,"Rice, Special",53.36
+2022-11,2022,11,Philippines,0,"Rice, Special",53.53
+2022-12,2022,12,Philippines,0,"Rice, Special",53.83
+2023-01,2023,1,Philippines,0,"Rice, Special",53.76
+2023-02,2023,2,Philippines,0,"Rice, Special",53.89
+2023-03,2023,3,Philippines,0,"Rice, Special",54.0
+2023-04,2023,4,Philippines,0,"Rice, Special",54.22
+2023-05,2023,5,Philippines,0,"Rice, Special",54.38
+2023-06,2023,6,Philippines,0,"Rice, Special",54.46
+2023-07,2023,7,Philippines,0,"Rice, Special",54.7
+2023-08,2023,8,Philippines,0,"Rice, Special",56.24
+2023-09,2023,9,Philippines,0,"Rice, Special",61.04
+2023-10,2023,10,Philippines,0,"Rice, Special",60.89
+2023-11,2023,11,Philippines,0,"Rice, Special",61.47
+2023-12,2023,12,Philippines,0,"Rice, Special",63.08
+2024-01,2024,1,Philippines,0,"Rice, Special",63.9
+2024-02,2024,2,Philippines,0,"Rice, Special",64.42
+2024-03,2024,3,Philippines,0,"Rice, Special",64.75
+2024-04,2024,4,Philippines,0,"Rice, Special",64.68
+2024-05,2024,5,Philippines,0,"Rice, Special",64.41
+2024-06,2024,6,Philippines,0,"Rice, Special",64.56
+2024-07,2024,7,Philippines,0,"Rice, Special",64.42
+2024-08,2024,8,Philippines,0,"Rice, Special",64.08
+2024-09,2024,9,Philippines,0,"Rice, Special",64.05
+2024-10,2024,10,Philippines,0,"Rice, Special",63.97
+2024-11,2024,11,Philippines,0,"Rice, Special",63.72
+2024-12,2024,12,Philippines,0,"Rice, Special",63.42
+2025-01,2025,1,Philippines,0,"Rice, Special",63.13
+2025-02,2025,2,Philippines,0,"Rice, Special",62.65
+2025-03,2025,3,Philippines,0,"Rice, Special",62.15
+2025-04,2025,4,Philippines,0,"Rice, Special",60.69
+2025-05,2025,5,Philippines,0,"Rice, Special",59.8
+2025-06,2025,6,Philippines,0,"Rice, Special",57.7
+2025-07,2025,7,Philippines,0,"Rice, Special",56.83
+2025-08,2025,8,Philippines,0,"Rice, Special",56.32
+2025-09,2025,9,Philippines,0,"Rice, Special",56.48
+2025-10,2025,10,Philippines,0,"Rice, Special",56.39
+2025-11,2025,11,Philippines,0,"Rice, Special",56.93
+2025-12,2025,12,Philippines,0,"Rice, Special",58.38
+2026-01,2026,1,Philippines,0,"Rice, Special",59.79
+2026-02,2026,2,Philippines,0,"Rice, Special",61.15
+2026-03,2026,3,Philippines,0,"Rice, Special",62.85
+2026-04,2026,4,Philippines,0,"Rice, Special",65.45
+2026-05,2026,5,Philippines,0,"Rice, Special",65.05
+2026-06,2026,6,Philippines,0,"Rice, Special",63.95
+2026-07,2026,7,Philippines,0,"Rice, Special",63.75
+2026-08,2026,8,Philippines,0,"Rice, Special",63.43
+2026-09,2026,9,Philippines,0,"Rice, Special",63.72
+2026-10,2026,10,Philippines,0,"Rice, Special",63.63
+2018-01,2018,1,Philippines,0,"Rice, Well-Milled",44.77
+2018-02,2018,2,Philippines,0,"Rice, Well-Milled",45.25
+2018-03,2018,3,Philippines,0,"Rice, Well-Milled",45.79
+2018-04,2018,4,Philippines,0,"Rice, Well-Milled",46.01
+2018-05,2018,5,Philippines,0,"Rice, Well-Milled",46.32
+2018-06,2018,6,Philippines,0,"Rice, Well-Milled",46.55
+2018-07,2018,7,Philippines,0,"Rice, Well-Milled",46.99
+2018-08,2018,8,Philippines,0,"Rice, Well-Milled",48.11
+2018-09,2018,9,Philippines,0,"Rice, Well-Milled",49.85
+2018-10,2018,10,Philippines,0,"Rice, Well-Milled",50.21
+2018-11,2018,11,Philippines,0,"Rice, Well-Milled",49.03
+2018-12,2018,12,Philippines,0,"Rice, Well-Milled",47.88
+2019-01,2019,1,Philippines,0,"Rice, Well-Milled",47.23
+2019-02,2019,2,Philippines,0,"Rice, Well-Milled",46.99
+2019-03,2019,3,Philippines,0,"Rice, Well-Milled",46.66
+2019-04,2019,4,Philippines,0,"Rice, Well-Milled",46.22
+2019-05,2019,5,Philippines,0,"Rice, Well-Milled",45.74
+2019-06,2019,6,Philippines,0,"Rice, Well-Milled",45.42
+2019-07,2019,7,Philippines,0,"Rice, Well-Milled",45.05
+2019-08,2019,8,Philippines,0,"Rice, Well-Milled",44.79
+2019-09,2019,9,Philippines,0,"Rice, Well-Milled",44.33
+2019-10,2019,10,Philippines,0,"Rice, Well-Milled",43.88
+2019-11,2019,11,Philippines,0,"Rice, Well-Milled",43.44
+2019-12,2019,12,Philippines,0,"Rice, Well-Milled",43.18
+2020-01,2020,1,Philippines,0,"Rice, Well-Milled",43.02
+2020-02,2020,2,Philippines,0,"Rice, Well-Milled",42.86
+2020-03,2020,3,Philippines,0,"Rice, Well-Milled",42.66
+2020-04,2020,4,Philippines,0,"Rice, Well-Milled",43.61
+2020-05,2020,5,Philippines,0,"Rice, Well-Milled",43.88
+2020-06,2020,6,Philippines,0,"Rice, Well-Milled",44.09
+2020-07,2020,7,Philippines,0,"Rice, Well-Milled",44.16
+2020-08,2020,8,Philippines,0,"Rice, Well-Milled",44.05
+2020-09,2020,9,Philippines,0,"Rice, Well-Milled",43.83
+2020-10,2020,10,Philippines,0,"Rice, Well-Milled",43.46
+2020-11,2020,11,Philippines,0,"Rice, Well-Milled",43.29
+2020-12,2020,12,Philippines,0,"Rice, Well-Milled",43.27
+2021-01,2021,1,Philippines,0,"Rice, Well-Milled",42.84
+2021-02,2021,2,Philippines,0,"Rice, Well-Milled",42.98
+2021-03,2021,3,Philippines,0,"Rice, Well-Milled",43.07
+2021-04,2021,4,Philippines,0,"Rice, Well-Milled",43.13
+2021-05,2021,5,Philippines,0,"Rice, Well-Milled",43.18
+2021-06,2021,6,Philippines,0,"Rice, Well-Milled",43.16
+2021-07,2021,7,Philippines,0,"Rice, Well-Milled",43.27
+2021-08,2021,8,Philippines,0,"Rice, Well-Milled",43.45
+2021-09,2021,9,Philippines,0,"Rice, Well-Milled",43.37
+2021-10,2021,10,Philippines,0,"Rice, Well-Milled",43.27
+2021-11,2021,11,Philippines,0,"Rice, Well-Milled",43.25
+2021-12,2021,12,Philippines,0,"Rice, Well-Milled",43.22
+2022-01,2022,1,Philippines,0,"Rice, Well-Milled",43.13
+2022-02,2022,2,Philippines,0,"Rice, Well-Milled",43.17
+2022-03,2022,3,Philippines,0,"Rice, Well-Milled",43.21
+2022-04,2022,4,Philippines,0,"Rice, Well-Milled",43.31
+2022-05,2022,5,Philippines,0,"Rice, Well-Milled",43.42
+2022-06,2022,6,Philippines,0,"Rice, Well-Milled",43.62
+2022-07,2022,7,Philippines,0,"Rice, Well-Milled",43.72
+2022-08,2022,8,Philippines,0,"Rice, Well-Milled",43.88
+2022-09,2022,9,Philippines,0,"Rice, Well-Milled",43.8
+2022-10,2022,10,Philippines,0,"Rice, Well-Milled",43.82
+2022-11,2022,11,Philippines,0,"Rice, Well-Milled",43.86
+2022-12,2022,12,Philippines,0,"Rice, Well-Milled",43.98
+2023-01,2023,1,Philippines,0,"Rice, Well-Milled",43.92
+2023-02,2023,2,Philippines,0,"Rice, Well-Milled",43.99
+2023-03,2023,3,Philippines,0,"Rice, Well-Milled",44.23
+2023-04,2023,4,Philippines,0,"Rice, Well-Milled",44.53
+2023-05,2023,5,Philippines,0,"Rice, Well-Milled",44.78
+2023-06,2023,6,Philippines,0,"Rice, Well-Milled",44.99
+2023-07,2023,7,Philippines,0,"Rice, Well-Milled",45.32
+2023-08,2023,8,Philippines,0,"Rice, Well-Milled",47.65
+2023-09,2023,9,Philippines,0,"Rice, Well-Milled",52.69
+2023-10,2023,10,Philippines,0,"Rice, Well-Milled",50.99
+2023-11,2023,11,Philippines,0,"Rice, Well-Milled",51.99
+2023-12,2023,12,Philippines,0,"Rice, Well-Milled",53.82
+2024-01,2024,1,Philippines,0,"Rice, Well-Milled",54.91
+2024-02,2024,2,Philippines,0,"Rice, Well-Milled",55.93
+2024-03,2024,3,Philippines,0,"Rice, Well-Milled",56.44
+2024-04,2024,4,Philippines,0,"Rice, Well-Milled",56.42
+2024-05,2024,5,Philippines,0,"Rice, Well-Milled",56.06
+2024-06,2024,6,Philippines,0,"Rice, Well-Milled",55.96
+2024-07,2024,7,Philippines,0,"Rice, Well-Milled",55.85
+2024-08,2024,8,Philippines,0,"Rice, Well-Milled",55.56
+2024-09,2024,9,Philippines,0,"Rice, Well-Milled",55.51
+2024-10,2024,10,Philippines,0,"Rice, Well-Milled",55.28
+2024-11,2024,11,Philippines,0,"Rice, Well-Milled",54.64
+2024-12,2024,12,Philippines,0,"Rice, Well-Milled",54.38
+2025-01,2025,1,Philippines,0,"Rice, Well-Milled",54.14
+2025-02,2025,2,Philippines,0,"Rice, Well-Milled",53.46
+2025-03,2025,3,Philippines,0,"Rice, Well-Milled",52.25
+2025-04,2025,4,Philippines,0,"Rice, Well-Milled",50.54
+2025-05,2025,5,Philippines,0,"Rice, Well-Milled",49.45
+2025-06,2025,6,Philippines,0,"Rice, Well-Milled",48.47
+2025-07,2025,7,Philippines,0,"Rice, Well-Milled",47.6
+2025-08,2025,8,Philippines,0,"Rice, Well-Milled",46.51
+2025-09,2025,9,Philippines,0,"Rice, Well-Milled",46.5
+2025-10,2025,10,Philippines,0,"Rice, Well-Milled",46.49
+2025-11,2025,11,Philippines,0,"Rice, Well-Milled",46.8
+2025-12,2025,12,Philippines,0,"Rice, Well-Milled",48.25
+2026-01,2026,1,Philippines,0,"Rice, Well-Milled",50.05
+2026-02,2026,2,Philippines,0,"Rice, Well-Milled",52.21
+2026-03,2026,3,Philippines,0,"Rice, Well-Milled",54.89
+2026-04,2026,4,Philippines,0,"Rice, Well-Milled",58.07
+2026-05,2026,5,Philippines,0,"Rice, Well-Milled",57.5
+2026-06,2026,6,Philippines,0,"Rice, Well-Milled",55.98
+2026-07,2026,7,Philippines,0,"Rice, Well-Milled",55.41
+2026-08,2026,8,Philippines,0,"Rice, Well-Milled",55.7
+2026-09,2026,9,Philippines,0,"Rice, Well-Milled",55.68
+2026-10,2026,10,Philippines,0,"Rice, Well-Milled",55.62
+2018-01,2018,1,NCR - National Capital Region,1,"Rice, Regular-Milled",37.26
+2018-02,2018,2,NCR - National Capital Region,1,"Rice, Regular-Milled",37.42
+2018-03,2018,3,NCR - National Capital Region,1,"Rice, Regular-Milled",38.03
+2018-04,2018,4,NCR - National Capital Region,1,"Rice, Regular-Milled",38.07
+2018-05,2018,5,NCR - National Capital Region,1,"Rice, Regular-Milled",37.92
+2018-06,2018,6,NCR - National Capital Region,1,"Rice, Regular-Milled",38.14
+2018-07,2018,7,NCR - National Capital Region,1,"Rice, Regular-Milled",38.54
+2018-08,2018,8,NCR - National Capital Region,1,"Rice, Regular-Milled",39.08
+2018-09,2018,9,NCR - National Capital Region,1,"Rice, Regular-Milled",42.2
+2018-10,2018,10,NCR - National Capital Region,1,"Rice, Regular-Milled",42.38
+2018-11,2018,11,NCR - National Capital Region,1,"Rice, Regular-Milled",40.01
+2018-12,2018,12,NCR - National Capital Region,1,"Rice, Regular-Milled",39.07
+2019-01,2019,1,NCR - National Capital Region,1,"Rice, Regular-Milled",39.15
+2019-02,2019,2,NCR - National Capital Region,1,"Rice, Regular-Milled",38.74
+2019-03,2019,3,NCR - National Capital Region,1,"Rice, Regular-Milled",38.45
+2019-04,2019,4,NCR - National Capital Region,1,"Rice, Regular-Milled",38.35
+2019-05,2019,5,NCR - National Capital Region,1,"Rice, Regular-Milled",38.15
+2019-06,2019,6,NCR - National Capital Region,1,"Rice, Regular-Milled",38.27
+2019-07,2019,7,NCR - National Capital Region,1,"Rice, Regular-Milled",37.59
+2019-08,2019,8,NCR - National Capital Region,1,"Rice, Regular-Milled",36.66
+2019-09,2019,9,NCR - National Capital Region,1,"Rice, Regular-Milled",36.07
+2019-10,2019,10,NCR - National Capital Region,1,"Rice, Regular-Milled",36.05
+2019-11,2019,11,NCR - National Capital Region,1,"Rice, Regular-Milled",35.82
+2019-12,2019,12,NCR - National Capital Region,1,"Rice, Regular-Milled",35.99
+2020-01,2020,1,NCR - National Capital Region,1,"Rice, Regular-Milled",35.8
+2020-02,2020,2,NCR - National Capital Region,1,"Rice, Regular-Milled",35.92
+2020-03,2020,3,NCR - National Capital Region,1,"Rice, Regular-Milled",36.13
+2020-04,2020,4,NCR - National Capital Region,1,"Rice, Regular-Milled",36.5
+2020-05,2020,5,NCR - National Capital Region,1,"Rice, Regular-Milled",36.95
+2020-06,2020,6,NCR - National Capital Region,1,"Rice, Regular-Milled",37.63
+2020-07,2020,7,NCR - National Capital Region,1,"Rice, Regular-Milled",37.91
+2020-08,2020,8,NCR - National Capital Region,1,"Rice, Regular-Milled",38.09
+2020-09,2020,9,NCR - National Capital Region,1,"Rice, Regular-Milled",37.97
+2020-10,2020,10,NCR - National Capital Region,1,"Rice, Regular-Milled",38.0
+2020-11,2020,11,NCR - National Capital Region,1,"Rice, Regular-Milled",37.88
+2020-12,2020,12,NCR - National Capital Region,1,"Rice, Regular-Milled",37.91
+2021-01,2021,1,NCR - National Capital Region,1,"Rice, Regular-Milled",38.07
+2021-02,2021,2,NCR - National Capital Region,1,"Rice, Regular-Milled",38.08
+2021-03,2021,3,NCR - National Capital Region,1,"Rice, Regular-Milled",38.1
+2021-04,2021,4,NCR - National Capital Region,1,"Rice, Regular-Milled",38.17
+2021-05,2021,5,NCR - National Capital Region,1,"Rice, Regular-Milled",38.26
+2021-06,2021,6,NCR - National Capital Region,1,"Rice, Regular-Milled",38.3
+2021-07,2021,7,NCR - National Capital Region,1,"Rice, Regular-Milled",38.2
+2021-08,2021,8,NCR - National Capital Region,1,"Rice, Regular-Milled",38.42
+2021-09,2021,9,NCR - National Capital Region,1,"Rice, Regular-Milled",38.37
+2021-10,2021,10,NCR - National Capital Region,1,"Rice, Regular-Milled",38.46
+2021-11,2021,11,NCR - National Capital Region,1,"Rice, Regular-Milled",38.51
+2021-12,2021,12,NCR - National Capital Region,1,"Rice, Regular-Milled",38.46
+2022-01,2022,1,NCR - National Capital Region,1,"Rice, Regular-Milled",38.81
+2022-02,2022,2,NCR - National Capital Region,1,"Rice, Regular-Milled",38.91
+2022-03,2022,3,NCR - National Capital Region,1,"Rice, Regular-Milled",38.86
+2022-04,2022,4,NCR - National Capital Region,1,"Rice, Regular-Milled",38.97
+2022-05,2022,5,NCR - National Capital Region,1,"Rice, Regular-Milled",38.97
+2022-06,2022,6,NCR - National Capital Region,1,"Rice, Regular-Milled",38.97
+2022-07,2022,7,NCR - National Capital Region,1,"Rice, Regular-Milled",38.97
+2022-08,2022,8,NCR - National Capital Region,1,"Rice, Regular-Milled",38.97
+2022-09,2022,9,NCR - National Capital Region,1,"Rice, Regular-Milled",38.99
+2022-10,2022,10,NCR - National Capital Region,1,"Rice, Regular-Milled",39.06
+2022-11,2022,11,NCR - National Capital Region,1,"Rice, Regular-Milled",39.15
+2022-12,2022,12,NCR - National Capital Region,1,"Rice, Regular-Milled",39.17
+2023-01,2023,1,NCR - National Capital Region,1,"Rice, Regular-Milled",39.25
+2023-02,2023,2,NCR - National Capital Region,1,"Rice, Regular-Milled",39.19
+2023-03,2023,3,NCR - National Capital Region,1,"Rice, Regular-Milled",39.43
+2023-04,2023,4,NCR - National Capital Region,1,"Rice, Regular-Milled",39.75
+2023-05,2023,5,NCR - National Capital Region,1,"Rice, Regular-Milled",39.9
+2023-06,2023,6,NCR - National Capital Region,1,"Rice, Regular-Milled",40.09
+2023-07,2023,7,NCR - National Capital Region,1,"Rice, Regular-Milled",40.6
+2023-08,2023,8,NCR - National Capital Region,1,"Rice, Regular-Milled",42.7
+2023-09,2023,9,NCR - National Capital Region,1,"Rice, Regular-Milled",43.05
+2023-10,2023,10,NCR - National Capital Region,1,"Rice, Regular-Milled",42.04
+2023-11,2023,11,NCR - National Capital Region,1,"Rice, Regular-Milled",42.79
+2023-12,2023,12,NCR - National Capital Region,1,"Rice, Regular-Milled",43.71
+2024-01,2024,1,NCR - National Capital Region,1,"Rice, Regular-Milled",44.01
+2024-02,2024,2,NCR - National Capital Region,1,"Rice, Regular-Milled",44.11
+2024-03,2024,3,NCR - National Capital Region,1,"Rice, Regular-Milled",44.63
+2024-04,2024,4,NCR - National Capital Region,1,"Rice, Regular-Milled",45.23
+2024-05,2024,5,NCR - National Capital Region,1,"Rice, Regular-Milled",46.13
+2024-06,2024,6,NCR - National Capital Region,1,"Rice, Regular-Milled",46.18
+2024-07,2024,7,NCR - National Capital Region,1,"Rice, Regular-Milled",45.88
+2024-08,2024,8,NCR - National Capital Region,1,"Rice, Regular-Milled",45.75
+2024-09,2024,9,NCR - National Capital Region,1,"Rice, Regular-Milled",45.94
+2024-10,2024,10,NCR - National Capital Region,1,"Rice, Regular-Milled",45.53
+2024-11,2024,11,NCR - National Capital Region,1,"Rice, Regular-Milled",45.05
+2024-12,2024,12,NCR - National Capital Region,1,"Rice, Regular-Milled",44.94
+2025-01,2025,1,NCR - National Capital Region,1,"Rice, Regular-Milled",44.52
+2025-02,2025,2,NCR - National Capital Region,1,"Rice, Regular-Milled",43.81
+2025-03,2025,3,NCR - National Capital Region,1,"Rice, Regular-Milled",42.61
+2025-04,2025,4,NCR - National Capital Region,1,"Rice, Regular-Milled",41.73
+2025-05,2025,5,NCR - National Capital Region,1,"Rice, Regular-Milled",41.17
+2025-06,2025,6,NCR - National Capital Region,1,"Rice, Regular-Milled",40.94
+2025-07,2025,7,NCR - National Capital Region,1,"Rice, Regular-Milled",40.37
+2025-08,2025,8,NCR - National Capital Region,1,"Rice, Regular-Milled",39.77
+2025-09,2025,9,NCR - National Capital Region,1,"Rice, Regular-Milled",39.63
+2025-10,2025,10,NCR - National Capital Region,1,"Rice, Regular-Milled",39.39
+2025-11,2025,11,NCR - National Capital Region,1,"Rice, Regular-Milled",39.7
+2025-12,2025,12,NCR - National Capital Region,1,"Rice, Regular-Milled",40.38
+2026-01,2026,1,NCR - National Capital Region,1,"Rice, Regular-Milled",41.84
+2026-02,2026,2,NCR - National Capital Region,1,"Rice, Regular-Milled",43.71
+2026-03,2026,3,NCR - National Capital Region,1,"Rice, Regular-Milled",45.77
+2026-04,2026,4,NCR - National Capital Region,1,"Rice, Regular-Milled",46.85
+2026-05,2026,5,NCR - National Capital Region,1,"Rice, Regular-Milled",46.46
+2026-06,2026,6,NCR - National Capital Region,1,"Rice, Regular-Milled",46.16
+2026-07,2026,7,NCR - National Capital Region,1,"Rice, Regular-Milled",46.02
+2026-08,2026,8,NCR - National Capital Region,1,"Rice, Regular-Milled",46.18
+2026-09,2026,9,NCR - National Capital Region,1,"Rice, Regular-Milled",46.58
+2026-10,2026,10,NCR - National Capital Region,1,"Rice, Regular-Milled",46.66
+2018-01,2018,1,NCR - National Capital Region,1,"Rice, Special",54.62
+2018-02,2018,2,NCR - National Capital Region,1,"Rice, Special",54.89
+2018-03,2018,3,NCR - National Capital Region,1,"Rice, Special",54.96
+2018-04,2018,4,NCR - National Capital Region,1,"Rice, Special",54.98
+2018-05,2018,5,NCR - National Capital Region,1,"Rice, Special",55.12
+2018-06,2018,6,NCR - National Capital Region,1,"Rice, Special",55.12
+2018-07,2018,7,NCR - National Capital Region,1,"Rice, Special",55.74
+2018-08,2018,8,NCR - National Capital Region,1,"Rice, Special",56.16
+2018-09,2018,9,NCR - National Capital Region,1,"Rice, Special",58.4
+2018-10,2018,10,NCR - National Capital Region,1,"Rice, Special",58.53
+2018-11,2018,11,NCR - National Capital Region,1,"Rice, Special",57.24
+2018-12,2018,12,NCR - National Capital Region,1,"Rice, Special",56.58
+2019-01,2019,1,NCR - National Capital Region,1,"Rice, Special",56.64
+2019-02,2019,2,NCR - National Capital Region,1,"Rice, Special",56.48
+2019-03,2019,3,NCR - National Capital Region,1,"Rice, Special",56.4
+2019-04,2019,4,NCR - National Capital Region,1,"Rice, Special",56.55
+2019-05,2019,5,NCR - National Capital Region,1,"Rice, Special",56.26
+2019-06,2019,6,NCR - National Capital Region,1,"Rice, Special",56.24
+2019-07,2019,7,NCR - National Capital Region,1,"Rice, Special",55.86
+2019-08,2019,8,NCR - National Capital Region,1,"Rice, Special",55.6
+2019-09,2019,9,NCR - National Capital Region,1,"Rice, Special",55.57
+2019-10,2019,10,NCR - National Capital Region,1,"Rice, Special",55.49
+2019-11,2019,11,NCR - National Capital Region,1,"Rice, Special",55.58
+2019-12,2019,12,NCR - National Capital Region,1,"Rice, Special",55.41
+2020-01,2020,1,NCR - National Capital Region,1,"Rice, Special",55.48
+2020-02,2020,2,NCR - National Capital Region,1,"Rice, Special",55.48
+2020-03,2020,3,NCR - National Capital Region,1,"Rice, Special",55.42
+2020-04,2020,4,NCR - National Capital Region,1,"Rice, Special",55.73
+2020-05,2020,5,NCR - National Capital Region,1,"Rice, Special",55.87
+2020-06,2020,6,NCR - National Capital Region,1,"Rice, Special",55.54
+2020-07,2020,7,NCR - National Capital Region,1,"Rice, Special",55.5
+2020-08,2020,8,NCR - National Capital Region,1,"Rice, Special",55.44
+2020-09,2020,9,NCR - National Capital Region,1,"Rice, Special",55.4
+2020-10,2020,10,NCR - National Capital Region,1,"Rice, Special",55.09
+2020-11,2020,11,NCR - National Capital Region,1,"Rice, Special",55.22
+2020-12,2020,12,NCR - National Capital Region,1,"Rice, Special",55.27
+2021-01,2021,1,NCR - National Capital Region,1,"Rice, Special",55.33
+2021-02,2021,2,NCR - National Capital Region,1,"Rice, Special",55.59
+2021-03,2021,3,NCR - National Capital Region,1,"Rice, Special",55.6
+2021-04,2021,4,NCR - National Capital Region,1,"Rice, Special",55.64
+2021-05,2021,5,NCR - National Capital Region,1,"Rice, Special",55.63
+2021-06,2021,6,NCR - National Capital Region,1,"Rice, Special",55.42
+2021-07,2021,7,NCR - National Capital Region,1,"Rice, Special",55.41
+2021-08,2021,8,NCR - National Capital Region,1,"Rice, Special",53.31
+2021-09,2021,9,NCR - National Capital Region,1,"Rice, Special",55.41
+2021-10,2021,10,NCR - National Capital Region,1,"Rice, Special",53.15
+2021-11,2021,11,NCR - National Capital Region,1,"Rice, Special",53.32
+2021-12,2021,12,NCR - National Capital Region,1,"Rice, Special",53.28
+2022-01,2022,1,NCR - National Capital Region,1,"Rice, Special",53.15
+2022-02,2022,2,NCR - National Capital Region,1,"Rice, Special",52.83
+2022-03,2022,3,NCR - National Capital Region,1,"Rice, Special",52.68
+2022-04,2022,4,NCR - National Capital Region,1,"Rice, Special",52.83
+2022-05,2022,5,NCR - National Capital Region,1,"Rice, Special",52.82
+2022-06,2022,6,NCR - National Capital Region,1,"Rice, Special",52.91
+2022-07,2022,7,NCR - National Capital Region,1,"Rice, Special",52.83
+2022-08,2022,8,NCR - National Capital Region,1,"Rice, Special",53.09
+2022-09,2022,9,NCR - National Capital Region,1,"Rice, Special",53.06
+2022-10,2022,10,NCR - National Capital Region,1,"Rice, Special",53.03
+2022-11,2022,11,NCR - National Capital Region,1,"Rice, Special",53.01
+2022-12,2022,12,NCR - National Capital Region,1,"Rice, Special",53.1
+2023-01,2023,1,NCR - National Capital Region,1,"Rice, Special",53.11
+2023-02,2023,2,NCR - National Capital Region,1,"Rice, Special",53.01
+2023-03,2023,3,NCR - National Capital Region,1,"Rice, Special",52.98
+2023-04,2023,4,NCR - National Capital Region,1,"Rice, Special",53.02
+2023-05,2023,5,NCR - National Capital Region,1,"Rice, Special",52.92
+2023-06,2023,6,NCR - National Capital Region,1,"Rice, Special",52.9
+2023-07,2023,7,NCR - National Capital Region,1,"Rice, Special",52.96
+2023-08,2023,8,NCR - National Capital Region,1,"Rice, Special",54.41
+2023-09,2023,9,NCR - National Capital Region,1,"Rice, Special",56.78
+2023-10,2023,10,NCR - National Capital Region,1,"Rice, Special",56.86
+2023-11,2023,11,NCR - National Capital Region,1,"Rice, Special",58.42
+2023-12,2023,12,NCR - National Capital Region,1,"Rice, Special",60.11
+2024-01,2024,1,NCR - National Capital Region,1,"Rice, Special",60.65
+2024-02,2024,2,NCR - National Capital Region,1,"Rice, Special",60.96
+2024-03,2024,3,NCR - National Capital Region,1,"Rice, Special",61.0
+2024-04,2024,4,NCR - National Capital Region,1,"Rice, Special",61.25
+2024-05,2024,5,NCR - National Capital Region,1,"Rice, Special",61.45
+2024-06,2024,6,NCR - National Capital Region,1,"Rice, Special",61.46
+2024-07,2024,7,NCR - National Capital Region,1,"Rice, Special",61.4
+2024-08,2024,8,NCR - National Capital Region,1,"Rice, Special",60.99
+2024-09,2024,9,NCR - National Capital Region,1,"Rice, Special",60.92
+2024-10,2024,10,NCR - National Capital Region,1,"Rice, Special",60.92
+2024-11,2024,11,NCR - National Capital Region,1,"Rice, Special",60.91
+2024-12,2024,12,NCR - National Capital Region,1,"Rice, Special",60.8
+2025-01,2025,1,NCR - National Capital Region,1,"Rice, Special",60.49
+2025-02,2025,2,NCR - National Capital Region,1,"Rice, Special",59.64
+2025-03,2025,3,NCR - National Capital Region,1,"Rice, Special",58.77
+2025-04,2025,4,NCR - National Capital Region,1,"Rice, Special",57.97
+2025-05,2025,5,NCR - National Capital Region,1,"Rice, Special",57.17
+2025-06,2025,6,NCR - National Capital Region,1,"Rice, Special",57.14
+2025-07,2025,7,NCR - National Capital Region,1,"Rice, Special",56.82
+2025-08,2025,8,NCR - National Capital Region,1,"Rice, Special",56.5
+2025-09,2025,9,NCR - National Capital Region,1,"Rice, Special",56.33
+2025-10,2025,10,NCR - National Capital Region,1,"Rice, Special",55.98
+2025-11,2025,11,NCR - National Capital Region,1,"Rice, Special",56.41
+2025-12,2025,12,NCR - National Capital Region,1,"Rice, Special",57.69
+2026-01,2026,1,NCR - National Capital Region,1,"Rice, Special",58.76
+2026-02,2026,2,NCR - National Capital Region,1,"Rice, Special",59.89
+2026-03,2026,3,NCR - National Capital Region,1,"Rice, Special",61.33
+2026-04,2026,4,NCR - National Capital Region,1,"Rice, Special",61.85
+2026-05,2026,5,NCR - National Capital Region,1,"Rice, Special",61.07
+2026-06,2026,6,NCR - National Capital Region,1,"Rice, Special",60.41
+2026-07,2026,7,NCR - National Capital Region,1,"Rice, Special",60.06
+2026-08,2026,8,NCR - National Capital Region,1,"Rice, Special",60.1
+2026-09,2026,9,NCR - National Capital Region,1,"Rice, Special",60.18
+2026-10,2026,10,NCR - National Capital Region,1,"Rice, Special",60.5
+2018-01,2018,1,NCR - National Capital Region,1,"Rice, Well-Milled",43.8
+2018-02,2018,2,NCR - National Capital Region,1,"Rice, Well-Milled",43.94
+2018-03,2018,3,NCR - National Capital Region,1,"Rice, Well-Milled",44.17
+2018-04,2018,4,NCR - National Capital Region,1,"Rice, Well-Milled",44.19
+2018-05,2018,5,NCR - National Capital Region,1,"Rice, Well-Milled",44.34
+2018-06,2018,6,NCR - National Capital Region,1,"Rice, Well-Milled",44.42
+2018-07,2018,7,NCR - National Capital Region,1,"Rice, Well-Milled",44.87
+2018-08,2018,8,NCR - National Capital Region,1,"Rice, Well-Milled",45.36
+2018-09,2018,9,NCR - National Capital Region,1,"Rice, Well-Milled",47.1
+2018-10,2018,10,NCR - National Capital Region,1,"Rice, Well-Milled",47.45
+2018-11,2018,11,NCR - National Capital Region,1,"Rice, Well-Milled",43.7
+2018-12,2018,12,NCR - National Capital Region,1,"Rice, Well-Milled",42.83
+2019-01,2019,1,NCR - National Capital Region,1,"Rice, Well-Milled",42.88
+2019-02,2019,2,NCR - National Capital Region,1,"Rice, Well-Milled",42.69
+2019-03,2019,3,NCR - National Capital Region,1,"Rice, Well-Milled",42.61
+2019-04,2019,4,NCR - National Capital Region,1,"Rice, Well-Milled",42.66
+2019-05,2019,5,NCR - National Capital Region,1,"Rice, Well-Milled",42.36
+2019-06,2019,6,NCR - National Capital Region,1,"Rice, Well-Milled",42.31
+2019-07,2019,7,NCR - National Capital Region,1,"Rice, Well-Milled",41.77
+2019-08,2019,8,NCR - National Capital Region,1,"Rice, Well-Milled",41.56
+2019-09,2019,9,NCR - National Capital Region,1,"Rice, Well-Milled",41.46
+2019-10,2019,10,NCR - National Capital Region,1,"Rice, Well-Milled",41.19
+2019-11,2019,11,NCR - National Capital Region,1,"Rice, Well-Milled",41.2
+2019-12,2019,12,NCR - National Capital Region,1,"Rice, Well-Milled",41.23
+2020-01,2020,1,NCR - National Capital Region,1,"Rice, Well-Milled",41.18
+2020-02,2020,2,NCR - National Capital Region,1,"Rice, Well-Milled",40.95
+2020-03,2020,3,NCR - National Capital Region,1,"Rice, Well-Milled",41.2
+2020-04,2020,4,NCR - National Capital Region,1,"Rice, Well-Milled",41.61
+2020-05,2020,5,NCR - National Capital Region,1,"Rice, Well-Milled",41.91
+2020-06,2020,6,NCR - National Capital Region,1,"Rice, Well-Milled",42.44
+2020-07,2020,7,NCR - National Capital Region,1,"Rice, Well-Milled",42.68
+2020-08,2020,8,NCR - National Capital Region,1,"Rice, Well-Milled",42.69
+2020-09,2020,9,NCR - National Capital Region,1,"Rice, Well-Milled",42.57
+2020-10,2020,10,NCR - National Capital Region,1,"Rice, Well-Milled",42.49
+2020-11,2020,11,NCR - National Capital Region,1,"Rice, Well-Milled",42.43
+2020-12,2020,12,NCR - National Capital Region,1,"Rice, Well-Milled",42.59
+2021-01,2021,1,NCR - National Capital Region,1,"Rice, Well-Milled",42.55
+2021-02,2021,2,NCR - National Capital Region,1,"Rice, Well-Milled",42.6
+2021-03,2021,3,NCR - National Capital Region,1,"Rice, Well-Milled",42.62
+2021-04,2021,4,NCR - National Capital Region,1,"Rice, Well-Milled",42.76
+2021-05,2021,5,NCR - National Capital Region,1,"Rice, Well-Milled",42.83
+2021-06,2021,6,NCR - National Capital Region,1,"Rice, Well-Milled",42.82
+2021-07,2021,7,NCR - National Capital Region,1,"Rice, Well-Milled",42.79
+2021-08,2021,8,NCR - National Capital Region,1,"Rice, Well-Milled",42.9
+2021-09,2021,9,NCR - National Capital Region,1,"Rice, Well-Milled",42.87
+2021-10,2021,10,NCR - National Capital Region,1,"Rice, Well-Milled",42.96
+2021-11,2021,11,NCR - National Capital Region,1,"Rice, Well-Milled",43.02
+2021-12,2021,12,NCR - National Capital Region,1,"Rice, Well-Milled",42.93
+2022-01,2022,1,NCR - National Capital Region,1,"Rice, Well-Milled",42.95
+2022-02,2022,2,NCR - National Capital Region,1,"Rice, Well-Milled",42.84
+2022-03,2022,3,NCR - National Capital Region,1,"Rice, Well-Milled",42.92
+2022-04,2022,4,NCR - National Capital Region,1,"Rice, Well-Milled",43.03
+2022-05,2022,5,NCR - National Capital Region,1,"Rice, Well-Milled",43.09
+2022-06,2022,6,NCR - National Capital Region,1,"Rice, Well-Milled",43.15
+2022-07,2022,7,NCR - National Capital Region,1,"Rice, Well-Milled",43.32
+2022-08,2022,8,NCR - National Capital Region,1,"Rice, Well-Milled",43.32
+2022-09,2022,9,NCR - National Capital Region,1,"Rice, Well-Milled",43.09
+2022-10,2022,10,NCR - National Capital Region,1,"Rice, Well-Milled",43.14
+2022-11,2022,11,NCR - National Capital Region,1,"Rice, Well-Milled",43.17
+2022-12,2022,12,NCR - National Capital Region,1,"Rice, Well-Milled",43.45
+2023-01,2023,1,NCR - National Capital Region,1,"Rice, Well-Milled",43.25
+2023-02,2023,2,NCR - National Capital Region,1,"Rice, Well-Milled",42.98
+2023-03,2023,3,NCR - National Capital Region,1,"Rice, Well-Milled",43.1
+2023-04,2023,4,NCR - National Capital Region,1,"Rice, Well-Milled",43.23
+2023-05,2023,5,NCR - National Capital Region,1,"Rice, Well-Milled",43.21
+2023-06,2023,6,NCR - National Capital Region,1,"Rice, Well-Milled",43.19
+2023-07,2023,7,NCR - National Capital Region,1,"Rice, Well-Milled",43.42
+2023-08,2023,8,NCR - National Capital Region,1,"Rice, Well-Milled",47.06
+2023-09,2023,9,NCR - National Capital Region,1,"Rice, Well-Milled",49.34
+2023-10,2023,10,NCR - National Capital Region,1,"Rice, Well-Milled",47.95
+2023-11,2023,11,NCR - National Capital Region,1,"Rice, Well-Milled",49.66
+2023-12,2023,12,NCR - National Capital Region,1,"Rice, Well-Milled",51.26
+2024-01,2024,1,NCR - National Capital Region,1,"Rice, Well-Milled",51.87
+2024-02,2024,2,NCR - National Capital Region,1,"Rice, Well-Milled",52.35
+2024-03,2024,3,NCR - National Capital Region,1,"Rice, Well-Milled",52.64
+2024-04,2024,4,NCR - National Capital Region,1,"Rice, Well-Milled",52.98
+2024-05,2024,5,NCR - National Capital Region,1,"Rice, Well-Milled",53.24
+2024-06,2024,6,NCR - National Capital Region,1,"Rice, Well-Milled",53.2
+2024-07,2024,7,NCR - National Capital Region,1,"Rice, Well-Milled",53.1
+2024-08,2024,8,NCR - National Capital Region,1,"Rice, Well-Milled",53.03
+2024-09,2024,9,NCR - National Capital Region,1,"Rice, Well-Milled",52.9
+2024-10,2024,10,NCR - National Capital Region,1,"Rice, Well-Milled",52.76
+2024-11,2024,11,NCR - National Capital Region,1,"Rice, Well-Milled",52.52
+2024-12,2024,12,NCR - National Capital Region,1,"Rice, Well-Milled",52.49
+2025-01,2025,1,NCR - National Capital Region,1,"Rice, Well-Milled",52.22
+2025-02,2025,2,NCR - National Capital Region,1,"Rice, Well-Milled",51.82
+2025-03,2025,3,NCR - National Capital Region,1,"Rice, Well-Milled",50.66
+2025-04,2025,4,NCR - National Capital Region,1,"Rice, Well-Milled",49.45
+2025-05,2025,5,NCR - National Capital Region,1,"Rice, Well-Milled",48.93
+2025-06,2025,6,NCR - National Capital Region,1,"Rice, Well-Milled",48.65
+2025-07,2025,7,NCR - National Capital Region,1,"Rice, Well-Milled",48.02
+2025-08,2025,8,NCR - National Capital Region,1,"Rice, Well-Milled",47.35
+2025-09,2025,9,NCR - National Capital Region,1,"Rice, Well-Milled",46.84
+2025-10,2025,10,NCR - National Capital Region,1,"Rice, Well-Milled",46.49
+2025-11,2025,11,NCR - National Capital Region,1,"Rice, Well-Milled",46.99
+2025-12,2025,12,NCR - National Capital Region,1,"Rice, Well-Milled",48.08
+2026-01,2026,1,NCR - National Capital Region,1,"Rice, Well-Milled",49.58
+2026-02,2026,2,NCR - National Capital Region,1,"Rice, Well-Milled",51.26
+2026-03,2026,3,NCR - National Capital Region,1,"Rice, Well-Milled",54.25
+2026-04,2026,4,NCR - National Capital Region,1,"Rice, Well-Milled",54.85
+2026-05,2026,5,NCR - National Capital Region,1,"Rice, Well-Milled",53.69
+2026-06,2026,6,NCR - National Capital Region,1,"Rice, Well-Milled",52.53
+2026-07,2026,7,NCR - National Capital Region,1,"Rice, Well-Milled",52.36
+2026-08,2026,8,NCR - National Capital Region,1,"Rice, Well-Milled",52.36
+2026-09,2026,9,NCR - National Capital Region,1,"Rice, Well-Milled",52.66
+2026-10,2026,10,NCR - National Capital Region,1,"Rice, Well-Milled",52.77
+2018-01,2018,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.76
+2018-02,2018,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",43.45
+2018-03,2018,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.1
+2018-04,2018,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.26
+2018-05,2018,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.39
+2018-06,2018,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.66
+2018-07,2018,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",45.18
+2018-08,2018,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",46.99
+2018-09,2018,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",47.46
+2018-10,2018,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",47.54
+2018-11,2018,11,Negros Island Region (NIR),1,"Rice, Regular-Milled",47.24
+2018-12,2018,12,Negros Island Region (NIR),1,"Rice, Regular-Milled",46.02
+2019-01,2019,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",45.56
+2019-02,2019,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.87
+2019-03,2019,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.55
+2019-04,2019,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.0
+2019-05,2019,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",43.05
+2019-06,2019,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.03
+2019-07,2019,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.11
+2019-08,2019,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.91
+2019-09,2019,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.68
+2019-10,2019,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.57
+2019-11,2019,11,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.8
+2019-12,2019,12,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.1
+2020-01,2020,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",38.9
+2020-02,2020,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",38.61
+2020-03,2020,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",39.23
+2020-04,2020,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.0
+2020-05,2020,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.4
+2020-06,2020,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.94
+2020-07,2020,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.94
+2020-08,2020,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.94
+2020-09,2020,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.97
+2020-10,2020,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.92
+2020-11,2020,11,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.64
+2020-12,2020,12,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.63
+2021-01,2021,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",39.78
+2021-02,2021,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.09
+2021-03,2021,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",39.98
+2021-04,2021,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",39.57
+2021-05,2021,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.14
+2021-06,2021,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",39.94
+2021-07,2021,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.02
+2021-08,2021,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.12
+2021-09,2021,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.06
+2021-10,2021,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.19
+2021-11,2021,11,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.15
+2021-12,2021,12,Negros Island Region (NIR),1,"Rice, Regular-Milled",40.33
+2022-01,2022,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.16
+2022-02,2022,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.26
+2022-03,2022,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.93
+2022-04,2022,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.79
+2022-05,2022,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.09
+2022-06,2022,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.17
+2022-07,2022,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.49
+2022-08,2022,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.03
+2022-09,2022,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.99
+2022-10,2022,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",41.76
+2022-11,2022,11,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.11
+2022-12,2022,12,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.31
+2023-01,2023,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.35
+2023-02,2023,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.29
+2023-03,2023,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.83
+2023-04,2023,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",42.98
+2023-05,2023,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",43.54
+2023-06,2023,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",43.68
+2023-07,2023,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",43.82
+2023-08,2023,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",45.22
+2023-09,2023,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",48.89
+2023-10,2023,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",47.21
+2023-11,2023,11,Negros Island Region (NIR),1,"Rice, Regular-Milled",49.12
+2023-12,2023,12,Negros Island Region (NIR),1,"Rice, Regular-Milled",51.59
+2024-01,2024,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",51.95
+2024-02,2024,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",52.82
+2024-03,2024,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.25
+2024-04,2024,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.58
+2024-05,2024,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.01
+2024-06,2024,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.67
+2024-07,2024,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.33
+2024-08,2024,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.32
+2024-09,2024,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",52.98
+2024-10,2024,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.38
+2024-11,2024,11,Negros Island Region (NIR),1,"Rice, Regular-Milled",52.82
+2024-12,2024,12,Negros Island Region (NIR),1,"Rice, Regular-Milled",52.73
+2025-01,2025,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",50.46
+2025-02,2025,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",49.29
+2025-03,2025,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",49.61
+2025-04,2025,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",48.53
+2025-05,2025,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",47.67
+2025-06,2025,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",46.02
+2025-07,2025,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.85
+2025-08,2025,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.32
+2025-09,2025,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",43.77
+2025-10,2025,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",43.33
+2025-11,2025,11,Negros Island Region (NIR),1,"Rice, Regular-Milled",43.5
+2025-12,2025,12,Negros Island Region (NIR),1,"Rice, Regular-Milled",44.67
+2026-01,2026,1,Negros Island Region (NIR),1,"Rice, Regular-Milled",45.41
+2026-02,2026,2,Negros Island Region (NIR),1,"Rice, Regular-Milled",47.48
+2026-03,2026,3,Negros Island Region (NIR),1,"Rice, Regular-Milled",48.4
+2026-04,2026,4,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.09
+2026-05,2026,5,Negros Island Region (NIR),1,"Rice, Regular-Milled",54.2
+2026-06,2026,6,Negros Island Region (NIR),1,"Rice, Regular-Milled",52.67
+2026-07,2026,7,Negros Island Region (NIR),1,"Rice, Regular-Milled",51.82
+2026-08,2026,8,Negros Island Region (NIR),1,"Rice, Regular-Milled",51.79
+2026-09,2026,9,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.85
+2026-10,2026,10,Negros Island Region (NIR),1,"Rice, Regular-Milled",53.41
+2018-01,2018,1,Negros Island Region (NIR),1,"Rice, Special",52.79
+2018-02,2018,2,Negros Island Region (NIR),1,"Rice, Special",53.27
+2018-03,2018,3,Negros Island Region (NIR),1,"Rice, Special",53.57
+2018-04,2018,4,Negros Island Region (NIR),1,"Rice, Special",54.16
+2018-05,2018,5,Negros Island Region (NIR),1,"Rice, Special",54.03
+2018-06,2018,6,Negros Island Region (NIR),1,"Rice, Special",54.45
+2018-07,2018,7,Negros Island Region (NIR),1,"Rice, Special",54.91
+2018-08,2018,8,Negros Island Region (NIR),1,"Rice, Special",55.51
+2018-09,2018,9,Negros Island Region (NIR),1,"Rice, Special",57.07
+2018-10,2018,10,Negros Island Region (NIR),1,"Rice, Special",57.27
+2018-11,2018,11,Negros Island Region (NIR),1,"Rice, Special",56.95
+2018-12,2018,12,Negros Island Region (NIR),1,"Rice, Special",56.69
+2019-01,2019,1,Negros Island Region (NIR),1,"Rice, Special",56.65
+2019-02,2019,2,Negros Island Region (NIR),1,"Rice, Special",56.31
+2019-03,2019,3,Negros Island Region (NIR),1,"Rice, Special",56.32
+2019-04,2019,4,Negros Island Region (NIR),1,"Rice, Special",56.18
+2019-05,2019,5,Negros Island Region (NIR),1,"Rice, Special",56.27
+2019-06,2019,6,Negros Island Region (NIR),1,"Rice, Special",55.99
+2019-07,2019,7,Negros Island Region (NIR),1,"Rice, Special",56.12
+2019-08,2019,8,Negros Island Region (NIR),1,"Rice, Special",56.06
+2019-09,2019,9,Negros Island Region (NIR),1,"Rice, Special",56.16
+2019-10,2019,10,Negros Island Region (NIR),1,"Rice, Special",56.09
+2019-11,2019,11,Negros Island Region (NIR),1,"Rice, Special",56.3
+2019-12,2019,12,Negros Island Region (NIR),1,"Rice, Special",56.2
+2020-01,2020,1,Negros Island Region (NIR),1,"Rice, Special",55.89
+2020-02,2020,2,Negros Island Region (NIR),1,"Rice, Special",55.28
+2020-03,2020,3,Negros Island Region (NIR),1,"Rice, Special",54.62
+2020-04,2020,4,Negros Island Region (NIR),1,"Rice, Special",55.95
+2020-05,2020,5,Negros Island Region (NIR),1,"Rice, Special",56.24
+2020-06,2020,6,Negros Island Region (NIR),1,"Rice, Special",56.4
+2020-07,2020,7,Negros Island Region (NIR),1,"Rice, Special",56.54
+2020-08,2020,8,Negros Island Region (NIR),1,"Rice, Special",56.83
+2020-09,2020,9,Negros Island Region (NIR),1,"Rice, Special",56.67
+2020-10,2020,10,Negros Island Region (NIR),1,"Rice, Special",56.54
+2020-11,2020,11,Negros Island Region (NIR),1,"Rice, Special",56.35
+2020-12,2020,12,Negros Island Region (NIR),1,"Rice, Special",56.45
+2021-01,2021,1,Negros Island Region (NIR),1,"Rice, Special",54.63
+2021-02,2021,2,Negros Island Region (NIR),1,"Rice, Special",54.92
+2021-03,2021,3,Negros Island Region (NIR),1,"Rice, Special",54.77
+2021-04,2021,4,Negros Island Region (NIR),1,"Rice, Special",54.93
+2021-05,2021,5,Negros Island Region (NIR),1,"Rice, Special",53.96
+2021-06,2021,6,Negros Island Region (NIR),1,"Rice, Special",54.05
+2021-07,2021,7,Negros Island Region (NIR),1,"Rice, Special",53.69
+2021-08,2021,8,Negros Island Region (NIR),1,"Rice, Special",52.95
+2021-09,2021,9,Negros Island Region (NIR),1,"Rice, Special",52.39
+2021-10,2021,10,Negros Island Region (NIR),1,"Rice, Special",53.78
+2021-11,2021,11,Negros Island Region (NIR),1,"Rice, Special",54.19
+2021-12,2021,12,Negros Island Region (NIR),1,"Rice, Special",54.31
+2022-01,2022,1,Negros Island Region (NIR),1,"Rice, Special",53.59
+2022-02,2022,2,Negros Island Region (NIR),1,"Rice, Special",52.8
+2022-03,2022,3,Negros Island Region (NIR),1,"Rice, Special",53.38
+2022-04,2022,4,Negros Island Region (NIR),1,"Rice, Special",54.24
+2022-05,2022,5,Negros Island Region (NIR),1,"Rice, Special",54.48
+2022-06,2022,6,Negros Island Region (NIR),1,"Rice, Special",54.93
+2022-07,2022,7,Negros Island Region (NIR),1,"Rice, Special",53.73
+2022-08,2022,8,Negros Island Region (NIR),1,"Rice, Special",53.49
+2022-09,2022,9,Negros Island Region (NIR),1,"Rice, Special",53.6
+2022-10,2022,10,Negros Island Region (NIR),1,"Rice, Special",55.01
+2022-11,2022,11,Negros Island Region (NIR),1,"Rice, Special",57.09
+2022-12,2022,12,Negros Island Region (NIR),1,"Rice, Special",58.55
+2023-01,2023,1,Negros Island Region (NIR),1,"Rice, Special",59.7
+2023-02,2023,2,Negros Island Region (NIR),1,"Rice, Special",59.45
+2023-03,2023,3,Negros Island Region (NIR),1,"Rice, Special",59.55
+2023-04,2023,4,Negros Island Region (NIR),1,"Rice, Special",58.8
+2023-05,2023,5,Negros Island Region (NIR),1,"Rice, Special",57.5
+2023-06,2023,6,Negros Island Region (NIR),1,"Rice, Special",57.82
+2023-07,2023,7,Negros Island Region (NIR),1,"Rice, Special",58.24
+2023-08,2023,8,Negros Island Region (NIR),1,"Rice, Special",58.25
+2023-09,2023,9,Negros Island Region (NIR),1,"Rice, Special",59.79
+2023-10,2023,10,Negros Island Region (NIR),1,"Rice, Special",60.43
+2023-11,2023,11,Negros Island Region (NIR),1,"Rice, Special",59.28
+2023-12,2023,12,Negros Island Region (NIR),1,"Rice, Special",61.56
+2024-01,2024,1,Negros Island Region (NIR),1,"Rice, Special",61.86
+2024-02,2024,2,Negros Island Region (NIR),1,"Rice, Special",62.14
+2024-03,2024,3,Negros Island Region (NIR),1,"Rice, Special",63.29
+2024-04,2024,4,Negros Island Region (NIR),1,"Rice, Special",63.51
+2024-05,2024,5,Negros Island Region (NIR),1,"Rice, Special",63.73
+2024-06,2024,6,Negros Island Region (NIR),1,"Rice, Special",64.59
+2024-07,2024,7,Negros Island Region (NIR),1,"Rice, Special",63.75
+2024-08,2024,8,Negros Island Region (NIR),1,"Rice, Special",62.66
+2024-09,2024,9,Negros Island Region (NIR),1,"Rice, Special",63.0
+2024-10,2024,10,Negros Island Region (NIR),1,"Rice, Special",63.94
+2024-11,2024,11,Negros Island Region (NIR),1,"Rice, Special",64.03
+2024-12,2024,12,Negros Island Region (NIR),1,"Rice, Special",64.11
+2025-01,2025,1,Negros Island Region (NIR),1,"Rice, Special",63.44
+2025-02,2025,2,Negros Island Region (NIR),1,"Rice, Special",63.88
+2025-03,2025,3,Negros Island Region (NIR),1,"Rice, Special",63.39
+2025-04,2025,4,Negros Island Region (NIR),1,"Rice, Special",62.13
+2025-05,2025,5,Negros Island Region (NIR),1,"Rice, Special",61.9
+2025-06,2025,6,Negros Island Region (NIR),1,"Rice, Special",61.6
+2025-07,2025,7,Negros Island Region (NIR),1,"Rice, Special",60.64
+2025-08,2025,8,Negros Island Region (NIR),1,"Rice, Special",60.04
+2025-09,2025,9,Negros Island Region (NIR),1,"Rice, Special",60.87
+2025-10,2025,10,Negros Island Region (NIR),1,"Rice, Special",59.85
+2025-11,2025,11,Negros Island Region (NIR),1,"Rice, Special",60.12
+2025-12,2025,12,Negros Island Region (NIR),1,"Rice, Special",61.3
+2026-01,2026,1,Negros Island Region (NIR),1,"Rice, Special",60.02
+2026-02,2026,2,Negros Island Region (NIR),1,"Rice, Special",59.35
+2026-03,2026,3,Negros Island Region (NIR),1,"Rice, Special",60.31
+2026-04,2026,4,Negros Island Region (NIR),1,"Rice, Special",63.15
+2026-05,2026,5,Negros Island Region (NIR),1,"Rice, Special",66.31
+2026-06,2026,6,Negros Island Region (NIR),1,"Rice, Special",65.74
+2026-07,2026,7,Negros Island Region (NIR),1,"Rice, Special",66.09
+2026-08,2026,8,Negros Island Region (NIR),1,"Rice, Special",64.48
+2026-09,2026,9,Negros Island Region (NIR),1,"Rice, Special",64.65
+2026-10,2026,10,Negros Island Region (NIR),1,"Rice, Special",64.81
+2018-01,2018,1,Negros Island Region (NIR),1,"Rice, Well-Milled",45.0
+2018-02,2018,2,Negros Island Region (NIR),1,"Rice, Well-Milled",45.86
+2018-03,2018,3,Negros Island Region (NIR),1,"Rice, Well-Milled",46.51
+2018-04,2018,4,Negros Island Region (NIR),1,"Rice, Well-Milled",46.34
+2018-05,2018,5,Negros Island Region (NIR),1,"Rice, Well-Milled",46.47
+2018-06,2018,6,Negros Island Region (NIR),1,"Rice, Well-Milled",46.92
+2018-07,2018,7,Negros Island Region (NIR),1,"Rice, Well-Milled",47.91
+2018-08,2018,8,Negros Island Region (NIR),1,"Rice, Well-Milled",51.03
+2018-09,2018,9,Negros Island Region (NIR),1,"Rice, Well-Milled",53.16
+2018-10,2018,10,Negros Island Region (NIR),1,"Rice, Well-Milled",54.53
+2018-11,2018,11,Negros Island Region (NIR),1,"Rice, Well-Milled",53.55
+2018-12,2018,12,Negros Island Region (NIR),1,"Rice, Well-Milled",53.28
+2019-01,2019,1,Negros Island Region (NIR),1,"Rice, Well-Milled",53.63
+2019-02,2019,2,Negros Island Region (NIR),1,"Rice, Well-Milled",53.12
+2019-03,2019,3,Negros Island Region (NIR),1,"Rice, Well-Milled",52.48
+2019-04,2019,4,Negros Island Region (NIR),1,"Rice, Well-Milled",52.26
+2019-05,2019,5,Negros Island Region (NIR),1,"Rice, Well-Milled",50.88
+2019-06,2019,6,Negros Island Region (NIR),1,"Rice, Well-Milled",49.48
+2019-07,2019,7,Negros Island Region (NIR),1,"Rice, Well-Milled",49.29
+2019-08,2019,8,Negros Island Region (NIR),1,"Rice, Well-Milled",48.46
+2019-09,2019,9,Negros Island Region (NIR),1,"Rice, Well-Milled",48.42
+2019-10,2019,10,Negros Island Region (NIR),1,"Rice, Well-Milled",48.55
+2019-11,2019,11,Negros Island Region (NIR),1,"Rice, Well-Milled",47.72
+2019-12,2019,12,Negros Island Region (NIR),1,"Rice, Well-Milled",47.21
+2020-01,2020,1,Negros Island Region (NIR),1,"Rice, Well-Milled",47.21
+2020-02,2020,2,Negros Island Region (NIR),1,"Rice, Well-Milled",46.75
+2020-03,2020,3,Negros Island Region (NIR),1,"Rice, Well-Milled",46.23
+2020-04,2020,4,Negros Island Region (NIR),1,"Rice, Well-Milled",46.25
+2020-05,2020,5,Negros Island Region (NIR),1,"Rice, Well-Milled",46.7
+2020-06,2020,6,Negros Island Region (NIR),1,"Rice, Well-Milled",47.34
+2020-07,2020,7,Negros Island Region (NIR),1,"Rice, Well-Milled",47.31
+2020-08,2020,8,Negros Island Region (NIR),1,"Rice, Well-Milled",47.15
+2020-09,2020,9,Negros Island Region (NIR),1,"Rice, Well-Milled",46.85
+2020-10,2020,10,Negros Island Region (NIR),1,"Rice, Well-Milled",46.97
+2020-11,2020,11,Negros Island Region (NIR),1,"Rice, Well-Milled",46.54
+2020-12,2020,12,Negros Island Region (NIR),1,"Rice, Well-Milled",46.45
+2021-01,2021,1,Negros Island Region (NIR),1,"Rice, Well-Milled",44.98
+2021-02,2021,2,Negros Island Region (NIR),1,"Rice, Well-Milled",44.88
+2021-03,2021,3,Negros Island Region (NIR),1,"Rice, Well-Milled",45.58
+2021-04,2021,4,Negros Island Region (NIR),1,"Rice, Well-Milled",45.19
+2021-05,2021,5,Negros Island Region (NIR),1,"Rice, Well-Milled",45.1
+2021-06,2021,6,Negros Island Region (NIR),1,"Rice, Well-Milled",45.2
+2021-07,2021,7,Negros Island Region (NIR),1,"Rice, Well-Milled",45.28
+2021-08,2021,8,Negros Island Region (NIR),1,"Rice, Well-Milled",45.48
+2021-09,2021,9,Negros Island Region (NIR),1,"Rice, Well-Milled",45.15
+2021-10,2021,10,Negros Island Region (NIR),1,"Rice, Well-Milled",44.65
+2021-11,2021,11,Negros Island Region (NIR),1,"Rice, Well-Milled",44.6
+2021-12,2021,12,Negros Island Region (NIR),1,"Rice, Well-Milled",44.63
+2022-01,2022,1,Negros Island Region (NIR),1,"Rice, Well-Milled",44.18
+2022-02,2022,2,Negros Island Region (NIR),1,"Rice, Well-Milled",43.07
+2022-03,2022,3,Negros Island Region (NIR),1,"Rice, Well-Milled",43.7
+2022-04,2022,4,Negros Island Region (NIR),1,"Rice, Well-Milled",44.01
+2022-05,2022,5,Negros Island Region (NIR),1,"Rice, Well-Milled",44.32
+2022-06,2022,6,Negros Island Region (NIR),1,"Rice, Well-Milled",44.72
+2022-07,2022,7,Negros Island Region (NIR),1,"Rice, Well-Milled",44.09
+2022-08,2022,8,Negros Island Region (NIR),1,"Rice, Well-Milled",44.88
+2022-09,2022,9,Negros Island Region (NIR),1,"Rice, Well-Milled",45.23
+2022-10,2022,10,Negros Island Region (NIR),1,"Rice, Well-Milled",45.54
+2022-11,2022,11,Negros Island Region (NIR),1,"Rice, Well-Milled",45.66
+2022-12,2022,12,Negros Island Region (NIR),1,"Rice, Well-Milled",46.07
+2023-01,2023,1,Negros Island Region (NIR),1,"Rice, Well-Milled",46.03
+2023-02,2023,2,Negros Island Region (NIR),1,"Rice, Well-Milled",45.51
+2023-03,2023,3,Negros Island Region (NIR),1,"Rice, Well-Milled",45.38
+2023-04,2023,4,Negros Island Region (NIR),1,"Rice, Well-Milled",46.14
+2023-05,2023,5,Negros Island Region (NIR),1,"Rice, Well-Milled",46.75
+2023-06,2023,6,Negros Island Region (NIR),1,"Rice, Well-Milled",47.21
+2023-07,2023,7,Negros Island Region (NIR),1,"Rice, Well-Milled",47.43
+2023-08,2023,8,Negros Island Region (NIR),1,"Rice, Well-Milled",49.25
+2023-09,2023,9,Negros Island Region (NIR),1,"Rice, Well-Milled",53.33
+2023-10,2023,10,Negros Island Region (NIR),1,"Rice, Well-Milled",52.62
+2023-11,2023,11,Negros Island Region (NIR),1,"Rice, Well-Milled",54.29
+2023-12,2023,12,Negros Island Region (NIR),1,"Rice, Well-Milled",56.75
+2024-01,2024,1,Negros Island Region (NIR),1,"Rice, Well-Milled",56.67
+2024-02,2024,2,Negros Island Region (NIR),1,"Rice, Well-Milled",58.16
+2024-03,2024,3,Negros Island Region (NIR),1,"Rice, Well-Milled",59.8
+2024-04,2024,4,Negros Island Region (NIR),1,"Rice, Well-Milled",59.81
+2024-05,2024,5,Negros Island Region (NIR),1,"Rice, Well-Milled",59.09
+2024-06,2024,6,Negros Island Region (NIR),1,"Rice, Well-Milled",58.48
+2024-07,2024,7,Negros Island Region (NIR),1,"Rice, Well-Milled",58.73
+2024-08,2024,8,Negros Island Region (NIR),1,"Rice, Well-Milled",58.35
+2024-09,2024,9,Negros Island Region (NIR),1,"Rice, Well-Milled",58.45
+2024-10,2024,10,Negros Island Region (NIR),1,"Rice, Well-Milled",58.49
+2024-11,2024,11,Negros Island Region (NIR),1,"Rice, Well-Milled",58.44
+2024-12,2024,12,Negros Island Region (NIR),1,"Rice, Well-Milled",58.14
+2025-01,2025,1,Negros Island Region (NIR),1,"Rice, Well-Milled",57.07
+2025-02,2025,2,Negros Island Region (NIR),1,"Rice, Well-Milled",56.59
+2025-03,2025,3,Negros Island Region (NIR),1,"Rice, Well-Milled",55.81
+2025-04,2025,4,Negros Island Region (NIR),1,"Rice, Well-Milled",52.97
+2025-05,2025,5,Negros Island Region (NIR),1,"Rice, Well-Milled",52.59
+2025-06,2025,6,Negros Island Region (NIR),1,"Rice, Well-Milled",51.64
+2025-07,2025,7,Negros Island Region (NIR),1,"Rice, Well-Milled",51.02
+2025-08,2025,8,Negros Island Region (NIR),1,"Rice, Well-Milled",49.42
+2025-09,2025,9,Negros Island Region (NIR),1,"Rice, Well-Milled",49.42
+2025-10,2025,10,Negros Island Region (NIR),1,"Rice, Well-Milled",50.39
+2025-11,2025,11,Negros Island Region (NIR),1,"Rice, Well-Milled",50.91
+2025-12,2025,12,Negros Island Region (NIR),1,"Rice, Well-Milled",51.9
+2026-01,2026,1,Negros Island Region (NIR),1,"Rice, Well-Milled",52.47
+2026-02,2026,2,Negros Island Region (NIR),1,"Rice, Well-Milled",54.16
+2026-03,2026,3,Negros Island Region (NIR),1,"Rice, Well-Milled",54.68
+2026-04,2026,4,Negros Island Region (NIR),1,"Rice, Well-Milled",58.58
+2026-05,2026,5,Negros Island Region (NIR),1,"Rice, Well-Milled",60.68
+2026-06,2026,6,Negros Island Region (NIR),1,"Rice, Well-Milled",58.54
+2026-07,2026,7,Negros Island Region (NIR),1,"Rice, Well-Milled",57.88
+2026-08,2026,8,Negros Island Region (NIR),1,"Rice, Well-Milled",57.44
+2026-09,2026,9,Negros Island Region (NIR),1,"Rice, Well-Milled",58.14
+2026-10,2026,10,Negros Island Region (NIR),1,"Rice, Well-Milled",58.25
+2018-01,2018,1,VI - Western Visayas,1,"Rice, Regular-Milled",38.87
+2018-02,2018,2,VI - Western Visayas,1,"Rice, Regular-Milled",39.73
+2018-03,2018,3,VI - Western Visayas,1,"Rice, Regular-Milled",40.94
+2018-04,2018,4,VI - Western Visayas,1,"Rice, Regular-Milled",41.93
+2018-05,2018,5,VI - Western Visayas,1,"Rice, Regular-Milled",42.88
+2018-06,2018,6,VI - Western Visayas,1,"Rice, Regular-Milled",43.12
+2018-07,2018,7,VI - Western Visayas,1,"Rice, Regular-Milled",43.36
+2018-08,2018,8,VI - Western Visayas,1,"Rice, Regular-Milled",46.76
+2018-09,2018,9,VI - Western Visayas,1,"Rice, Regular-Milled",47.52
+2018-10,2018,10,VI - Western Visayas,1,"Rice, Regular-Milled",46.25
+2018-11,2018,11,VI - Western Visayas,1,"Rice, Regular-Milled",43.13
+2018-12,2018,12,VI - Western Visayas,1,"Rice, Regular-Milled",42.26
+2019-01,2019,1,VI - Western Visayas,1,"Rice, Regular-Milled",42.12
+2019-02,2019,2,VI - Western Visayas,1,"Rice, Regular-Milled",42.07
+2019-03,2019,3,VI - Western Visayas,1,"Rice, Regular-Milled",42.07
+2019-04,2019,4,VI - Western Visayas,1,"Rice, Regular-Milled",42.22
+2019-05,2019,5,VI - Western Visayas,1,"Rice, Regular-Milled",42.16
+2019-06,2019,6,VI - Western Visayas,1,"Rice, Regular-Milled",41.92
+2019-07,2019,7,VI - Western Visayas,1,"Rice, Regular-Milled",42.21
+2019-08,2019,8,VI - Western Visayas,1,"Rice, Regular-Milled",41.8
+2019-09,2019,9,VI - Western Visayas,1,"Rice, Regular-Milled",41.4
+2019-10,2019,10,VI - Western Visayas,1,"Rice, Regular-Milled",40.3
+2019-11,2019,11,VI - Western Visayas,1,"Rice, Regular-Milled",39.71
+2019-12,2019,12,VI - Western Visayas,1,"Rice, Regular-Milled",39.17
+2020-01,2020,1,VI - Western Visayas,1,"Rice, Regular-Milled",38.96
+2020-02,2020,2,VI - Western Visayas,1,"Rice, Regular-Milled",38.16
+2020-03,2020,3,VI - Western Visayas,1,"Rice, Regular-Milled",38.22
+2020-04,2020,4,VI - Western Visayas,1,"Rice, Regular-Milled",38.9
+2020-05,2020,5,VI - Western Visayas,1,"Rice, Regular-Milled",39.3
+2020-06,2020,6,VI - Western Visayas,1,"Rice, Regular-Milled",39.46
+2020-07,2020,7,VI - Western Visayas,1,"Rice, Regular-Milled",39.46
+2020-08,2020,8,VI - Western Visayas,1,"Rice, Regular-Milled",39.28
+2020-09,2020,9,VI - Western Visayas,1,"Rice, Regular-Milled",39.06
+2020-10,2020,10,VI - Western Visayas,1,"Rice, Regular-Milled",38.56
+2020-11,2020,11,VI - Western Visayas,1,"Rice, Regular-Milled",37.89
+2020-12,2020,12,VI - Western Visayas,1,"Rice, Regular-Milled",37.51
+2021-01,2021,1,VI - Western Visayas,1,"Rice, Regular-Milled",36.13
+2021-02,2021,2,VI - Western Visayas,1,"Rice, Regular-Milled",36.47
+2021-03,2021,3,VI - Western Visayas,1,"Rice, Regular-Milled",36.34
+2021-04,2021,4,VI - Western Visayas,1,"Rice, Regular-Milled",36.62
+2021-05,2021,5,VI - Western Visayas,1,"Rice, Regular-Milled",36.4
+2021-06,2021,6,VI - Western Visayas,1,"Rice, Regular-Milled",36.51
+2021-07,2021,7,VI - Western Visayas,1,"Rice, Regular-Milled",36.64
+2021-08,2021,8,VI - Western Visayas,1,"Rice, Regular-Milled",36.22
+2021-09,2021,9,VI - Western Visayas,1,"Rice, Regular-Milled",35.35
+2021-10,2021,10,VI - Western Visayas,1,"Rice, Regular-Milled",35.23
+2021-11,2021,11,VI - Western Visayas,1,"Rice, Regular-Milled",35.13
+2021-12,2021,12,VI - Western Visayas,1,"Rice, Regular-Milled",34.96
+2022-01,2022,1,VI - Western Visayas,1,"Rice, Regular-Milled",35.36
+2022-02,2022,2,VI - Western Visayas,1,"Rice, Regular-Milled",35.75
+2022-03,2022,3,VI - Western Visayas,1,"Rice, Regular-Milled",36.0
+2022-04,2022,4,VI - Western Visayas,1,"Rice, Regular-Milled",35.77
+2022-05,2022,5,VI - Western Visayas,1,"Rice, Regular-Milled",35.85
+2022-06,2022,6,VI - Western Visayas,1,"Rice, Regular-Milled",36.6
+2022-07,2022,7,VI - Western Visayas,1,"Rice, Regular-Milled",37.38
+2022-08,2022,8,VI - Western Visayas,1,"Rice, Regular-Milled",37.96
+2022-09,2022,9,VI - Western Visayas,1,"Rice, Regular-Milled",37.6
+2022-10,2022,10,VI - Western Visayas,1,"Rice, Regular-Milled",37.29
+2022-11,2022,11,VI - Western Visayas,1,"Rice, Regular-Milled",37.14
+2022-12,2022,12,VI - Western Visayas,1,"Rice, Regular-Milled",36.92
+2023-01,2023,1,VI - Western Visayas,1,"Rice, Regular-Milled",36.99
+2023-02,2023,2,VI - Western Visayas,1,"Rice, Regular-Milled",37.0
+2023-03,2023,3,VI - Western Visayas,1,"Rice, Regular-Milled",37.05
+2023-04,2023,4,VI - Western Visayas,1,"Rice, Regular-Milled",37.85
+2023-05,2023,5,VI - Western Visayas,1,"Rice, Regular-Milled",38.87
+2023-06,2023,6,VI - Western Visayas,1,"Rice, Regular-Milled",39.39
+2023-07,2023,7,VI - Western Visayas,1,"Rice, Regular-Milled",39.96
+2023-08,2023,8,VI - Western Visayas,1,"Rice, Regular-Milled",41.6
+2023-09,2023,9,VI - Western Visayas,1,"Rice, Regular-Milled",42.45
+2023-10,2023,10,VI - Western Visayas,1,"Rice, Regular-Milled",40.1
+2023-11,2023,11,VI - Western Visayas,1,"Rice, Regular-Milled",40.68
+2023-12,2023,12,VI - Western Visayas,1,"Rice, Regular-Milled",41.96
+2024-01,2024,1,VI - Western Visayas,1,"Rice, Regular-Milled",43.19
+2024-02,2024,2,VI - Western Visayas,1,"Rice, Regular-Milled",44.69
+2024-03,2024,3,VI - Western Visayas,1,"Rice, Regular-Milled",46.01
+2024-04,2024,4,VI - Western Visayas,1,"Rice, Regular-Milled",47.1
+2024-05,2024,5,VI - Western Visayas,1,"Rice, Regular-Milled",48.85
+2024-06,2024,6,VI - Western Visayas,1,"Rice, Regular-Milled",49.06
+2024-07,2024,7,VI - Western Visayas,1,"Rice, Regular-Milled",48.96
+2024-08,2024,8,VI - Western Visayas,1,"Rice, Regular-Milled",49.22
+2024-09,2024,9,VI - Western Visayas,1,"Rice, Regular-Milled",49.13
+2024-10,2024,10,VI - Western Visayas,1,"Rice, Regular-Milled",48.39
+2024-11,2024,11,VI - Western Visayas,1,"Rice, Regular-Milled",46.59
+2024-12,2024,12,VI - Western Visayas,1,"Rice, Regular-Milled",45.55
+2025-01,2025,1,VI - Western Visayas,1,"Rice, Regular-Milled",46.14
+2025-02,2025,2,VI - Western Visayas,1,"Rice, Regular-Milled",45.92
+2025-03,2025,3,VI - Western Visayas,1,"Rice, Regular-Milled",44.77
+2025-04,2025,4,VI - Western Visayas,1,"Rice, Regular-Milled",43.08
+2025-05,2025,5,VI - Western Visayas,1,"Rice, Regular-Milled",42.47
+2025-06,2025,6,VI - Western Visayas,1,"Rice, Regular-Milled",42.29
+2025-07,2025,7,VI - Western Visayas,1,"Rice, Regular-Milled",41.73
+2025-08,2025,8,VI - Western Visayas,1,"Rice, Regular-Milled",40.57
+2025-09,2025,9,VI - Western Visayas,1,"Rice, Regular-Milled",39.96
+2025-10,2025,10,VI - Western Visayas,1,"Rice, Regular-Milled",40.21
+2025-11,2025,11,VI - Western Visayas,1,"Rice, Regular-Milled",39.47
+2025-12,2025,12,VI - Western Visayas,1,"Rice, Regular-Milled",40.11
+2026-01,2026,1,VI - Western Visayas,1,"Rice, Regular-Milled",40.38
+2026-02,2026,2,VI - Western Visayas,1,"Rice, Regular-Milled",41.31
+2026-03,2026,3,VI - Western Visayas,1,"Rice, Regular-Milled",42.37
+2026-04,2026,4,VI - Western Visayas,1,"Rice, Regular-Milled",46.75
+2026-05,2026,5,VI - Western Visayas,1,"Rice, Regular-Milled",49.03
+2026-06,2026,6,VI - Western Visayas,1,"Rice, Regular-Milled",49.22
+2026-07,2026,7,VI - Western Visayas,1,"Rice, Regular-Milled",49.49
+2026-08,2026,8,VI - Western Visayas,1,"Rice, Regular-Milled",50.63
+2026-09,2026,9,VI - Western Visayas,1,"Rice, Regular-Milled",50.81
+2026-10,2026,10,VI - Western Visayas,1,"Rice, Regular-Milled",50.87
+2018-01,2018,1,VI - Western Visayas,1,"Rice, Special",50.91
+2018-02,2018,2,VI - Western Visayas,1,"Rice, Special",51.57
+2018-03,2018,3,VI - Western Visayas,1,"Rice, Special",52.82
+2018-04,2018,4,VI - Western Visayas,1,"Rice, Special",53.12
+2018-05,2018,5,VI - Western Visayas,1,"Rice, Special",53.16
+2018-06,2018,6,VI - Western Visayas,1,"Rice, Special",53.39
+2018-07,2018,7,VI - Western Visayas,1,"Rice, Special",53.77
+2018-08,2018,8,VI - Western Visayas,1,"Rice, Special",56.67
+2018-09,2018,9,VI - Western Visayas,1,"Rice, Special",57.76
+2018-10,2018,10,VI - Western Visayas,1,"Rice, Special",57.41
+2018-11,2018,11,VI - Western Visayas,1,"Rice, Special",57.89
+2018-12,2018,12,VI - Western Visayas,1,"Rice, Special",57.69
+2019-01,2019,1,VI - Western Visayas,1,"Rice, Special",57.96
+2019-02,2019,2,VI - Western Visayas,1,"Rice, Special",57.4
+2019-03,2019,3,VI - Western Visayas,1,"Rice, Special",56.77
+2019-04,2019,4,VI - Western Visayas,1,"Rice, Special",56.18
+2019-05,2019,5,VI - Western Visayas,1,"Rice, Special",56.38
+2019-06,2019,6,VI - Western Visayas,1,"Rice, Special",56.63
+2019-07,2019,7,VI - Western Visayas,1,"Rice, Special",57.08
+2019-08,2019,8,VI - Western Visayas,1,"Rice, Special",57.09
+2019-09,2019,9,VI - Western Visayas,1,"Rice, Special",57.11
+2019-10,2019,10,VI - Western Visayas,1,"Rice, Special",56.56
+2019-11,2019,11,VI - Western Visayas,1,"Rice, Special",56.05
+2019-12,2019,12,VI - Western Visayas,1,"Rice, Special",56.14
+2020-01,2020,1,VI - Western Visayas,1,"Rice, Special",55.28
+2020-02,2020,2,VI - Western Visayas,1,"Rice, Special",55.6
+2020-03,2020,3,VI - Western Visayas,1,"Rice, Special",55.84
+2020-04,2020,4,VI - Western Visayas,1,"Rice, Special",56.27
+2020-05,2020,5,VI - Western Visayas,1,"Rice, Special",56.49
+2020-06,2020,6,VI - Western Visayas,1,"Rice, Special",56.48
+2020-07,2020,7,VI - Western Visayas,1,"Rice, Special",56.21
+2020-08,2020,8,VI - Western Visayas,1,"Rice, Special",56.02
+2020-09,2020,9,VI - Western Visayas,1,"Rice, Special",55.77
+2020-10,2020,10,VI - Western Visayas,1,"Rice, Special",55.24
+2020-11,2020,11,VI - Western Visayas,1,"Rice, Special",55.13
+2020-12,2020,12,VI - Western Visayas,1,"Rice, Special",54.94
+2021-01,2021,1,VI - Western Visayas,1,"Rice, Special",53.62
+2021-02,2021,2,VI - Western Visayas,1,"Rice, Special",54.93
+2021-03,2021,3,VI - Western Visayas,1,"Rice, Special",54.51
+2021-04,2021,4,VI - Western Visayas,1,"Rice, Special",54.8
+2021-05,2021,5,VI - Western Visayas,1,"Rice, Special",54.45
+2021-06,2021,6,VI - Western Visayas,1,"Rice, Special",55.57
+2021-07,2021,7,VI - Western Visayas,1,"Rice, Special",55.83
+2021-08,2021,8,VI - Western Visayas,1,"Rice, Special",55.23
+2021-09,2021,9,VI - Western Visayas,1,"Rice, Special",54.26
+2021-10,2021,10,VI - Western Visayas,1,"Rice, Special",53.81
+2021-11,2021,11,VI - Western Visayas,1,"Rice, Special",54.2
+2021-12,2021,12,VI - Western Visayas,1,"Rice, Special",54.27
+2022-01,2022,1,VI - Western Visayas,1,"Rice, Special",54.12
+2022-02,2022,2,VI - Western Visayas,1,"Rice, Special",54.26
+2022-03,2022,3,VI - Western Visayas,1,"Rice, Special",54.63
+2022-04,2022,4,VI - Western Visayas,1,"Rice, Special",54.3
+2022-05,2022,5,VI - Western Visayas,1,"Rice, Special",53.75
+2022-06,2022,6,VI - Western Visayas,1,"Rice, Special",53.83
+2022-07,2022,7,VI - Western Visayas,1,"Rice, Special",54.22
+2022-08,2022,8,VI - Western Visayas,1,"Rice, Special",54.71
+2022-09,2022,9,VI - Western Visayas,1,"Rice, Special",54.33
+2022-10,2022,10,VI - Western Visayas,1,"Rice, Special",54.0
+2022-11,2022,11,VI - Western Visayas,1,"Rice, Special",54.05
+2022-12,2022,12,VI - Western Visayas,1,"Rice, Special",54.07
+2023-01,2023,1,VI - Western Visayas,1,"Rice, Special",53.85
+2023-02,2023,2,VI - Western Visayas,1,"Rice, Special",53.9
+2023-03,2023,3,VI - Western Visayas,1,"Rice, Special",53.83
+2023-04,2023,4,VI - Western Visayas,1,"Rice, Special",54.43
+2023-05,2023,5,VI - Western Visayas,1,"Rice, Special",55.49
+2023-06,2023,6,VI - Western Visayas,1,"Rice, Special",56.04
+2023-07,2023,7,VI - Western Visayas,1,"Rice, Special",55.91
+2023-08,2023,8,VI - Western Visayas,1,"Rice, Special",57.56
+2023-09,2023,9,VI - Western Visayas,1,"Rice, Special",60.75
+2023-10,2023,10,VI - Western Visayas,1,"Rice, Special",60.11
+2023-11,2023,11,VI - Western Visayas,1,"Rice, Special",60.89
+2023-12,2023,12,VI - Western Visayas,1,"Rice, Special",62.17
+2024-01,2024,1,VI - Western Visayas,1,"Rice, Special",63.46
+2024-02,2024,2,VI - Western Visayas,1,"Rice, Special",64.82
+2024-03,2024,3,VI - Western Visayas,1,"Rice, Special",64.82
+2024-04,2024,4,VI - Western Visayas,1,"Rice, Special",64.39
+2024-05,2024,5,VI - Western Visayas,1,"Rice, Special",64.47
+2024-06,2024,6,VI - Western Visayas,1,"Rice, Special",64.2
+2024-07,2024,7,VI - Western Visayas,1,"Rice, Special",63.49
+2024-08,2024,8,VI - Western Visayas,1,"Rice, Special",63.8
+2024-09,2024,9,VI - Western Visayas,1,"Rice, Special",63.69
+2024-10,2024,10,VI - Western Visayas,1,"Rice, Special",63.69
+2024-11,2024,11,VI - Western Visayas,1,"Rice, Special",63.16
+2024-12,2024,12,VI - Western Visayas,1,"Rice, Special",62.1
+2025-01,2025,1,VI - Western Visayas,1,"Rice, Special",62.01
+2025-02,2025,2,VI - Western Visayas,1,"Rice, Special",61.6
+2025-03,2025,3,VI - Western Visayas,1,"Rice, Special",61.35
+2025-04,2025,4,VI - Western Visayas,1,"Rice, Special",59.19
+2025-05,2025,5,VI - Western Visayas,1,"Rice, Special",57.95
+2025-06,2025,6,VI - Western Visayas,1,"Rice, Special",57.17
+2025-07,2025,7,VI - Western Visayas,1,"Rice, Special",56.65
+2025-08,2025,8,VI - Western Visayas,1,"Rice, Special",54.84
+2025-09,2025,9,VI - Western Visayas,1,"Rice, Special",55.45
+2025-10,2025,10,VI - Western Visayas,1,"Rice, Special",55.3
+2025-11,2025,11,VI - Western Visayas,1,"Rice, Special",55.95
+2025-12,2025,12,VI - Western Visayas,1,"Rice, Special",57.89
+2026-01,2026,1,VI - Western Visayas,1,"Rice, Special",58.94
+2026-02,2026,2,VI - Western Visayas,1,"Rice, Special",60.3
+2026-03,2026,3,VI - Western Visayas,1,"Rice, Special",61.05
+2026-04,2026,4,VI - Western Visayas,1,"Rice, Special",64.29
+2026-05,2026,5,VI - Western Visayas,1,"Rice, Special",63.56
+2026-06,2026,6,VI - Western Visayas,1,"Rice, Special",64.34
+2026-07,2026,7,VI - Western Visayas,1,"Rice, Special",63.77
+2026-08,2026,8,VI - Western Visayas,1,"Rice, Special",61.96
+2026-09,2026,9,VI - Western Visayas,1,"Rice, Special",63.7
+2026-10,2026,10,VI - Western Visayas,1,"Rice, Special",63.79
+2018-01,2018,1,VI - Western Visayas,1,"Rice, Well-Milled",41.55
+2018-02,2018,2,VI - Western Visayas,1,"Rice, Well-Milled",42.16
+2018-03,2018,3,VI - Western Visayas,1,"Rice, Well-Milled",43.65
+2018-04,2018,4,VI - Western Visayas,1,"Rice, Well-Milled",44.54
+2018-05,2018,5,VI - Western Visayas,1,"Rice, Well-Milled",45.27
+2018-06,2018,6,VI - Western Visayas,1,"Rice, Well-Milled",45.32
+2018-07,2018,7,VI - Western Visayas,1,"Rice, Well-Milled",45.87
+2018-08,2018,8,VI - Western Visayas,1,"Rice, Well-Milled",49.81
+2018-09,2018,9,VI - Western Visayas,1,"Rice, Well-Milled",50.68
+2018-10,2018,10,VI - Western Visayas,1,"Rice, Well-Milled",49.82
+2018-11,2018,11,VI - Western Visayas,1,"Rice, Well-Milled",46.34
+2018-12,2018,12,VI - Western Visayas,1,"Rice, Well-Milled",45.5
+2019-01,2019,1,VI - Western Visayas,1,"Rice, Well-Milled",45.61
+2019-02,2019,2,VI - Western Visayas,1,"Rice, Well-Milled",45.31
+2019-03,2019,3,VI - Western Visayas,1,"Rice, Well-Milled",45.32
+2019-04,2019,4,VI - Western Visayas,1,"Rice, Well-Milled",45.24
+2019-05,2019,5,VI - Western Visayas,1,"Rice, Well-Milled",45.42
+2019-06,2019,6,VI - Western Visayas,1,"Rice, Well-Milled",45.44
+2019-07,2019,7,VI - Western Visayas,1,"Rice, Well-Milled",46.15
+2019-08,2019,8,VI - Western Visayas,1,"Rice, Well-Milled",45.83
+2019-09,2019,9,VI - Western Visayas,1,"Rice, Well-Milled",45.32
+2019-10,2019,10,VI - Western Visayas,1,"Rice, Well-Milled",44.44
+2019-11,2019,11,VI - Western Visayas,1,"Rice, Well-Milled",43.59
+2019-12,2019,12,VI - Western Visayas,1,"Rice, Well-Milled",43.54
+2020-01,2020,1,VI - Western Visayas,1,"Rice, Well-Milled",43.54
+2020-02,2020,2,VI - Western Visayas,1,"Rice, Well-Milled",43.08
+2020-03,2020,3,VI - Western Visayas,1,"Rice, Well-Milled",43.21
+2020-04,2020,4,VI - Western Visayas,1,"Rice, Well-Milled",43.89
+2020-05,2020,5,VI - Western Visayas,1,"Rice, Well-Milled",43.91
+2020-06,2020,6,VI - Western Visayas,1,"Rice, Well-Milled",43.98
+2020-07,2020,7,VI - Western Visayas,1,"Rice, Well-Milled",44.15
+2020-08,2020,8,VI - Western Visayas,1,"Rice, Well-Milled",43.85
+2020-09,2020,9,VI - Western Visayas,1,"Rice, Well-Milled",43.6
+2020-10,2020,10,VI - Western Visayas,1,"Rice, Well-Milled",43.09
+2020-11,2020,11,VI - Western Visayas,1,"Rice, Well-Milled",42.77
+2020-12,2020,12,VI - Western Visayas,1,"Rice, Well-Milled",42.35
+2021-01,2021,1,VI - Western Visayas,1,"Rice, Well-Milled",40.73
+2021-02,2021,2,VI - Western Visayas,1,"Rice, Well-Milled",41.1
+2021-03,2021,3,VI - Western Visayas,1,"Rice, Well-Milled",41.31
+2021-04,2021,4,VI - Western Visayas,1,"Rice, Well-Milled",41.42
+2021-05,2021,5,VI - Western Visayas,1,"Rice, Well-Milled",41.43
+2021-06,2021,6,VI - Western Visayas,1,"Rice, Well-Milled",41.31
+2021-07,2021,7,VI - Western Visayas,1,"Rice, Well-Milled",41.42
+2021-08,2021,8,VI - Western Visayas,1,"Rice, Well-Milled",41.08
+2021-09,2021,9,VI - Western Visayas,1,"Rice, Well-Milled",41.29
+2021-10,2021,10,VI - Western Visayas,1,"Rice, Well-Milled",41.21
+2021-11,2021,11,VI - Western Visayas,1,"Rice, Well-Milled",41.29
+2021-12,2021,12,VI - Western Visayas,1,"Rice, Well-Milled",40.58
+2022-01,2022,1,VI - Western Visayas,1,"Rice, Well-Milled",40.79
+2022-02,2022,2,VI - Western Visayas,1,"Rice, Well-Milled",40.65
+2022-03,2022,3,VI - Western Visayas,1,"Rice, Well-Milled",41.04
+2022-04,2022,4,VI - Western Visayas,1,"Rice, Well-Milled",40.98
+2022-05,2022,5,VI - Western Visayas,1,"Rice, Well-Milled",41.17
+2022-06,2022,6,VI - Western Visayas,1,"Rice, Well-Milled",41.73
+2022-07,2022,7,VI - Western Visayas,1,"Rice, Well-Milled",41.99
+2022-08,2022,8,VI - Western Visayas,1,"Rice, Well-Milled",42.5
+2022-09,2022,9,VI - Western Visayas,1,"Rice, Well-Milled",42.4
+2022-10,2022,10,VI - Western Visayas,1,"Rice, Well-Milled",42.43
+2022-11,2022,11,VI - Western Visayas,1,"Rice, Well-Milled",42.21
+2022-12,2022,12,VI - Western Visayas,1,"Rice, Well-Milled",42.4
+2023-01,2023,1,VI - Western Visayas,1,"Rice, Well-Milled",42.39
+2023-02,2023,2,VI - Western Visayas,1,"Rice, Well-Milled",42.32
+2023-03,2023,3,VI - Western Visayas,1,"Rice, Well-Milled",42.55
+2023-04,2023,4,VI - Western Visayas,1,"Rice, Well-Milled",42.81
+2023-05,2023,5,VI - Western Visayas,1,"Rice, Well-Milled",43.6
+2023-06,2023,6,VI - Western Visayas,1,"Rice, Well-Milled",44.01
+2023-07,2023,7,VI - Western Visayas,1,"Rice, Well-Milled",44.49
+2023-08,2023,8,VI - Western Visayas,1,"Rice, Well-Milled",46.02
+2023-09,2023,9,VI - Western Visayas,1,"Rice, Well-Milled",48.19
+2023-10,2023,10,VI - Western Visayas,1,"Rice, Well-Milled",45.55
+2023-11,2023,11,VI - Western Visayas,1,"Rice, Well-Milled",48.06
+2023-12,2023,12,VI - Western Visayas,1,"Rice, Well-Milled",49.47
+2024-01,2024,1,VI - Western Visayas,1,"Rice, Well-Milled",51.67
+2024-02,2024,2,VI - Western Visayas,1,"Rice, Well-Milled",54.44
+2024-03,2024,3,VI - Western Visayas,1,"Rice, Well-Milled",55.97
+2024-04,2024,4,VI - Western Visayas,1,"Rice, Well-Milled",56.5
+2024-05,2024,5,VI - Western Visayas,1,"Rice, Well-Milled",57.02
+2024-06,2024,6,VI - Western Visayas,1,"Rice, Well-Milled",57.33
+2024-07,2024,7,VI - Western Visayas,1,"Rice, Well-Milled",57.1
+2024-08,2024,8,VI - Western Visayas,1,"Rice, Well-Milled",57.05
+2024-09,2024,9,VI - Western Visayas,1,"Rice, Well-Milled",56.72
+2024-10,2024,10,VI - Western Visayas,1,"Rice, Well-Milled",56.49
+2024-11,2024,11,VI - Western Visayas,1,"Rice, Well-Milled",55.29
+2024-12,2024,12,VI - Western Visayas,1,"Rice, Well-Milled",54.73
+2025-01,2025,1,VI - Western Visayas,1,"Rice, Well-Milled",55.08
+2025-02,2025,2,VI - Western Visayas,1,"Rice, Well-Milled",54.59
+2025-03,2025,3,VI - Western Visayas,1,"Rice, Well-Milled",53.19
+2025-04,2025,4,VI - Western Visayas,1,"Rice, Well-Milled",51.45
+2025-05,2025,5,VI - Western Visayas,1,"Rice, Well-Milled",50.4
+2025-06,2025,6,VI - Western Visayas,1,"Rice, Well-Milled",50.47
+2025-07,2025,7,VI - Western Visayas,1,"Rice, Well-Milled",49.6
+2025-08,2025,8,VI - Western Visayas,1,"Rice, Well-Milled",48.41
+2025-09,2025,9,VI - Western Visayas,1,"Rice, Well-Milled",47.66
+2025-10,2025,10,VI - Western Visayas,1,"Rice, Well-Milled",47.11
+2025-11,2025,11,VI - Western Visayas,1,"Rice, Well-Milled",47.03
+2025-12,2025,12,VI - Western Visayas,1,"Rice, Well-Milled",47.69
+2026-01,2026,1,VI - Western Visayas,1,"Rice, Well-Milled",48.52
+2026-02,2026,2,VI - Western Visayas,1,"Rice, Well-Milled",49.72
+2026-03,2026,3,VI - Western Visayas,1,"Rice, Well-Milled",50.82
+2026-04,2026,4,VI - Western Visayas,1,"Rice, Well-Milled",55.51
+2026-05,2026,5,VI - Western Visayas,1,"Rice, Well-Milled",56.3
+2026-06,2026,6,VI - Western Visayas,1,"Rice, Well-Milled",56.41
+2026-07,2026,7,VI - Western Visayas,1,"Rice, Well-Milled",56.33
+2026-08,2026,8,VI - Western Visayas,1,"Rice, Well-Milled",56.8
+2026-09,2026,9,VI - Western Visayas,1,"Rice, Well-Milled",56.79
+2026-10,2026,10,VI - Western Visayas,1,"Rice, Well-Milled",57.06
+2018-01,2018,1,City of Bacolod,2,"Rice, Regular-Milled",41.3
+2018-02,2018,2,City of Bacolod,2,"Rice, Regular-Milled",42.31
+2018-03,2018,3,City of Bacolod,2,"Rice, Regular-Milled",42.94
+2018-04,2018,4,City of Bacolod,2,"Rice, Regular-Milled",42.94
+2018-05,2018,5,City of Bacolod,2,"Rice, Regular-Milled",43.07
+2018-06,2018,6,City of Bacolod,2,"Rice, Regular-Milled",43.58
+2018-07,2018,7,City of Bacolod,2,"Rice, Regular-Milled",43.58
+2018-08,2018,8,City of Bacolod,2,"Rice, Regular-Milled",47.12
+2018-09,2018,9,City of Bacolod,2,"Rice, Regular-Milled",47.37
+2018-10,2018,10,City of Bacolod,2,"Rice, Regular-Milled",48.25
+2018-11,2018,11,City of Bacolod,2,"Rice, Regular-Milled",48.25
+2018-12,2018,12,City of Bacolod,2,"Rice, Regular-Milled",47.12
+2019-01,2019,1,City of Bacolod,2,"Rice, Regular-Milled",46.61
+2019-02,2019,2,City of Bacolod,2,"Rice, Regular-Milled",45.22
+2019-03,2019,3,City of Bacolod,2,"Rice, Regular-Milled",44.56
+2019-04,2019,4,City of Bacolod,2,"Rice, Regular-Milled",43.95
+2019-05,2019,5,City of Bacolod,2,"Rice, Regular-Milled",43.14
+2019-06,2019,6,City of Bacolod,2,"Rice, Regular-Milled",42.74
+2019-07,2019,7,City of Bacolod,2,"Rice, Regular-Milled",43.04
+2019-08,2019,8,City of Bacolod,2,"Rice, Regular-Milled",43.04
+2019-09,2019,9,City of Bacolod,2,"Rice, Regular-Milled",43.04
+2019-10,2019,10,City of Bacolod,2,"Rice, Regular-Milled",43.24
+2019-11,2019,11,City of Bacolod,2,"Rice, Regular-Milled",42.84
+2019-12,2019,12,City of Bacolod,2,"Rice, Regular-Milled",42.84
+2020-01,2020,1,City of Bacolod,2,"Rice, Regular-Milled",40.82
+2020-02,2020,2,City of Bacolod,2,"Rice, Regular-Milled",40.82
+2020-03,2020,3,City of Bacolod,2,"Rice, Regular-Milled",41.63
+2020-04,2020,4,City of Bacolod,2,"Rice, Regular-Milled",42.64
+2020-05,2020,5,City of Bacolod,2,"Rice, Regular-Milled",42.03
+2020-06,2020,6,City of Bacolod,2,"Rice, Regular-Milled",42.03
+2020-07,2020,7,City of Bacolod,2,"Rice, Regular-Milled",42.03
+2020-08,2020,8,City of Bacolod,2,"Rice, Regular-Milled",42.03
+2020-09,2020,9,City of Bacolod,2,"Rice, Regular-Milled",42.03
+2020-10,2020,10,City of Bacolod,2,"Rice, Regular-Milled",42.03
+2020-11,2020,11,City of Bacolod,2,"Rice, Regular-Milled",42.03
+2020-12,2020,12,City of Bacolod,2,"Rice, Regular-Milled",42.03
+2021-01,2021,1,City of Bacolod,2,"Rice, Regular-Milled",41.12
+2021-02,2021,2,City of Bacolod,2,"Rice, Regular-Milled",41.16
+2021-03,2021,3,City of Bacolod,2,"Rice, Regular-Milled",41.12
+2021-04,2021,4,City of Bacolod,2,"Rice, Regular-Milled",41.07
+2021-05,2021,5,City of Bacolod,2,"Rice, Regular-Milled",41.12
+2021-06,2021,6,City of Bacolod,2,"Rice, Regular-Milled",41.07
+2021-07,2021,7,City of Bacolod,2,"Rice, Regular-Milled",41.07
+2021-08,2021,8,City of Bacolod,2,"Rice, Regular-Milled",41.07
+2021-09,2021,9,City of Bacolod,2,"Rice, Regular-Milled",40.9
+2021-10,2021,10,City of Bacolod,2,"Rice, Regular-Milled",41.82
+2021-11,2021,11,City of Bacolod,2,"Rice, Regular-Milled",41.82
+2021-12,2021,12,City of Bacolod,2,"Rice, Regular-Milled",42.07
+2022-01,2022,1,City of Bacolod,2,"Rice, Regular-Milled",42.36
+2022-02,2022,2,City of Bacolod,2,"Rice, Regular-Milled",42.72
+2022-03,2022,3,City of Bacolod,2,"Rice, Regular-Milled",42.8
+2022-04,2022,4,City of Bacolod,2,"Rice, Regular-Milled",42.8
+2022-05,2022,5,City of Bacolod,2,"Rice, Regular-Milled",43.17
+2022-06,2022,6,City of Bacolod,2,"Rice, Regular-Milled",43.52
+2022-07,2022,7,City of Bacolod,2,"Rice, Regular-Milled",43.33
+2022-08,2022,8,City of Bacolod,2,"Rice, Regular-Milled",43.67
+2022-09,2022,9,City of Bacolod,2,"Rice, Regular-Milled",43.17
+2022-10,2022,10,City of Bacolod,2,"Rice, Regular-Milled",43.17
+2022-11,2022,11,City of Bacolod,2,"Rice, Regular-Milled",43.5
+2022-12,2022,12,City of Bacolod,2,"Rice, Regular-Milled",44.12
+2023-01,2023,1,City of Bacolod,2,"Rice, Regular-Milled",44.37
+2023-02,2023,2,City of Bacolod,2,"Rice, Regular-Milled",43.97
+2023-03,2023,3,City of Bacolod,2,"Rice, Regular-Milled",45.07
+2023-04,2023,4,City of Bacolod,2,"Rice, Regular-Milled",45.07
+2023-05,2023,5,City of Bacolod,2,"Rice, Regular-Milled",45.5
+2023-06,2023,6,City of Bacolod,2,"Rice, Regular-Milled",45.0
+2023-07,2023,7,City of Bacolod,2,"Rice, Regular-Milled",45.17
+2023-08,2023,8,City of Bacolod,2,"Rice, Regular-Milled",46.25
+2023-09,2023,9,City of Bacolod,2,"Rice, Regular-Milled",47.83
+2023-10,2023,10,City of Bacolod,2,"Rice, Regular-Milled",48.19
+2023-11,2023,11,City of Bacolod,2,"Rice, Regular-Milled",47.9
+2023-12,2023,12,City of Bacolod,2,"Rice, Regular-Milled",51.28
+2024-01,2024,1,City of Bacolod,2,"Rice, Regular-Milled",52.4
+2024-02,2024,2,City of Bacolod,2,"Rice, Regular-Milled",51.57
+2024-03,2024,3,City of Bacolod,2,"Rice, Regular-Milled",52.74
+2024-04,2024,4,City of Bacolod,2,"Rice, Regular-Milled",53.5
+2024-05,2024,5,City of Bacolod,2,"Rice, Regular-Milled",53.3
+2024-06,2024,6,City of Bacolod,2,"Rice, Regular-Milled",54.26
+2024-07,2024,7,City of Bacolod,2,"Rice, Regular-Milled",56.0
+2024-08,2024,8,City of Bacolod,2,"Rice, Regular-Milled",56.88
+2024-09,2024,9,City of Bacolod,2,"Rice, Regular-Milled",55.5
+2024-10,2024,10,City of Bacolod,2,"Rice, Regular-Milled",55.13
+2024-11,2024,11,City of Bacolod,2,"Rice, Regular-Milled",53.97
+2024-12,2024,12,City of Bacolod,2,"Rice, Regular-Milled",54.67
+2025-01,2025,1,City of Bacolod,2,"Rice, Regular-Milled",53.05
+2025-02,2025,2,City of Bacolod,2,"Rice, Regular-Milled",53.14
+2025-03,2025,3,City of Bacolod,2,"Rice, Regular-Milled",52.31
+2025-04,2025,4,City of Bacolod,2,"Rice, Regular-Milled",50.25
+2025-05,2025,5,City of Bacolod,2,"Rice, Regular-Milled",49.43
+2025-06,2025,6,City of Bacolod,2,"Rice, Regular-Milled",47.0
+2025-07,2025,7,City of Bacolod,2,"Rice, Regular-Milled",45.19
+2025-08,2025,8,City of Bacolod,2,"Rice, Regular-Milled",45.06
+2025-09,2025,9,City of Bacolod,2,"Rice, Regular-Milled",45.46
+2025-10,2025,10,City of Bacolod,2,"Rice, Regular-Milled",44.51
+2025-11,2025,11,City of Bacolod,2,"Rice, Regular-Milled",44.21
+2025-12,2025,12,City of Bacolod,2,"Rice, Regular-Milled",44.37
+2026-01,2026,1,City of Bacolod,2,"Rice, Regular-Milled",45.57
+2026-02,2026,2,City of Bacolod,2,"Rice, Regular-Milled",48.07
+2026-03,2026,3,City of Bacolod,2,"Rice, Regular-Milled",47.06
+2026-04,2026,4,City of Bacolod,2,"Rice, Regular-Milled",47.94
+2026-05,2026,5,City of Bacolod,2,"Rice, Regular-Milled",55.0
+2026-06,2026,6,City of Bacolod,2,"Rice, Regular-Milled",54.32
+2026-07,2026,7,City of Bacolod,2,"Rice, Regular-Milled",53.94
+2026-08,2026,8,City of Bacolod,2,"Rice, Regular-Milled",55.23
+2026-09,2026,9,City of Bacolod,2,"Rice, Regular-Milled",55.88
+2026-10,2026,10,City of Bacolod,2,"Rice, Regular-Milled",56.23
+2018-01,2018,1,City of Bacolod,2,"Rice, Special",52.72
+2018-02,2018,2,City of Bacolod,2,"Rice, Special",53.51
+2018-03,2018,3,City of Bacolod,2,"Rice, Special",53.77
+2018-04,2018,4,City of Bacolod,2,"Rice, Special",53.77
+2018-05,2018,5,City of Bacolod,2,"Rice, Special",53.51
+2018-06,2018,6,City of Bacolod,2,"Rice, Special",54.3
+2018-07,2018,7,City of Bacolod,2,"Rice, Special",54.3
+2018-08,2018,8,City of Bacolod,2,"Rice, Special",55.48
+2018-09,2018,9,City of Bacolod,2,"Rice, Special",57.2
+2018-10,2018,10,City of Bacolod,2,"Rice, Special",57.86
+2018-11,2018,11,City of Bacolod,2,"Rice, Special",57.2
+2018-12,2018,12,City of Bacolod,2,"Rice, Special",56.8
+2019-01,2019,1,City of Bacolod,2,"Rice, Special",56.8
+2019-02,2019,2,City of Bacolod,2,"Rice, Special",56.27
+2019-03,2019,3,City of Bacolod,2,"Rice, Special",56.27
+2019-04,2019,4,City of Bacolod,2,"Rice, Special",56.27
+2019-05,2019,5,City of Bacolod,2,"Rice, Special",56.41
+2019-06,2019,6,City of Bacolod,2,"Rice, Special",56.01
+2019-07,2019,7,City of Bacolod,2,"Rice, Special",56.27
+2019-08,2019,8,City of Bacolod,2,"Rice, Special",56.14
+2019-09,2019,9,City of Bacolod,2,"Rice, Special",56.67
+2019-10,2019,10,City of Bacolod,2,"Rice, Special",56.53
+2019-11,2019,11,City of Bacolod,2,"Rice, Special",56.53
+2019-12,2019,12,City of Bacolod,2,"Rice, Special",56.53
+2020-01,2020,1,City of Bacolod,2,"Rice, Special",56.27
+2020-02,2020,2,City of Bacolod,2,"Rice, Special",55.74
+2020-03,2020,3,City of Bacolod,2,"Rice, Special",54.29
+2020-04,2020,4,City of Bacolod,2,"Rice, Special",56.53
+2020-05,2020,5,City of Bacolod,2,"Rice, Special",56.14
+2020-06,2020,6,City of Bacolod,2,"Rice, Special",56.27
+2020-07,2020,7,City of Bacolod,2,"Rice, Special",56.27
+2020-08,2020,8,City of Bacolod,2,"Rice, Special",56.27
+2020-09,2020,9,City of Bacolod,2,"Rice, Special",56.14
+2020-10,2020,10,City of Bacolod,2,"Rice, Special",56.0
+2020-11,2020,11,City of Bacolod,2,"Rice, Special",56.0
+2020-12,2020,12,City of Bacolod,2,"Rice, Special",56.0
+2021-01,2021,1,City of Bacolod,2,"Rice, Special",52.69
+2021-02,2021,2,City of Bacolod,2,"Rice, Special",53.06
+2021-03,2021,3,City of Bacolod,2,"Rice, Special",53.06
+2021-04,2021,4,City of Bacolod,2,"Rice, Special",53.12
+2021-05,2021,5,City of Bacolod,2,"Rice, Special",52.37
+2021-06,2021,6,City of Bacolod,2,"Rice, Special",52.37
+2021-07,2021,7,City of Bacolod,2,"Rice, Special",52.37
+2021-08,2021,8,City of Bacolod,2,"Rice, Special",52.37
+2021-09,2021,9,City of Bacolod,2,"Rice, Special",51.56
+2021-10,2021,10,City of Bacolod,2,"Rice, Special",52.82
+2021-11,2021,11,City of Bacolod,2,"Rice, Special",52.82
+2021-12,2021,12,City of Bacolod,2,"Rice, Special",53.14
+2022-01,2022,1,City of Bacolod,2,"Rice, Special",53.28
+2022-02,2022,2,City of Bacolod,2,"Rice, Special",52.82
+2022-03,2022,3,City of Bacolod,2,"Rice, Special",52.47
+2022-04,2022,4,City of Bacolod,2,"Rice, Special",52.47
+2022-05,2022,5,City of Bacolod,2,"Rice, Special",53.08
+2022-06,2022,6,City of Bacolod,2,"Rice, Special",54.24
+2022-07,2022,7,City of Bacolod,2,"Rice, Special",53.25
+2022-08,2022,8,City of Bacolod,2,"Rice, Special",53.25
+2022-09,2022,9,City of Bacolod,2,"Rice, Special",53.92
+2022-10,2022,10,City of Bacolod,2,"Rice, Special",56.58
+2022-11,2022,11,City of Bacolod,2,"Rice, Special",56.92
+2022-12,2022,12,City of Bacolod,2,"Rice, Special",59.31
+2023-01,2023,1,City of Bacolod,2,"Rice, Special",59.31
+2023-02,2023,2,City of Bacolod,2,"Rice, Special",58.34
+2023-03,2023,3,City of Bacolod,2,"Rice, Special",59.34
+2023-04,2023,4,City of Bacolod,2,"Rice, Special",59.34
+2023-05,2023,5,City of Bacolod,2,"Rice, Special",57.56
+2023-06,2023,6,City of Bacolod,2,"Rice, Special",57.96
+2023-07,2023,7,City of Bacolod,2,"Rice, Special",58.42
+2023-08,2023,8,City of Bacolod,2,"Rice, Special",59.02
+2023-09,2023,9,City of Bacolod,2,"Rice, Special",60.27
+2023-10,2023,10,City of Bacolod,2,"Rice, Special",58.41
+2023-11,2023,11,City of Bacolod,2,"Rice, Special",59.26
+2023-12,2023,12,City of Bacolod,2,"Rice, Special",62.63
+2024-01,2024,1,City of Bacolod,2,"Rice, Special",62.38
+2024-02,2024,2,City of Bacolod,2,"Rice, Special",63.45
+2024-03,2024,3,City of Bacolod,2,"Rice, Special",65.08
+2024-04,2024,4,City of Bacolod,2,"Rice, Special",65.26
+2024-05,2024,5,City of Bacolod,2,"Rice, Special",64.6
+2024-06,2024,6,City of Bacolod,2,"Rice, Special",65.15
+2024-07,2024,7,City of Bacolod,2,"Rice, Special",66.0
+2024-08,2024,8,City of Bacolod,2,"Rice, Special",65.12
+2024-09,2024,9,City of Bacolod,2,"Rice, Special",64.34
+2024-10,2024,10,City of Bacolod,2,"Rice, Special",64.85
+2024-11,2024,11,City of Bacolod,2,"Rice, Special",62.87
+2024-12,2024,12,City of Bacolod,2,"Rice, Special",61.03
+2025-01,2025,1,City of Bacolod,2,"Rice, Special",61.7
+2025-02,2025,2,City of Bacolod,2,"Rice, Special",61.62
+2025-03,2025,3,City of Bacolod,2,"Rice, Special",62.65
+2025-04,2025,4,City of Bacolod,2,"Rice, Special",59.52
+2025-05,2025,5,City of Bacolod,2,"Rice, Special",58.85
+2025-06,2025,6,City of Bacolod,2,"Rice, Special",58.01
+2025-07,2025,7,City of Bacolod,2,"Rice, Special",56.71
+2025-08,2025,8,City of Bacolod,2,"Rice, Special",55.85
+2025-09,2025,9,City of Bacolod,2,"Rice, Special",57.94
+2025-10,2025,10,City of Bacolod,2,"Rice, Special",56.16
+2025-11,2025,11,City of Bacolod,2,"Rice, Special",57.76
+2025-12,2025,12,City of Bacolod,2,"Rice, Special",59.51
+2026-01,2026,1,City of Bacolod,2,"Rice, Special",60.52
+2026-02,2026,2,City of Bacolod,2,"Rice, Special",62.16
+2026-03,2026,3,City of Bacolod,2,"Rice, Special",61.97
+2026-04,2026,4,City of Bacolod,2,"Rice, Special",61.31
+2026-05,2026,5,City of Bacolod,2,"Rice, Special",69.44
+2026-06,2026,6,City of Bacolod,2,"Rice, Special",67.38
+2026-07,2026,7,City of Bacolod,2,"Rice, Special",67.31
+2026-08,2026,8,City of Bacolod,2,"Rice, Special",67.45
+2026-09,2026,9,City of Bacolod,2,"Rice, Special",66.74
+2026-10,2026,10,City of Bacolod,2,"Rice, Special",67.35
+2018-01,2018,1,City of Bacolod,2,"Rice, Well-Milled",42.77
+2018-02,2018,2,City of Bacolod,2,"Rice, Well-Milled",44.08
+2018-03,2018,3,City of Bacolod,2,"Rice, Well-Milled",44.74
+2018-04,2018,4,City of Bacolod,2,"Rice, Well-Milled",44.34
+2018-05,2018,5,City of Bacolod,2,"Rice, Well-Milled",44.34
+2018-06,2018,6,City of Bacolod,2,"Rice, Well-Milled",44.74
+2018-07,2018,7,City of Bacolod,2,"Rice, Well-Milled",45.79
+2018-08,2018,8,City of Bacolod,2,"Rice, Well-Milled",51.82
+2018-09,2018,9,City of Bacolod,2,"Rice, Well-Milled",54.31
+2018-10,2018,10,City of Bacolod,2,"Rice, Well-Milled",56.41
+2018-11,2018,11,City of Bacolod,2,"Rice, Well-Milled",55.5
+2018-12,2018,12,City of Bacolod,2,"Rice, Well-Milled",54.71
+2019-01,2019,1,City of Bacolod,2,"Rice, Well-Milled",55.1
+2019-02,2019,2,City of Bacolod,2,"Rice, Well-Milled",54.87
+2019-03,2019,3,City of Bacolod,2,"Rice, Well-Milled",54.61
+2019-04,2019,4,City of Bacolod,2,"Rice, Well-Milled",54.61
+2019-05,2019,5,City of Bacolod,2,"Rice, Well-Milled",52.74
+2019-06,2019,6,City of Bacolod,2,"Rice, Well-Milled",51.3
+2019-07,2019,7,City of Bacolod,2,"Rice, Well-Milled",51.3
+2019-08,2019,8,City of Bacolod,2,"Rice, Well-Milled",50.51
+2019-09,2019,9,City of Bacolod,2,"Rice, Well-Milled",50.51
+2019-10,2019,10,City of Bacolod,2,"Rice, Well-Milled",50.37
+2019-11,2019,11,City of Bacolod,2,"Rice, Well-Milled",50.11
+2019-12,2019,12,City of Bacolod,2,"Rice, Well-Milled",50.11
+2020-01,2020,1,City of Bacolod,2,"Rice, Well-Milled",50.11
+2020-02,2020,2,City of Bacolod,2,"Rice, Well-Milled",50.11
+2020-03,2020,3,City of Bacolod,2,"Rice, Well-Milled",48.41
+2020-04,2020,4,City of Bacolod,2,"Rice, Well-Milled",47.49
+2020-05,2020,5,City of Bacolod,2,"Rice, Well-Milled",46.97
+2020-06,2020,6,City of Bacolod,2,"Rice, Well-Milled",48.16
+2020-07,2020,7,City of Bacolod,2,"Rice, Well-Milled",48.16
+2020-08,2020,8,City of Bacolod,2,"Rice, Well-Milled",48.16
+2020-09,2020,9,City of Bacolod,2,"Rice, Well-Milled",47.9
+2020-10,2020,10,City of Bacolod,2,"Rice, Well-Milled",47.9
+2020-11,2020,11,City of Bacolod,2,"Rice, Well-Milled",47.9
+2020-12,2020,12,City of Bacolod,2,"Rice, Well-Milled",47.9
+2021-01,2021,1,City of Bacolod,2,"Rice, Well-Milled",45.54
+2021-02,2021,2,City of Bacolod,2,"Rice, Well-Milled",46.09
+2021-03,2021,3,City of Bacolod,2,"Rice, Well-Milled",46.09
+2021-04,2021,4,City of Bacolod,2,"Rice, Well-Milled",46.09
+2021-05,2021,5,City of Bacolod,2,"Rice, Well-Milled",46.35
+2021-06,2021,6,City of Bacolod,2,"Rice, Well-Milled",46.48
+2021-07,2021,7,City of Bacolod,2,"Rice, Well-Milled",46.48
+2021-08,2021,8,City of Bacolod,2,"Rice, Well-Milled",46.48
+2021-09,2021,9,City of Bacolod,2,"Rice, Well-Milled",46.36
+2021-10,2021,10,City of Bacolod,2,"Rice, Well-Milled",46.11
+2021-11,2021,11,City of Bacolod,2,"Rice, Well-Milled",46.11
+2021-12,2021,12,City of Bacolod,2,"Rice, Well-Milled",46.36
+2022-01,2022,1,City of Bacolod,2,"Rice, Well-Milled",46.57
+2022-02,2022,2,City of Bacolod,2,"Rice, Well-Milled",43.69
+2022-03,2022,3,City of Bacolod,2,"Rice, Well-Milled",44.11
+2022-04,2022,4,City of Bacolod,2,"Rice, Well-Milled",44.11
+2022-05,2022,5,City of Bacolod,2,"Rice, Well-Milled",44.49
+2022-06,2022,6,City of Bacolod,2,"Rice, Well-Milled",45.08
+2022-07,2022,7,City of Bacolod,2,"Rice, Well-Milled",44.38
+2022-08,2022,8,City of Bacolod,2,"Rice, Well-Milled",44.97
+2022-09,2022,9,City of Bacolod,2,"Rice, Well-Milled",45.13
+2022-10,2022,10,City of Bacolod,2,"Rice, Well-Milled",45.13
+2022-11,2022,11,City of Bacolod,2,"Rice, Well-Milled",45.3
+2022-12,2022,12,City of Bacolod,2,"Rice, Well-Milled",45.04
+2023-01,2023,1,City of Bacolod,2,"Rice, Well-Milled",45.84
+2023-02,2023,2,City of Bacolod,2,"Rice, Well-Milled",45.26
+2023-03,2023,3,City of Bacolod,2,"Rice, Well-Milled",45.9
+2023-04,2023,4,City of Bacolod,2,"Rice, Well-Milled",45.9
+2023-05,2023,5,City of Bacolod,2,"Rice, Well-Milled",47.67
+2023-06,2023,6,City of Bacolod,2,"Rice, Well-Milled",48.58
+2023-07,2023,7,City of Bacolod,2,"Rice, Well-Milled",48.83
+2023-08,2023,8,City of Bacolod,2,"Rice, Well-Milled",50.0
+2023-09,2023,9,City of Bacolod,2,"Rice, Well-Milled",53.12
+2023-10,2023,10,City of Bacolod,2,"Rice, Well-Milled",52.72
+2023-11,2023,11,City of Bacolod,2,"Rice, Well-Milled",53.64
+2023-12,2023,12,City of Bacolod,2,"Rice, Well-Milled",53.68
+2024-01,2024,1,City of Bacolod,2,"Rice, Well-Milled",52.94
+2024-02,2024,2,City of Bacolod,2,"Rice, Well-Milled",56.07
+2024-03,2024,3,City of Bacolod,2,"Rice, Well-Milled",58.82
+2024-04,2024,4,City of Bacolod,2,"Rice, Well-Milled",60.21
+2024-05,2024,5,City of Bacolod,2,"Rice, Well-Milled",59.34
+2024-06,2024,6,City of Bacolod,2,"Rice, Well-Milled",58.98
+2024-07,2024,7,City of Bacolod,2,"Rice, Well-Milled",59.43
+2024-08,2024,8,City of Bacolod,2,"Rice, Well-Milled",59.04
+2024-09,2024,9,City of Bacolod,2,"Rice, Well-Milled",59.39
+2024-10,2024,10,City of Bacolod,2,"Rice, Well-Milled",59.47
+2024-11,2024,11,City of Bacolod,2,"Rice, Well-Milled",58.36
+2024-12,2024,12,City of Bacolod,2,"Rice, Well-Milled",58.32
+2025-01,2025,1,City of Bacolod,2,"Rice, Well-Milled",57.3
+2025-02,2025,2,City of Bacolod,2,"Rice, Well-Milled",56.67
+2025-03,2025,3,City of Bacolod,2,"Rice, Well-Milled",56.32
+2025-04,2025,4,City of Bacolod,2,"Rice, Well-Milled",53.98
+2025-05,2025,5,City of Bacolod,2,"Rice, Well-Milled",53.67
+2025-06,2025,6,City of Bacolod,2,"Rice, Well-Milled",52.18
+2025-07,2025,7,City of Bacolod,2,"Rice, Well-Milled",50.57
+2025-08,2025,8,City of Bacolod,2,"Rice, Well-Milled",47.65
+2025-09,2025,9,City of Bacolod,2,"Rice, Well-Milled",47.97
+2025-10,2025,10,City of Bacolod,2,"Rice, Well-Milled",49.5
+2025-11,2025,11,City of Bacolod,2,"Rice, Well-Milled",49.33
+2025-12,2025,12,City of Bacolod,2,"Rice, Well-Milled",49.54
+2026-01,2026,1,City of Bacolod,2,"Rice, Well-Milled",50.79
+2026-02,2026,2,City of Bacolod,2,"Rice, Well-Milled",51.67
+2026-03,2026,3,City of Bacolod,2,"Rice, Well-Milled",51.94
+2026-04,2026,4,City of Bacolod,2,"Rice, Well-Milled",56.12
+2026-05,2026,5,City of Bacolod,2,"Rice, Well-Milled",62.52
+2026-06,2026,6,City of Bacolod,2,"Rice, Well-Milled",61.65
+2026-07,2026,7,City of Bacolod,2,"Rice, Well-Milled",62.2
+2026-08,2026,8,City of Bacolod,2,"Rice, Well-Milled",62.33
+2026-09,2026,9,City of Bacolod,2,"Rice, Well-Milled",62.72
+2026-10,2026,10,City of Bacolod,2,"Rice, Well-Milled",63.11
+2018-01,2018,1,City of Iloilo,2,"Rice, Regular-Milled",38.35
+2018-02,2018,2,City of Iloilo,2,"Rice, Regular-Milled",39.35
+2018-03,2018,3,City of Iloilo,2,"Rice, Regular-Milled",40.49
+2018-04,2018,4,City of Iloilo,2,"Rice, Regular-Milled",40.92
+2018-05,2018,5,City of Iloilo,2,"Rice, Regular-Milled",42.49
+2018-06,2018,6,City of Iloilo,2,"Rice, Regular-Milled",43.06
+2018-07,2018,7,City of Iloilo,2,"Rice, Regular-Milled",43.2
+2018-08,2018,8,City of Iloilo,2,"Rice, Regular-Milled",47.21
+2018-09,2018,9,City of Iloilo,2,"Rice, Regular-Milled",47.5
+2018-10,2018,10,City of Iloilo,2,"Rice, Regular-Milled",44.64
+2018-11,2018,11,City of Iloilo,2,"Rice, Regular-Milled",42.5
+2018-12,2018,12,City of Iloilo,2,"Rice, Regular-Milled",41.12
+2019-01,2019,1,City of Iloilo,2,"Rice, Regular-Milled",40.95
+2019-02,2019,2,City of Iloilo,2,"Rice, Regular-Milled",40.82
+2019-03,2019,3,City of Iloilo,2,"Rice, Regular-Milled",41.32
+2019-04,2019,4,City of Iloilo,2,"Rice, Regular-Milled",41.85
+2019-05,2019,5,City of Iloilo,2,"Rice, Regular-Milled",41.01
+2019-06,2019,6,City of Iloilo,2,"Rice, Regular-Milled",40.17
+2019-07,2019,7,City of Iloilo,2,"Rice, Regular-Milled",40.67
+2019-08,2019,8,City of Iloilo,2,"Rice, Regular-Milled",39.72
+2019-09,2019,9,City of Iloilo,2,"Rice, Regular-Milled",39.24
+2019-10,2019,10,City of Iloilo,2,"Rice, Regular-Milled",38.63
+2019-11,2019,11,City of Iloilo,2,"Rice, Regular-Milled",39.2
+2019-12,2019,12,City of Iloilo,2,"Rice, Regular-Milled",39.63
+2020-01,2020,1,City of Iloilo,2,"Rice, Regular-Milled",39.45
+2020-02,2020,2,City of Iloilo,2,"Rice, Regular-Milled",39.07
+2020-03,2020,3,City of Iloilo,2,"Rice, Regular-Milled",39.26
+2020-04,2020,4,City of Iloilo,2,"Rice, Regular-Milled",39.2
+2020-05,2020,5,City of Iloilo,2,"Rice, Regular-Milled",39.45
+2020-06,2020,6,City of Iloilo,2,"Rice, Regular-Milled",39.32
+2020-07,2020,7,City of Iloilo,2,"Rice, Regular-Milled",39.45
+2020-08,2020,8,City of Iloilo,2,"Rice, Regular-Milled",39.07
+2020-09,2020,9,City of Iloilo,2,"Rice, Regular-Milled",39.2
+2020-10,2020,10,City of Iloilo,2,"Rice, Regular-Milled",39.34
+2020-11,2020,11,City of Iloilo,2,"Rice, Regular-Milled",38.57
+2020-12,2020,12,City of Iloilo,2,"Rice, Regular-Milled",38.01
+2021-01,2021,1,City of Iloilo,2,"Rice, Regular-Milled",37.2
+2021-02,2021,2,City of Iloilo,2,"Rice, Regular-Milled",38.0
+2021-03,2021,3,City of Iloilo,2,"Rice, Regular-Milled",38.01
+2021-04,2021,4,City of Iloilo,2,"Rice, Regular-Milled",38.05
+2021-05,2021,5,City of Iloilo,2,"Rice, Regular-Milled",37.88
+2021-06,2021,6,City of Iloilo,2,"Rice, Regular-Milled",37.95
+2021-07,2021,7,City of Iloilo,2,"Rice, Regular-Milled",37.95
+2021-08,2021,8,City of Iloilo,2,"Rice, Regular-Milled",37.24
+2021-09,2021,9,City of Iloilo,2,"Rice, Regular-Milled",35.1
+2021-10,2021,10,City of Iloilo,2,"Rice, Regular-Milled",35.78
+2021-11,2021,11,City of Iloilo,2,"Rice, Regular-Milled",35.5
+2021-12,2021,12,City of Iloilo,2,"Rice, Regular-Milled",35.17
+2022-01,2022,1,City of Iloilo,2,"Rice, Regular-Milled",35.46
+2022-02,2022,2,City of Iloilo,2,"Rice, Regular-Milled",35.75
+2022-03,2022,3,City of Iloilo,2,"Rice, Regular-Milled",35.75
+2022-04,2022,4,City of Iloilo,2,"Rice, Regular-Milled",35.75
+2022-05,2022,5,City of Iloilo,2,"Rice, Regular-Milled",35.54
+2022-06,2022,6,City of Iloilo,2,"Rice, Regular-Milled",35.82
+2022-07,2022,7,City of Iloilo,2,"Rice, Regular-Milled",36.17
+2022-08,2022,8,City of Iloilo,2,"Rice, Regular-Milled",35.96
+2022-09,2022,9,City of Iloilo,2,"Rice, Regular-Milled",36.17
+2022-10,2022,10,City of Iloilo,2,"Rice, Regular-Milled",36.19
+2022-11,2022,11,City of Iloilo,2,"Rice, Regular-Milled",36.14
+2022-12,2022,12,City of Iloilo,2,"Rice, Regular-Milled",35.89
+2023-01,2023,1,City of Iloilo,2,"Rice, Regular-Milled",35.9
+2023-02,2023,2,City of Iloilo,2,"Rice, Regular-Milled",35.75
+2023-03,2023,3,City of Iloilo,2,"Rice, Regular-Milled",36.22
+2023-04,2023,4,City of Iloilo,2,"Rice, Regular-Milled",36.22
+2023-05,2023,5,City of Iloilo,2,"Rice, Regular-Milled",38.39
+2023-06,2023,6,City of Iloilo,2,"Rice, Regular-Milled",38.54
+2023-07,2023,7,City of Iloilo,2,"Rice, Regular-Milled",38.5
+2023-08,2023,8,City of Iloilo,2,"Rice, Regular-Milled",38.58
+2023-09,2023,9,City of Iloilo,2,"Rice, Regular-Milled",37.42
+2023-10,2023,10,City of Iloilo,2,"Rice, Regular-Milled",37.5
+2023-11,2023,11,City of Iloilo,2,"Rice, Regular-Milled",37.58
+2023-12,2023,12,City of Iloilo,2,"Rice, Regular-Milled",38.33
+2024-01,2024,1,City of Iloilo,2,"Rice, Regular-Milled",38.75
+2024-02,2024,2,City of Iloilo,2,"Rice, Regular-Milled",38.42
+2024-03,2024,3,City of Iloilo,2,"Rice, Regular-Milled",39.13
+2024-04,2024,4,City of Iloilo,2,"Rice, Regular-Milled",39.38
+2024-05,2024,5,City of Iloilo,2,"Rice, Regular-Milled",42.92
+2024-06,2024,6,City of Iloilo,2,"Rice, Regular-Milled",42.41
+2024-07,2024,7,City of Iloilo,2,"Rice, Regular-Milled",42.33
+2024-08,2024,8,City of Iloilo,2,"Rice, Regular-Milled",42.07
+2024-09,2024,9,City of Iloilo,2,"Rice, Regular-Milled",42.19
+2024-10,2024,10,City of Iloilo,2,"Rice, Regular-Milled",41.31
+2024-11,2024,11,City of Iloilo,2,"Rice, Regular-Milled",41.27
+2024-12,2024,12,City of Iloilo,2,"Rice, Regular-Milled",40.52
+2025-01,2025,1,City of Iloilo,2,"Rice, Regular-Milled",41.02
+2025-02,2025,2,City of Iloilo,2,"Rice, Regular-Milled",42.63
+2025-03,2025,3,City of Iloilo,2,"Rice, Regular-Milled",41.98
+2025-04,2025,4,City of Iloilo,2,"Rice, Regular-Milled",40.13
+2025-05,2025,5,City of Iloilo,2,"Rice, Regular-Milled",39.81
+2025-06,2025,6,City of Iloilo,2,"Rice, Regular-Milled",39.17
+2025-07,2025,7,City of Iloilo,2,"Rice, Regular-Milled",38.95
+2025-08,2025,8,City of Iloilo,2,"Rice, Regular-Milled",37.38
+2025-09,2025,9,City of Iloilo,2,"Rice, Regular-Milled",37.64
+2025-10,2025,10,City of Iloilo,2,"Rice, Regular-Milled",38.49
+2025-11,2025,11,City of Iloilo,2,"Rice, Regular-Milled",38.5
+2025-12,2025,12,City of Iloilo,2,"Rice, Regular-Milled",39.88
+2026-01,2026,1,City of Iloilo,2,"Rice, Regular-Milled",40.89
+2026-02,2026,2,City of Iloilo,2,"Rice, Regular-Milled",42.01
+2026-03,2026,3,City of Iloilo,2,"Rice, Regular-Milled",43.83
+2026-04,2026,4,City of Iloilo,2,"Rice, Regular-Milled",45.64
+2026-05,2026,5,City of Iloilo,2,"Rice, Regular-Milled",48.38
+2026-06,2026,6,City of Iloilo,2,"Rice, Regular-Milled",47.35
+2026-07,2026,7,City of Iloilo,2,"Rice, Regular-Milled",46.76
+2026-08,2026,8,City of Iloilo,2,"Rice, Regular-Milled",49.27
+2026-09,2026,9,City of Iloilo,2,"Rice, Regular-Milled",50.33
+2026-10,2026,10,City of Iloilo,2,"Rice, Regular-Milled",49.92
+2018-01,2018,1,City of Iloilo,2,"Rice, Special",56.34
+2018-02,2018,2,City of Iloilo,2,"Rice, Special",57.44
+2018-03,2018,3,City of Iloilo,2,"Rice, Special",58.07
+2018-04,2018,4,City of Iloilo,2,"Rice, Special",57.91
+2018-05,2018,5,City of Iloilo,2,"Rice, Special",57.91
+2018-06,2018,6,City of Iloilo,2,"Rice, Special",57.91
+2018-07,2018,7,City of Iloilo,2,"Rice, Special",57.91
+2018-08,2018,8,City of Iloilo,2,"Rice, Special",60.42
+2018-09,2018,9,City of Iloilo,2,"Rice, Special",60.1
+2018-10,2018,10,City of Iloilo,2,"Rice, Special",59.48
+2018-11,2018,11,City of Iloilo,2,"Rice, Special",61.51
+2018-12,2018,12,City of Iloilo,2,"Rice, Special",61.83
+2019-01,2019,1,City of Iloilo,2,"Rice, Special",62.38
+2019-02,2019,2,City of Iloilo,2,"Rice, Special",60.73
+2019-03,2019,3,City of Iloilo,2,"Rice, Special",58.97
+2019-04,2019,4,City of Iloilo,2,"Rice, Special",57.89
+2019-05,2019,5,City of Iloilo,2,"Rice, Special",58.74
+2019-06,2019,6,City of Iloilo,2,"Rice, Special",58.74
+2019-07,2019,7,City of Iloilo,2,"Rice, Special",59.92
+2019-08,2019,8,City of Iloilo,2,"Rice, Special",59.92
+2019-09,2019,9,City of Iloilo,2,"Rice, Special",60.79
+2019-10,2019,10,City of Iloilo,2,"Rice, Special",60.79
+2019-11,2019,11,City of Iloilo,2,"Rice, Special",60.21
+2019-12,2019,12,City of Iloilo,2,"Rice, Special",60.21
+2020-01,2020,1,City of Iloilo,2,"Rice, Special",59.97
+2020-02,2020,2,City of Iloilo,2,"Rice, Special",60.21
+2020-03,2020,3,City of Iloilo,2,"Rice, Special",60.79
+2020-04,2020,4,City of Iloilo,2,"Rice, Special",60.79
+2020-05,2020,5,City of Iloilo,2,"Rice, Special",60.8
+2020-06,2020,6,City of Iloilo,2,"Rice, Special",60.8
+2020-07,2020,7,City of Iloilo,2,"Rice, Special",60.04
+2020-08,2020,8,City of Iloilo,2,"Rice, Special",59.63
+2020-09,2020,9,City of Iloilo,2,"Rice, Special",59.34
+2020-10,2020,10,City of Iloilo,2,"Rice, Special",58.81
+2020-11,2020,11,City of Iloilo,2,"Rice, Special",59.16
+2020-12,2020,12,City of Iloilo,2,"Rice, Special",58.92
+2021-01,2021,1,City of Iloilo,2,"Rice, Special",54.51
+2021-02,2021,2,City of Iloilo,2,"Rice, Special",57.53
+2021-03,2021,3,City of Iloilo,2,"Rice, Special",56.72
+2021-04,2021,4,City of Iloilo,2,"Rice, Special",56.46
+2021-05,2021,5,City of Iloilo,2,"Rice, Special",56.13
+2021-06,2021,6,City of Iloilo,2,"Rice, Special",59.36
+2021-07,2021,7,City of Iloilo,2,"Rice, Special",59.36
+2021-08,2021,8,City of Iloilo,2,"Rice, Special",58.77
+2021-09,2021,9,City of Iloilo,2,"Rice, Special",57.07
+2021-10,2021,10,City of Iloilo,2,"Rice, Special",57.61
+2021-11,2021,11,City of Iloilo,2,"Rice, Special",57.49
+2021-12,2021,12,City of Iloilo,2,"Rice, Special",56.46
+2022-01,2022,1,City of Iloilo,2,"Rice, Special",57.14
+2022-02,2022,2,City of Iloilo,2,"Rice, Special",57.64
+2022-03,2022,3,City of Iloilo,2,"Rice, Special",57.61
+2022-04,2022,4,City of Iloilo,2,"Rice, Special",57.57
+2022-05,2022,5,City of Iloilo,2,"Rice, Special",56.71
+2022-06,2022,6,City of Iloilo,2,"Rice, Special",55.94
+2022-07,2022,7,City of Iloilo,2,"Rice, Special",56.62
+2022-08,2022,8,City of Iloilo,2,"Rice, Special",55.98
+2022-09,2022,9,City of Iloilo,2,"Rice, Special",55.84
+2022-10,2022,10,City of Iloilo,2,"Rice, Special",55.57
+2022-11,2022,11,City of Iloilo,2,"Rice, Special",55.54
+2022-12,2022,12,City of Iloilo,2,"Rice, Special",55.85
+2023-01,2023,1,City of Iloilo,2,"Rice, Special",54.4
+2023-02,2023,2,City of Iloilo,2,"Rice, Special",54.64
+2023-03,2023,3,City of Iloilo,2,"Rice, Special",55.96
+2023-04,2023,4,City of Iloilo,2,"Rice, Special",55.96
+2023-05,2023,5,City of Iloilo,2,"Rice, Special",58.05
+2023-06,2023,6,City of Iloilo,2,"Rice, Special",59.26
+2023-07,2023,7,City of Iloilo,2,"Rice, Special",58.98
+2023-08,2023,8,City of Iloilo,2,"Rice, Special",60.68
+2023-09,2023,9,City of Iloilo,2,"Rice, Special",65.03
+2023-10,2023,10,City of Iloilo,2,"Rice, Special",63.99
+2023-11,2023,11,City of Iloilo,2,"Rice, Special",65.15
+2023-12,2023,12,City of Iloilo,2,"Rice, Special",65.38
+2024-01,2024,1,City of Iloilo,2,"Rice, Special",68.64
+2024-02,2024,2,City of Iloilo,2,"Rice, Special",70.18
+2024-03,2024,3,City of Iloilo,2,"Rice, Special",70.13
+2024-04,2024,4,City of Iloilo,2,"Rice, Special",69.01
+2024-05,2024,5,City of Iloilo,2,"Rice, Special",68.41
+2024-06,2024,6,City of Iloilo,2,"Rice, Special",68.85
+2024-07,2024,7,City of Iloilo,2,"Rice, Special",66.87
+2024-08,2024,8,City of Iloilo,2,"Rice, Special",67.74
+2024-09,2024,9,City of Iloilo,2,"Rice, Special",67.26
+2024-10,2024,10,City of Iloilo,2,"Rice, Special",66.75
+2024-11,2024,11,City of Iloilo,2,"Rice, Special",66.1
+2024-12,2024,12,City of Iloilo,2,"Rice, Special",64.5
+2025-01,2025,1,City of Iloilo,2,"Rice, Special",64.28
+2025-02,2025,2,City of Iloilo,2,"Rice, Special",64.46
+2025-03,2025,3,City of Iloilo,2,"Rice, Special",65.08
+2025-04,2025,4,City of Iloilo,2,"Rice, Special",61.92
+2025-05,2025,5,City of Iloilo,2,"Rice, Special",60.61
+2025-06,2025,6,City of Iloilo,2,"Rice, Special",60.2
+2025-07,2025,7,City of Iloilo,2,"Rice, Special",59.99
+2025-08,2025,8,City of Iloilo,2,"Rice, Special",56.52
+2025-09,2025,9,City of Iloilo,2,"Rice, Special",56.64
+2025-10,2025,10,City of Iloilo,2,"Rice, Special",56.29
+2025-11,2025,11,City of Iloilo,2,"Rice, Special",56.73
+2025-12,2025,12,City of Iloilo,2,"Rice, Special",58.46
+2026-01,2026,1,City of Iloilo,2,"Rice, Special",59.72
+2026-02,2026,2,City of Iloilo,2,"Rice, Special",62.59
+2026-03,2026,3,City of Iloilo,2,"Rice, Special",62.91
+2026-04,2026,4,City of Iloilo,2,"Rice, Special",66.92
+2026-05,2026,5,City of Iloilo,2,"Rice, Special",64.29
+2026-06,2026,6,City of Iloilo,2,"Rice, Special",66.23
+2026-07,2026,7,City of Iloilo,2,"Rice, Special",64.6
+2026-08,2026,8,City of Iloilo,2,"Rice, Special",65.41
+2026-09,2026,9,City of Iloilo,2,"Rice, Special",65.14
+2026-10,2026,10,City of Iloilo,2,"Rice, Special",66.0
+2018-01,2018,1,City of Iloilo,2,"Rice, Well-Milled",43.64
+2018-02,2018,2,City of Iloilo,2,"Rice, Well-Milled",44.38
+2018-03,2018,3,City of Iloilo,2,"Rice, Well-Milled",46.13
+2018-04,2018,4,City of Iloilo,2,"Rice, Well-Milled",47.16
+2018-05,2018,5,City of Iloilo,2,"Rice, Well-Milled",48.19
+2018-06,2018,6,City of Iloilo,2,"Rice, Well-Milled",48.49
+2018-07,2018,7,City of Iloilo,2,"Rice, Well-Milled",48.92
+2018-08,2018,8,City of Iloilo,2,"Rice, Well-Milled",52.44
+2018-09,2018,9,City of Iloilo,2,"Rice, Well-Milled",52.74
+2018-10,2018,10,City of Iloilo,2,"Rice, Well-Milled",50.69
+2018-11,2018,11,City of Iloilo,2,"Rice, Well-Milled",47.17
+2018-12,2018,12,City of Iloilo,2,"Rice, Well-Milled",46.0
+2019-01,2019,1,City of Iloilo,2,"Rice, Well-Milled",46.26
+2019-02,2019,2,City of Iloilo,2,"Rice, Well-Milled",45.97
+2019-03,2019,3,City of Iloilo,2,"Rice, Well-Milled",45.63
+2019-04,2019,4,City of Iloilo,2,"Rice, Well-Milled",45.44
+2019-05,2019,5,City of Iloilo,2,"Rice, Well-Milled",45.52
+2019-06,2019,6,City of Iloilo,2,"Rice, Well-Milled",45.39
+2019-07,2019,7,City of Iloilo,2,"Rice, Well-Milled",47.04
+2019-08,2019,8,City of Iloilo,2,"Rice, Well-Milled",46.47
+2019-09,2019,9,City of Iloilo,2,"Rice, Well-Milled",46.15
+2019-10,2019,10,City of Iloilo,2,"Rice, Well-Milled",45.77
+2019-11,2019,11,City of Iloilo,2,"Rice, Well-Milled",44.93
+2019-12,2019,12,City of Iloilo,2,"Rice, Well-Milled",45.12
+2020-01,2020,1,City of Iloilo,2,"Rice, Well-Milled",45.38
+2020-02,2020,2,City of Iloilo,2,"Rice, Well-Milled",45.26
+2020-03,2020,3,City of Iloilo,2,"Rice, Well-Milled",45.0
+2020-04,2020,4,City of Iloilo,2,"Rice, Well-Milled",45.0
+2020-05,2020,5,City of Iloilo,2,"Rice, Well-Milled",45.06
+2020-06,2020,6,City of Iloilo,2,"Rice, Well-Milled",44.8
+2020-07,2020,7,City of Iloilo,2,"Rice, Well-Milled",44.8
+2020-08,2020,8,City of Iloilo,2,"Rice, Well-Milled",44.29
+2020-09,2020,9,City of Iloilo,2,"Rice, Well-Milled",44.48
+2020-10,2020,10,City of Iloilo,2,"Rice, Well-Milled",44.47
+2020-11,2020,11,City of Iloilo,2,"Rice, Well-Milled",43.68
+2020-12,2020,12,City of Iloilo,2,"Rice, Well-Milled",42.36
+2021-01,2021,1,City of Iloilo,2,"Rice, Well-Milled",43.38
+2021-02,2021,2,City of Iloilo,2,"Rice, Well-Milled",42.93
+2021-03,2021,3,City of Iloilo,2,"Rice, Well-Milled",42.87
+2021-04,2021,4,City of Iloilo,2,"Rice, Well-Milled",43.01
+2021-05,2021,5,City of Iloilo,2,"Rice, Well-Milled",42.73
+2021-06,2021,6,City of Iloilo,2,"Rice, Well-Milled",42.73
+2021-07,2021,7,City of Iloilo,2,"Rice, Well-Milled",42.73
+2021-08,2021,8,City of Iloilo,2,"Rice, Well-Milled",42.69
+2021-09,2021,9,City of Iloilo,2,"Rice, Well-Milled",41.95
+2021-10,2021,10,City of Iloilo,2,"Rice, Well-Milled",42.33
+2021-11,2021,11,City of Iloilo,2,"Rice, Well-Milled",42.93
+2021-12,2021,12,City of Iloilo,2,"Rice, Well-Milled",42.38
+2022-01,2022,1,City of Iloilo,2,"Rice, Well-Milled",42.96
+2022-02,2022,2,City of Iloilo,2,"Rice, Well-Milled",42.95
+2022-03,2022,3,City of Iloilo,2,"Rice, Well-Milled",43.25
+2022-04,2022,4,City of Iloilo,2,"Rice, Well-Milled",43.25
+2022-05,2022,5,City of Iloilo,2,"Rice, Well-Milled",43.25
+2022-06,2022,6,City of Iloilo,2,"Rice, Well-Milled",43.99
+2022-07,2022,7,City of Iloilo,2,"Rice, Well-Milled",44.45
+2022-08,2022,8,City of Iloilo,2,"Rice, Well-Milled",44.83
+2022-09,2022,9,City of Iloilo,2,"Rice, Well-Milled",45.35
+2022-10,2022,10,City of Iloilo,2,"Rice, Well-Milled",45.29
+2022-11,2022,11,City of Iloilo,2,"Rice, Well-Milled",45.49
+2022-12,2022,12,City of Iloilo,2,"Rice, Well-Milled",45.64
+2023-01,2023,1,City of Iloilo,2,"Rice, Well-Milled",45.67
+2023-02,2023,2,City of Iloilo,2,"Rice, Well-Milled",45.49
+2023-03,2023,3,City of Iloilo,2,"Rice, Well-Milled",45.7
+2023-04,2023,4,City of Iloilo,2,"Rice, Well-Milled",45.7
+2023-05,2023,5,City of Iloilo,2,"Rice, Well-Milled",48.88
+2023-06,2023,6,City of Iloilo,2,"Rice, Well-Milled",49.28
+2023-07,2023,7,City of Iloilo,2,"Rice, Well-Milled",49.04
+2023-08,2023,8,City of Iloilo,2,"Rice, Well-Milled",50.05
+2023-09,2023,9,City of Iloilo,2,"Rice, Well-Milled",49.51
+2023-10,2023,10,City of Iloilo,2,"Rice, Well-Milled",48.55
+2023-11,2023,11,City of Iloilo,2,"Rice, Well-Milled",52.17
+2023-12,2023,12,City of Iloilo,2,"Rice, Well-Milled",53.28
+2024-01,2024,1,City of Iloilo,2,"Rice, Well-Milled",56.12
+2024-02,2024,2,City of Iloilo,2,"Rice, Well-Milled",59.03
+2024-03,2024,3,City of Iloilo,2,"Rice, Well-Milled",60.03
+2024-04,2024,4,City of Iloilo,2,"Rice, Well-Milled",61.44
+2024-05,2024,5,City of Iloilo,2,"Rice, Well-Milled",61.0
+2024-06,2024,6,City of Iloilo,2,"Rice, Well-Milled",61.21
+2024-07,2024,7,City of Iloilo,2,"Rice, Well-Milled",60.63
+2024-08,2024,8,City of Iloilo,2,"Rice, Well-Milled",61.25
+2024-09,2024,9,City of Iloilo,2,"Rice, Well-Milled",60.66
+2024-10,2024,10,City of Iloilo,2,"Rice, Well-Milled",60.34
+2024-11,2024,11,City of Iloilo,2,"Rice, Well-Milled",59.83
+2024-12,2024,12,City of Iloilo,2,"Rice, Well-Milled",59.07
+2025-01,2025,1,City of Iloilo,2,"Rice, Well-Milled",58.89
+2025-02,2025,2,City of Iloilo,2,"Rice, Well-Milled",58.72
+2025-03,2025,3,City of Iloilo,2,"Rice, Well-Milled",57.74
+2025-04,2025,4,City of Iloilo,2,"Rice, Well-Milled",53.99
+2025-05,2025,5,City of Iloilo,2,"Rice, Well-Milled",53.22
+2025-06,2025,6,City of Iloilo,2,"Rice, Well-Milled",53.03
+2025-07,2025,7,City of Iloilo,2,"Rice, Well-Milled",52.04
+2025-08,2025,8,City of Iloilo,2,"Rice, Well-Milled",50.11
+2025-09,2025,9,City of Iloilo,2,"Rice, Well-Milled",49.83
+2025-10,2025,10,City of Iloilo,2,"Rice, Well-Milled",49.99
+2025-11,2025,11,City of Iloilo,2,"Rice, Well-Milled",50.1
+2025-12,2025,12,City of Iloilo,2,"Rice, Well-Milled",50.43
+2026-01,2026,1,City of Iloilo,2,"Rice, Well-Milled",49.54
+2026-02,2026,2,City of Iloilo,2,"Rice, Well-Milled",50.94
+2026-03,2026,3,City of Iloilo,2,"Rice, Well-Milled",51.87
+2026-04,2026,4,City of Iloilo,2,"Rice, Well-Milled",57.75
+2026-05,2026,5,City of Iloilo,2,"Rice, Well-Milled",58.43
+2026-06,2026,6,City of Iloilo,2,"Rice, Well-Milled",58.93
+2026-07,2026,7,City of Iloilo,2,"Rice, Well-Milled",58.38
+2026-08,2026,8,City of Iloilo,2,"Rice, Well-Milled",59.36
+2026-09,2026,9,City of Iloilo,2,"Rice, Well-Milled",58.77
+2026-10,2026,10,City of Iloilo,2,"Rice, Well-Milled",59.32
+2018-01,2018,1,Iloilo,2,"Rice, Regular-Milled",37.84
+2018-02,2018,2,Iloilo,2,"Rice, Regular-Milled",38.83
+2018-03,2018,3,Iloilo,2,"Rice, Regular-Milled",39.96
+2018-04,2018,4,Iloilo,2,"Rice, Regular-Milled",40.38
+2018-05,2018,5,Iloilo,2,"Rice, Regular-Milled",41.93
+2018-06,2018,6,Iloilo,2,"Rice, Regular-Milled",42.49
+2018-07,2018,7,Iloilo,2,"Rice, Regular-Milled",42.63
+2018-08,2018,8,Iloilo,2,"Rice, Regular-Milled",46.58
+2018-09,2018,9,Iloilo,2,"Rice, Regular-Milled",46.87
+2018-10,2018,10,Iloilo,2,"Rice, Regular-Milled",44.04
+2018-11,2018,11,Iloilo,2,"Rice, Regular-Milled",41.93
+2018-12,2018,12,Iloilo,2,"Rice, Regular-Milled",40.57
+2019-01,2019,1,Iloilo,2,"Rice, Regular-Milled",40.4
+2019-02,2019,2,Iloilo,2,"Rice, Regular-Milled",40.27
+2019-03,2019,3,Iloilo,2,"Rice, Regular-Milled",40.76
+2019-04,2019,4,Iloilo,2,"Rice, Regular-Milled",41.28
+2019-05,2019,5,Iloilo,2,"Rice, Regular-Milled",40.45
+2019-06,2019,6,Iloilo,2,"Rice, Regular-Milled",39.62
+2019-07,2019,7,Iloilo,2,"Rice, Regular-Milled",40.11
+2019-08,2019,8,Iloilo,2,"Rice, Regular-Milled",39.17
+2019-09,2019,9,Iloilo,2,"Rice, Regular-Milled",38.7
+2019-10,2019,10,Iloilo,2,"Rice, Regular-Milled",38.1
+2019-11,2019,11,Iloilo,2,"Rice, Regular-Milled",38.66
+2019-12,2019,12,Iloilo,2,"Rice, Regular-Milled",39.08
+2020-01,2020,1,Iloilo,2,"Rice, Regular-Milled",38.9
+2020-02,2020,2,Iloilo,2,"Rice, Regular-Milled",38.52
+2020-03,2020,3,Iloilo,2,"Rice, Regular-Milled",38.71
+2020-04,2020,4,Iloilo,2,"Rice, Regular-Milled",38.65
+2020-05,2020,5,Iloilo,2,"Rice, Regular-Milled",38.9
+2020-06,2020,6,Iloilo,2,"Rice, Regular-Milled",38.77
+2020-07,2020,7,Iloilo,2,"Rice, Regular-Milled",38.9
+2020-08,2020,8,Iloilo,2,"Rice, Regular-Milled",38.52
+2020-09,2020,9,Iloilo,2,"Rice, Regular-Milled",38.65
+2020-10,2020,10,Iloilo,2,"Rice, Regular-Milled",38.79
+2020-11,2020,11,Iloilo,2,"Rice, Regular-Milled",38.03
+2020-12,2020,12,Iloilo,2,"Rice, Regular-Milled",37.48
+2021-01,2021,1,Iloilo,2,"Rice, Regular-Milled",36.68
+2021-02,2021,2,Iloilo,2,"Rice, Regular-Milled",37.47
+2021-03,2021,3,Iloilo,2,"Rice, Regular-Milled",37.48
+2021-04,2021,4,Iloilo,2,"Rice, Regular-Milled",37.52
+2021-05,2021,5,Iloilo,2,"Rice, Regular-Milled",37.35
+2021-06,2021,6,Iloilo,2,"Rice, Regular-Milled",37.42
+2021-07,2021,7,Iloilo,2,"Rice, Regular-Milled",37.42
+2021-08,2021,8,Iloilo,2,"Rice, Regular-Milled",36.29
+2021-09,2021,9,Iloilo,2,"Rice, Regular-Milled",33.31
+2021-10,2021,10,Iloilo,2,"Rice, Regular-Milled",34.25
+2021-11,2021,11,Iloilo,2,"Rice, Regular-Milled",34.81
+2021-12,2021,12,Iloilo,2,"Rice, Regular-Milled",34.27
+2022-01,2022,1,Iloilo,2,"Rice, Regular-Milled",34.9
+2022-02,2022,2,Iloilo,2,"Rice, Regular-Milled",35.19
+2022-03,2022,3,Iloilo,2,"Rice, Regular-Milled",35.13
+2022-04,2022,4,Iloilo,2,"Rice, Regular-Milled",35.06
+2022-05,2022,5,Iloilo,2,"Rice, Regular-Milled",35.38
+2022-06,2022,6,Iloilo,2,"Rice, Regular-Milled",36.38
+2022-07,2022,7,Iloilo,2,"Rice, Regular-Milled",36.75
+2022-08,2022,8,Iloilo,2,"Rice, Regular-Milled",36.63
+2022-09,2022,9,Iloilo,2,"Rice, Regular-Milled",36.69
+2022-10,2022,10,Iloilo,2,"Rice, Regular-Milled",36.75
+2022-11,2022,11,Iloilo,2,"Rice, Regular-Milled",36.88
+2022-12,2022,12,Iloilo,2,"Rice, Regular-Milled",36.44
+2023-01,2023,1,Iloilo,2,"Rice, Regular-Milled",35.72
+2023-02,2023,2,Iloilo,2,"Rice, Regular-Milled",35.63
+2023-03,2023,3,Iloilo,2,"Rice, Regular-Milled",36.13
+2023-04,2023,4,Iloilo,2,"Rice, Regular-Milled",37.19
+2023-05,2023,5,Iloilo,2,"Rice, Regular-Milled",38.0
+2023-06,2023,6,Iloilo,2,"Rice, Regular-Milled",38.13
+2023-07,2023,7,Iloilo,2,"Rice, Regular-Milled",38.63
+2023-08,2023,8,Iloilo,2,"Rice, Regular-Milled",39.63
+2023-09,2023,9,Iloilo,2,"Rice, Regular-Milled",41.25
+2023-10,2023,10,Iloilo,2,"Rice, Regular-Milled",38.25
+2023-11,2023,11,Iloilo,2,"Rice, Regular-Milled",38.75
+2023-12,2023,12,Iloilo,2,"Rice, Regular-Milled",40.19
+2024-01,2024,1,Iloilo,2,"Rice, Regular-Milled",40.5
+2024-02,2024,2,Iloilo,2,"Rice, Regular-Milled",42.13
+2024-03,2024,3,Iloilo,2,"Rice, Regular-Milled",42.81
+2024-04,2024,4,Iloilo,2,"Rice, Regular-Milled",43.25
+2024-05,2024,5,Iloilo,2,"Rice, Regular-Milled",45.81
+2024-06,2024,6,Iloilo,2,"Rice, Regular-Milled",45.63
+2024-07,2024,7,Iloilo,2,"Rice, Regular-Milled",45.46
+2024-08,2024,8,Iloilo,2,"Rice, Regular-Milled",45.56
+2024-09,2024,9,Iloilo,2,"Rice, Regular-Milled",45.56
+2024-10,2024,10,Iloilo,2,"Rice, Regular-Milled",44.94
+2024-11,2024,11,Iloilo,2,"Rice, Regular-Milled",42.88
+2024-12,2024,12,Iloilo,2,"Rice, Regular-Milled",41.25
+2025-01,2025,1,Iloilo,2,"Rice, Regular-Milled",42.5
+2025-02,2025,2,Iloilo,2,"Rice, Regular-Milled",44.63
+2025-03,2025,3,Iloilo,2,"Rice, Regular-Milled",44.06
+2025-04,2025,4,Iloilo,2,"Rice, Regular-Milled",41.69
+2025-05,2025,5,Iloilo,2,"Rice, Regular-Milled",40.75
+2025-06,2025,6,Iloilo,2,"Rice, Regular-Milled",40.13
+2025-07,2025,7,Iloilo,2,"Rice, Regular-Milled",39.19
+2025-08,2025,8,Iloilo,2,"Rice, Regular-Milled",37.83
+2025-09,2025,9,Iloilo,2,"Rice, Regular-Milled",36.06
+2025-10,2025,10,Iloilo,2,"Rice, Regular-Milled",37.92
+2025-11,2025,11,Iloilo,2,"Rice, Regular-Milled",36.81
+2025-12,2025,12,Iloilo,2,"Rice, Regular-Milled",38.71
+2026-01,2026,1,Iloilo,2,"Rice, Regular-Milled",39.19
+2026-02,2026,2,Iloilo,2,"Rice, Regular-Milled",40.53
+2026-03,2026,3,Iloilo,2,"Rice, Regular-Milled",40.94
+2026-04,2026,4,Iloilo,2,"Rice, Regular-Milled",46.71
+2026-05,2026,5,Iloilo,2,"Rice, Regular-Milled",47.9
+2026-06,2026,6,Iloilo,2,"Rice, Regular-Milled",47.88
+2026-07,2026,7,Iloilo,2,"Rice, Regular-Milled",47.88
+2026-08,2026,8,Iloilo,2,"Rice, Regular-Milled",50.03
+2026-09,2026,9,Iloilo,2,"Rice, Regular-Milled",50.19
+2026-10,2026,10,Iloilo,2,"Rice, Regular-Milled",50.46
+2018-01,2018,1,Iloilo,2,"Rice, Special",55.73
+2018-02,2018,2,Iloilo,2,"Rice, Special",56.82
+2018-03,2018,3,Iloilo,2,"Rice, Special",57.44
+2018-04,2018,4,Iloilo,2,"Rice, Special",57.28
+2018-05,2018,5,Iloilo,2,"Rice, Special",57.28
+2018-06,2018,6,Iloilo,2,"Rice, Special",57.28
+2018-07,2018,7,Iloilo,2,"Rice, Special",57.28
+2018-08,2018,8,Iloilo,2,"Rice, Special",59.77
+2018-09,2018,9,Iloilo,2,"Rice, Special",59.45
+2018-10,2018,10,Iloilo,2,"Rice, Special",58.84
+2018-11,2018,11,Iloilo,2,"Rice, Special",60.85
+2018-12,2018,12,Iloilo,2,"Rice, Special",61.17
+2019-01,2019,1,Iloilo,2,"Rice, Special",61.71
+2019-02,2019,2,Iloilo,2,"Rice, Special",60.08
+2019-03,2019,3,Iloilo,2,"Rice, Special",58.34
+2019-04,2019,4,Iloilo,2,"Rice, Special",57.27
+2019-05,2019,5,Iloilo,2,"Rice, Special",58.11
+2019-06,2019,6,Iloilo,2,"Rice, Special",58.11
+2019-07,2019,7,Iloilo,2,"Rice, Special",59.27
+2019-08,2019,8,Iloilo,2,"Rice, Special",59.27
+2019-09,2019,9,Iloilo,2,"Rice, Special",60.13
+2019-10,2019,10,Iloilo,2,"Rice, Special",60.13
+2019-11,2019,11,Iloilo,2,"Rice, Special",59.55
+2019-12,2019,12,Iloilo,2,"Rice, Special",59.55
+2020-01,2020,1,Iloilo,2,"Rice, Special",59.32
+2020-02,2020,2,Iloilo,2,"Rice, Special",59.55
+2020-03,2020,3,Iloilo,2,"Rice, Special",60.13
+2020-04,2020,4,Iloilo,2,"Rice, Special",60.13
+2020-05,2020,5,Iloilo,2,"Rice, Special",60.14
+2020-06,2020,6,Iloilo,2,"Rice, Special",60.14
+2020-07,2020,7,Iloilo,2,"Rice, Special",59.39
+2020-08,2020,8,Iloilo,2,"Rice, Special",58.98
+2020-09,2020,9,Iloilo,2,"Rice, Special",58.69
+2020-10,2020,10,Iloilo,2,"Rice, Special",58.17
+2020-11,2020,11,Iloilo,2,"Rice, Special",58.51
+2020-12,2020,12,Iloilo,2,"Rice, Special",58.28
+2021-01,2021,1,Iloilo,2,"Rice, Special",53.91
+2021-02,2021,2,Iloilo,2,"Rice, Special",56.9
+2021-03,2021,3,Iloilo,2,"Rice, Special",56.1
+2021-04,2021,4,Iloilo,2,"Rice, Special",55.85
+2021-05,2021,5,Iloilo,2,"Rice, Special",55.52
+2021-06,2021,6,Iloilo,2,"Rice, Special",58.71
+2021-07,2021,7,Iloilo,2,"Rice, Special",58.71
+2021-08,2021,8,Iloilo,2,"Rice, Special",55.31
+2021-09,2021,9,Iloilo,2,"Rice, Special",51.6
+2021-10,2021,10,Iloilo,2,"Rice, Special",52.11
+2021-11,2021,11,Iloilo,2,"Rice, Special",52.66
+2021-12,2021,12,Iloilo,2,"Rice, Special",52.34
+2022-01,2022,1,Iloilo,2,"Rice, Special",51.39
+2022-02,2022,2,Iloilo,2,"Rice, Special",52.22
+2022-03,2022,3,Iloilo,2,"Rice, Special",52.67
+2022-04,2022,4,Iloilo,2,"Rice, Special",52.56
+2022-05,2022,5,Iloilo,2,"Rice, Special",52.59
+2022-06,2022,6,Iloilo,2,"Rice, Special",52.58
+2022-07,2022,7,Iloilo,2,"Rice, Special",53.49
+2022-08,2022,8,Iloilo,2,"Rice, Special",53.36
+2022-09,2022,9,Iloilo,2,"Rice, Special",53.12
+2022-10,2022,10,Iloilo,2,"Rice, Special",53.27
+2022-11,2022,11,Iloilo,2,"Rice, Special",53.96
+2022-12,2022,12,Iloilo,2,"Rice, Special",53.42
+2023-01,2023,1,Iloilo,2,"Rice, Special",52.48
+2023-02,2023,2,Iloilo,2,"Rice, Special",52.42
+2023-03,2023,3,Iloilo,2,"Rice, Special",52.97
+2023-04,2023,4,Iloilo,2,"Rice, Special",53.98
+2023-05,2023,5,Iloilo,2,"Rice, Special",54.36
+2023-06,2023,6,Iloilo,2,"Rice, Special",55.28
+2023-07,2023,7,Iloilo,2,"Rice, Special",55.23
+2023-08,2023,8,Iloilo,2,"Rice, Special",56.46
+2023-09,2023,9,Iloilo,2,"Rice, Special",60.62
+2023-10,2023,10,Iloilo,2,"Rice, Special",58.55
+2023-11,2023,11,Iloilo,2,"Rice, Special",59.34
+2023-12,2023,12,Iloilo,2,"Rice, Special",61.29
+2024-01,2024,1,Iloilo,2,"Rice, Special",63.7
+2024-02,2024,2,Iloilo,2,"Rice, Special",65.97
+2024-03,2024,3,Iloilo,2,"Rice, Special",64.35
+2024-04,2024,4,Iloilo,2,"Rice, Special",64.37
+2024-05,2024,5,Iloilo,2,"Rice, Special",64.05
+2024-06,2024,6,Iloilo,2,"Rice, Special",63.79
+2024-07,2024,7,Iloilo,2,"Rice, Special",61.91
+2024-08,2024,8,Iloilo,2,"Rice, Special",62.98
+2024-09,2024,9,Iloilo,2,"Rice, Special",63.41
+2024-10,2024,10,Iloilo,2,"Rice, Special",62.9
+2024-11,2024,11,Iloilo,2,"Rice, Special",62.03
+2024-12,2024,12,Iloilo,2,"Rice, Special",60.77
+2025-01,2025,1,Iloilo,2,"Rice, Special",60.69
+2025-02,2025,2,Iloilo,2,"Rice, Special",60.03
+2025-03,2025,3,Iloilo,2,"Rice, Special",60.69
+2025-04,2025,4,Iloilo,2,"Rice, Special",58.01
+2025-05,2025,5,Iloilo,2,"Rice, Special",56.45
+2025-06,2025,6,Iloilo,2,"Rice, Special",55.55
+2025-07,2025,7,Iloilo,2,"Rice, Special",56.36
+2025-08,2025,8,Iloilo,2,"Rice, Special",53.9
+2025-09,2025,9,Iloilo,2,"Rice, Special",55.53
+2025-10,2025,10,Iloilo,2,"Rice, Special",54.66
+2025-11,2025,11,Iloilo,2,"Rice, Special",54.53
+2025-12,2025,12,Iloilo,2,"Rice, Special",56.78
+2026-01,2026,1,Iloilo,2,"Rice, Special",57.37
+2026-02,2026,2,Iloilo,2,"Rice, Special",59.37
+2026-03,2026,3,Iloilo,2,"Rice, Special",58.76
+2026-04,2026,4,Iloilo,2,"Rice, Special",63.7
+2026-05,2026,5,Iloilo,2,"Rice, Special",62.83
+2026-06,2026,6,Iloilo,2,"Rice, Special",63.07
+2026-07,2026,7,Iloilo,2,"Rice, Special",61.36
+2026-08,2026,8,Iloilo,2,"Rice, Special",62.17
+2026-09,2026,9,Iloilo,2,"Rice, Special",62.29
+2026-10,2026,10,Iloilo,2,"Rice, Special",62.73
+2018-01,2018,1,Iloilo,2,"Rice, Well-Milled",44.69
+2018-02,2018,2,Iloilo,2,"Rice, Well-Milled",45.45
+2018-03,2018,3,Iloilo,2,"Rice, Well-Milled",47.25
+2018-04,2018,4,Iloilo,2,"Rice, Well-Milled",48.3
+2018-05,2018,5,Iloilo,2,"Rice, Well-Milled",49.35
+2018-06,2018,6,Iloilo,2,"Rice, Well-Milled",49.65
+2018-07,2018,7,Iloilo,2,"Rice, Well-Milled",50.09
+2018-08,2018,8,Iloilo,2,"Rice, Well-Milled",53.69
+2018-09,2018,9,Iloilo,2,"Rice, Well-Milled",53.99
+2018-10,2018,10,Iloilo,2,"Rice, Well-Milled",51.89
+2018-11,2018,11,Iloilo,2,"Rice, Well-Milled",48.29
+2018-12,2018,12,Iloilo,2,"Rice, Well-Milled",47.09
+2019-01,2019,1,Iloilo,2,"Rice, Well-Milled",47.35
+2019-02,2019,2,Iloilo,2,"Rice, Well-Milled",47.06
+2019-03,2019,3,Iloilo,2,"Rice, Well-Milled",46.71
+2019-04,2019,4,Iloilo,2,"Rice, Well-Milled",46.51
+2019-05,2019,5,Iloilo,2,"Rice, Well-Milled",46.59
+2019-06,2019,6,Iloilo,2,"Rice, Well-Milled",46.45
+2019-07,2019,7,Iloilo,2,"Rice, Well-Milled",48.14
+2019-08,2019,8,Iloilo,2,"Rice, Well-Milled",47.55
+2019-09,2019,9,Iloilo,2,"Rice, Well-Milled",47.22
+2019-10,2019,10,Iloilo,2,"Rice, Well-Milled",46.83
+2019-11,2019,11,Iloilo,2,"Rice, Well-Milled",45.97
+2019-12,2019,12,Iloilo,2,"Rice, Well-Milled",46.17
+2020-01,2020,1,Iloilo,2,"Rice, Well-Milled",46.43
+2020-02,2020,2,Iloilo,2,"Rice, Well-Milled",46.3
+2020-03,2020,3,Iloilo,2,"Rice, Well-Milled",46.04
+2020-04,2020,4,Iloilo,2,"Rice, Well-Milled",46.04
+2020-05,2020,5,Iloilo,2,"Rice, Well-Milled",46.1
+2020-06,2020,6,Iloilo,2,"Rice, Well-Milled",45.84
+2020-07,2020,7,Iloilo,2,"Rice, Well-Milled",45.84
+2020-08,2020,8,Iloilo,2,"Rice, Well-Milled",45.32
+2020-09,2020,9,Iloilo,2,"Rice, Well-Milled",45.52
+2020-10,2020,10,Iloilo,2,"Rice, Well-Milled",45.51
+2020-11,2020,11,Iloilo,2,"Rice, Well-Milled",44.7
+2020-12,2020,12,Iloilo,2,"Rice, Well-Milled",43.35
+2021-01,2021,1,Iloilo,2,"Rice, Well-Milled",44.4
+2021-02,2021,2,Iloilo,2,"Rice, Well-Milled",43.94
+2021-03,2021,3,Iloilo,2,"Rice, Well-Milled",43.88
+2021-04,2021,4,Iloilo,2,"Rice, Well-Milled",44.03
+2021-05,2021,5,Iloilo,2,"Rice, Well-Milled",43.75
+2021-06,2021,6,Iloilo,2,"Rice, Well-Milled",43.75
+2021-07,2021,7,Iloilo,2,"Rice, Well-Milled",43.75
+2021-08,2021,8,Iloilo,2,"Rice, Well-Milled",41.48
+2021-09,2021,9,Iloilo,2,"Rice, Well-Milled",41.82
+2021-10,2021,10,Iloilo,2,"Rice, Well-Milled",41.08
+2021-11,2021,11,Iloilo,2,"Rice, Well-Milled",42.81
+2021-12,2021,12,Iloilo,2,"Rice, Well-Milled",41.86
+2022-01,2022,1,Iloilo,2,"Rice, Well-Milled",42.42
+2022-02,2022,2,Iloilo,2,"Rice, Well-Milled",41.85
+2022-03,2022,3,Iloilo,2,"Rice, Well-Milled",42.69
+2022-04,2022,4,Iloilo,2,"Rice, Well-Milled",42.29
+2022-05,2022,5,Iloilo,2,"Rice, Well-Milled",42.19
+2022-06,2022,6,Iloilo,2,"Rice, Well-Milled",42.32
+2022-07,2022,7,Iloilo,2,"Rice, Well-Milled",42.63
+2022-08,2022,8,Iloilo,2,"Rice, Well-Milled",43.36
+2022-09,2022,9,Iloilo,2,"Rice, Well-Milled",44.33
+2022-10,2022,10,Iloilo,2,"Rice, Well-Milled",45.08
+2022-11,2022,11,Iloilo,2,"Rice, Well-Milled",45.5
+2022-12,2022,12,Iloilo,2,"Rice, Well-Milled",44.56
+2023-01,2023,1,Iloilo,2,"Rice, Well-Milled",44.86
+2023-02,2023,2,Iloilo,2,"Rice, Well-Milled",44.59
+2023-03,2023,3,Iloilo,2,"Rice, Well-Milled",44.79
+2023-04,2023,4,Iloilo,2,"Rice, Well-Milled",45.44
+2023-05,2023,5,Iloilo,2,"Rice, Well-Milled",46.56
+2023-06,2023,6,Iloilo,2,"Rice, Well-Milled",47.29
+2023-07,2023,7,Iloilo,2,"Rice, Well-Milled",47.68
+2023-08,2023,8,Iloilo,2,"Rice, Well-Milled",48.88
+2023-09,2023,9,Iloilo,2,"Rice, Well-Milled",48.58
+2023-10,2023,10,Iloilo,2,"Rice, Well-Milled",44.16
+2023-11,2023,11,Iloilo,2,"Rice, Well-Milled",47.11
+2023-12,2023,12,Iloilo,2,"Rice, Well-Milled",50.73
+2024-01,2024,1,Iloilo,2,"Rice, Well-Milled",53.02
+2024-02,2024,2,Iloilo,2,"Rice, Well-Milled",57.14
+2024-03,2024,3,Iloilo,2,"Rice, Well-Milled",58.52
+2024-04,2024,4,Iloilo,2,"Rice, Well-Milled",58.23
+2024-05,2024,5,Iloilo,2,"Rice, Well-Milled",58.81
+2024-06,2024,6,Iloilo,2,"Rice, Well-Milled",58.96
+2024-07,2024,7,Iloilo,2,"Rice, Well-Milled",58.83
+2024-08,2024,8,Iloilo,2,"Rice, Well-Milled",59.1
+2024-09,2024,9,Iloilo,2,"Rice, Well-Milled",58.97
+2024-10,2024,10,Iloilo,2,"Rice, Well-Milled",58.64
+2024-11,2024,11,Iloilo,2,"Rice, Well-Milled",57.25
+2024-12,2024,12,Iloilo,2,"Rice, Well-Milled",55.3
+2025-01,2025,1,Iloilo,2,"Rice, Well-Milled",56.27
+2025-02,2025,2,Iloilo,2,"Rice, Well-Milled",56.62
+2025-03,2025,3,Iloilo,2,"Rice, Well-Milled",55.58
+2025-04,2025,4,Iloilo,2,"Rice, Well-Milled",53.87
+2025-05,2025,5,Iloilo,2,"Rice, Well-Milled",52.13
+2025-06,2025,6,Iloilo,2,"Rice, Well-Milled",52.39
+2025-07,2025,7,Iloilo,2,"Rice, Well-Milled",51.29
+2025-08,2025,8,Iloilo,2,"Rice, Well-Milled",48.67
+2025-09,2025,9,Iloilo,2,"Rice, Well-Milled",47.78
+2025-10,2025,10,Iloilo,2,"Rice, Well-Milled",47.61
+2025-11,2025,11,Iloilo,2,"Rice, Well-Milled",46.53
+2025-12,2025,12,Iloilo,2,"Rice, Well-Milled",48.37
+2026-01,2026,1,Iloilo,2,"Rice, Well-Milled",47.66
+2026-02,2026,2,Iloilo,2,"Rice, Well-Milled",49.01
+2026-03,2026,3,Iloilo,2,"Rice, Well-Milled",51.16
+2026-04,2026,4,Iloilo,2,"Rice, Well-Milled",58.46
+2026-05,2026,5,Iloilo,2,"Rice, Well-Milled",58.97
+2026-06,2026,6,Iloilo,2,"Rice, Well-Milled",57.45
+2026-07,2026,7,Iloilo,2,"Rice, Well-Milled",58.41
+2026-08,2026,8,Iloilo,2,"Rice, Well-Milled",59.34
+2026-09,2026,9,Iloilo,2,"Rice, Well-Milled",57.84
+2026-10,2026,10,Iloilo,2,"Rice, Well-Milled",58.25
+2018-01,2018,1,Negros Occidental,2,"Rice, Regular-Milled",39.52
+2018-02,2018,2,Negros Occidental,2,"Rice, Regular-Milled",40.49
+2018-03,2018,3,Negros Occidental,2,"Rice, Regular-Milled",41.09
+2018-04,2018,4,Negros Occidental,2,"Rice, Regular-Milled",41.09
+2018-05,2018,5,Negros Occidental,2,"Rice, Regular-Milled",41.22
+2018-06,2018,6,Negros Occidental,2,"Rice, Regular-Milled",41.7
+2018-07,2018,7,Negros Occidental,2,"Rice, Regular-Milled",41.7
+2018-08,2018,8,Negros Occidental,2,"Rice, Regular-Milled",45.08
+2018-09,2018,9,Negros Occidental,2,"Rice, Regular-Milled",45.32
+2018-10,2018,10,Negros Occidental,2,"Rice, Regular-Milled",46.16
+2018-11,2018,11,Negros Occidental,2,"Rice, Regular-Milled",46.16
+2018-12,2018,12,Negros Occidental,2,"Rice, Regular-Milled",45.08
+2019-01,2019,1,Negros Occidental,2,"Rice, Regular-Milled",44.6
+2019-02,2019,2,Negros Occidental,2,"Rice, Regular-Milled",43.27
+2019-03,2019,3,Negros Occidental,2,"Rice, Regular-Milled",42.64
+2019-04,2019,4,Negros Occidental,2,"Rice, Regular-Milled",42.06
+2019-05,2019,5,Negros Occidental,2,"Rice, Regular-Milled",41.29
+2019-06,2019,6,Negros Occidental,2,"Rice, Regular-Milled",40.9
+2019-07,2019,7,Negros Occidental,2,"Rice, Regular-Milled",41.19
+2019-08,2019,8,Negros Occidental,2,"Rice, Regular-Milled",41.19
+2019-09,2019,9,Negros Occidental,2,"Rice, Regular-Milled",41.19
+2019-10,2019,10,Negros Occidental,2,"Rice, Regular-Milled",41.38
+2019-11,2019,11,Negros Occidental,2,"Rice, Regular-Milled",40.99
+2019-12,2019,12,Negros Occidental,2,"Rice, Regular-Milled",40.99
+2020-01,2020,1,Negros Occidental,2,"Rice, Regular-Milled",39.06
+2020-02,2020,2,Negros Occidental,2,"Rice, Regular-Milled",39.06
+2020-03,2020,3,Negros Occidental,2,"Rice, Regular-Milled",39.83
+2020-04,2020,4,Negros Occidental,2,"Rice, Regular-Milled",40.8
+2020-05,2020,5,Negros Occidental,2,"Rice, Regular-Milled",40.22
+2020-06,2020,6,Negros Occidental,2,"Rice, Regular-Milled",40.22
+2020-07,2020,7,Negros Occidental,2,"Rice, Regular-Milled",40.22
+2020-08,2020,8,Negros Occidental,2,"Rice, Regular-Milled",40.22
+2020-09,2020,9,Negros Occidental,2,"Rice, Regular-Milled",40.22
+2020-10,2020,10,Negros Occidental,2,"Rice, Regular-Milled",40.22
+2020-11,2020,11,Negros Occidental,2,"Rice, Regular-Milled",40.22
+2020-12,2020,12,Negros Occidental,2,"Rice, Regular-Milled",40.22
+2021-01,2021,1,Negros Occidental,2,"Rice, Regular-Milled",39.35
+2021-02,2021,2,Negros Occidental,2,"Rice, Regular-Milled",39.39
+2021-03,2021,3,Negros Occidental,2,"Rice, Regular-Milled",39.35
+2021-04,2021,4,Negros Occidental,2,"Rice, Regular-Milled",39.3
+2021-05,2021,5,Negros Occidental,2,"Rice, Regular-Milled",39.35
+2021-06,2021,6,Negros Occidental,2,"Rice, Regular-Milled",39.3
+2021-07,2021,7,Negros Occidental,2,"Rice, Regular-Milled",39.3
+2021-08,2021,8,Negros Occidental,2,"Rice, Regular-Milled",40.29
+2021-09,2021,9,Negros Occidental,2,"Rice, Regular-Milled",40.28
+2021-10,2021,10,Negros Occidental,2,"Rice, Regular-Milled",40.48
+2021-11,2021,11,Negros Occidental,2,"Rice, Regular-Milled",40.23
+2021-12,2021,12,Negros Occidental,2,"Rice, Regular-Milled",40.73
+2022-01,2022,1,Negros Occidental,2,"Rice, Regular-Milled",40.73
+2022-02,2022,2,Negros Occidental,2,"Rice, Regular-Milled",42.98
+2022-03,2022,3,Negros Occidental,2,"Rice, Regular-Milled",44.85
+2022-04,2022,4,Negros Occidental,2,"Rice, Regular-Milled",45.02
+2022-05,2022,5,Negros Occidental,2,"Rice, Regular-Milled",45.1
+2022-06,2022,6,Negros Occidental,2,"Rice, Regular-Milled",45.44
+2022-07,2022,7,Negros Occidental,2,"Rice, Regular-Milled",45.02
+2022-08,2022,8,Negros Occidental,2,"Rice, Regular-Milled",43.73
+2022-09,2022,9,Negros Occidental,2,"Rice, Regular-Milled",42.88
+2022-10,2022,10,Negros Occidental,2,"Rice, Regular-Milled",42.88
+2022-11,2022,11,Negros Occidental,2,"Rice, Regular-Milled",43.38
+2022-12,2022,12,Negros Occidental,2,"Rice, Regular-Milled",43.98
+2023-01,2023,1,Negros Occidental,2,"Rice, Regular-Milled",43.76
+2023-02,2023,2,Negros Occidental,2,"Rice, Regular-Milled",43.83
+2023-03,2023,3,Negros Occidental,2,"Rice, Regular-Milled",44.1
+2023-04,2023,4,Negros Occidental,2,"Rice, Regular-Milled",43.5
+2023-05,2023,5,Negros Occidental,2,"Rice, Regular-Milled",44.63
+2023-06,2023,6,Negros Occidental,2,"Rice, Regular-Milled",44.69
+2023-07,2023,7,Negros Occidental,2,"Rice, Regular-Milled",45.13
+2023-08,2023,8,Negros Occidental,2,"Rice, Regular-Milled",46.06
+2023-09,2023,9,Negros Occidental,2,"Rice, Regular-Milled",46.88
+2023-10,2023,10,Negros Occidental,2,"Rice, Regular-Milled",46.09
+2023-11,2023,11,Negros Occidental,2,"Rice, Regular-Milled",47.92
+2023-12,2023,12,Negros Occidental,2,"Rice, Regular-Milled",48.29
+2024-01,2024,1,Negros Occidental,2,"Rice, Regular-Milled",48.98
+2024-02,2024,2,Negros Occidental,2,"Rice, Regular-Milled",50.23
+2024-03,2024,3,Negros Occidental,2,"Rice, Regular-Milled",50.43
+2024-04,2024,4,Negros Occidental,2,"Rice, Regular-Milled",51.04
+2024-05,2024,5,Negros Occidental,2,"Rice, Regular-Milled",50.64
+2024-06,2024,6,Negros Occidental,2,"Rice, Regular-Milled",51.47
+2024-07,2024,7,Negros Occidental,2,"Rice, Regular-Milled",51.34
+2024-08,2024,8,Negros Occidental,2,"Rice, Regular-Milled",50.62
+2024-09,2024,9,Negros Occidental,2,"Rice, Regular-Milled",50.86
+2024-10,2024,10,Negros Occidental,2,"Rice, Regular-Milled",52.78
+2024-11,2024,11,Negros Occidental,2,"Rice, Regular-Milled",53.5
+2024-12,2024,12,Negros Occidental,2,"Rice, Regular-Milled",54.67
+2025-01,2025,1,Negros Occidental,2,"Rice, Regular-Milled",48.47
+2025-02,2025,2,Negros Occidental,2,"Rice, Regular-Milled",47.0
+2025-03,2025,3,Negros Occidental,2,"Rice, Regular-Milled",52.11
+2025-04,2025,4,Negros Occidental,2,"Rice, Regular-Milled",50.62
+2025-05,2025,5,Negros Occidental,2,"Rice, Regular-Milled",50.53
+2025-06,2025,6,Negros Occidental,2,"Rice, Regular-Milled",48.98
+2025-07,2025,7,Negros Occidental,2,"Rice, Regular-Milled",47.67
+2025-08,2025,8,Negros Occidental,2,"Rice, Regular-Milled",47.44
+2025-09,2025,9,Negros Occidental,2,"Rice, Regular-Milled",48.41
+2025-10,2025,10,Negros Occidental,2,"Rice, Regular-Milled",47.09
+2025-11,2025,11,Negros Occidental,2,"Rice, Regular-Milled",47.26
+2025-12,2025,12,Negros Occidental,2,"Rice, Regular-Milled",47.44
+2026-01,2026,1,Negros Occidental,2,"Rice, Regular-Milled",43.81
+2026-02,2026,2,Negros Occidental,2,"Rice, Regular-Milled",43.81
+2026-03,2026,3,Negros Occidental,2,"Rice, Regular-Milled",42.94
+2026-04,2026,4,Negros Occidental,2,"Rice, Regular-Milled",48.08
+2026-05,2026,5,Negros Occidental,2,"Rice, Regular-Milled",49.06
+2026-06,2026,6,Negros Occidental,2,"Rice, Regular-Milled",46.34
+2026-07,2026,7,Negros Occidental,2,"Rice, Regular-Milled",47.8
+2026-08,2026,8,Negros Occidental,2,"Rice, Regular-Milled",46.56
+2026-09,2026,9,Negros Occidental,2,"Rice, Regular-Milled",51.93
+2026-10,2026,10,Negros Occidental,2,"Rice, Regular-Milled",51.37
+2018-01,2018,1,Negros Occidental,2,"Rice, Special",49.17
+2018-02,2018,2,Negros Occidental,2,"Rice, Special",49.91
+2018-03,2018,3,Negros Occidental,2,"Rice, Special",50.16
+2018-04,2018,4,Negros Occidental,2,"Rice, Special",50.16
+2018-05,2018,5,Negros Occidental,2,"Rice, Special",49.91
+2018-06,2018,6,Negros Occidental,2,"Rice, Special",50.65
+2018-07,2018,7,Negros Occidental,2,"Rice, Special",50.65
+2018-08,2018,8,Negros Occidental,2,"Rice, Special",51.75
+2018-09,2018,9,Negros Occidental,2,"Rice, Special",53.36
+2018-10,2018,10,Negros Occidental,2,"Rice, Special",53.97
+2018-11,2018,11,Negros Occidental,2,"Rice, Special",53.36
+2018-12,2018,12,Negros Occidental,2,"Rice, Special",52.99
+2019-01,2019,1,Negros Occidental,2,"Rice, Special",52.99
+2019-02,2019,2,Negros Occidental,2,"Rice, Special",52.5
+2019-03,2019,3,Negros Occidental,2,"Rice, Special",52.5
+2019-04,2019,4,Negros Occidental,2,"Rice, Special",52.5
+2019-05,2019,5,Negros Occidental,2,"Rice, Special",52.63
+2019-06,2019,6,Negros Occidental,2,"Rice, Special",52.26
+2019-07,2019,7,Negros Occidental,2,"Rice, Special",52.51
+2019-08,2019,8,Negros Occidental,2,"Rice, Special",52.39
+2019-09,2019,9,Negros Occidental,2,"Rice, Special",52.88
+2019-10,2019,10,Negros Occidental,2,"Rice, Special",52.75
+2019-11,2019,11,Negros Occidental,2,"Rice, Special",52.75
+2019-12,2019,12,Negros Occidental,2,"Rice, Special",52.75
+2020-01,2020,1,Negros Occidental,2,"Rice, Special",52.5
+2020-02,2020,2,Negros Occidental,2,"Rice, Special",52.01
+2020-03,2020,3,Negros Occidental,2,"Rice, Special",50.66
+2020-04,2020,4,Negros Occidental,2,"Rice, Special",52.75
+2020-05,2020,5,Negros Occidental,2,"Rice, Special",52.39
+2020-06,2020,6,Negros Occidental,2,"Rice, Special",52.51
+2020-07,2020,7,Negros Occidental,2,"Rice, Special",52.51
+2020-08,2020,8,Negros Occidental,2,"Rice, Special",52.51
+2020-09,2020,9,Negros Occidental,2,"Rice, Special",52.39
+2020-10,2020,10,Negros Occidental,2,"Rice, Special",52.26
+2020-11,2020,11,Negros Occidental,2,"Rice, Special",52.26
+2020-12,2020,12,Negros Occidental,2,"Rice, Special",52.26
+2021-01,2021,1,Negros Occidental,2,"Rice, Special",49.17
+2021-02,2021,2,Negros Occidental,2,"Rice, Special",49.52
+2021-03,2021,3,Negros Occidental,2,"Rice, Special",49.52
+2021-04,2021,4,Negros Occidental,2,"Rice, Special",49.58
+2021-05,2021,5,Negros Occidental,2,"Rice, Special",48.88
+2021-06,2021,6,Negros Occidental,2,"Rice, Special",48.88
+2021-07,2021,7,Negros Occidental,2,"Rice, Special",48.88
+2021-08,2021,8,Negros Occidental,2,"Rice, Special",46.42
+2021-09,2021,9,Negros Occidental,2,"Rice, Special",48.47
+2021-10,2021,10,Negros Occidental,2,"Rice, Special",50.98
+2021-11,2021,11,Negros Occidental,2,"Rice, Special",51.36
+2021-12,2021,12,Negros Occidental,2,"Rice, Special",52.1
+2022-01,2022,1,Negros Occidental,2,"Rice, Special",52.32
+2022-02,2022,2,Negros Occidental,2,"Rice, Special",50.9
+2022-03,2022,3,Negros Occidental,2,"Rice, Special",51.36
+2022-04,2022,4,Negros Occidental,2,"Rice, Special",51.78
+2022-05,2022,5,Negros Occidental,2,"Rice, Special",51.4
+2022-06,2022,6,Negros Occidental,2,"Rice, Special",51.98
+2022-07,2022,7,Negros Occidental,2,"Rice, Special",51.53
+2022-08,2022,8,Negros Occidental,2,"Rice, Special",52.69
+2022-09,2022,9,Negros Occidental,2,"Rice, Special",54.32
+2022-10,2022,10,Negros Occidental,2,"Rice, Special",53.94
+2022-11,2022,11,Negros Occidental,2,"Rice, Special",54.19
+2022-12,2022,12,Negros Occidental,2,"Rice, Special",54.19
+2023-01,2023,1,Negros Occidental,2,"Rice, Special",58.42
+2023-02,2023,2,Negros Occidental,2,"Rice, Special",58.54
+2023-03,2023,3,Negros Occidental,2,"Rice, Special",58.29
+2023-04,2023,4,Negros Occidental,2,"Rice, Special",55.66
+2023-05,2023,5,Negros Occidental,2,"Rice, Special",55.91
+2023-06,2023,6,Negros Occidental,2,"Rice, Special",56.84
+2023-07,2023,7,Negros Occidental,2,"Rice, Special",58.19
+2023-08,2023,8,Negros Occidental,2,"Rice, Special",58.0
+2023-09,2023,9,Negros Occidental,2,"Rice, Special",58.28
+2023-10,2023,10,Negros Occidental,2,"Rice, Special",59.16
+2023-11,2023,11,Negros Occidental,2,"Rice, Special",59.61
+2023-12,2023,12,Negros Occidental,2,"Rice, Special",61.65
+2024-01,2024,1,Negros Occidental,2,"Rice, Special",61.68
+2024-02,2024,2,Negros Occidental,2,"Rice, Special",62.58
+2024-03,2024,3,Negros Occidental,2,"Rice, Special",66.21
+2024-04,2024,4,Negros Occidental,2,"Rice, Special",66.47
+2024-05,2024,5,Negros Occidental,2,"Rice, Special",66.13
+2024-06,2024,6,Negros Occidental,2,"Rice, Special",66.4
+2024-07,2024,7,Negros Occidental,2,"Rice, Special",66.18
+2024-08,2024,8,Negros Occidental,2,"Rice, Special",65.58
+2024-09,2024,9,Negros Occidental,2,"Rice, Special",64.96
+2024-10,2024,10,Negros Occidental,2,"Rice, Special",67.34
+2024-11,2024,11,Negros Occidental,2,"Rice, Special",66.86
+2024-12,2024,12,Negros Occidental,2,"Rice, Special",65.92
+2025-01,2025,1,Negros Occidental,2,"Rice, Special",65.23
+2025-02,2025,2,Negros Occidental,2,"Rice, Special",63.81
+2025-03,2025,3,Negros Occidental,2,"Rice, Special",61.83
+2025-04,2025,4,Negros Occidental,2,"Rice, Special",59.93
+2025-05,2025,5,Negros Occidental,2,"Rice, Special",59.35
+2025-06,2025,6,Negros Occidental,2,"Rice, Special",58.13
+2025-07,2025,7,Negros Occidental,2,"Rice, Special",57.38
+2025-08,2025,8,Negros Occidental,2,"Rice, Special",56.24
+2025-09,2025,9,Negros Occidental,2,"Rice, Special",61.19
+2025-10,2025,10,Negros Occidental,2,"Rice, Special",60.51
+2025-11,2025,11,Negros Occidental,2,"Rice, Special",59.82
+2025-12,2025,12,Negros Occidental,2,"Rice, Special",60.91
+2026-01,2026,1,Negros Occidental,2,"Rice, Special",54.33
+2026-02,2026,2,Negros Occidental,2,"Rice, Special",54.33
+2026-03,2026,3,Negros Occidental,2,"Rice, Special",54.33
+2026-04,2026,4,Negros Occidental,2,"Rice, Special",53.54
+2026-05,2026,5,Negros Occidental,2,"Rice, Special",59.25
+2026-06,2026,6,Negros Occidental,2,"Rice, Special",56.24
+2026-07,2026,7,Negros Occidental,2,"Rice, Special",59.93
+2026-08,2026,8,Negros Occidental,2,"Rice, Special",55.59
+2026-09,2026,9,Negros Occidental,2,"Rice, Special",55.89
+2026-10,2026,10,Negros Occidental,2,"Rice, Special",56.2
+2018-01,2018,1,Negros Occidental,2,"Rice, Well-Milled",41.0
+2018-02,2018,2,Negros Occidental,2,"Rice, Well-Milled",42.26
+2018-03,2018,3,Negros Occidental,2,"Rice, Well-Milled",42.89
+2018-04,2018,4,Negros Occidental,2,"Rice, Well-Milled",42.51
+2018-05,2018,5,Negros Occidental,2,"Rice, Well-Milled",42.51
+2018-06,2018,6,Negros Occidental,2,"Rice, Well-Milled",42.89
+2018-07,2018,7,Negros Occidental,2,"Rice, Well-Milled",43.9
+2018-08,2018,8,Negros Occidental,2,"Rice, Well-Milled",49.68
+2018-09,2018,9,Negros Occidental,2,"Rice, Well-Milled",52.06
+2018-10,2018,10,Negros Occidental,2,"Rice, Well-Milled",54.07
+2018-11,2018,11,Negros Occidental,2,"Rice, Well-Milled",53.19
+2018-12,2018,12,Negros Occidental,2,"Rice, Well-Milled",52.44
+2019-01,2019,1,Negros Occidental,2,"Rice, Well-Milled",52.81
+2019-02,2019,2,Negros Occidental,2,"Rice, Well-Milled",52.59
+2019-03,2019,3,Negros Occidental,2,"Rice, Well-Milled",52.34
+2019-04,2019,4,Negros Occidental,2,"Rice, Well-Milled",52.34
+2019-05,2019,5,Negros Occidental,2,"Rice, Well-Milled",50.55
+2019-06,2019,6,Negros Occidental,2,"Rice, Well-Milled",49.17
+2019-07,2019,7,Negros Occidental,2,"Rice, Well-Milled",49.17
+2019-08,2019,8,Negros Occidental,2,"Rice, Well-Milled",48.42
+2019-09,2019,9,Negros Occidental,2,"Rice, Well-Milled",48.42
+2019-10,2019,10,Negros Occidental,2,"Rice, Well-Milled",48.29
+2019-11,2019,11,Negros Occidental,2,"Rice, Well-Milled",48.04
+2019-12,2019,12,Negros Occidental,2,"Rice, Well-Milled",48.04
+2020-01,2020,1,Negros Occidental,2,"Rice, Well-Milled",48.04
+2020-02,2020,2,Negros Occidental,2,"Rice, Well-Milled",48.04
+2020-03,2020,3,Negros Occidental,2,"Rice, Well-Milled",46.41
+2020-04,2020,4,Negros Occidental,2,"Rice, Well-Milled",45.52
+2020-05,2020,5,Negros Occidental,2,"Rice, Well-Milled",45.02
+2020-06,2020,6,Negros Occidental,2,"Rice, Well-Milled",46.16
+2020-07,2020,7,Negros Occidental,2,"Rice, Well-Milled",46.16
+2020-08,2020,8,Negros Occidental,2,"Rice, Well-Milled",46.16
+2020-09,2020,9,Negros Occidental,2,"Rice, Well-Milled",45.91
+2020-10,2020,10,Negros Occidental,2,"Rice, Well-Milled",45.91
+2020-11,2020,11,Negros Occidental,2,"Rice, Well-Milled",45.91
+2020-12,2020,12,Negros Occidental,2,"Rice, Well-Milled",45.91
+2021-01,2021,1,Negros Occidental,2,"Rice, Well-Milled",43.65
+2021-02,2021,2,Negros Occidental,2,"Rice, Well-Milled",44.17
+2021-03,2021,3,Negros Occidental,2,"Rice, Well-Milled",44.17
+2021-04,2021,4,Negros Occidental,2,"Rice, Well-Milled",44.17
+2021-05,2021,5,Negros Occidental,2,"Rice, Well-Milled",44.42
+2021-06,2021,6,Negros Occidental,2,"Rice, Well-Milled",44.54
+2021-07,2021,7,Negros Occidental,2,"Rice, Well-Milled",44.54
+2021-08,2021,8,Negros Occidental,2,"Rice, Well-Milled",46.59
+2021-09,2021,9,Negros Occidental,2,"Rice, Well-Milled",44.93
+2021-10,2021,10,Negros Occidental,2,"Rice, Well-Milled",44.19
+2021-11,2021,11,Negros Occidental,2,"Rice, Well-Milled",44.19
+2021-12,2021,12,Negros Occidental,2,"Rice, Well-Milled",44.75
+2022-01,2022,1,Negros Occidental,2,"Rice, Well-Milled",44.85
+2022-02,2022,2,Negros Occidental,2,"Rice, Well-Milled",42.77
+2022-03,2022,3,Negros Occidental,2,"Rice, Well-Milled",43.14
+2022-04,2022,4,Negros Occidental,2,"Rice, Well-Milled",43.35
+2022-05,2022,5,Negros Occidental,2,"Rice, Well-Milled",43.27
+2022-06,2022,6,Negros Occidental,2,"Rice, Well-Milled",43.57
+2022-07,2022,7,Negros Occidental,2,"Rice, Well-Milled",43.14
+2022-08,2022,8,Negros Occidental,2,"Rice, Well-Milled",44.66
+2022-09,2022,9,Negros Occidental,2,"Rice, Well-Milled",45.64
+2022-10,2022,10,Negros Occidental,2,"Rice, Well-Milled",46.39
+2022-11,2022,11,Negros Occidental,2,"Rice, Well-Milled",47.14
+2022-12,2022,12,Negros Occidental,2,"Rice, Well-Milled",48.24
+2023-01,2023,1,Negros Occidental,2,"Rice, Well-Milled",48.26
+2023-02,2023,2,Negros Occidental,2,"Rice, Well-Milled",46.77
+2023-03,2023,3,Negros Occidental,2,"Rice, Well-Milled",45.13
+2023-04,2023,4,Negros Occidental,2,"Rice, Well-Milled",44.75
+2023-05,2023,5,Negros Occidental,2,"Rice, Well-Milled",45.42
+2023-06,2023,6,Negros Occidental,2,"Rice, Well-Milled",46.17
+2023-07,2023,7,Negros Occidental,2,"Rice, Well-Milled",46.58
+2023-08,2023,8,Negros Occidental,2,"Rice, Well-Milled",47.75
+2023-09,2023,9,Negros Occidental,2,"Rice, Well-Milled",48.75
+2023-10,2023,10,Negros Occidental,2,"Rice, Well-Milled",46.86
+2023-11,2023,11,Negros Occidental,2,"Rice, Well-Milled",49.2
+2023-12,2023,12,Negros Occidental,2,"Rice, Well-Milled",54.15
+2024-01,2024,1,Negros Occidental,2,"Rice, Well-Milled",54.9
+2024-02,2024,2,Negros Occidental,2,"Rice, Well-Milled",55.65
+2024-03,2024,3,Negros Occidental,2,"Rice, Well-Milled",59.7
+2024-04,2024,4,Negros Occidental,2,"Rice, Well-Milled",59.2
+2024-05,2024,5,Negros Occidental,2,"Rice, Well-Milled",59.2
+2024-06,2024,6,Negros Occidental,2,"Rice, Well-Milled",59.45
+2024-07,2024,7,Negros Occidental,2,"Rice, Well-Milled",59.34
+2024-08,2024,8,Negros Occidental,2,"Rice, Well-Milled",59.42
+2024-09,2024,9,Negros Occidental,2,"Rice, Well-Milled",59.38
+2024-10,2024,10,Negros Occidental,2,"Rice, Well-Milled",59.74
+2024-11,2024,11,Negros Occidental,2,"Rice, Well-Milled",61.38
+2024-12,2024,12,Negros Occidental,2,"Rice, Well-Milled",60.62
+2025-01,2025,1,Negros Occidental,2,"Rice, Well-Milled",59.21
+2025-02,2025,2,Negros Occidental,2,"Rice, Well-Milled",58.21
+2025-03,2025,3,Negros Occidental,2,"Rice, Well-Milled",58.1
+2025-04,2025,4,Negros Occidental,2,"Rice, Well-Milled",52.82
+2025-05,2025,5,Negros Occidental,2,"Rice, Well-Milled",53.11
+2025-06,2025,6,Negros Occidental,2,"Rice, Well-Milled",51.49
+2025-07,2025,7,Negros Occidental,2,"Rice, Well-Milled",51.32
+2025-08,2025,8,Negros Occidental,2,"Rice, Well-Milled",49.76
+2025-09,2025,9,Negros Occidental,2,"Rice, Well-Milled",51.06
+2025-10,2025,10,Negros Occidental,2,"Rice, Well-Milled",53.53
+2025-11,2025,11,Negros Occidental,2,"Rice, Well-Milled",54.15
+2025-12,2025,12,Negros Occidental,2,"Rice, Well-Milled",53.66
+2026-01,2026,1,Negros Occidental,2,"Rice, Well-Milled",47.83
+2026-02,2026,2,Negros Occidental,2,"Rice, Well-Milled",47.83
+2026-03,2026,3,Negros Occidental,2,"Rice, Well-Milled",47.83
+2026-04,2026,4,Negros Occidental,2,"Rice, Well-Milled",48.63
+2026-05,2026,5,Negros Occidental,2,"Rice, Well-Milled",51.88
+2026-06,2026,6,Negros Occidental,2,"Rice, Well-Milled",47.17
+2026-07,2026,7,Negros Occidental,2,"Rice, Well-Milled",50.28
+2026-08,2026,8,Negros Occidental,2,"Rice, Well-Milled",50.2
+2026-09,2026,9,Negros Occidental,2,"Rice, Well-Milled",52.3
+2026-10,2026,10,Negros Occidental,2,"Rice, Well-Milled",52.8
+2018-01,2018,1,Negros Oriental,2,"Rice, Regular-Milled",44.13
+2018-02,2018,2,Negros Oriental,2,"Rice, Regular-Milled",44.25
+2018-03,2018,3,Negros Oriental,2,"Rice, Regular-Milled",44.88
+2018-04,2018,4,Negros Oriental,2,"Rice, Regular-Milled",44.88
+2018-05,2018,5,Negros Oriental,2,"Rice, Regular-Milled",44.88
+2018-06,2018,6,Negros Oriental,2,"Rice, Regular-Milled",45.0
+2018-07,2018,7,Negros Oriental,2,"Rice, Regular-Milled",46.19
+2018-08,2018,8,Negros Oriental,2,"Rice, Regular-Milled",46.19
+2018-09,2018,9,Negros Oriental,2,"Rice, Regular-Milled",47.57
+2018-10,2018,10,Negros Oriental,2,"Rice, Regular-Milled",46.32
+2018-11,2018,11,Negros Oriental,2,"Rice, Regular-Milled",46.32
+2018-12,2018,12,Negros Oriental,2,"Rice, Regular-Milled",44.35
+2019-01,2019,1,Negros Oriental,2,"Rice, Regular-Milled",43.98
+2019-02,2019,2,Negros Oriental,2,"Rice, Regular-Milled",44.1
+2019-03,2019,3,Negros Oriental,2,"Rice, Regular-Milled",44.1
+2019-04,2019,4,Negros Oriental,2,"Rice, Regular-Milled",42.69
+2019-05,2019,5,Negros Oriental,2,"Rice, Regular-Milled",41.77
+2019-06,2019,6,Negros Oriental,2,"Rice, Regular-Milled",39.94
+2019-07,2019,7,Negros Oriental,2,"Rice, Regular-Milled",39.64
+2019-08,2019,8,Negros Oriental,2,"Rice, Regular-Milled",39.32
+2019-09,2019,9,Negros Oriental,2,"Rice, Regular-Milled",38.57
+2019-10,2019,10,Negros Oriental,2,"Rice, Regular-Milled",37.57
+2019-11,2019,11,Negros Oriental,2,"Rice, Regular-Milled",35.82
+2019-12,2019,12,Negros Oriental,2,"Rice, Regular-Milled",34.94
+2020-01,2020,1,Negros Oriental,2,"Rice, Regular-Milled",34.82
+2020-02,2020,2,Negros Oriental,2,"Rice, Regular-Milled",34.82
+2020-03,2020,3,Negros Oriental,2,"Rice, Regular-Milled",34.82
+2020-04,2020,4,Negros Oriental,2,"Rice, Regular-Milled",36.19
+2020-05,2020,5,Negros Oriental,2,"Rice, Regular-Milled",38.44
+2020-06,2020,6,Negros Oriental,2,"Rice, Regular-Milled",40.57
+2020-07,2020,7,Negros Oriental,2,"Rice, Regular-Milled",40.19
+2020-08,2020,8,Negros Oriental,2,"Rice, Regular-Milled",40.13
+2020-09,2020,9,Negros Oriental,2,"Rice, Regular-Milled",40.19
+2020-10,2020,10,Negros Oriental,2,"Rice, Regular-Milled",40.44
+2020-11,2020,11,Negros Oriental,2,"Rice, Regular-Milled",39.44
+2020-12,2020,12,Negros Oriental,2,"Rice, Regular-Milled",39.15
+2021-01,2021,1,Negros Oriental,2,"Rice, Regular-Milled",39.77
+2021-02,2021,2,Negros Oriental,2,"Rice, Regular-Milled",39.7
+2021-03,2021,3,Negros Oriental,2,"Rice, Regular-Milled",39.65
+2021-04,2021,4,Negros Oriental,2,"Rice, Regular-Milled",38.37
+2021-05,2021,5,Negros Oriental,2,"Rice, Regular-Milled",39.19
+2021-06,2021,6,Negros Oriental,2,"Rice, Regular-Milled",38.72
+2021-07,2021,7,Negros Oriental,2,"Rice, Regular-Milled",39.05
+2021-08,2021,8,Negros Oriental,2,"Rice, Regular-Milled",38.73
+2021-09,2021,9,Negros Oriental,2,"Rice, Regular-Milled",39.3
+2021-10,2021,10,Negros Oriental,2,"Rice, Regular-Milled",38.95
+2021-11,2021,11,Negros Oriental,2,"Rice, Regular-Milled",38.95
+2021-12,2021,12,Negros Oriental,2,"Rice, Regular-Milled",38.98
+2022-01,2022,1,Negros Oriental,2,"Rice, Regular-Milled",39.99
+2022-02,2022,2,Negros Oriental,2,"Rice, Regular-Milled",39.62
+2022-03,2022,3,Negros Oriental,2,"Rice, Regular-Milled",40.3
+2022-04,2022,4,Negros Oriental,2,"Rice, Regular-Milled",39.52
+2022-05,2022,5,Negros Oriental,2,"Rice, Regular-Milled",39.85
+2022-06,2022,6,Negros Oriental,2,"Rice, Regular-Milled",39.56
+2022-07,2022,7,Negros Oriental,2,"Rice, Regular-Milled",40.63
+2022-08,2022,8,Negros Oriental,2,"Rice, Regular-Milled",39.9
+2022-09,2022,9,Negros Oriental,2,"Rice, Regular-Milled",40.69
+2022-10,2022,10,Negros Oriental,2,"Rice, Regular-Milled",40.74
+2022-11,2022,11,Negros Oriental,2,"Rice, Regular-Milled",39.88
+2022-12,2022,12,Negros Oriental,2,"Rice, Regular-Milled",40.26
+2023-01,2023,1,Negros Oriental,2,"Rice, Regular-Milled",40.07
+2023-02,2023,2,Negros Oriental,2,"Rice, Regular-Milled",40.27
+2023-03,2023,3,Negros Oriental,2,"Rice, Regular-Milled",40.53
+2023-04,2023,4,Negros Oriental,2,"Rice, Regular-Milled",41.16
+2023-05,2023,5,Negros Oriental,2,"Rice, Regular-Milled",41.32
+2023-06,2023,6,Negros Oriental,2,"Rice, Regular-Milled",41.37
+2023-07,2023,7,Negros Oriental,2,"Rice, Regular-Milled",41.42
+2023-08,2023,8,Negros Oriental,2,"Rice, Regular-Milled",42.73
+2023-09,2023,9,Negros Oriental,2,"Rice, Regular-Milled",48.29
+2023-10,2023,10,Negros Oriental,2,"Rice, Regular-Milled",46.1
+2023-11,2023,11,Negros Oriental,2,"Rice, Regular-Milled",49.24
+2023-12,2023,12,Negros Oriental,2,"Rice, Regular-Milled",52.57
+2024-01,2024,1,Negros Oriental,2,"Rice, Regular-Milled",52.23
+2024-02,2024,2,Negros Oriental,2,"Rice, Regular-Milled",53.41
+2024-03,2024,3,Negros Oriental,2,"Rice, Regular-Milled",53.9
+2024-04,2024,4,Negros Oriental,2,"Rice, Regular-Milled",53.54
+2024-05,2024,5,Negros Oriental,2,"Rice, Regular-Milled",52.53
+2024-06,2024,6,Negros Oriental,2,"Rice, Regular-Milled",52.28
+2024-07,2024,7,Negros Oriental,2,"Rice, Regular-Milled",52.0
+2024-08,2024,8,Negros Oriental,2,"Rice, Regular-Milled",51.2
+2024-09,2024,9,Negros Oriental,2,"Rice, Regular-Milled",51.51
+2024-10,2024,10,Negros Oriental,2,"Rice, Regular-Milled",51.65
+2024-11,2024,11,Negros Oriental,2,"Rice, Regular-Milled",50.89
+2024-12,2024,12,Negros Oriental,2,"Rice, Regular-Milled",50.45
+2025-01,2025,1,Negros Oriental,2,"Rice, Regular-Milled",49.51
+2025-02,2025,2,Negros Oriental,2,"Rice, Regular-Milled",49.04
+2025-03,2025,3,Negros Oriental,2,"Rice, Regular-Milled",46.29
+2025-04,2025,4,Negros Oriental,2,"Rice, Regular-Milled",46.43
+2025-05,2025,5,Negros Oriental,2,"Rice, Regular-Milled",44.54
+2025-06,2025,6,Negros Oriental,2,"Rice, Regular-Milled",44.31
+2025-07,2025,7,Negros Oriental,2,"Rice, Regular-Milled",44.13
+2025-08,2025,8,Negros Oriental,2,"Rice, Regular-Milled",43.98
+2025-09,2025,9,Negros Oriental,2,"Rice, Regular-Milled",40.83
+2025-10,2025,10,Negros Oriental,2,"Rice, Regular-Milled",40.13
+2025-11,2025,11,Negros Oriental,2,"Rice, Regular-Milled",40.85
+2025-12,2025,12,Negros Oriental,2,"Rice, Regular-Milled",43.31
+2026-01,2026,1,Negros Oriental,2,"Rice, Regular-Milled",44.36
+2026-02,2026,2,Negros Oriental,2,"Rice, Regular-Milled",47.03
+2026-03,2026,3,Negros Oriental,2,"Rice, Regular-Milled",47.87
+2026-04,2026,4,Negros Oriental,2,"Rice, Regular-Milled",54.42
+2026-05,2026,5,Negros Oriental,2,"Rice, Regular-Milled",51.81
+2026-06,2026,6,Negros Oriental,2,"Rice, Regular-Milled",52.71
+2026-07,2026,7,Negros Oriental,2,"Rice, Regular-Milled",50.93
+2026-08,2026,8,Negros Oriental,2,"Rice, Regular-Milled",50.84
+2026-09,2026,9,Negros Oriental,2,"Rice, Regular-Milled",51.58
+2026-10,2026,10,Negros Oriental,2,"Rice, Regular-Milled",50.5
+2018-01,2018,1,Negros Oriental,2,"Rice, Special",49.68
+2018-02,2018,2,Negros Oriental,2,"Rice, Special",49.68
+2018-03,2018,3,Negros Oriental,2,"Rice, Special",50.36
+2018-04,2018,4,Negros Oriental,2,"Rice, Special",51.03
+2018-05,2018,5,Negros Oriental,2,"Rice, Special",51.03
+2018-06,2018,6,Negros Oriental,2,"Rice, Special",51.16
+2018-07,2018,7,Negros Oriental,2,"Rice, Special",53.01
+2018-08,2018,8,Negros Oriental,2,"Rice, Special",53.14
+2018-09,2018,9,Negros Oriental,2,"Rice, Special",56.05
+2018-10,2018,10,Negros Oriental,2,"Rice, Special",55.56
+2018-11,2018,11,Negros Oriental,2,"Rice, Special",55.56
+2018-12,2018,12,Negros Oriental,2,"Rice, Special",55.31
+2019-01,2019,1,Negros Oriental,2,"Rice, Special",56.58
+2019-02,2019,2,Negros Oriental,2,"Rice, Special",56.62
+2019-03,2019,3,Negros Oriental,2,"Rice, Special",56.38
+2019-04,2019,4,Negros Oriental,2,"Rice, Special",55.81
+2019-05,2019,5,Negros Oriental,2,"Rice, Special",55.93
+2019-06,2019,6,Negros Oriental,2,"Rice, Special",55.32
+2019-07,2019,7,Negros Oriental,2,"Rice, Special",55.32
+2019-08,2019,8,Negros Oriental,2,"Rice, Special",55.32
+2019-09,2019,9,Negros Oriental,2,"Rice, Special",54.7
+2019-10,2019,10,Negros Oriental,2,"Rice, Special",54.7
+2019-11,2019,11,Negros Oriental,2,"Rice, Special",55.94
+2019-12,2019,12,Negros Oriental,2,"Rice, Special",56.44
+2020-01,2020,1,Negros Oriental,2,"Rice, Special",55.94
+2020-02,2020,2,Negros Oriental,2,"Rice, Special",55.57
+2020-03,2020,3,Negros Oriental,2,"Rice, Special",55.75
+2020-04,2020,4,Negros Oriental,2,"Rice, Special",55.57
+2020-05,2020,5,Negros Oriental,2,"Rice, Special",56.68
+2020-06,2020,6,Negros Oriental,2,"Rice, Special",56.68
+2020-07,2020,7,Negros Oriental,2,"Rice, Special",56.62
+2020-08,2020,8,Negros Oriental,2,"Rice, Special",56.74
+2020-09,2020,9,Negros Oriental,2,"Rice, Special",55.82
+2020-10,2020,10,Negros Oriental,2,"Rice, Special",55.57
+2020-11,2020,11,Negros Oriental,2,"Rice, Special",54.83
+2020-12,2020,12,Negros Oriental,2,"Rice, Special",54.95
+2021-01,2021,1,Negros Oriental,2,"Rice, Special",55.1
+2021-02,2021,2,Negros Oriental,2,"Rice, Special",56.03
+2021-03,2021,3,Negros Oriental,2,"Rice, Special",56.13
+2021-04,2021,4,Negros Oriental,2,"Rice, Special",55.88
+2021-05,2021,5,Negros Oriental,2,"Rice, Special",55.65
+2021-06,2021,6,Negros Oriental,2,"Rice, Special",56.02
+2021-07,2021,7,Negros Oriental,2,"Rice, Special",56.5
+2021-08,2021,8,Negros Oriental,2,"Rice, Special",57.0
+2021-09,2021,9,Negros Oriental,2,"Rice, Special",56.16
+2021-10,2021,10,Negros Oriental,2,"Rice, Special",57.94
+2021-11,2021,11,Negros Oriental,2,"Rice, Special",57.94
+2021-12,2021,12,Negros Oriental,2,"Rice, Special",56.11
+2022-01,2022,1,Negros Oriental,2,"Rice, Special",56.51
+2022-02,2022,2,Negros Oriental,2,"Rice, Special",55.85
+2022-03,2022,3,Negros Oriental,2,"Rice, Special",55.95
+2022-04,2022,4,Negros Oriental,2,"Rice, Special",57.7
+2022-05,2022,5,Negros Oriental,2,"Rice, Special",57.82
+2022-06,2022,6,Negros Oriental,2,"Rice, Special",57.85
+2022-07,2022,7,Negros Oriental,2,"Rice, Special",58.26
+2022-08,2022,8,Negros Oriental,2,"Rice, Special",58.53
+2022-09,2022,9,Negros Oriental,2,"Rice, Special",54.29
+2022-10,2022,10,Negros Oriental,2,"Rice, Special",57.38
+2022-11,2022,11,Negros Oriental,2,"Rice, Special",59.25
+2022-12,2022,12,Negros Oriental,2,"Rice, Special",58.55
+2023-01,2023,1,Negros Oriental,2,"Rice, Special",57.55
+2023-02,2023,2,Negros Oriental,2,"Rice, Special",58.05
+2023-03,2023,3,Negros Oriental,2,"Rice, Special",59.05
+2023-04,2023,4,Negros Oriental,2,"Rice, Special",58.32
+2023-05,2023,5,Negros Oriental,2,"Rice, Special",57.78
+2023-06,2023,6,Negros Oriental,2,"Rice, Special",57.83
+2023-07,2023,7,Negros Oriental,2,"Rice, Special",57.98
+2023-08,2023,8,Negros Oriental,2,"Rice, Special",57.96
+2023-09,2023,9,Negros Oriental,2,"Rice, Special",60.96
+2023-10,2023,10,Negros Oriental,2,"Rice, Special",63.25
+2023-11,2023,11,Negros Oriental,2,"Rice, Special",58.5
+2023-12,2023,12,Negros Oriental,2,"Rice, Special",62.06
+2024-01,2024,1,Negros Oriental,2,"Rice, Special",63.0
+2024-02,2024,2,Negros Oriental,2,"Rice, Special",62.91
+2024-03,2024,3,Negros Oriental,2,"Rice, Special",62.88
+2024-04,2024,4,Negros Oriental,2,"Rice, Special",63.06
+2024-05,2024,5,Negros Oriental,2,"Rice, Special",65.81
+2024-06,2024,6,Negros Oriental,2,"Rice, Special",66.19
+2024-07,2024,7,Negros Oriental,2,"Rice, Special",63.81
+2024-08,2024,8,Negros Oriental,2,"Rice, Special",60.94
+2024-09,2024,9,Negros Oriental,2,"Rice, Special",63.69
+2024-10,2024,10,Negros Oriental,2,"Rice, Special",63.31
+2024-11,2024,11,Negros Oriental,2,"Rice, Special",63.25
+2024-12,2024,12,Negros Oriental,2,"Rice, Special",66.36
+2025-01,2025,1,Negros Oriental,2,"Rice, Special",64.71
+2025-02,2025,2,Negros Oriental,2,"Rice, Special",67.21
+2025-03,2025,3,Negros Oriental,2,"Rice, Special",67.21
+2025-04,2025,4,Negros Oriental,2,"Rice, Special",67.93
+2025-05,2025,5,Negros Oriental,2,"Rice, Special",68.0
+2025-06,2025,6,Negros Oriental,2,"Rice, Special",67.36
+2025-07,2025,7,Negros Oriental,2,"Rice, Special",67.21
+2025-08,2025,8,Negros Oriental,2,"Rice, Special",66.57
+2025-09,2025,9,Negros Oriental,2,"Rice, Special",64.36
+2025-10,2025,10,Negros Oriental,2,"Rice, Special",63.71
+2025-11,2025,11,Negros Oriental,2,"Rice, Special",63.64
+2025-12,2025,12,Negros Oriental,2,"Rice, Special",64.79
+2026-01,2026,1,Negros Oriental,2,"Rice, Special",64.79
+2026-02,2026,2,Negros Oriental,2,"Rice, Special",60.5
+2026-03,2026,3,Negros Oriental,2,"Rice, Special",62.79
+2026-04,2026,4,Negros Oriental,2,"Rice, Special",67.36
+2026-05,2026,5,Negros Oriental,2,"Rice, Special",68.43
+2026-06,2026,6,Negros Oriental,2,"Rice, Special",70.19
+2026-07,2026,7,Negros Oriental,2,"Rice, Special",67.98
+2026-08,2026,8,Negros Oriental,2,"Rice, Special",66.76
+2026-09,2026,9,Negros Oriental,2,"Rice, Special",67.59
+2026-10,2026,10,Negros Oriental,2,"Rice, Special",69.19
+2018-01,2018,1,Negros Oriental,2,"Rice, Well-Milled",45.02
+2018-02,2018,2,Negros Oriental,2,"Rice, Well-Milled",45.02
+2018-03,2018,3,Negros Oriental,2,"Rice, Well-Milled",45.27
+2018-04,2018,4,Negros Oriental,2,"Rice, Well-Milled",45.4
+2018-05,2018,5,Negros Oriental,2,"Rice, Well-Milled",45.4
+2018-06,2018,6,Negros Oriental,2,"Rice, Well-Milled",46.4
+2018-07,2018,7,Negros Oriental,2,"Rice, Well-Milled",47.52
+2018-08,2018,8,Negros Oriental,2,"Rice, Well-Milled",48.02
+2018-09,2018,9,Negros Oriental,2,"Rice, Well-Milled",50.15
+2018-10,2018,10,Negros Oriental,2,"Rice, Well-Milled",51.15
+2018-11,2018,11,Negros Oriental,2,"Rice, Well-Milled",49.65
+2018-12,2018,12,Negros Oriental,2,"Rice, Well-Milled",50.02
+2019-01,2019,1,Negros Oriental,2,"Rice, Well-Milled",50.4
+2019-02,2019,2,Negros Oriental,2,"Rice, Well-Milled",50.15
+2019-03,2019,3,Negros Oriental,2,"Rice, Well-Milled",50.15
+2019-04,2019,4,Negros Oriental,2,"Rice, Well-Milled",49.52
+2019-05,2019,5,Negros Oriental,2,"Rice, Well-Milled",48.4
+2019-06,2019,6,Negros Oriental,2,"Rice, Well-Milled",47.15
+2019-07,2019,7,Negros Oriental,2,"Rice, Well-Milled",46.77
+2019-08,2019,8,Negros Oriental,2,"Rice, Well-Milled",46.36
+2019-09,2019,9,Negros Oriental,2,"Rice, Well-Milled",46.98
+2019-10,2019,10,Negros Oriental,2,"Rice, Well-Milled",46.98
+2019-11,2019,11,Negros Oriental,2,"Rice, Well-Milled",45.98
+2019-12,2019,12,Negros Oriental,2,"Rice, Well-Milled",44.86
+2020-01,2020,1,Negros Oriental,2,"Rice, Well-Milled",44.98
+2020-02,2020,2,Negros Oriental,2,"Rice, Well-Milled",43.66
+2020-03,2020,3,Negros Oriental,2,"Rice, Well-Milled",44.21
+2020-04,2020,4,Negros Oriental,2,"Rice, Well-Milled",45.9
+2020-05,2020,5,Negros Oriental,2,"Rice, Well-Milled",48.27
+2020-06,2020,6,Negros Oriental,2,"Rice, Well-Milled",48.21
+2020-07,2020,7,Negros Oriental,2,"Rice, Well-Milled",47.27
+2020-08,2020,8,Negros Oriental,2,"Rice, Well-Milled",46.9
+2020-09,2020,9,Negros Oriental,2,"Rice, Well-Milled",46.15
+2020-10,2020,10,Negros Oriental,2,"Rice, Well-Milled",46.4
+2020-11,2020,11,Negros Oriental,2,"Rice, Well-Milled",45.27
+2020-12,2020,12,Negros Oriental,2,"Rice, Well-Milled",44.52
+2021-01,2021,1,Negros Oriental,2,"Rice, Well-Milled",45.81
+2021-02,2021,2,Negros Oriental,2,"Rice, Well-Milled",43.95
+2021-03,2021,3,Negros Oriental,2,"Rice, Well-Milled",44.9
+2021-04,2021,4,Negros Oriental,2,"Rice, Well-Milled",43.58
+2021-05,2021,5,Negros Oriental,2,"Rice, Well-Milled",43.05
+2021-06,2021,6,Negros Oriental,2,"Rice, Well-Milled",43.64
+2021-07,2021,7,Negros Oriental,2,"Rice, Well-Milled",43.95
+2021-08,2021,8,Negros Oriental,2,"Rice, Well-Milled",43.89
+2021-09,2021,9,Negros Oriental,2,"Rice, Well-Milled",43.88
+2021-10,2021,10,Negros Oriental,2,"Rice, Well-Milled",42.92
+2021-11,2021,11,Negros Oriental,2,"Rice, Well-Milled",42.92
+2021-12,2021,12,Negros Oriental,2,"Rice, Well-Milled",42.25
+2022-01,2022,1,Negros Oriental,2,"Rice, Well-Milled",42.06
+2022-02,2022,2,Negros Oriental,2,"Rice, Well-Milled",42.55
+2022-03,2022,3,Negros Oriental,2,"Rice, Well-Milled",42.15
+2022-04,2022,4,Negros Oriental,2,"Rice, Well-Milled",42.9
+2022-05,2022,5,Negros Oriental,2,"Rice, Well-Milled",43.43
+2022-06,2022,6,Negros Oriental,2,"Rice, Well-Milled",43.76
+2022-07,2022,7,Negros Oriental,2,"Rice, Well-Milled",43.1
+2022-08,2022,8,Negros Oriental,2,"Rice, Well-Milled",43.53
+2022-09,2022,9,Negros Oriental,2,"Rice, Well-Milled",43.52
+2022-10,2022,10,Negros Oriental,2,"Rice, Well-Milled",44.06
+2022-11,2022,11,Negros Oriental,2,"Rice, Well-Milled",43.94
+2022-12,2022,12,Negros Oriental,2,"Rice, Well-Milled",44.22
+2023-01,2023,1,Negros Oriental,2,"Rice, Well-Milled",43.32
+2023-02,2023,2,Negros Oriental,2,"Rice, Well-Milled",43.33
+2023-03,2023,3,Negros Oriental,2,"Rice, Well-Milled",43.76
+2023-04,2023,4,Negros Oriental,2,"Rice, Well-Milled",45.7
+2023-05,2023,5,Negros Oriental,2,"Rice, Well-Milled",45.75
+2023-06,2023,6,Negros Oriental,2,"Rice, Well-Milled",45.84
+2023-07,2023,7,Negros Oriental,2,"Rice, Well-Milled",45.85
+2023-08,2023,8,Negros Oriental,2,"Rice, Well-Milled",47.93
+2023-09,2023,9,Negros Oriental,2,"Rice, Well-Milled",54.06
+2023-10,2023,10,Negros Oriental,2,"Rice, Well-Milled",54.01
+2023-11,2023,11,Negros Oriental,2,"Rice, Well-Milled",55.83
+2023-12,2023,12,Negros Oriental,2,"Rice, Well-Milled",57.8
+2024-01,2024,1,Negros Oriental,2,"Rice, Well-Milled",58.0
+2024-02,2024,2,Negros Oriental,2,"Rice, Well-Milled",58.9
+2024-03,2024,3,Negros Oriental,2,"Rice, Well-Milled",59.08
+2024-04,2024,4,Negros Oriental,2,"Rice, Well-Milled",58.74
+2024-05,2024,5,Negros Oriental,2,"Rice, Well-Milled",57.17
+2024-06,2024,6,Negros Oriental,2,"Rice, Well-Milled",56.64
+2024-07,2024,7,Negros Oriental,2,"Rice, Well-Milled",55.87
+2024-08,2024,8,Negros Oriental,2,"Rice, Well-Milled",55.88
+2024-09,2024,9,Negros Oriental,2,"Rice, Well-Milled",56.17
+2024-10,2024,10,Negros Oriental,2,"Rice, Well-Milled",56.01
+2024-11,2024,11,Negros Oriental,2,"Rice, Well-Milled",56.3
+2024-12,2024,12,Negros Oriental,2,"Rice, Well-Milled",55.58
+2025-01,2025,1,Negros Oriental,2,"Rice, Well-Milled",53.92
+2025-02,2025,2,Negros Oriental,2,"Rice, Well-Milled",54.55
+2025-03,2025,3,Negros Oriental,2,"Rice, Well-Milled",52.16
+2025-04,2025,4,Negros Oriental,2,"Rice, Well-Milled",52.66
+2025-05,2025,5,Negros Oriental,2,"Rice, Well-Milled",51.35
+2025-06,2025,6,Negros Oriental,2,"Rice, Well-Milled",51.05
+2025-07,2025,7,Negros Oriental,2,"Rice, Well-Milled",51.13
+2025-08,2025,8,Negros Oriental,2,"Rice, Well-Milled",50.74
+2025-09,2025,9,Negros Oriental,2,"Rice, Well-Milled",48.61
+2025-10,2025,10,Negros Oriental,2,"Rice, Well-Milled",47.91
+2025-11,2025,11,Negros Oriental,2,"Rice, Well-Milled",48.5
+2025-12,2025,12,Negros Oriental,2,"Rice, Well-Milled",50.92
+2026-01,2026,1,Negros Oriental,2,"Rice, Well-Milled",54.31
+2026-02,2026,2,Negros Oriental,2,"Rice, Well-Milled",56.58
+2026-03,2026,3,Negros Oriental,2,"Rice, Well-Milled",57.43
+2026-04,2026,4,Negros Oriental,2,"Rice, Well-Milled",62.26
+2026-05,2026,5,Negros Oriental,2,"Rice, Well-Milled",62.1
+2026-06,2026,6,Negros Oriental,2,"Rice, Well-Milled",60.67
+2026-07,2026,7,Negros Oriental,2,"Rice, Well-Milled",58.89
+2026-08,2026,8,Negros Oriental,2,"Rice, Well-Milled",58.1
+2026-09,2026,9,Negros Oriental,2,"Rice, Well-Milled",57.75
+2026-10,2026,10,Negros Oriental,2,"Rice, Well-Milled",56.82

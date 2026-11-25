@@ -24,7 +24,7 @@ export function N8n() {
     <Page to="/n8n">
       <PageHead
         title="Hands-on: build a simple app with n8n"
-        lead="Day 2, 2:35 to 4:15, Exercise 5 in your workbook. Set up n8n, then build a Reply drafter: a web form where staff paste a citizen’s message and get a labelled draft reply, written only from the office FAQ."
+        lead="Day 3, 9:10 to 10:30, Exercise 1 in your Day 3 workbook. Set up n8n, then build a Reply drafter: a web form where staff paste a citizen’s message and get a labelled draft reply, written only from the office FAQ."
       />
 
       <Section id="pattern" title="Trigger, action, output, without code">
@@ -118,7 +118,7 @@ export function N8n() {
         <CopyBlock caption="Completion Message" text={n8nCompletion} lang="javascript" />
       </Section>
 
-      <Section id="system" title="The system message" intro="Paste into Chat Messages → Add prompt → System → Message. These are the fictional office’s FAQ facts from 08-sample-office-faq.docx.">
+      <Section id="system" title="The system message" intro="Paste into Chat Messages → Add prompt → System → Message. These are the fictional office’s FAQ facts from 03-sample-office-faq.docx in the Day 3 materials.">
         <CopyBlock caption="System Message" text={n8nSystemMessage} collapsible />
       </Section>
 
@@ -145,7 +145,7 @@ export function N8n() {
 
       <Section id="import" title="Fell behind? Import the finished workflow">
         <p>
-          Download <a href={`/materials/day-2/${n8nWorkflowFile}`} download>the finished Reply drafter workflow</a> ({n8nWorkflowFile}), then:
+          Download <a href={`/materials/day-3/${n8nWorkflowFile}`} download>the finished Reply drafter workflow</a> ({n8nWorkflowFile}), then:
         </p>
         <Steps items={n8nImportSteps} />
       </Section>

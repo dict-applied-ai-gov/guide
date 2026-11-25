@@ -38,8 +38,9 @@ export const navGroups = [
       { to: "/office-app", label: "Build an office app", desc: "Stitch + AI Studio, then test it on your phone" },
       { to: "/certificates", label: "Automated certificates", desc: "Forms, Sheets, Slides, Apps Script, Gmail" },
       { to: "/n8n", label: "Build an app with n8n", desc: "Set up n8n, then a form + AI Reply drafter" },
-      { to: "/decision-support", label: "Decision support", desc: "Data analysis, dashboard, decision brief, bias check" },
-      { to: "/capstone", label: "Capstone project", desc: "Pain Point Card, project canvas, rubric" },
+      { to: "/data-website", label: "Build a data website", desc: "PSA data, AI analysis, AI Studio, and a design skill against AI slop" },
+      { to: "/decision-support", label: "Decision support", desc: "Dashboard, decision brief, bias check (reference)" },
+      { to: "/capstone", label: "Capstone project", desc: "Your own app: ideas, canvas, presenting, feedback, submitting" },
     ],
   },
   {

@@ -169,12 +169,90 @@ export const faq = [
 ];
 
 export const capstoneTimeline = [
-  ["Day 1, 3:35 PM", "Pick a track and a task", "Pain Point Card with a baseline number"],
-  ["Day 2, 4:15 PM", "Plan automate, check, decide", "Capstone Project Canvas"],
-  ["Day 3, 11:30 AM", "Kit check", "Files, sample dataset, and roles ready"],
-  ["Day 3, 1:00 to 3:00 PM", "Build and test", "Working prototype and Responsible AI checklist"],
-  ["Day 3, 3:15 PM", "Present", "5-minute demo and 2-minute Q&A"],
+  ["Day 1, 3:35 PM", "Pick a problem", "Pain Point Card with a baseline number"],
+  ["Day 2, 2:35 PM", "Browse ideas, choose your tools, plan automate, check, decide", "Capstone Project Canvas"],
+  ["Day 3, 1:00 to 2:45 PM", "Build and test your app", "A working app, its link, a screenshot, and the Responsible AI checklist"],
+  ["Day 3, 3:00 PM", "Five random participants present", "5-minute live demo"],
+  ["Day 3, 3:35 PM", "Feedback from the room and the resource speaker", "Notes for your next version"],
+  ["Day 3, 4:00 PM", "Submit", "Link and screenshot in the Google Form (forms.gle/qmzxZ8eHNrq7mKVS7)"],
   ["Next 30 days", "Keep going at the office", "30-day AI Action Plan"],
+];
+
+export const capstoneInspiration = [
+  {
+    name: "App Builders PH",
+    url: "https://appbuildersph.com/apps",
+    what: "A community directory of apps made by Filipino builders (community-made, not government apps). Filter by category (AI, Business, Education, Health, Productivity, Social) and look for apps that serve a community or an office.",
+    examples: [
+      ["Outage Scout", "A brownout map and outage reminders for Baguio, Benguet, and Aringay."],
+      ["ReportMo PH", "A reporting app for citizens: “Speak up. Report it. Make a difference.”"],
+      ["Bantay", "Alerts for your community."],
+      ["CertifiCreate", "Design, sign, and issue certificates in one place, like the Day 2 certificate lab."],
+      ["Learn Basilan", "An education app for Basilan: “Matuto, Maglaro, Magtagumpay.”"],
+      ["Atindahan", "Sales and inventory for sari-sari stores; the same shape works for supplies and property."],
+    ],
+  },
+  {
+    name: "data.gov.ph",
+    url: "https://data.gov.ph",
+    what: "The government’s open data portal. Download a CSV or Excel file from an agency, then build on it.",
+  },
+  {
+    name: "PSA OpenSTAT",
+    url: "https://openstat.psa.gov.ph",
+    what: "Official statistics from the Philippine Statistics Authority, with a free API. The Day 3 data website lab uses it.",
+  },
+];
+
+export const painPointExample = [
+  ["Track", "Frontline transactions"],
+  ["Task", "Every Friday, two staff count the week’s clearance applications by hand."],
+  ["Data", "Clearance applications log. Red as is (names, addresses); yellow once masked."],
+  ["Baseline", "About 3 hours every Friday, plus 2 to 4 counting errors a month."],
+  ["Too vague vs countable", "Too vague: “Improve our records.” Countable: “Cut the 3-hour Friday tally to under 30 minutes.”"],
+];
+
+export const planModeSteps = [
+  "Turn on plan mode if your AI app has it. If not, start with the prompt below.",
+  "Paste your Pain Point Card. Sample or masked data only.",
+  "Answer its questions, then revise the plan until you agree with it.",
+  "Build one step at a time and check each result against your baseline.",
+];
+
+export const planModePrompt = `Here is our Pain Point Card: [paste card]. Do not build anything yet. First ask us up to five questions. Then give a step-by-step plan using tools our office can keep, such as Google Sheets, Forms and Apps Script. Show where a person checks the result and how we measure it against our baseline.`;
+
+export const capstoneQuestions = [
+  "Which apps solve a problem your own office or LGU also has?",
+  "What does the app ask the user for, and what does it give back?",
+  "Where would a staff member check the output before it reaches a citizen?",
+  "What is the smallest version you could build in an afternoon?",
+];
+
+export const capstoneTools = [
+  ["Google AI Studio (Build)", "A web app or a phone app from a description, like the Day 2 office app and the Day 3 data website."],
+  ["Google Stitch", "The screens first, then build from the sketch."],
+  ["n8n", "A form, an AI step, and an output, like the Reply drafter."],
+  ["Forms, Sheets, and Apps Script", "Collect, store, and act on entries, like the certificate lab. The easiest for an office to keep running."],
+  ["NotebookLM or a Gemini Gem", "A FAQ assistant grounded in your office’s (sample) documents."],
+  ["Claude, ChatGPT, or another AI builder", "Fine to use, with the design skill and sample data only. Make sure you can share a link at the end."],
+];
+
+export const presentFormat = [
+  ["Minute 1: the problem", "Who has it, in which office, and your baseline number (time, errors, backlog)."],
+  ["Minutes 2 to 4: the live demo", "Use it the way a staff member or a citizen would. Show one thing going right."],
+  ["Minute 5: the check and the next step", "Where a person checks the output, what data it uses, and who would use it on Monday."],
+];
+
+export const feedbackFormat = [
+  ["One thing that works", "Be specific: a screen, a step, a number."],
+  ["One question or suggestion", "Something that would make the office trust it or use it more."],
+  ["The resource speaker", "Closes each round with feedback on usefulness, safety, and what to build next."],
+];
+
+export const submitItems = [
+  ["The link", "A share link (AI Studio, n8n form, Google Sheet or Form, Looker Studio, or a published page). No link? Upload the exported file."],
+  ["A screenshot", "One clear screen of the app working. No API keys, passwords, or real personal data on it."],
+  ["Two or three sentences", "What it does, who it helps, and the tools you used."],
 ];
 
 export const capstoneIdeas = [
@@ -186,6 +264,7 @@ export const capstoneIdeas = [
   ["FAQ assistant", "Grounded in your office’s own (sample) FAQ document, in NotebookLM or a Gemini Gem."],
   ["Agent and MCP workflow", "An agent connected read-only to a demo Drive folder and Canva that turns weekly data into a summary and a poster, with approvals before anything is shared."],
   ["Local AI helper", "An offline summarizer for internal documents using Ollama or LM Studio, for offices handling sensitive data."],
+  ["A data website on public data", "Like the Day 3 lab: PSA or data.gov.ph data your office cares about, with checked insights and the source shown."],
   ["Advanced: a small web app or chatbot", "Prototyped in Google AI Studio, with a privacy-by-design review."],
 ];
 
@@ -260,8 +339,8 @@ export const assessment = {
   ],
   formative: [
     ["Daily exit tickets", "Three questions: what I learned, what is still unclear, what I will use at work."],
-    ["Morning recap", "Day 2 opens with Slido questions; Day 3 with a quick quiz."],
-    ["Lab outputs", "Prompt library, office app, automated workflow, dashboard, decision brief."],
+    ["Morning recap", "Day 2 and Day 3 open with your Slido questions."],
+    ["Lab outputs", "Prompt library, office app, automated workflow, n8n Reply drafter, data website, capstone app."],
   ],
   evaluation: [
     ["Reaction", "Satisfaction, relevance, trainer effectiveness, venue and logistics", "Training evaluation form", "End of Day 3"],
@@ -302,12 +381,13 @@ export const analysisPrompts = [
 ];
 
 export const capstoneTheme = {
-  title: "One office task, end to end: automate it, check it, decide with it",
-  why: "Built around the readiness survey: half of you (11 of 22) have not automated anything yet, most rate yourselves beginners in verifying outputs and decision support, 17 of 22 know little about data privacy. So every project takes one real task, automates it, builds in a human check, and ends with a number someone can decide with.",
+  title: "Your own app for your office or the government: automate it, check it, decide with it",
+  why: "Built around the readiness survey: half of you (11 of 22) have not automated anything yet, most rate yourselves beginners in verifying outputs and decision support, 17 of 22 know little about data privacy. So everyone builds one small app for a real problem in their own office or LGU, with a human check built in, using the tools they choose.",
   rules: [
-    ["Mixed teams", "3 people, at least one from ICT and one from outside ICT."],
-    ["A baseline number", "Write down today’s time, errors, or backlog on the Pain Point Card, and compare against it in your demo."],
-    ["Tools the office can keep", "Build with your own AI subscription if you like, but the finished workflow should run on tools the office has or has cleared: Sheets, Forms, Apps Script, or an approved plan."],
+    ["Your own app", "Everyone builds and submits their own. Help each other: your Day 1 team is a good place to test ideas."],
+    ["A baseline number", "Write down today’s time, errors, or backlog on the Pain Point Card, and say in your demo how the app would change it."],
+    ["Tools you choose", "Any tool from the three days, or another AI builder. Prefer tools the office has or could clear, so it keeps running after the training."],
+    ["Sample or public data only", "Synthetic files from the training, or public government data such as PSA statistics. No real names or records."],
     ["It keeps going", "Your 30-day AI Action Plan continues the capstone back at the office."],
   ],
 };

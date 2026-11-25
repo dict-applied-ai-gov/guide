@@ -1,5 +1,4 @@
 import { analysisPrompts } from "@/data/reference";
-import { days } from "@/data/course";
 import { PageHead, Section, Steps, CopyBlock, Note } from "@/components/ui";
 import { Page, TrackedChecklist, TrackedWorksheet } from "@/components/tracked";
 
@@ -16,7 +15,7 @@ export function DecisionSupport() {
     <Page to="/decision-support">
       <PageHead
         title="AI for decision support"
-        lead="Day 3, 8:15 to 11:30. AI finds the pattern and drafts the brief. A person checks the numbers and makes the call."
+        lead="Reference for the Day 3 data website lab and your capstone. AI finds the pattern and drafts the brief. A person checks the numbers and makes the call."
       />
 
       <Section id="analysis" title="Ask the data" intro="Use these with a sample dataset. Then check every number the AI gives you.">
@@ -27,10 +26,6 @@ export function DecisionSupport() {
 
       <Section id="dashboard" title="Build the dashboard" intro="Free, in Looker Studio: KPIs, a trend chart, and a filter by office or month.">
         <Steps items={dashboardSteps} />
-      </Section>
-
-      <Section id="insights" title="Three checked insights">
-        <TrackedWorksheet id="insights" />
       </Section>
 
       <Section id="bias" title="Bias and risk check" intro="Run this before any brief leaves your desk.">
@@ -45,7 +40,7 @@ export function DecisionSupport() {
       </Section>
 
       <Section id="advanced" title="Advanced track">
-        <p>{days[2].advanced.replace("Advanced track: ", "")}</p>
+        <p>Calculated fields, blended data sources, and scenario or sensitivity analysis in the dashboard.</p>
       </Section>
     </Page>
   );

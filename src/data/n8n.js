@@ -1,4 +1,4 @@
-// Day 2 lesson: set up n8n and build a simple app with it.
+// Day 3 lesson (moved from Day 2): set up n8n and build a simple app with it.
 // Field names, options and defaults checked against the n8n 2.49.5 node
 // packages (November 2026). n8n 2.49 needs Node.js 24; it does not install on Node 26.
 // Why: n8n-nodes-base depends on @confluentinc/kafka-javascript 1.9.1, which ships
@@ -15,10 +15,10 @@ export const n8nObjectives = [
 ];
 
 export const n8nTiming = [
-  ["Part 1", "What n8n is, and start n8n on your laptop (cloud trial if needed)", "25 min"],
-  ["Part 2", "Connect an AI model (Gemini API key, or LM Studio on your laptop)", "15 min"],
-  ["Part 3", "Build the Reply drafter: form, AI step, results page", "40 min"],
-  ["Part 4", "Test with the sample messages, then clean up", "20 min"],
+  ["Part 1", "What n8n is, and start n8n on your laptop (cloud trial if needed)", "20 min"],
+  ["Part 2", "Connect an AI model (Gemini API key, or LM Studio on your laptop)", "10 min"],
+  ["Part 3", "Build the Reply drafter: form, AI step, results page", "35 min"],
+  ["Part 4", "Test with the sample messages, then clean up", "15 min"],
 ];
 
 export const n8nWords = [
@@ -472,19 +472,19 @@ export const n8nStretch = [
       "Keep the same shape: form, AI step, output.",
       "Swap the system message for your office’s own facts (cleared and public only).",
     ],
-    note: "Many capstone ideas fit this shape. You will have a prototype to show on Day 3.",
+    note: "Many capstone ideas fit this shape. You can build your capstone on it this afternoon.",
   },
 ];
 
 export const n8nCleanup = [
-  "For the Day 2 form: take a screenshot of the workflow and of one draft reply, and download the workflow (⋯ menu → Download). The file does not contain your Gemini key.",
+  "Keep a screenshot of the workflow and of one draft reply, and download the workflow (⋯ menu → Download), in case you build your capstone on it. The file does not contain your Gemini key.",
   "Unpublish (deactivate) the Reply drafter workflow.",
   "Delete the test executions (Overview → Executions) and any Data table you created.",
   "Delete the Gemini API key at aistudio.google.com → API keys, and the credential in n8n.",
   "Path A: stop n8n with Ctrl+C in the terminal. Path B (Cloud): cancel or let the trial end; nothing is charged.",
 ];
 
-export const n8nWorkflowFile = "10-n8n-reply-drafter.json";
+export const n8nWorkflowFile = "04-n8n-reply-drafter.json";
 
 export const n8nImportSteps = [
   "In n8n, create a new workflow.",

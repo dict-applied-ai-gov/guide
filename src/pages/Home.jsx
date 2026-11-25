@@ -7,6 +7,8 @@ import {
   CircleCheck,
   Code2,
   Cpu,
+  Database,
+  Download,
   FileText,
   FlaskConical,
   Landmark,
@@ -14,6 +16,7 @@ import {
   MapPin,
   MessageSquare,
   Palette,
+  Presentation,
   ShieldAlert,
   Sheet,
   Sparkles,
@@ -34,6 +37,8 @@ const stack = [
   { name: "Forms and Sheets", desc: "Collecting, cleaning, and checking office data", icon: Sheet, url: "https://sheets.google.com" },
   { name: "Apps Script", desc: "Automations across Forms, Slides, and Gmail", icon: Code2, url: "https://script.google.com" },
   { name: "Looker Studio", desc: "Free dashboards for decision support", icon: BarChart3, url: "https://lookerstudio.google.com" },
+  { name: "n8n", desc: "Workflows with an AI step, without code", icon: Workflow, url: "https://n8n.io" },
+  { name: "PSA OpenSTAT", desc: "Official Philippine statistics, with a free API", icon: Database, url: "https://openstat.psa.gov.ph" },
   { name: "Canva", desc: "Designs, and the app connection (MCP) demo", icon: Palette, url: "https://www.canva.com" },
   { name: "Ollama and LM Studio", desc: "AI that runs offline on your laptop", icon: Cpu, url: "https://ollama.com" },
   { name: "opencode and Antigravity", desc: "Coding agents for the advanced track", icon: Terminal, url: "https://opencode.ai" },
@@ -76,6 +81,30 @@ export function Home() {
             <ArrowRight size={16} aria-hidden="true" />
           </Link>
         </div>
+      </section>
+
+      <section className="home-section" aria-labelledby="slides-h">
+        <h2 id="slides-h" className="icon-heading">
+          <Presentation size={22} aria-hidden="true" /> Presentation slides
+        </h2>
+        <ul className="tile-grid tile-grid--3">
+          {days.map((d) => (
+            <li key={d.id}>
+              <a className="tile" href={d.slides} download>
+                <span className="tile__icon" aria-hidden="true">
+                  <Download size={18} />
+                </span>
+                <span>
+                  <span className="tile__title">Day {d.number} slides (PDF)</span>
+                  <span className="tile__desc">
+                    {d.weekday}, {d.dateLabel}: {d.short}
+                  </span>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+        <p className="home-section__note">The slides the trainer shows each day. Download them to follow along or to review later.</p>
       </section>
 
       <section className="home-section" aria-labelledby="stack-h">

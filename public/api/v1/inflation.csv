@@ -1,0 +1,2821 @@
+date,year,month,area,area_level,item,inflation_pct
+2019-01,2019,1,Philippines,0,All items,4.4
+2019-02,2019,2,Philippines,0,All items,3.8
+2019-03,2019,3,Philippines,0,All items,3.4
+2019-04,2019,4,Philippines,0,All items,3.2
+2019-05,2019,5,Philippines,0,All items,3.2
+2019-06,2019,6,Philippines,0,All items,2.7
+2019-07,2019,7,Philippines,0,All items,2.2
+2019-08,2019,8,Philippines,0,All items,1.4
+2019-09,2019,9,Philippines,0,All items,0.5
+2019-10,2019,10,Philippines,0,All items,0.6
+2019-11,2019,11,Philippines,0,All items,1.2
+2019-12,2019,12,Philippines,0,All items,2.4
+2020-01,2020,1,Philippines,0,All items,3.0
+2020-02,2020,2,Philippines,0,All items,2.5
+2020-03,2020,3,Philippines,0,All items,2.2
+2020-04,2020,4,Philippines,0,All items,1.8
+2020-05,2020,5,Philippines,0,All items,1.6
+2020-06,2020,6,Philippines,0,All items,2.3
+2020-07,2020,7,Philippines,0,All items,2.4
+2020-08,2020,8,Philippines,0,All items,2.2
+2020-09,2020,9,Philippines,0,All items,2.2
+2020-10,2020,10,Philippines,0,All items,2.3
+2020-11,2020,11,Philippines,0,All items,3.0
+2020-12,2020,12,Philippines,0,All items,3.3
+2021-01,2021,1,Philippines,0,All items,3.7
+2021-02,2021,2,Philippines,0,All items,4.2
+2021-03,2021,3,Philippines,0,All items,4.1
+2021-04,2021,4,Philippines,0,All items,4.1
+2021-05,2021,5,Philippines,0,All items,4.1
+2021-06,2021,6,Philippines,0,All items,3.7
+2021-07,2021,7,Philippines,0,All items,3.7
+2021-08,2021,8,Philippines,0,All items,4.4
+2021-09,2021,9,Philippines,0,All items,4.2
+2021-10,2021,10,Philippines,0,All items,4.0
+2021-11,2021,11,Philippines,0,All items,3.7
+2021-12,2021,12,Philippines,0,All items,3.1
+2022-01,2022,1,Philippines,0,All items,3.0
+2022-02,2022,2,Philippines,0,All items,3.0
+2022-03,2022,3,Philippines,0,All items,4.0
+2022-04,2022,4,Philippines,0,All items,4.9
+2022-05,2022,5,Philippines,0,All items,5.4
+2022-06,2022,6,Philippines,0,All items,6.1
+2022-07,2022,7,Philippines,0,All items,6.4
+2022-08,2022,8,Philippines,0,All items,6.3
+2022-09,2022,9,Philippines,0,All items,6.9
+2022-10,2022,10,Philippines,0,All items,7.7
+2022-11,2022,11,Philippines,0,All items,8.0
+2022-12,2022,12,Philippines,0,All items,8.1
+2023-01,2023,1,Philippines,0,All items,8.7
+2023-02,2023,2,Philippines,0,All items,8.6
+2023-03,2023,3,Philippines,0,All items,7.6
+2023-04,2023,4,Philippines,0,All items,6.6
+2023-05,2023,5,Philippines,0,All items,6.1
+2023-06,2023,6,Philippines,0,All items,5.4
+2023-07,2023,7,Philippines,0,All items,4.7
+2023-08,2023,8,Philippines,0,All items,5.3
+2023-09,2023,9,Philippines,0,All items,6.1
+2023-10,2023,10,Philippines,0,All items,4.9
+2023-11,2023,11,Philippines,0,All items,4.1
+2023-12,2023,12,Philippines,0,All items,3.9
+2024-01,2024,1,Philippines,0,All items,2.8
+2024-02,2024,2,Philippines,0,All items,3.4
+2024-03,2024,3,Philippines,0,All items,3.7
+2024-04,2024,4,Philippines,0,All items,3.8
+2024-05,2024,5,Philippines,0,All items,3.9
+2024-06,2024,6,Philippines,0,All items,3.7
+2024-07,2024,7,Philippines,0,All items,4.4
+2024-08,2024,8,Philippines,0,All items,3.3
+2024-09,2024,9,Philippines,0,All items,1.9
+2024-10,2024,10,Philippines,0,All items,2.3
+2024-11,2024,11,Philippines,0,All items,2.5
+2024-12,2024,12,Philippines,0,All items,2.9
+2025-01,2025,1,Philippines,0,All items,2.9
+2025-02,2025,2,Philippines,0,All items,2.1
+2025-03,2025,3,Philippines,0,All items,1.8
+2025-04,2025,4,Philippines,0,All items,1.4
+2025-05,2025,5,Philippines,0,All items,1.3
+2025-06,2025,6,Philippines,0,All items,1.4
+2025-07,2025,7,Philippines,0,All items,0.9
+2025-08,2025,8,Philippines,0,All items,1.5
+2025-09,2025,9,Philippines,0,All items,1.7
+2025-10,2025,10,Philippines,0,All items,1.7
+2025-11,2025,11,Philippines,0,All items,1.5
+2025-12,2025,12,Philippines,0,All items,1.8
+2026-01,2026,1,Philippines,0,All items,2.0
+2026-02,2026,2,Philippines,0,All items,2.4
+2026-03,2026,3,Philippines,0,All items,4.1
+2026-04,2026,4,Philippines,0,All items,7.2
+2026-05,2026,5,Philippines,0,All items,6.8
+2026-06,2026,6,Philippines,0,All items,6.4
+2026-07,2026,7,Philippines,0,All items,6.2
+2026-08,2026,8,Philippines,0,All items,6.1
+2026-09,2026,9,Philippines,0,All items,7.2
+2026-10,2026,10,Philippines,0,All items,7.8
+2019-01,2019,1,Philippines,0,Food,4.8
+2019-02,2019,2,Philippines,0,Food,4.0
+2019-03,2019,3,Philippines,0,Food,3.1
+2019-04,2019,4,Philippines,0,Food,2.6
+2019-05,2019,5,Philippines,0,Food,2.9
+2019-06,2019,6,Philippines,0,Food,2.3
+2019-07,2019,7,Philippines,0,Food,1.3
+2019-08,2019,8,Philippines,0,Food,-0.2
+2019-09,2019,9,Philippines,0,Food,-2.2
+2019-10,2019,10,Philippines,0,Food,-1.6
+2019-11,2019,11,Philippines,0,Food,-0.5
+2019-12,2019,12,Philippines,0,Food,1.7
+2020-01,2020,1,Philippines,0,Food,2.5
+2020-02,2020,2,Philippines,0,Food,2.3
+2020-03,2020,3,Philippines,0,Food,2.7
+2020-04,2020,4,Philippines,0,Food,3.8
+2020-05,2020,5,Philippines,0,Food,3.4
+2020-06,2020,6,Philippines,0,Food,2.9
+2020-07,2020,7,Philippines,0,Food,2.5
+2020-08,2020,8,Philippines,0,Food,1.9
+2020-09,2020,9,Philippines,0,Food,1.7
+2020-10,2020,10,Philippines,0,Food,2.2
+2020-11,2020,11,Philippines,0,Food,4.6
+2020-12,2020,12,Philippines,0,Food,4.9
+2021-01,2021,1,Philippines,0,Food,6.4
+2021-02,2021,2,Philippines,0,Food,6.8
+2021-03,2021,3,Philippines,0,Food,5.6
+2021-04,2021,4,Philippines,0,Food,4.1
+2021-05,2021,5,Philippines,0,Food,3.7
+2021-06,2021,6,Philippines,0,Food,3.9
+2021-07,2021,7,Philippines,0,Food,4.2
+2021-08,2021,8,Philippines,0,Food,5.9
+2021-09,2021,9,Philippines,0,Food,5.2
+2021-10,2021,10,Philippines,0,Food,4.0
+2021-11,2021,11,Philippines,0,Food,2.3
+2021-12,2021,12,Philippines,0,Food,1.6
+2022-01,2022,1,Philippines,0,Food,1.6
+2022-02,2022,2,Philippines,0,Food,1.1
+2022-03,2022,3,Philippines,0,Food,2.8
+2022-04,2022,4,Philippines,0,Food,4.0
+2022-05,2022,5,Philippines,0,Food,5.2
+2022-06,2022,6,Philippines,0,Food,6.4
+2022-07,2022,7,Philippines,0,Food,7.1
+2022-08,2022,8,Philippines,0,Food,6.5
+2022-09,2022,9,Philippines,0,Food,7.7
+2022-10,2022,10,Philippines,0,Food,9.8
+2022-11,2022,11,Philippines,0,Food,10.3
+2022-12,2022,12,Philippines,0,Food,10.6
+2023-01,2023,1,Philippines,0,Food,11.2
+2023-02,2023,2,Philippines,0,Food,11.1
+2023-03,2023,3,Philippines,0,Food,9.5
+2023-04,2023,4,Philippines,0,Food,8.0
+2023-05,2023,5,Philippines,0,Food,7.5
+2023-06,2023,6,Philippines,0,Food,6.7
+2023-07,2023,7,Philippines,0,Food,6.3
+2023-08,2023,8,Philippines,0,Food,8.2
+2023-09,2023,9,Philippines,0,Food,10.0
+2023-10,2023,10,Philippines,0,Food,7.1
+2023-11,2023,11,Philippines,0,Food,5.8
+2023-12,2023,12,Philippines,0,Food,5.5
+2024-01,2024,1,Philippines,0,Food,3.3
+2024-02,2024,2,Philippines,0,Food,4.8
+2024-03,2024,3,Philippines,0,Food,5.7
+2024-04,2024,4,Philippines,0,Food,6.3
+2024-05,2024,5,Philippines,0,Food,6.1
+2024-06,2024,6,Philippines,0,Food,6.5
+2024-07,2024,7,Philippines,0,Food,6.7
+2024-08,2024,8,Philippines,0,Food,4.2
+2024-09,2024,9,Philippines,0,Food,1.4
+2024-10,2024,10,Philippines,0,Food,3.0
+2024-11,2024,11,Philippines,0,Food,3.5
+2024-12,2024,12,Philippines,0,Food,3.5
+2025-01,2025,1,Philippines,0,Food,4.0
+2025-02,2025,2,Philippines,0,Food,2.6
+2025-03,2025,3,Philippines,0,Food,2.3
+2025-04,2025,4,Philippines,0,Food,0.7
+2025-05,2025,5,Philippines,0,Food,0.7
+2025-06,2025,6,Philippines,0,Food,0.1
+2025-07,2025,7,Philippines,0,Food,-0.5
+2025-08,2025,8,Philippines,0,Food,0.6
+2025-09,2025,9,Philippines,0,Food,0.8
+2025-10,2025,10,Philippines,0,Food,0.2
+2025-11,2025,11,Philippines,0,Food,-0.3
+2025-12,2025,12,Philippines,0,Food,1.2
+2026-01,2026,1,Philippines,0,Food,0.7
+2026-02,2026,2,Philippines,0,Food,1.6
+2026-03,2026,3,Philippines,0,Food,2.7
+2026-04,2026,4,Philippines,0,Food,6.1
+2026-05,2026,5,Philippines,0,Food,5.8
+2026-06,2026,6,Philippines,0,Food,5.3
+2026-07,2026,7,Philippines,0,Food,5.3
+2026-08,2026,8,Philippines,0,Food,4.6
+2026-09,2026,9,Philippines,0,Food,6.8
+2026-10,2026,10,Philippines,0,Food,6.4
+2019-01,2019,1,Philippines,0,Food and non-alcoholic beverages,5.0
+2019-02,2019,2,Philippines,0,Food and non-alcoholic beverages,4.1
+2019-03,2019,3,Philippines,0,Food and non-alcoholic beverages,3.2
+2019-04,2019,4,Philippines,0,Food and non-alcoholic beverages,2.8
+2019-05,2019,5,Philippines,0,Food and non-alcoholic beverages,2.9
+2019-06,2019,6,Philippines,0,Food and non-alcoholic beverages,2.4
+2019-07,2019,7,Philippines,0,Food and non-alcoholic beverages,1.5
+2019-08,2019,8,Philippines,0,Food and non-alcoholic beverages,0.0
+2019-09,2019,9,Philippines,0,Food and non-alcoholic beverages,-1.8
+2019-10,2019,10,Philippines,0,Food and non-alcoholic beverages,-1.4
+2019-11,2019,11,Philippines,0,Food and non-alcoholic beverages,-0.3
+2019-12,2019,12,Philippines,0,Food and non-alcoholic beverages,1.8
+2020-01,2020,1,Philippines,0,Food and non-alcoholic beverages,2.5
+2020-02,2020,2,Philippines,0,Food and non-alcoholic beverages,2.5
+2020-03,2020,3,Philippines,0,Food and non-alcoholic beverages,2.7
+2020-04,2020,4,Philippines,0,Food and non-alcoholic beverages,3.7
+2020-05,2020,5,Philippines,0,Food and non-alcoholic beverages,3.4
+2020-06,2020,6,Philippines,0,Food and non-alcoholic beverages,2.9
+2020-07,2020,7,Philippines,0,Food and non-alcoholic beverages,2.4
+2020-08,2020,8,Philippines,0,Food and non-alcoholic beverages,1.9
+2020-09,2020,9,Philippines,0,Food and non-alcoholic beverages,1.7
+2020-10,2020,10,Philippines,0,Food and non-alcoholic beverages,2.2
+2020-11,2020,11,Philippines,0,Food and non-alcoholic beverages,4.4
+2020-12,2020,12,Philippines,0,Food and non-alcoholic beverages,4.6
+2021-01,2021,1,Philippines,0,Food and non-alcoholic beverages,5.9
+2021-02,2021,2,Philippines,0,Food and non-alcoholic beverages,6.2
+2021-03,2021,3,Philippines,0,Food and non-alcoholic beverages,5.3
+2021-04,2021,4,Philippines,0,Food and non-alcoholic beverages,3.8
+2021-05,2021,5,Philippines,0,Food and non-alcoholic beverages,3.5
+2021-06,2021,6,Philippines,0,Food and non-alcoholic beverages,3.6
+2021-07,2021,7,Philippines,0,Food and non-alcoholic beverages,3.9
+2021-08,2021,8,Philippines,0,Food and non-alcoholic beverages,5.5
+2021-09,2021,9,Philippines,0,Food and non-alcoholic beverages,5.0
+2021-10,2021,10,Philippines,0,Food and non-alcoholic beverages,3.7
+2021-11,2021,11,Philippines,0,Food and non-alcoholic beverages,2.2
+2021-12,2021,12,Philippines,0,Food and non-alcoholic beverages,1.6
+2022-01,2022,1,Philippines,0,Food and non-alcoholic beverages,1.7
+2022-02,2022,2,Philippines,0,Food and non-alcoholic beverages,1.2
+2022-03,2022,3,Philippines,0,Food and non-alcoholic beverages,2.6
+2022-04,2022,4,Philippines,0,Food and non-alcoholic beverages,3.8
+2022-05,2022,5,Philippines,0,Food and non-alcoholic beverages,4.9
+2022-06,2022,6,Philippines,0,Food and non-alcoholic beverages,6.0
+2022-07,2022,7,Philippines,0,Food and non-alcoholic beverages,6.9
+2022-08,2022,8,Philippines,0,Food and non-alcoholic beverages,6.3
+2022-09,2022,9,Philippines,0,Food and non-alcoholic beverages,7.4
+2022-10,2022,10,Philippines,0,Food and non-alcoholic beverages,9.4
+2022-11,2022,11,Philippines,0,Food and non-alcoholic beverages,10.0
+2022-12,2022,12,Philippines,0,Food and non-alcoholic beverages,10.2
+2023-01,2023,1,Philippines,0,Food and non-alcoholic beverages,10.7
+2023-02,2023,2,Philippines,0,Food and non-alcoholic beverages,10.8
+2023-03,2023,3,Philippines,0,Food and non-alcoholic beverages,9.3
+2023-04,2023,4,Philippines,0,Food and non-alcoholic beverages,7.9
+2023-05,2023,5,Philippines,0,Food and non-alcoholic beverages,7.4
+2023-06,2023,6,Philippines,0,Food and non-alcoholic beverages,6.7
+2023-07,2023,7,Philippines,0,Food and non-alcoholic beverages,6.3
+2023-08,2023,8,Philippines,0,Food and non-alcoholic beverages,8.1
+2023-09,2023,9,Philippines,0,Food and non-alcoholic beverages,9.7
+2023-10,2023,10,Philippines,0,Food and non-alcoholic beverages,7.0
+2023-11,2023,11,Philippines,0,Food and non-alcoholic beverages,5.7
+2023-12,2023,12,Philippines,0,Food and non-alcoholic beverages,5.4
+2024-01,2024,1,Philippines,0,Food and non-alcoholic beverages,3.5
+2024-02,2024,2,Philippines,0,Food and non-alcoholic beverages,4.6
+2024-03,2024,3,Philippines,0,Food and non-alcoholic beverages,5.6
+2024-04,2024,4,Philippines,0,Food and non-alcoholic beverages,6.0
+2024-05,2024,5,Philippines,0,Food and non-alcoholic beverages,5.8
+2024-06,2024,6,Philippines,0,Food and non-alcoholic beverages,6.1
+2024-07,2024,7,Philippines,0,Food and non-alcoholic beverages,6.4
+2024-08,2024,8,Philippines,0,Food and non-alcoholic beverages,3.9
+2024-09,2024,9,Philippines,0,Food and non-alcoholic beverages,1.4
+2024-10,2024,10,Philippines,0,Food and non-alcoholic beverages,2.9
+2024-11,2024,11,Philippines,0,Food and non-alcoholic beverages,3.4
+2024-12,2024,12,Philippines,0,Food and non-alcoholic beverages,3.4
+2025-01,2025,1,Philippines,0,Food and non-alcoholic beverages,3.8
+2025-02,2025,2,Philippines,0,Food and non-alcoholic beverages,2.6
+2025-03,2025,3,Philippines,0,Food and non-alcoholic beverages,2.2
+2025-04,2025,4,Philippines,0,Food and non-alcoholic beverages,0.9
+2025-05,2025,5,Philippines,0,Food and non-alcoholic beverages,0.9
+2025-06,2025,6,Philippines,0,Food and non-alcoholic beverages,0.4
+2025-07,2025,7,Philippines,0,Food and non-alcoholic beverages,-0.2
+2025-08,2025,8,Philippines,0,Food and non-alcoholic beverages,0.9
+2025-09,2025,9,Philippines,0,Food and non-alcoholic beverages,1.0
+2025-10,2025,10,Philippines,0,Food and non-alcoholic beverages,0.5
+2025-11,2025,11,Philippines,0,Food and non-alcoholic beverages,0.1
+2025-12,2025,12,Philippines,0,Food and non-alcoholic beverages,1.4
+2026-01,2026,1,Philippines,0,Food and non-alcoholic beverages,1.1
+2026-02,2026,2,Philippines,0,Food and non-alcoholic beverages,1.8
+2026-03,2026,3,Philippines,0,Food and non-alcoholic beverages,2.9
+2026-04,2026,4,Philippines,0,Food and non-alcoholic beverages,6.0
+2026-05,2026,5,Philippines,0,Food and non-alcoholic beverages,5.7
+2026-06,2026,6,Philippines,0,Food and non-alcoholic beverages,5.2
+2026-07,2026,7,Philippines,0,Food and non-alcoholic beverages,5.2
+2026-08,2026,8,Philippines,0,Food and non-alcoholic beverages,4.6
+2026-09,2026,9,Philippines,0,Food and non-alcoholic beverages,6.7
+2026-10,2026,10,Philippines,0,Food and non-alcoholic beverages,6.1
+2019-01,2019,1,Philippines,0,"Housing, water, electricity, gas, and other fuels",4.4
+2019-02,2019,2,Philippines,0,"Housing, water, electricity, gas, and other fuels",4.1
+2019-03,2019,3,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.6
+2019-04,2019,4,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.5
+2019-05,2019,5,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.7
+2019-06,2019,6,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.1
+2019-07,2019,7,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.4
+2019-08,2019,8,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.5
+2019-09,2019,9,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.3
+2019-10,2019,10,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.4
+2019-11,2019,11,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.1
+2019-12,2019,12,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.8
+2020-01,2020,1,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.6
+2020-02,2020,2,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.6
+2020-03,2020,3,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.0
+2020-04,2020,4,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.0
+2020-05,2020,5,Philippines,0,"Housing, water, electricity, gas, and other fuels",-0.2
+2020-06,2020,6,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.3
+2020-07,2020,7,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.4
+2020-08,2020,8,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.6
+2020-09,2020,9,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.2
+2020-10,2020,10,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.7
+2020-11,2020,11,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.4
+2020-12,2020,12,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.1
+2021-01,2021,1,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.2
+2021-02,2021,2,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.6
+2021-03,2021,3,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.7
+2021-04,2021,4,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.3
+2021-05,2021,5,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.7
+2021-06,2021,6,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.0
+2021-07,2021,7,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.7
+2021-08,2021,8,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.4
+2021-09,2021,9,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.8
+2021-10,2021,10,Philippines,0,"Housing, water, electricity, gas, and other fuels",4.3
+2021-11,2021,11,Philippines,0,"Housing, water, electricity, gas, and other fuels",4.8
+2021-12,2021,12,Philippines,0,"Housing, water, electricity, gas, and other fuels",5.1
+2022-01,2022,1,Philippines,0,"Housing, water, electricity, gas, and other fuels",4.5
+2022-02,2022,2,Philippines,0,"Housing, water, electricity, gas, and other fuels",4.8
+2022-03,2022,3,Philippines,0,"Housing, water, electricity, gas, and other fuels",6.2
+2022-04,2022,4,Philippines,0,"Housing, water, electricity, gas, and other fuels",6.9
+2022-05,2022,5,Philippines,0,"Housing, water, electricity, gas, and other fuels",6.5
+2022-06,2022,6,Philippines,0,"Housing, water, electricity, gas, and other fuels",6.6
+2022-07,2022,7,Philippines,0,"Housing, water, electricity, gas, and other fuels",5.7
+2022-08,2022,8,Philippines,0,"Housing, water, electricity, gas, and other fuels",6.8
+2022-09,2022,9,Philippines,0,"Housing, water, electricity, gas, and other fuels",7.3
+2022-10,2022,10,Philippines,0,"Housing, water, electricity, gas, and other fuels",7.4
+2022-11,2022,11,Philippines,0,"Housing, water, electricity, gas, and other fuels",6.9
+2022-12,2022,12,Philippines,0,"Housing, water, electricity, gas, and other fuels",7.0
+2023-01,2023,1,Philippines,0,"Housing, water, electricity, gas, and other fuels",8.6
+2023-02,2023,2,Philippines,0,"Housing, water, electricity, gas, and other fuels",8.6
+2023-03,2023,3,Philippines,0,"Housing, water, electricity, gas, and other fuels",7.6
+2023-04,2023,4,Philippines,0,"Housing, water, electricity, gas, and other fuels",6.5
+2023-05,2023,5,Philippines,0,"Housing, water, electricity, gas, and other fuels",6.5
+2023-06,2023,6,Philippines,0,"Housing, water, electricity, gas, and other fuels",5.6
+2023-07,2023,7,Philippines,0,"Housing, water, electricity, gas, and other fuels",4.5
+2023-08,2023,8,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.5
+2023-09,2023,9,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.4
+2023-10,2023,10,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.6
+2023-11,2023,11,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.5
+2023-12,2023,12,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.5
+2024-01,2024,1,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.7
+2024-02,2024,2,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.9
+2024-03,2024,3,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.5
+2024-04,2024,4,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.4
+2024-05,2024,5,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.9
+2024-06,2024,6,Philippines,0,"Housing, water, electricity, gas, and other fuels",0.1
+2024-07,2024,7,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.3
+2024-08,2024,8,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.8
+2024-09,2024,9,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.3
+2024-10,2024,10,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.4
+2024-11,2024,11,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.9
+2024-12,2024,12,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.9
+2025-01,2025,1,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.2
+2025-02,2025,2,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.6
+2025-03,2025,3,Philippines,0,"Housing, water, electricity, gas, and other fuels",1.7
+2025-04,2025,4,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.9
+2025-05,2025,5,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.3
+2025-06,2025,6,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.2
+2025-07,2025,7,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.2
+2025-08,2025,8,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.1
+2025-09,2025,9,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.1
+2025-10,2025,10,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.7
+2025-11,2025,11,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.9
+2025-12,2025,12,Philippines,0,"Housing, water, electricity, gas, and other fuels",2.5
+2026-01,2026,1,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.3
+2026-02,2026,2,Philippines,0,"Housing, water, electricity, gas, and other fuels",3.5
+2026-03,2026,3,Philippines,0,"Housing, water, electricity, gas, and other fuels",4.7
+2026-04,2026,4,Philippines,0,"Housing, water, electricity, gas, and other fuels",8.2
+2026-05,2026,5,Philippines,0,"Housing, water, electricity, gas, and other fuels",7.8
+2026-06,2026,6,Philippines,0,"Housing, water, electricity, gas, and other fuels",8.1
+2026-07,2026,7,Philippines,0,"Housing, water, electricity, gas, and other fuels",8.2
+2026-08,2026,8,Philippines,0,"Housing, water, electricity, gas, and other fuels",7.9
+2026-09,2026,9,Philippines,0,"Housing, water, electricity, gas, and other fuels",8.4
+2026-10,2026,10,Philippines,0,"Housing, water, electricity, gas, and other fuels",9.3
+2019-01,2019,1,Philippines,0,Transport,1.3
+2019-02,2019,2,Philippines,0,Transport,0.9
+2019-03,2019,3,Philippines,0,Transport,3.0
+2019-04,2019,4,Philippines,0,Transport,3.4
+2019-05,2019,5,Philippines,0,Transport,3.0
+2019-06,2019,6,Philippines,0,Transport,0.7
+2019-07,2019,7,Philippines,0,Transport,1.0
+2019-08,2019,8,Philippines,0,Transport,0.3
+2019-09,2019,9,Philippines,0,Transport,-0.5
+2019-10,2019,10,Philippines,0,Transport,-1.3
+2019-11,2019,11,Philippines,0,Transport,-1.1
+2019-12,2019,12,Philippines,0,Transport,3.2
+2020-01,2020,1,Philippines,0,Transport,4.1
+2020-02,2020,2,Philippines,0,Transport,1.5
+2020-03,2020,3,Philippines,0,Transport,-2.3
+2020-04,2020,4,Philippines,0,Transport,-7.4
+2020-05,2020,5,Philippines,0,Transport,-7.2
+2020-06,2020,6,Philippines,0,Transport,0.0
+2020-07,2020,7,Philippines,0,Transport,3.7
+2020-08,2020,8,Philippines,0,Transport,4.2
+2020-09,2020,9,Philippines,0,Transport,5.5
+2020-10,2020,10,Philippines,0,Transport,5.3
+2020-11,2020,11,Philippines,0,Transport,5.0
+2020-12,2020,12,Philippines,0,Transport,6.1
+2021-01,2021,1,Philippines,0,Transport,6.6
+2021-02,2021,2,Philippines,0,Transport,8.2
+2021-03,2021,3,Philippines,0,Transport,11.9
+2021-04,2021,4,Philippines,0,Transport,16.6
+2021-05,2021,5,Philippines,0,Transport,16.2
+2021-06,2021,6,Philippines,0,Transport,10.3
+2021-07,2021,7,Philippines,0,Transport,7.1
+2021-08,2021,8,Philippines,0,Transport,7.0
+2021-09,2021,9,Philippines,0,Transport,5.6
+2021-10,2021,10,Philippines,0,Transport,7.6
+2021-11,2021,11,Philippines,0,Transport,9.8
+2021-12,2021,12,Philippines,0,Transport,6.6
+2022-01,2022,1,Philippines,0,Transport,7.0
+2022-02,2022,2,Philippines,0,Transport,8.8
+2022-03,2022,3,Philippines,0,Transport,10.3
+2022-04,2022,4,Philippines,0,Transport,13.0
+2022-05,2022,5,Philippines,0,Transport,14.6
+2022-06,2022,6,Philippines,0,Transport,17.1
+2022-07,2022,7,Philippines,0,Transport,18.1
+2022-08,2022,8,Philippines,0,Transport,14.6
+2022-09,2022,9,Philippines,0,Transport,14.5
+2022-10,2022,10,Philippines,0,Transport,12.5
+2022-11,2022,11,Philippines,0,Transport,12.3
+2022-12,2022,12,Philippines,0,Transport,11.7
+2023-01,2023,1,Philippines,0,Transport,11.1
+2023-02,2023,2,Philippines,0,Transport,9.0
+2023-03,2023,3,Philippines,0,Transport,5.3
+2023-04,2023,4,Philippines,0,Transport,2.6
+2023-05,2023,5,Philippines,0,Transport,-0.5
+2023-06,2023,6,Philippines,0,Transport,-3.1
+2023-07,2023,7,Philippines,0,Transport,-4.7
+2023-08,2023,8,Philippines,0,Transport,0.2
+2023-09,2023,9,Philippines,0,Transport,1.2
+2023-10,2023,10,Philippines,0,Transport,1.0
+2023-11,2023,11,Philippines,0,Transport,-0.8
+2023-12,2023,12,Philippines,0,Transport,0.4
+2024-01,2024,1,Philippines,0,Transport,-0.3
+2024-02,2024,2,Philippines,0,Transport,1.2
+2024-03,2024,3,Philippines,0,Transport,2.1
+2024-04,2024,4,Philippines,0,Transport,2.6
+2024-05,2024,5,Philippines,0,Transport,3.5
+2024-06,2024,6,Philippines,0,Transport,3.1
+2024-07,2024,7,Philippines,0,Transport,3.6
+2024-08,2024,8,Philippines,0,Transport,-0.2
+2024-09,2024,9,Philippines,0,Transport,-2.4
+2024-10,2024,10,Philippines,0,Transport,-2.1
+2024-11,2024,11,Philippines,0,Transport,-1.2
+2024-12,2024,12,Philippines,0,Transport,0.9
+2025-01,2025,1,Philippines,0,Transport,1.1
+2025-02,2025,2,Philippines,0,Transport,-0.2
+2025-03,2025,3,Philippines,0,Transport,-1.1
+2025-04,2025,4,Philippines,0,Transport,-2.1
+2025-05,2025,5,Philippines,0,Transport,-2.4
+2025-06,2025,6,Philippines,0,Transport,-1.6
+2025-07,2025,7,Philippines,0,Transport,-2.0
+2025-08,2025,8,Philippines,0,Transport,-0.3
+2025-09,2025,9,Philippines,0,Transport,1.0
+2025-10,2025,10,Philippines,0,Transport,0.9
+2025-11,2025,11,Philippines,0,Transport,1.7
+2025-12,2025,12,Philippines,0,Transport,0.3
+2026-01,2026,1,Philippines,0,Transport,-0.2
+2026-02,2026,2,Philippines,0,Transport,-0.3
+2026-03,2026,3,Philippines,0,Transport,9.9
+2026-04,2026,4,Philippines,0,Transport,21.4
+2026-05,2026,5,Philippines,0,Transport,16.2
+2026-06,2026,6,Philippines,0,Transport,12.8
+2026-07,2026,7,Philippines,0,Transport,11.9
+2026-08,2026,8,Philippines,0,Transport,13.5
+2026-09,2026,9,Philippines,0,Transport,14.6
+2026-10,2026,10,Philippines,0,Transport,20.1
+2019-01,2019,1,Negros Island Region (NIR),1,All items,5.0
+2019-02,2019,2,Negros Island Region (NIR),1,All items,3.9
+2019-03,2019,3,Negros Island Region (NIR),1,All items,4.0
+2019-04,2019,4,Negros Island Region (NIR),1,All items,3.5
+2019-05,2019,5,Negros Island Region (NIR),1,All items,3.3
+2019-06,2019,6,Negros Island Region (NIR),1,All items,3.1
+2019-07,2019,7,Negros Island Region (NIR),1,All items,2.8
+2019-08,2019,8,Negros Island Region (NIR),1,All items,2.2
+2019-09,2019,9,Negros Island Region (NIR),1,All items,1.3
+2019-10,2019,10,Negros Island Region (NIR),1,All items,0.9
+2019-11,2019,11,Negros Island Region (NIR),1,All items,1.1
+2019-12,2019,12,Negros Island Region (NIR),1,All items,2.1
+2020-01,2020,1,Negros Island Region (NIR),1,All items,3.0
+2020-02,2020,2,Negros Island Region (NIR),1,All items,3.1
+2020-03,2020,3,Negros Island Region (NIR),1,All items,2.5
+2020-04,2020,4,Negros Island Region (NIR),1,All items,3.3
+2020-05,2020,5,Negros Island Region (NIR),1,All items,2.0
+2020-06,2020,6,Negros Island Region (NIR),1,All items,2.3
+2020-07,2020,7,Negros Island Region (NIR),1,All items,2.8
+2020-08,2020,8,Negros Island Region (NIR),1,All items,2.2
+2020-09,2020,9,Negros Island Region (NIR),1,All items,3.2
+2020-10,2020,10,Negros Island Region (NIR),1,All items,2.7
+2020-11,2020,11,Negros Island Region (NIR),1,All items,3.5
+2020-12,2020,12,Negros Island Region (NIR),1,All items,3.4
+2021-01,2021,1,Negros Island Region (NIR),1,All items,3.2
+2021-02,2021,2,Negros Island Region (NIR),1,All items,4.5
+2021-03,2021,3,Negros Island Region (NIR),1,All items,5.1
+2021-04,2021,4,Negros Island Region (NIR),1,All items,3.9
+2021-05,2021,5,Negros Island Region (NIR),1,All items,5.1
+2021-06,2021,6,Negros Island Region (NIR),1,All items,4.7
+2021-07,2021,7,Negros Island Region (NIR),1,All items,4.3
+2021-08,2021,8,Negros Island Region (NIR),1,All items,4.9
+2021-09,2021,9,Negros Island Region (NIR),1,All items,4.4
+2021-10,2021,10,Negros Island Region (NIR),1,All items,6.1
+2021-11,2021,11,Negros Island Region (NIR),1,All items,5.5
+2021-12,2021,12,Negros Island Region (NIR),1,All items,5.3
+2022-01,2022,1,Negros Island Region (NIR),1,All items,6.3
+2022-02,2022,2,Negros Island Region (NIR),1,All items,5.4
+2022-03,2022,3,Negros Island Region (NIR),1,All items,6.3
+2022-04,2022,4,Negros Island Region (NIR),1,All items,6.8
+2022-05,2022,5,Negros Island Region (NIR),1,All items,6.6
+2022-06,2022,6,Negros Island Region (NIR),1,All items,6.9
+2022-07,2022,7,Negros Island Region (NIR),1,All items,7.1
+2022-08,2022,8,Negros Island Region (NIR),1,All items,7.3
+2022-09,2022,9,Negros Island Region (NIR),1,All items,7.4
+2022-10,2022,10,Negros Island Region (NIR),1,All items,6.7
+2022-11,2022,11,Negros Island Region (NIR),1,All items,9.8
+2022-12,2022,12,Negros Island Region (NIR),1,All items,10.6
+2023-01,2023,1,Negros Island Region (NIR),1,All items,10.9
+2023-02,2023,2,Negros Island Region (NIR),1,All items,11.1
+2023-03,2023,3,Negros Island Region (NIR),1,All items,9.3
+2023-04,2023,4,Negros Island Region (NIR),1,All items,8.1
+2023-05,2023,5,Negros Island Region (NIR),1,All items,7.8
+2023-06,2023,6,Negros Island Region (NIR),1,All items,7.5
+2023-07,2023,7,Negros Island Region (NIR),1,All items,6.9
+2023-08,2023,8,Negros Island Region (NIR),1,All items,7.2
+2023-09,2023,9,Negros Island Region (NIR),1,All items,7.3
+2023-10,2023,10,Negros Island Region (NIR),1,All items,7.0
+2023-11,2023,11,Negros Island Region (NIR),1,All items,4.8
+2023-12,2023,12,Negros Island Region (NIR),1,All items,4.2
+2024-01,2024,1,Negros Island Region (NIR),1,All items,2.9
+2024-02,2024,2,Negros Island Region (NIR),1,All items,3.1
+2024-03,2024,3,Negros Island Region (NIR),1,All items,3.5
+2024-04,2024,4,Negros Island Region (NIR),1,All items,4.4
+2024-05,2024,5,Negros Island Region (NIR),1,All items,4.1
+2024-06,2024,6,Negros Island Region (NIR),1,All items,4.7
+2024-07,2024,7,Negros Island Region (NIR),1,All items,4.8
+2024-08,2024,8,Negros Island Region (NIR),1,All items,4.3
+2024-09,2024,9,Negros Island Region (NIR),1,All items,2.9
+2024-10,2024,10,Negros Island Region (NIR),1,All items,3.0
+2024-11,2024,11,Negros Island Region (NIR),1,All items,2.4
+2024-12,2024,12,Negros Island Region (NIR),1,All items,2.7
+2025-01,2025,1,Negros Island Region (NIR),1,All items,2.4
+2025-02,2025,2,Negros Island Region (NIR),1,All items,1.7
+2025-03,2025,3,Negros Island Region (NIR),1,All items,2.0
+2025-04,2025,4,Negros Island Region (NIR),1,All items,1.5
+2025-05,2025,5,Negros Island Region (NIR),1,All items,1.7
+2025-06,2025,6,Negros Island Region (NIR),1,All items,0.5
+2025-07,2025,7,Negros Island Region (NIR),1,All items,0.2
+2025-08,2025,8,Negros Island Region (NIR),1,All items,-0.2
+2025-09,2025,9,Negros Island Region (NIR),1,All items,0.8
+2025-10,2025,10,Negros Island Region (NIR),1,All items,0.4
+2025-11,2025,11,Negros Island Region (NIR),1,All items,0.8
+2025-12,2025,12,Negros Island Region (NIR),1,All items,1.3
+2026-01,2026,1,Negros Island Region (NIR),1,All items,0.8
+2026-02,2026,2,Negros Island Region (NIR),1,All items,0.7
+2026-03,2026,3,Negros Island Region (NIR),1,All items,1.5
+2026-04,2026,4,Negros Island Region (NIR),1,All items,4.8
+2026-05,2026,5,Negros Island Region (NIR),1,All items,5.4
+2026-06,2026,6,Negros Island Region (NIR),1,All items,4.9
+2026-07,2026,7,Negros Island Region (NIR),1,All items,5.6
+2026-08,2026,8,Negros Island Region (NIR),1,All items,5.8
+2026-09,2026,9,Negros Island Region (NIR),1,All items,6.9
+2026-10,2026,10,Negros Island Region (NIR),1,All items,7.2
+2019-01,2019,1,Negros Island Region (NIR),1,Food,5.9
+2019-02,2019,2,Negros Island Region (NIR),1,Food,4.1
+2019-03,2019,3,Negros Island Region (NIR),1,Food,3.4
+2019-04,2019,4,Negros Island Region (NIR),1,Food,3.1
+2019-05,2019,5,Negros Island Region (NIR),1,Food,3.8
+2019-06,2019,6,Negros Island Region (NIR),1,Food,2.2
+2019-07,2019,7,Negros Island Region (NIR),1,Food,2.2
+2019-08,2019,8,Negros Island Region (NIR),1,Food,-0.1
+2019-09,2019,9,Negros Island Region (NIR),1,Food,-1.5
+2019-10,2019,10,Negros Island Region (NIR),1,Food,-2.3
+2019-11,2019,11,Negros Island Region (NIR),1,Food,-2.1
+2019-12,2019,12,Negros Island Region (NIR),1,Food,-0.6
+2020-01,2020,1,Negros Island Region (NIR),1,Food,0.5
+2020-02,2020,2,Negros Island Region (NIR),1,Food,1.3
+2020-03,2020,3,Negros Island Region (NIR),1,Food,2.0
+2020-04,2020,4,Negros Island Region (NIR),1,Food,5.6
+2020-05,2020,5,Negros Island Region (NIR),1,Food,4.0
+2020-06,2020,6,Negros Island Region (NIR),1,Food,3.7
+2020-07,2020,7,Negros Island Region (NIR),1,Food,3.5
+2020-08,2020,8,Negros Island Region (NIR),1,Food,3.4
+2020-09,2020,9,Negros Island Region (NIR),1,Food,3.2
+2020-10,2020,10,Negros Island Region (NIR),1,Food,2.6
+2020-11,2020,11,Negros Island Region (NIR),1,Food,3.0
+2020-12,2020,12,Negros Island Region (NIR),1,Food,3.0
+2021-01,2021,1,Negros Island Region (NIR),1,Food,2.4
+2021-02,2021,2,Negros Island Region (NIR),1,Food,4.9
+2021-03,2021,3,Negros Island Region (NIR),1,Food,4.7
+2021-04,2021,4,Negros Island Region (NIR),1,Food,0.8
+2021-05,2021,5,Negros Island Region (NIR),1,Food,1.9
+2021-06,2021,6,Negros Island Region (NIR),1,Food,2.6
+2021-07,2021,7,Negros Island Region (NIR),1,Food,2.0
+2021-08,2021,8,Negros Island Region (NIR),1,Food,2.5
+2021-09,2021,9,Negros Island Region (NIR),1,Food,3.3
+2021-10,2021,10,Negros Island Region (NIR),1,Food,5.9
+2021-11,2021,11,Negros Island Region (NIR),1,Food,5.6
+2021-12,2021,12,Negros Island Region (NIR),1,Food,6.0
+2022-01,2022,1,Negros Island Region (NIR),1,Food,9.6
+2022-02,2022,2,Negros Island Region (NIR),1,Food,7.4
+2022-03,2022,3,Negros Island Region (NIR),1,Food,8.4
+2022-04,2022,4,Negros Island Region (NIR),1,Food,8.8
+2022-05,2022,5,Negros Island Region (NIR),1,Food,9.1
+2022-06,2022,6,Negros Island Region (NIR),1,Food,9.3
+2022-07,2022,7,Negros Island Region (NIR),1,Food,10.3
+2022-08,2022,8,Negros Island Region (NIR),1,Food,9.8
+2022-09,2022,9,Negros Island Region (NIR),1,Food,9.6
+2022-10,2022,10,Negros Island Region (NIR),1,Food,8.4
+2022-11,2022,11,Negros Island Region (NIR),1,Food,10.8
+2022-12,2022,12,Negros Island Region (NIR),1,Food,12.2
+2023-01,2023,1,Negros Island Region (NIR),1,Food,11.9
+2023-02,2023,2,Negros Island Region (NIR),1,Food,12.4
+2023-03,2023,3,Negros Island Region (NIR),1,Food,10.4
+2023-04,2023,4,Negros Island Region (NIR),1,Food,7.8
+2023-05,2023,5,Negros Island Region (NIR),1,Food,7.5
+2023-06,2023,6,Negros Island Region (NIR),1,Food,7.8
+2023-07,2023,7,Negros Island Region (NIR),1,Food,7.0
+2023-08,2023,8,Negros Island Region (NIR),1,Food,8.7
+2023-09,2023,9,Negros Island Region (NIR),1,Food,9.2
+2023-10,2023,10,Negros Island Region (NIR),1,Food,8.8
+2023-11,2023,11,Negros Island Region (NIR),1,Food,7.9
+2023-12,2023,12,Negros Island Region (NIR),1,Food,6.9
+2024-01,2024,1,Negros Island Region (NIR),1,Food,3.8
+2024-02,2024,2,Negros Island Region (NIR),1,Food,3.5
+2024-03,2024,3,Negros Island Region (NIR),1,Food,4.6
+2024-04,2024,4,Negros Island Region (NIR),1,Food,6.9
+2024-05,2024,5,Negros Island Region (NIR),1,Food,6.3
+2024-06,2024,6,Negros Island Region (NIR),1,Food,6.3
+2024-07,2024,7,Negros Island Region (NIR),1,Food,6.8
+2024-08,2024,8,Negros Island Region (NIR),1,Food,5.5
+2024-09,2024,9,Negros Island Region (NIR),1,Food,2.9
+2024-10,2024,10,Negros Island Region (NIR),1,Food,3.2
+2024-11,2024,11,Negros Island Region (NIR),1,Food,2.5
+2024-12,2024,12,Negros Island Region (NIR),1,Food,2.0
+2025-01,2025,1,Negros Island Region (NIR),1,Food,1.6
+2025-02,2025,2,Negros Island Region (NIR),1,Food,0.7
+2025-03,2025,3,Negros Island Region (NIR),1,Food,1.5
+2025-04,2025,4,Negros Island Region (NIR),1,Food,0.7
+2025-05,2025,5,Negros Island Region (NIR),1,Food,1.0
+2025-06,2025,6,Negros Island Region (NIR),1,Food,-0.6
+2025-07,2025,7,Negros Island Region (NIR),1,Food,-1.7
+2025-08,2025,8,Negros Island Region (NIR),1,Food,-2.3
+2025-09,2025,9,Negros Island Region (NIR),1,Food,-0.4
+2025-10,2025,10,Negros Island Region (NIR),1,Food,-1.6
+2025-11,2025,11,Negros Island Region (NIR),1,Food,-1.3
+2025-12,2025,12,Negros Island Region (NIR),1,Food,0.7
+2026-01,2026,1,Negros Island Region (NIR),1,Food,0.1
+2026-02,2026,2,Negros Island Region (NIR),1,Food,0.3
+2026-03,2026,3,Negros Island Region (NIR),1,Food,-1.3
+2026-04,2026,4,Negros Island Region (NIR),1,Food,2.4
+2026-05,2026,5,Negros Island Region (NIR),1,Food,3.9
+2026-06,2026,6,Negros Island Region (NIR),1,Food,3.9
+2026-07,2026,7,Negros Island Region (NIR),1,Food,4.7
+2026-08,2026,8,Negros Island Region (NIR),1,Food,4.2
+2026-09,2026,9,Negros Island Region (NIR),1,Food,6.3
+2026-10,2026,10,Negros Island Region (NIR),1,Food,6.5
+2019-01,2019,1,Negros Island Region (NIR),1,Food and non-alcoholic beverages,6.0
+2019-02,2019,2,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.2
+2019-03,2019,3,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.5
+2019-04,2019,4,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.1
+2019-05,2019,5,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.7
+2019-06,2019,6,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.6
+2019-07,2019,7,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.6
+2019-08,2019,8,Negros Island Region (NIR),1,Food and non-alcoholic beverages,0.6
+2019-09,2019,9,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-0.8
+2019-10,2019,10,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-1.7
+2019-11,2019,11,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-1.4
+2019-12,2019,12,Negros Island Region (NIR),1,Food and non-alcoholic beverages,0.0
+2020-01,2020,1,Negros Island Region (NIR),1,Food and non-alcoholic beverages,1.1
+2020-02,2020,2,Negros Island Region (NIR),1,Food and non-alcoholic beverages,1.8
+2020-03,2020,3,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.5
+2020-04,2020,4,Negros Island Region (NIR),1,Food and non-alcoholic beverages,5.8
+2020-05,2020,5,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.4
+2020-06,2020,6,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.7
+2020-07,2020,7,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.4
+2020-08,2020,8,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.4
+2020-09,2020,9,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.2
+2020-10,2020,10,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.6
+2020-11,2020,11,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.8
+2020-12,2020,12,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.0
+2021-01,2021,1,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.3
+2021-02,2021,2,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.6
+2021-03,2021,3,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.4
+2021-04,2021,4,Negros Island Region (NIR),1,Food and non-alcoholic beverages,0.8
+2021-05,2021,5,Negros Island Region (NIR),1,Food and non-alcoholic beverages,1.9
+2021-06,2021,6,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.6
+2021-07,2021,7,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.1
+2021-08,2021,8,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.5
+2021-09,2021,9,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.2
+2021-10,2021,10,Negros Island Region (NIR),1,Food and non-alcoholic beverages,5.6
+2021-11,2021,11,Negros Island Region (NIR),1,Food and non-alcoholic beverages,5.4
+2021-12,2021,12,Negros Island Region (NIR),1,Food and non-alcoholic beverages,5.8
+2022-01,2022,1,Negros Island Region (NIR),1,Food and non-alcoholic beverages,9.2
+2022-02,2022,2,Negros Island Region (NIR),1,Food and non-alcoholic beverages,7.1
+2022-03,2022,3,Negros Island Region (NIR),1,Food and non-alcoholic beverages,8.1
+2022-04,2022,4,Negros Island Region (NIR),1,Food and non-alcoholic beverages,8.4
+2022-05,2022,5,Negros Island Region (NIR),1,Food and non-alcoholic beverages,8.7
+2022-06,2022,6,Negros Island Region (NIR),1,Food and non-alcoholic beverages,8.8
+2022-07,2022,7,Negros Island Region (NIR),1,Food and non-alcoholic beverages,9.9
+2022-08,2022,8,Negros Island Region (NIR),1,Food and non-alcoholic beverages,9.3
+2022-09,2022,9,Negros Island Region (NIR),1,Food and non-alcoholic beverages,9.3
+2022-10,2022,10,Negros Island Region (NIR),1,Food and non-alcoholic beverages,8.2
+2022-11,2022,11,Negros Island Region (NIR),1,Food and non-alcoholic beverages,10.5
+2022-12,2022,12,Negros Island Region (NIR),1,Food and non-alcoholic beverages,11.7
+2023-01,2023,1,Negros Island Region (NIR),1,Food and non-alcoholic beverages,11.5
+2023-02,2023,2,Negros Island Region (NIR),1,Food and non-alcoholic beverages,12.1
+2023-03,2023,3,Negros Island Region (NIR),1,Food and non-alcoholic beverages,10.2
+2023-04,2023,4,Negros Island Region (NIR),1,Food and non-alcoholic beverages,7.8
+2023-05,2023,5,Negros Island Region (NIR),1,Food and non-alcoholic beverages,7.5
+2023-06,2023,6,Negros Island Region (NIR),1,Food and non-alcoholic beverages,7.8
+2023-07,2023,7,Negros Island Region (NIR),1,Food and non-alcoholic beverages,7.0
+2023-08,2023,8,Negros Island Region (NIR),1,Food and non-alcoholic beverages,8.6
+2023-09,2023,9,Negros Island Region (NIR),1,Food and non-alcoholic beverages,9.0
+2023-10,2023,10,Negros Island Region (NIR),1,Food and non-alcoholic beverages,8.6
+2023-11,2023,11,Negros Island Region (NIR),1,Food and non-alcoholic beverages,7.8
+2023-12,2023,12,Negros Island Region (NIR),1,Food and non-alcoholic beverages,6.8
+2024-01,2024,1,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.0
+2024-02,2024,2,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.6
+2024-03,2024,3,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.6
+2024-04,2024,4,Negros Island Region (NIR),1,Food and non-alcoholic beverages,6.7
+2024-05,2024,5,Negros Island Region (NIR),1,Food and non-alcoholic beverages,6.1
+2024-06,2024,6,Negros Island Region (NIR),1,Food and non-alcoholic beverages,6.2
+2024-07,2024,7,Negros Island Region (NIR),1,Food and non-alcoholic beverages,6.5
+2024-08,2024,8,Negros Island Region (NIR),1,Food and non-alcoholic beverages,5.3
+2024-09,2024,9,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.8
+2024-10,2024,10,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.2
+2024-11,2024,11,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.5
+2024-12,2024,12,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.1
+2025-01,2025,1,Negros Island Region (NIR),1,Food and non-alcoholic beverages,1.7
+2025-02,2025,2,Negros Island Region (NIR),1,Food and non-alcoholic beverages,0.9
+2025-03,2025,3,Negros Island Region (NIR),1,Food and non-alcoholic beverages,1.6
+2025-04,2025,4,Negros Island Region (NIR),1,Food and non-alcoholic beverages,1.0
+2025-05,2025,5,Negros Island Region (NIR),1,Food and non-alcoholic beverages,1.2
+2025-06,2025,6,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-0.3
+2025-07,2025,7,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-1.3
+2025-08,2025,8,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-1.8
+2025-09,2025,9,Negros Island Region (NIR),1,Food and non-alcoholic beverages,0.1
+2025-10,2025,10,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-1.3
+2025-11,2025,11,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-0.8
+2025-12,2025,12,Negros Island Region (NIR),1,Food and non-alcoholic beverages,1.0
+2026-01,2026,1,Negros Island Region (NIR),1,Food and non-alcoholic beverages,0.3
+2026-02,2026,2,Negros Island Region (NIR),1,Food and non-alcoholic beverages,0.4
+2026-03,2026,3,Negros Island Region (NIR),1,Food and non-alcoholic beverages,-0.9
+2026-04,2026,4,Negros Island Region (NIR),1,Food and non-alcoholic beverages,2.6
+2026-05,2026,5,Negros Island Region (NIR),1,Food and non-alcoholic beverages,3.9
+2026-06,2026,6,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.0
+2026-07,2026,7,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.7
+2026-08,2026,8,Negros Island Region (NIR),1,Food and non-alcoholic beverages,4.3
+2026-09,2026,9,Negros Island Region (NIR),1,Food and non-alcoholic beverages,6.1
+2026-10,2026,10,Negros Island Region (NIR),1,Food and non-alcoholic beverages,6.3
+2019-01,2019,1,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",5.9
+2019-02,2019,2,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.1
+2019-03,2019,3,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.7
+2019-04,2019,4,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",5.0
+2019-05,2019,5,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.8
+2019-06,2019,6,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",4.9
+2019-07,2019,7,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.1
+2019-08,2019,8,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",4.1
+2019-09,2019,9,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.9
+2019-10,2019,10,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.9
+2019-11,2019,11,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.3
+2019-12,2019,12,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.0
+2020-01,2020,1,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",4.6
+2020-02,2020,2,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.6
+2020-03,2020,3,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.6
+2020-04,2020,4,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.6
+2020-05,2020,5,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-0.1
+2020-06,2020,6,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-2.2
+2020-07,2020,7,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-0.7
+2020-08,2020,8,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-2.3
+2020-09,2020,9,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-0.7
+2020-10,2020,10,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-1.4
+2020-11,2020,11,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.4
+2020-12,2020,12,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.0
+2021-01,2021,1,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-0.4
+2021-02,2021,2,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.5
+2021-03,2021,3,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.5
+2021-04,2021,4,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.8
+2021-05,2021,5,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",4.8
+2021-06,2021,6,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",5.7
+2021-07,2021,7,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.8
+2021-08,2021,8,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",7.5
+2021-09,2021,9,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",8.4
+2021-10,2021,10,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",9.6
+2021-11,2021,11,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.8
+2021-12,2021,12,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.6
+2022-01,2022,1,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",4.9
+2022-02,2022,2,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",4.5
+2022-03,2022,3,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.5
+2022-04,2022,4,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.5
+2022-05,2022,5,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",5.0
+2022-06,2022,6,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",4.7
+2022-07,2022,7,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.6
+2022-08,2022,8,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.4
+2022-09,2022,9,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.0
+2022-10,2022,10,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.4
+2022-11,2022,11,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",11.3
+2022-12,2022,12,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",12.7
+2023-01,2023,1,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",15.1
+2023-02,2023,2,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",13.4
+2023-03,2023,3,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",8.5
+2023-04,2023,4,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",8.8
+2023-05,2023,5,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",9.1
+2023-06,2023,6,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",8.7
+2023-07,2023,7,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",7.5
+2023-08,2023,8,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",4.0
+2023-09,2023,9,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.0
+2023-10,2023,10,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.9
+2023-11,2023,11,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.2
+2023-12,2023,12,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-1.0
+2024-01,2024,1,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-1.3
+2024-02,2024,2,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.1
+2024-03,2024,3,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.4
+2024-04,2024,4,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.7
+2024-05,2024,5,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.6
+2024-06,2024,6,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.8
+2024-07,2024,7,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.2
+2024-08,2024,8,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.6
+2024-09,2024,9,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.2
+2024-10,2024,10,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.2
+2024-11,2024,11,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.9
+2024-12,2024,12,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.0
+2025-01,2025,1,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.1
+2025-02,2025,2,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.5
+2025-03,2025,3,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.0
+2025-04,2025,4,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.4
+2025-05,2025,5,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.9
+2025-06,2025,6,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-1.6
+2025-07,2025,7,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.6
+2025-08,2025,8,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",-1.3
+2025-09,2025,9,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.2
+2025-10,2025,10,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.4
+2025-11,2025,11,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.5
+2025-12,2025,12,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.6
+2026-01,2026,1,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.9
+2026-02,2026,2,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",0.2
+2026-03,2026,3,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",1.1
+2026-04,2026,4,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.1
+2026-05,2026,5,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.4
+2026-06,2026,6,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",2.6
+2026-07,2026,7,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",3.7
+2026-08,2026,8,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",5.1
+2026-09,2026,9,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.3
+2026-10,2026,10,Negros Island Region (NIR),1,"Housing, water, electricity, gas, and other fuels",6.3
+2019-01,2019,1,Negros Island Region (NIR),1,Transport,0.8
+2019-02,2019,2,Negros Island Region (NIR),1,Transport,-0.7
+2019-03,2019,3,Negros Island Region (NIR),1,Transport,2.7
+2019-04,2019,4,Negros Island Region (NIR),1,Transport,3.3
+2019-05,2019,5,Negros Island Region (NIR),1,Transport,3.8
+2019-06,2019,6,Negros Island Region (NIR),1,Transport,1.2
+2019-07,2019,7,Negros Island Region (NIR),1,Transport,1.9
+2019-08,2019,8,Negros Island Region (NIR),1,Transport,1.5
+2019-09,2019,9,Negros Island Region (NIR),1,Transport,0.8
+2019-10,2019,10,Negros Island Region (NIR),1,Transport,0.1
+2019-11,2019,11,Negros Island Region (NIR),1,Transport,0.8
+2019-12,2019,12,Negros Island Region (NIR),1,Transport,4.7
+2020-01,2020,1,Negros Island Region (NIR),1,Transport,5.0
+2020-02,2020,2,Negros Island Region (NIR),1,Transport,2.8
+2020-03,2020,3,Negros Island Region (NIR),1,Transport,-2.1
+2020-04,2020,4,Negros Island Region (NIR),1,Transport,-7.9
+2020-05,2020,5,Negros Island Region (NIR),1,Transport,-10.1
+2020-06,2020,6,Negros Island Region (NIR),1,Transport,-0.6
+2020-07,2020,7,Negros Island Region (NIR),1,Transport,1.5
+2020-08,2020,8,Negros Island Region (NIR),1,Transport,1.6
+2020-09,2020,9,Negros Island Region (NIR),1,Transport,10.6
+2020-10,2020,10,Negros Island Region (NIR),1,Transport,9.9
+2020-11,2020,11,Negros Island Region (NIR),1,Transport,11.0
+2020-12,2020,12,Negros Island Region (NIR),1,Transport,11.4
+2021-01,2021,1,Negros Island Region (NIR),1,Transport,12.9
+2021-02,2021,2,Negros Island Region (NIR),1,Transport,16.0
+2021-03,2021,3,Negros Island Region (NIR),1,Transport,19.6
+2021-04,2021,4,Negros Island Region (NIR),1,Transport,24.4
+2021-05,2021,5,Negros Island Region (NIR),1,Transport,26.2
+2021-06,2021,6,Negros Island Region (NIR),1,Transport,17.2
+2021-07,2021,7,Negros Island Region (NIR),1,Transport,16.1
+2021-08,2021,8,Negros Island Region (NIR),1,Transport,16.4
+2021-09,2021,9,Negros Island Region (NIR),1,Transport,6.3
+2021-10,2021,10,Negros Island Region (NIR),1,Transport,8.9
+2021-11,2021,11,Negros Island Region (NIR),1,Transport,10.2
+2021-12,2021,12,Negros Island Region (NIR),1,Transport,5.9
+2022-01,2022,1,Negros Island Region (NIR),1,Transport,5.9
+2022-02,2022,2,Negros Island Region (NIR),1,Transport,6.5
+2022-03,2022,3,Negros Island Region (NIR),1,Transport,8.3
+2022-04,2022,4,Negros Island Region (NIR),1,Transport,10.6
+2022-05,2022,5,Negros Island Region (NIR),1,Transport,11.5
+2022-06,2022,6,Negros Island Region (NIR),1,Transport,13.1
+2022-07,2022,7,Negros Island Region (NIR),1,Transport,12.9
+2022-08,2022,8,Negros Island Region (NIR),1,Transport,9.2
+2022-09,2022,9,Negros Island Region (NIR),1,Transport,9.8
+2022-10,2022,10,Negros Island Region (NIR),1,Transport,7.2
+2022-11,2022,11,Negros Island Region (NIR),1,Transport,11.0
+2022-12,2022,12,Negros Island Region (NIR),1,Transport,11.6
+2023-01,2023,1,Negros Island Region (NIR),1,Transport,10.8
+2023-02,2023,2,Negros Island Region (NIR),1,Transport,10.0
+2023-03,2023,3,Negros Island Region (NIR),1,Transport,6.2
+2023-04,2023,4,Negros Island Region (NIR),1,Transport,4.4
+2023-05,2023,5,Negros Island Region (NIR),1,Transport,1.9
+2023-06,2023,6,Negros Island Region (NIR),1,Transport,-0.4
+2023-07,2023,7,Negros Island Region (NIR),1,Transport,-1.2
+2023-08,2023,8,Negros Island Region (NIR),1,Transport,4.4
+2023-09,2023,9,Negros Island Region (NIR),1,Transport,5.4
+2023-10,2023,10,Negros Island Region (NIR),1,Transport,4.9
+2023-11,2023,11,Negros Island Region (NIR),1,Transport,-0.9
+2023-12,2023,12,Negros Island Region (NIR),1,Transport,0.4
+2024-01,2024,1,Negros Island Region (NIR),1,Transport,0.1
+2024-02,2024,2,Negros Island Region (NIR),1,Transport,0.6
+2024-03,2024,3,Negros Island Region (NIR),1,Transport,1.0
+2024-04,2024,4,Negros Island Region (NIR),1,Transport,1.8
+2024-05,2024,5,Negros Island Region (NIR),1,Transport,2.2
+2024-06,2024,6,Negros Island Region (NIR),1,Transport,1.8
+2024-07,2024,7,Negros Island Region (NIR),1,Transport,2.4
+2024-08,2024,8,Negros Island Region (NIR),1,Transport,-1.2
+2024-09,2024,9,Negros Island Region (NIR),1,Transport,-3.9
+2024-10,2024,10,Negros Island Region (NIR),1,Transport,-3.3
+2024-11,2024,11,Negros Island Region (NIR),1,Transport,-2.3
+2024-12,2024,12,Negros Island Region (NIR),1,Transport,0.1
+2025-01,2025,1,Negros Island Region (NIR),1,Transport,0.2
+2025-02,2025,2,Negros Island Region (NIR),1,Transport,-1.1
+2025-03,2025,3,Negros Island Region (NIR),1,Transport,-1.2
+2025-04,2025,4,Negros Island Region (NIR),1,Transport,-2.1
+2025-05,2025,5,Negros Island Region (NIR),1,Transport,-2.8
+2025-06,2025,6,Negros Island Region (NIR),1,Transport,-1.2
+2025-07,2025,7,Negros Island Region (NIR),1,Transport,-1.7
+2025-08,2025,8,Negros Island Region (NIR),1,Transport,-0.1
+2025-09,2025,9,Negros Island Region (NIR),1,Transport,1.3
+2025-10,2025,10,Negros Island Region (NIR),1,Transport,1.4
+2025-11,2025,11,Negros Island Region (NIR),1,Transport,2.5
+2025-12,2025,12,Negros Island Region (NIR),1,Transport,0.8
+2026-01,2026,1,Negros Island Region (NIR),1,Transport,-0.5
+2026-02,2026,2,Negros Island Region (NIR),1,Transport,-1.0
+2026-03,2026,3,Negros Island Region (NIR),1,Transport,8.2
+2026-04,2026,4,Negros Island Region (NIR),1,Transport,18.0
+2026-05,2026,5,Negros Island Region (NIR),1,Transport,15.3
+2026-06,2026,6,Negros Island Region (NIR),1,Transport,11.3
+2026-07,2026,7,Negros Island Region (NIR),1,Transport,10.7
+2026-08,2026,8,Negros Island Region (NIR),1,Transport,11.9
+2026-09,2026,9,Negros Island Region (NIR),1,Transport,12.7
+2026-10,2026,10,Negros Island Region (NIR),1,Transport,15.1
+2019-01,2019,1,Region VI (Western Visayas),1,All items,3.3
+2019-02,2019,2,Region VI (Western Visayas),1,All items,2.8
+2019-03,2019,3,Region VI (Western Visayas),1,All items,2.5
+2019-04,2019,4,Region VI (Western Visayas),1,All items,2.1
+2019-05,2019,5,Region VI (Western Visayas),1,All items,2.0
+2019-06,2019,6,Region VI (Western Visayas),1,All items,2.2
+2019-07,2019,7,Region VI (Western Visayas),1,All items,1.8
+2019-08,2019,8,Region VI (Western Visayas),1,All items,0.6
+2019-09,2019,9,Region VI (Western Visayas),1,All items,0.0
+2019-10,2019,10,Region VI (Western Visayas),1,All items,-0.1
+2019-11,2019,11,Region VI (Western Visayas),1,All items,1.1
+2019-12,2019,12,Region VI (Western Visayas),1,All items,2.4
+2020-01,2020,1,Region VI (Western Visayas),1,All items,3.9
+2020-02,2020,2,Region VI (Western Visayas),1,All items,3.5
+2020-03,2020,3,Region VI (Western Visayas),1,All items,3.0
+2020-04,2020,4,Region VI (Western Visayas),1,All items,2.3
+2020-05,2020,5,Region VI (Western Visayas),1,All items,2.0
+2020-06,2020,6,Region VI (Western Visayas),1,All items,1.8
+2020-07,2020,7,Region VI (Western Visayas),1,All items,1.8
+2020-08,2020,8,Region VI (Western Visayas),1,All items,1.5
+2020-09,2020,9,Region VI (Western Visayas),1,All items,1.4
+2020-10,2020,10,Region VI (Western Visayas),1,All items,1.9
+2020-11,2020,11,Region VI (Western Visayas),1,All items,2.8
+2020-12,2020,12,Region VI (Western Visayas),1,All items,2.6
+2021-01,2021,1,Region VI (Western Visayas),1,All items,2.2
+2021-02,2021,2,Region VI (Western Visayas),1,All items,3.1
+2021-03,2021,3,Region VI (Western Visayas),1,All items,3.3
+2021-04,2021,4,Region VI (Western Visayas),1,All items,3.7
+2021-05,2021,5,Region VI (Western Visayas),1,All items,3.4
+2021-06,2021,6,Region VI (Western Visayas),1,All items,3.3
+2021-07,2021,7,Region VI (Western Visayas),1,All items,3.2
+2021-08,2021,8,Region VI (Western Visayas),1,All items,2.9
+2021-09,2021,9,Region VI (Western Visayas),1,All items,2.8
+2021-10,2021,10,Region VI (Western Visayas),1,All items,2.5
+2021-11,2021,11,Region VI (Western Visayas),1,All items,2.5
+2021-12,2021,12,Region VI (Western Visayas),1,All items,2.4
+2022-01,2022,1,Region VI (Western Visayas),1,All items,3.1
+2022-02,2022,2,Region VI (Western Visayas),1,All items,1.8
+2022-03,2022,3,Region VI (Western Visayas),1,All items,3.4
+2022-04,2022,4,Region VI (Western Visayas),1,All items,3.5
+2022-05,2022,5,Region VI (Western Visayas),1,All items,5.1
+2022-06,2022,6,Region VI (Western Visayas),1,All items,5.3
+2022-07,2022,7,Region VI (Western Visayas),1,All items,6.5
+2022-08,2022,8,Region VI (Western Visayas),1,All items,7.2
+2022-09,2022,9,Region VI (Western Visayas),1,All items,7.5
+2022-10,2022,10,Region VI (Western Visayas),1,All items,8.9
+2022-11,2022,11,Region VI (Western Visayas),1,All items,9.0
+2022-12,2022,12,Region VI (Western Visayas),1,All items,9.6
+2023-01,2023,1,Region VI (Western Visayas),1,All items,9.2
+2023-02,2023,2,Region VI (Western Visayas),1,All items,9.9
+2023-03,2023,3,Region VI (Western Visayas),1,All items,8.2
+2023-04,2023,4,Region VI (Western Visayas),1,All items,7.8
+2023-05,2023,5,Region VI (Western Visayas),1,All items,6.5
+2023-06,2023,6,Region VI (Western Visayas),1,All items,6.3
+2023-07,2023,7,Region VI (Western Visayas),1,All items,4.7
+2023-08,2023,8,Region VI (Western Visayas),1,All items,5.2
+2023-09,2023,9,Region VI (Western Visayas),1,All items,6.2
+2023-10,2023,10,Region VI (Western Visayas),1,All items,4.1
+2023-11,2023,11,Region VI (Western Visayas),1,All items,3.7
+2023-12,2023,12,Region VI (Western Visayas),1,All items,2.9
+2024-01,2024,1,Region VI (Western Visayas),1,All items,1.7
+2024-02,2024,2,Region VI (Western Visayas),1,All items,2.7
+2024-03,2024,3,Region VI (Western Visayas),1,All items,3.5
+2024-04,2024,4,Region VI (Western Visayas),1,All items,3.9
+2024-05,2024,5,Region VI (Western Visayas),1,All items,4.3
+2024-06,2024,6,Region VI (Western Visayas),1,All items,4.8
+2024-07,2024,7,Region VI (Western Visayas),1,All items,4.5
+2024-08,2024,8,Region VI (Western Visayas),1,All items,5.0
+2024-09,2024,9,Region VI (Western Visayas),1,All items,3.3
+2024-10,2024,10,Region VI (Western Visayas),1,All items,4.1
+2024-11,2024,11,Region VI (Western Visayas),1,All items,3.4
+2024-12,2024,12,Region VI (Western Visayas),1,All items,3.4
+2025-01,2025,1,Region VI (Western Visayas),1,All items,4.0
+2025-02,2025,2,Region VI (Western Visayas),1,All items,3.1
+2025-03,2025,3,Region VI (Western Visayas),1,All items,2.6
+2025-04,2025,4,Region VI (Western Visayas),1,All items,1.8
+2025-05,2025,5,Region VI (Western Visayas),1,All items,1.5
+2025-06,2025,6,Region VI (Western Visayas),1,All items,0.6
+2025-07,2025,7,Region VI (Western Visayas),1,All items,0.6
+2025-08,2025,8,Region VI (Western Visayas),1,All items,-0.3
+2025-09,2025,9,Region VI (Western Visayas),1,All items,0.2
+2025-10,2025,10,Region VI (Western Visayas),1,All items,0.7
+2025-11,2025,11,Region VI (Western Visayas),1,All items,1.0
+2025-12,2025,12,Region VI (Western Visayas),1,All items,1.8
+2026-01,2026,1,Region VI (Western Visayas),1,All items,2.3
+2026-02,2026,2,Region VI (Western Visayas),1,All items,3.0
+2026-03,2026,3,Region VI (Western Visayas),1,All items,3.5
+2026-04,2026,4,Region VI (Western Visayas),1,All items,6.6
+2026-05,2026,5,Region VI (Western Visayas),1,All items,6.8
+2026-06,2026,6,Region VI (Western Visayas),1,All items,6.8
+2026-07,2026,7,Region VI (Western Visayas),1,All items,7.8
+2026-08,2026,8,Region VI (Western Visayas),1,All items,8.4
+2026-09,2026,9,Region VI (Western Visayas),1,All items,9.2
+2026-10,2026,10,Region VI (Western Visayas),1,All items,9.7
+2019-01,2019,1,Region VI (Western Visayas),1,Food,4.1
+2019-02,2019,2,Region VI (Western Visayas),1,Food,3.4
+2019-03,2019,3,Region VI (Western Visayas),1,Food,2.4
+2019-04,2019,4,Region VI (Western Visayas),1,Food,1.2
+2019-05,2019,5,Region VI (Western Visayas),1,Food,1.2
+2019-06,2019,6,Region VI (Western Visayas),1,Food,2.1
+2019-07,2019,7,Region VI (Western Visayas),1,Food,1.3
+2019-08,2019,8,Region VI (Western Visayas),1,Food,-1.8
+2019-09,2019,9,Region VI (Western Visayas),1,Food,-2.7
+2019-10,2019,10,Region VI (Western Visayas),1,Food,-2.7
+2019-11,2019,11,Region VI (Western Visayas),1,Food,-0.2
+2019-12,2019,12,Region VI (Western Visayas),1,Food,2.2
+2020-01,2020,1,Region VI (Western Visayas),1,Food,3.5
+2020-02,2020,2,Region VI (Western Visayas),1,Food,2.7
+2020-03,2020,3,Region VI (Western Visayas),1,Food,3.0
+2020-04,2020,4,Region VI (Western Visayas),1,Food,2.7
+2020-05,2020,5,Region VI (Western Visayas),1,Food,2.3
+2020-06,2020,6,Region VI (Western Visayas),1,Food,0.9
+2020-07,2020,7,Region VI (Western Visayas),1,Food,0.1
+2020-08,2020,8,Region VI (Western Visayas),1,Food,-0.8
+2020-09,2020,9,Region VI (Western Visayas),1,Food,-1.4
+2020-10,2020,10,Region VI (Western Visayas),1,Food,-0.2
+2020-11,2020,11,Region VI (Western Visayas),1,Food,2.0
+2020-12,2020,12,Region VI (Western Visayas),1,Food,1.4
+2021-01,2021,1,Region VI (Western Visayas),1,Food,1.4
+2021-02,2021,2,Region VI (Western Visayas),1,Food,3.5
+2021-03,2021,3,Region VI (Western Visayas),1,Food,2.2
+2021-04,2021,4,Region VI (Western Visayas),1,Food,2.0
+2021-05,2021,5,Region VI (Western Visayas),1,Food,1.5
+2021-06,2021,6,Region VI (Western Visayas),1,Food,2.2
+2021-07,2021,7,Region VI (Western Visayas),1,Food,2.5
+2021-08,2021,8,Region VI (Western Visayas),1,Food,3.2
+2021-09,2021,9,Region VI (Western Visayas),1,Food,2.1
+2021-10,2021,10,Region VI (Western Visayas),1,Food,2.0
+2021-11,2021,11,Region VI (Western Visayas),1,Food,1.4
+2021-12,2021,12,Region VI (Western Visayas),1,Food,1.6
+2022-01,2022,1,Region VI (Western Visayas),1,Food,3.8
+2022-02,2022,2,Region VI (Western Visayas),1,Food,0.9
+2022-03,2022,3,Region VI (Western Visayas),1,Food,3.2
+2022-04,2022,4,Region VI (Western Visayas),1,Food,3.0
+2022-05,2022,5,Region VI (Western Visayas),1,Food,4.8
+2022-06,2022,6,Region VI (Western Visayas),1,Food,6.1
+2022-07,2022,7,Region VI (Western Visayas),1,Food,8.1
+2022-08,2022,8,Region VI (Western Visayas),1,Food,8.4
+2022-09,2022,9,Region VI (Western Visayas),1,Food,9.7
+2022-10,2022,10,Region VI (Western Visayas),1,Food,10.1
+2022-11,2022,11,Region VI (Western Visayas),1,Food,10.5
+2022-12,2022,12,Region VI (Western Visayas),1,Food,10.9
+2023-01,2023,1,Region VI (Western Visayas),1,Food,10.1
+2023-02,2023,2,Region VI (Western Visayas),1,Food,12.2
+2023-03,2023,3,Region VI (Western Visayas),1,Food,10.6
+2023-04,2023,4,Region VI (Western Visayas),1,Food,10.1
+2023-05,2023,5,Region VI (Western Visayas),1,Food,9.7
+2023-06,2023,6,Region VI (Western Visayas),1,Food,9.0
+2023-07,2023,7,Region VI (Western Visayas),1,Food,7.2
+2023-08,2023,8,Region VI (Western Visayas),1,Food,8.5
+2023-09,2023,9,Region VI (Western Visayas),1,Food,11.6
+2023-10,2023,10,Region VI (Western Visayas),1,Food,8.9
+2023-11,2023,11,Region VI (Western Visayas),1,Food,8.1
+2023-12,2023,12,Region VI (Western Visayas),1,Food,7.3
+2024-01,2024,1,Region VI (Western Visayas),1,Food,4.5
+2024-02,2024,2,Region VI (Western Visayas),1,Food,5.5
+2024-03,2024,3,Region VI (Western Visayas),1,Food,6.6
+2024-04,2024,4,Region VI (Western Visayas),1,Food,7.9
+2024-05,2024,5,Region VI (Western Visayas),1,Food,7.9
+2024-06,2024,6,Region VI (Western Visayas),1,Food,8.2
+2024-07,2024,7,Region VI (Western Visayas),1,Food,8.2
+2024-08,2024,8,Region VI (Western Visayas),1,Food,7.1
+2024-09,2024,9,Region VI (Western Visayas),1,Food,3.7
+2024-10,2024,10,Region VI (Western Visayas),1,Food,5.4
+2024-11,2024,11,Region VI (Western Visayas),1,Food,3.9
+2024-12,2024,12,Region VI (Western Visayas),1,Food,3.0
+2025-01,2025,1,Region VI (Western Visayas),1,Food,4.7
+2025-02,2025,2,Region VI (Western Visayas),1,Food,3.4
+2025-03,2025,3,Region VI (Western Visayas),1,Food,2.6
+2025-04,2025,4,Region VI (Western Visayas),1,Food,0.5
+2025-05,2025,5,Region VI (Western Visayas),1,Food,-0.1
+2025-06,2025,6,Region VI (Western Visayas),1,Food,-0.8
+2025-07,2025,7,Region VI (Western Visayas),1,Food,-2.1
+2025-08,2025,8,Region VI (Western Visayas),1,Food,-2.5
+2025-09,2025,9,Region VI (Western Visayas),1,Food,-2.5
+2025-10,2025,10,Region VI (Western Visayas),1,Food,-2.2
+2025-11,2025,11,Region VI (Western Visayas),1,Food,-1.2
+2025-12,2025,12,Region VI (Western Visayas),1,Food,1.0
+2026-01,2026,1,Region VI (Western Visayas),1,Food,0.6
+2026-02,2026,2,Region VI (Western Visayas),1,Food,1.2
+2026-03,2026,3,Region VI (Western Visayas),1,Food,1.2
+2026-04,2026,4,Region VI (Western Visayas),1,Food,4.8
+2026-05,2026,5,Region VI (Western Visayas),1,Food,5.7
+2026-06,2026,6,Region VI (Western Visayas),1,Food,5.6
+2026-07,2026,7,Region VI (Western Visayas),1,Food,6.8
+2026-08,2026,8,Region VI (Western Visayas),1,Food,7.1
+2026-09,2026,9,Region VI (Western Visayas),1,Food,8.6
+2026-10,2026,10,Region VI (Western Visayas),1,Food,8.4
+2019-01,2019,1,Region VI (Western Visayas),1,Food and non-alcoholic beverages,4.0
+2019-02,2019,2,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.5
+2019-03,2019,3,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.5
+2019-04,2019,4,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.4
+2019-05,2019,5,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.4
+2019-06,2019,6,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.1
+2019-07,2019,7,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.5
+2019-08,2019,8,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-1.5
+2019-09,2019,9,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-2.2
+2019-10,2019,10,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-2.2
+2019-11,2019,11,Region VI (Western Visayas),1,Food and non-alcoholic beverages,0.1
+2019-12,2019,12,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.5
+2020-01,2020,1,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.6
+2020-02,2020,2,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.9
+2020-03,2020,3,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.1
+2020-04,2020,4,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.9
+2020-05,2020,5,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.4
+2020-06,2020,6,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.2
+2020-07,2020,7,Region VI (Western Visayas),1,Food and non-alcoholic beverages,0.4
+2020-08,2020,8,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-0.3
+2020-09,2020,9,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-0.8
+2020-10,2020,10,Region VI (Western Visayas),1,Food and non-alcoholic beverages,0.2
+2020-11,2020,11,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.2
+2020-12,2020,12,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.6
+2021-01,2021,1,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.7
+2021-02,2021,2,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.5
+2021-03,2021,3,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.3
+2021-04,2021,4,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.9
+2021-05,2021,5,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.5
+2021-06,2021,6,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.2
+2021-07,2021,7,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.5
+2021-08,2021,8,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.0
+2021-09,2021,9,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.9
+2021-10,2021,10,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.9
+2021-11,2021,11,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.4
+2021-12,2021,12,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.5
+2022-01,2022,1,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.5
+2022-02,2022,2,Region VI (Western Visayas),1,Food and non-alcoholic beverages,0.8
+2022-03,2022,3,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.1
+2022-04,2022,4,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.0
+2022-05,2022,5,Region VI (Western Visayas),1,Food and non-alcoholic beverages,4.7
+2022-06,2022,6,Region VI (Western Visayas),1,Food and non-alcoholic beverages,5.9
+2022-07,2022,7,Region VI (Western Visayas),1,Food and non-alcoholic beverages,7.7
+2022-08,2022,8,Region VI (Western Visayas),1,Food and non-alcoholic beverages,8.0
+2022-09,2022,9,Region VI (Western Visayas),1,Food and non-alcoholic beverages,9.2
+2022-10,2022,10,Region VI (Western Visayas),1,Food and non-alcoholic beverages,9.8
+2022-11,2022,11,Region VI (Western Visayas),1,Food and non-alcoholic beverages,10.3
+2022-12,2022,12,Region VI (Western Visayas),1,Food and non-alcoholic beverages,10.6
+2023-01,2023,1,Region VI (Western Visayas),1,Food and non-alcoholic beverages,10.0
+2023-02,2023,2,Region VI (Western Visayas),1,Food and non-alcoholic beverages,12.0
+2023-03,2023,3,Region VI (Western Visayas),1,Food and non-alcoholic beverages,10.3
+2023-04,2023,4,Region VI (Western Visayas),1,Food and non-alcoholic beverages,9.8
+2023-05,2023,5,Region VI (Western Visayas),1,Food and non-alcoholic beverages,9.5
+2023-06,2023,6,Region VI (Western Visayas),1,Food and non-alcoholic beverages,8.9
+2023-07,2023,7,Region VI (Western Visayas),1,Food and non-alcoholic beverages,7.2
+2023-08,2023,8,Region VI (Western Visayas),1,Food and non-alcoholic beverages,8.3
+2023-09,2023,9,Region VI (Western Visayas),1,Food and non-alcoholic beverages,11.1
+2023-10,2023,10,Region VI (Western Visayas),1,Food and non-alcoholic beverages,8.6
+2023-11,2023,11,Region VI (Western Visayas),1,Food and non-alcoholic beverages,7.7
+2023-12,2023,12,Region VI (Western Visayas),1,Food and non-alcoholic beverages,6.9
+2024-01,2024,1,Region VI (Western Visayas),1,Food and non-alcoholic beverages,4.3
+2024-02,2024,2,Region VI (Western Visayas),1,Food and non-alcoholic beverages,5.1
+2024-03,2024,3,Region VI (Western Visayas),1,Food and non-alcoholic beverages,6.3
+2024-04,2024,4,Region VI (Western Visayas),1,Food and non-alcoholic beverages,7.6
+2024-05,2024,5,Region VI (Western Visayas),1,Food and non-alcoholic beverages,7.3
+2024-06,2024,6,Region VI (Western Visayas),1,Food and non-alcoholic beverages,7.7
+2024-07,2024,7,Region VI (Western Visayas),1,Food and non-alcoholic beverages,7.6
+2024-08,2024,8,Region VI (Western Visayas),1,Food and non-alcoholic beverages,6.6
+2024-09,2024,9,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.5
+2024-10,2024,10,Region VI (Western Visayas),1,Food and non-alcoholic beverages,4.9
+2024-11,2024,11,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.8
+2024-12,2024,12,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.9
+2025-01,2025,1,Region VI (Western Visayas),1,Food and non-alcoholic beverages,4.5
+2025-02,2025,2,Region VI (Western Visayas),1,Food and non-alcoholic beverages,3.5
+2025-03,2025,3,Region VI (Western Visayas),1,Food and non-alcoholic beverages,2.7
+2025-04,2025,4,Region VI (Western Visayas),1,Food and non-alcoholic beverages,0.7
+2025-05,2025,5,Region VI (Western Visayas),1,Food and non-alcoholic beverages,0.3
+2025-06,2025,6,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-0.5
+2025-07,2025,7,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-1.5
+2025-08,2025,8,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-1.8
+2025-09,2025,9,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-1.8
+2025-10,2025,10,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-1.4
+2025-11,2025,11,Region VI (Western Visayas),1,Food and non-alcoholic beverages,-0.5
+2025-12,2025,12,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.5
+2026-01,2026,1,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.1
+2026-02,2026,2,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.6
+2026-03,2026,3,Region VI (Western Visayas),1,Food and non-alcoholic beverages,1.6
+2026-04,2026,4,Region VI (Western Visayas),1,Food and non-alcoholic beverages,4.9
+2026-05,2026,5,Region VI (Western Visayas),1,Food and non-alcoholic beverages,5.7
+2026-06,2026,6,Region VI (Western Visayas),1,Food and non-alcoholic beverages,5.6
+2026-07,2026,7,Region VI (Western Visayas),1,Food and non-alcoholic beverages,6.8
+2026-08,2026,8,Region VI (Western Visayas),1,Food and non-alcoholic beverages,6.8
+2026-09,2026,9,Region VI (Western Visayas),1,Food and non-alcoholic beverages,8.2
+2026-10,2026,10,Region VI (Western Visayas),1,Food and non-alcoholic beverages,8.0
+2019-01,2019,1,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.3
+2019-02,2019,2,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.3
+2019-03,2019,3,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.7
+2019-04,2019,4,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.3
+2019-05,2019,5,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.0
+2019-06,2019,6,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.8
+2019-07,2019,7,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.3
+2019-08,2019,8,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.1
+2019-09,2019,9,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.6
+2019-10,2019,10,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.5
+2019-11,2019,11,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.2
+2019-12,2019,12,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.5
+2020-01,2020,1,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",5.6
+2020-02,2020,2,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",4.8
+2020-03,2020,3,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.8
+2020-04,2020,4,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.2
+2020-05,2020,5,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.9
+2020-06,2020,6,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.0
+2020-07,2020,7,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.0
+2020-08,2020,8,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-0.1
+2020-09,2020,9,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.4
+2020-10,2020,10,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.5
+2020-11,2020,11,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.5
+2020-12,2020,12,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.7
+2021-01,2021,1,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-2.6
+2021-02,2021,2,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-1.6
+2021-03,2021,3,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.2
+2021-04,2021,4,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.9
+2021-05,2021,5,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.9
+2021-06,2021,6,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.0
+2021-07,2021,7,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.0
+2021-08,2021,8,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.0
+2021-09,2021,9,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.3
+2021-10,2021,10,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.7
+2021-11,2021,11,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.6
+2021-12,2021,12,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.4
+2022-01,2022,1,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.0
+2022-02,2022,2,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.2
+2022-03,2022,3,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.9
+2022-04,2022,4,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.1
+2022-05,2022,5,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.6
+2022-06,2022,6,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.9
+2022-07,2022,7,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.1
+2022-08,2022,8,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",5.8
+2022-09,2022,9,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",4.1
+2022-10,2022,10,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",10.3
+2022-11,2022,11,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",9.7
+2022-12,2022,12,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",12.7
+2023-01,2023,1,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",11.4
+2023-02,2023,2,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",11.5
+2023-03,2023,3,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",8.6
+2023-04,2023,4,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",7.7
+2023-05,2023,5,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",6.1
+2023-06,2023,6,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",8.6
+2023-07,2023,7,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",5.7
+2023-08,2023,8,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.0
+2023-09,2023,9,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.4
+2023-10,2023,10,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-3.0
+2023-11,2023,11,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-2.6
+2023-12,2023,12,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-5.6
+2024-01,2024,1,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-5.2
+2024-02,2024,2,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-2.4
+2024-03,2024,3,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-2.3
+2024-04,2024,4,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-2.3
+2024-05,2024,5,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-0.1
+2024-06,2024,6,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.3
+2024-07,2024,7,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-0.4
+2024-08,2024,8,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",6.2
+2024-09,2024,9,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",6.7
+2024-10,2024,10,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",7.4
+2024-11,2024,11,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",4.6
+2024-12,2024,12,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",6.2
+2025-01,2025,1,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",5.0
+2025-02,2025,2,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.1
+2025-03,2025,3,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",4.1
+2025-04,2025,4,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",4.6
+2025-05,2025,5,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",4.7
+2025-06,2025,6,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.0
+2025-07,2025,7,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.5
+2025-08,2025,8,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-1.8
+2025-09,2025,9,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",-0.3
+2025-10,2025,10,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.1
+2025-11,2025,11,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.6
+2025-12,2025,12,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",0.6
+2026-01,2026,1,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.6
+2026-02,2026,2,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.5
+2026-03,2026,3,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",1.0
+2026-04,2026,4,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.3
+2026-05,2026,5,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",2.0
+2026-06,2026,6,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",3.8
+2026-07,2026,7,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",7.3
+2026-08,2026,8,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",8.9
+2026-09,2026,9,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",9.2
+2026-10,2026,10,Region VI (Western Visayas),1,"Housing, water, electricity, gas, and other fuels",8.0
+2019-01,2019,1,Region VI (Western Visayas),1,Transport,1.4
+2019-02,2019,2,Region VI (Western Visayas),1,Transport,0.0
+2019-03,2019,3,Region VI (Western Visayas),1,Transport,2.8
+2019-04,2019,4,Region VI (Western Visayas),1,Transport,3.9
+2019-05,2019,5,Region VI (Western Visayas),1,Transport,3.8
+2019-06,2019,6,Region VI (Western Visayas),1,Transport,2.0
+2019-07,2019,7,Region VI (Western Visayas),1,Transport,2.2
+2019-08,2019,8,Region VI (Western Visayas),1,Transport,2.1
+2019-09,2019,9,Region VI (Western Visayas),1,Transport,1.6
+2019-10,2019,10,Region VI (Western Visayas),1,Transport,0.0
+2019-11,2019,11,Region VI (Western Visayas),1,Transport,0.8
+2019-12,2019,12,Region VI (Western Visayas),1,Transport,3.0
+2020-01,2020,1,Region VI (Western Visayas),1,Transport,5.0
+2020-02,2020,2,Region VI (Western Visayas),1,Transport,2.5
+2020-03,2020,3,Region VI (Western Visayas),1,Transport,-1.3
+2020-04,2020,4,Region VI (Western Visayas),1,Transport,-7.3
+2020-05,2020,5,Region VI (Western Visayas),1,Transport,-7.9
+2020-06,2020,6,Region VI (Western Visayas),1,Transport,0.1
+2020-07,2020,7,Region VI (Western Visayas),1,Transport,2.6
+2020-08,2020,8,Region VI (Western Visayas),1,Transport,2.1
+2020-09,2020,9,Region VI (Western Visayas),1,Transport,2.9
+2020-10,2020,10,Region VI (Western Visayas),1,Transport,2.4
+2020-11,2020,11,Region VI (Western Visayas),1,Transport,2.5
+2020-12,2020,12,Region VI (Western Visayas),1,Transport,3.7
+2021-01,2021,1,Region VI (Western Visayas),1,Transport,4.1
+2021-02,2021,2,Region VI (Western Visayas),1,Transport,6.2
+2021-03,2021,3,Region VI (Western Visayas),1,Transport,9.4
+2021-04,2021,4,Region VI (Western Visayas),1,Transport,13.7
+2021-05,2021,5,Region VI (Western Visayas),1,Transport,13.9
+2021-06,2021,6,Region VI (Western Visayas),1,Transport,7.5
+2021-07,2021,7,Region VI (Western Visayas),1,Transport,6.4
+2021-08,2021,8,Region VI (Western Visayas),1,Transport,6.3
+2021-09,2021,9,Region VI (Western Visayas),1,Transport,5.3
+2021-10,2021,10,Region VI (Western Visayas),1,Transport,6.2
+2021-11,2021,11,Region VI (Western Visayas),1,Transport,7.8
+2021-12,2021,12,Region VI (Western Visayas),1,Transport,5.5
+2022-01,2022,1,Region VI (Western Visayas),1,Transport,4.4
+2022-02,2022,2,Region VI (Western Visayas),1,Transport,6.2
+2022-03,2022,3,Region VI (Western Visayas),1,Transport,8.1
+2022-04,2022,4,Region VI (Western Visayas),1,Transport,10.9
+2022-05,2022,5,Region VI (Western Visayas),1,Transport,16.6
+2022-06,2022,6,Region VI (Western Visayas),1,Transport,19.5
+2022-07,2022,7,Region VI (Western Visayas),1,Transport,21.1
+2022-08,2022,8,Region VI (Western Visayas),1,Transport,18.2
+2022-09,2022,9,Region VI (Western Visayas),1,Transport,17.4
+2022-10,2022,10,Region VI (Western Visayas),1,Transport,17.9
+2022-11,2022,11,Region VI (Western Visayas),1,Transport,16.2
+2022-12,2022,12,Region VI (Western Visayas),1,Transport,15.5
+2023-01,2023,1,Region VI (Western Visayas),1,Transport,16.1
+2023-02,2023,2,Region VI (Western Visayas),1,Transport,12.7
+2023-03,2023,3,Region VI (Western Visayas),1,Transport,7.6
+2023-04,2023,4,Region VI (Western Visayas),1,Transport,5.1
+2023-05,2023,5,Region VI (Western Visayas),1,Transport,-1.9
+2023-06,2023,6,Region VI (Western Visayas),1,Transport,-4.6
+2023-07,2023,7,Region VI (Western Visayas),1,Transport,-7.1
+2023-08,2023,8,Region VI (Western Visayas),1,Transport,-2.4
+2023-09,2023,9,Region VI (Western Visayas),1,Transport,-0.5
+2023-10,2023,10,Region VI (Western Visayas),1,Transport,-2.1
+2023-11,2023,11,Region VI (Western Visayas),1,Transport,-2.9
+2023-12,2023,12,Region VI (Western Visayas),1,Transport,-2.0
+2024-01,2024,1,Region VI (Western Visayas),1,Transport,-2.6
+2024-02,2024,2,Region VI (Western Visayas),1,Transport,-0.9
+2024-03,2024,3,Region VI (Western Visayas),1,Transport,3.5
+2024-04,2024,4,Region VI (Western Visayas),1,Transport,4.0
+2024-05,2024,5,Region VI (Western Visayas),1,Transport,4.9
+2024-06,2024,6,Region VI (Western Visayas),1,Transport,4.3
+2024-07,2024,7,Region VI (Western Visayas),1,Transport,5.3
+2024-08,2024,8,Region VI (Western Visayas),1,Transport,1.8
+2024-09,2024,9,Region VI (Western Visayas),1,Transport,-1.1
+2024-10,2024,10,Region VI (Western Visayas),1,Transport,-0.3
+2024-11,2024,11,Region VI (Western Visayas),1,Transport,1.3
+2024-12,2024,12,Region VI (Western Visayas),1,Transport,2.8
+2025-01,2025,1,Region VI (Western Visayas),1,Transport,3.5
+2025-02,2025,2,Region VI (Western Visayas),1,Transport,2.3
+2025-03,2025,3,Region VI (Western Visayas),1,Transport,-1.2
+2025-04,2025,4,Region VI (Western Visayas),1,Transport,-2.3
+2025-05,2025,5,Region VI (Western Visayas),1,Transport,-3.0
+2025-06,2025,6,Region VI (Western Visayas),1,Transport,-2.4
+2025-07,2025,7,Region VI (Western Visayas),1,Transport,-2.9
+2025-08,2025,8,Region VI (Western Visayas),1,Transport,-1.0
+2025-09,2025,9,Region VI (Western Visayas),1,Transport,1.5
+2025-10,2025,10,Region VI (Western Visayas),1,Transport,1.9
+2025-11,2025,11,Region VI (Western Visayas),1,Transport,2.6
+2025-12,2025,12,Region VI (Western Visayas),1,Transport,1.5
+2026-01,2026,1,Region VI (Western Visayas),1,Transport,1.5
+2026-02,2026,2,Region VI (Western Visayas),1,Transport,0.8
+2026-03,2026,3,Region VI (Western Visayas),1,Transport,11.1
+2026-04,2026,4,Region VI (Western Visayas),1,Transport,21.7
+2026-05,2026,5,Region VI (Western Visayas),1,Transport,20.5
+2026-06,2026,6,Region VI (Western Visayas),1,Transport,16.2
+2026-07,2026,7,Region VI (Western Visayas),1,Transport,15.1
+2026-08,2026,8,Region VI (Western Visayas),1,Transport,16.8
+2026-09,2026,9,Region VI (Western Visayas),1,Transport,16.9
+2026-10,2026,10,Region VI (Western Visayas),1,Transport,26.0
+2019-01,2019,1,City of Bacolod (Capital),2,All items,4.3
+2019-02,2019,2,City of Bacolod (Capital),2,All items,3.5
+2019-03,2019,3,City of Bacolod (Capital),2,All items,3.9
+2019-04,2019,4,City of Bacolod (Capital),2,All items,3.4
+2019-05,2019,5,City of Bacolod (Capital),2,All items,3.6
+2019-06,2019,6,City of Bacolod (Capital),2,All items,3.7
+2019-07,2019,7,City of Bacolod (Capital),2,All items,3.4
+2019-08,2019,8,City of Bacolod (Capital),2,All items,3.0
+2019-09,2019,9,City of Bacolod (Capital),2,All items,2.4
+2019-10,2019,10,City of Bacolod (Capital),2,All items,1.9
+2019-11,2019,11,City of Bacolod (Capital),2,All items,1.9
+2019-12,2019,12,City of Bacolod (Capital),2,All items,2.6
+2020-01,2020,1,City of Bacolod (Capital),2,All items,3.8
+2020-02,2020,2,City of Bacolod (Capital),2,All items,3.6
+2020-03,2020,3,City of Bacolod (Capital),2,All items,2.5
+2020-04,2020,4,City of Bacolod (Capital),2,All items,3.2
+2020-05,2020,5,City of Bacolod (Capital),2,All items,2.1
+2020-06,2020,6,City of Bacolod (Capital),2,All items,2.1
+2020-07,2020,7,City of Bacolod (Capital),2,All items,2.8
+2020-08,2020,8,City of Bacolod (Capital),2,All items,2.3
+2020-09,2020,9,City of Bacolod (Capital),2,All items,3.4
+2020-10,2020,10,City of Bacolod (Capital),2,All items,2.8
+2020-11,2020,11,City of Bacolod (Capital),2,All items,3.9
+2020-12,2020,12,City of Bacolod (Capital),2,All items,3.8
+2021-01,2021,1,City of Bacolod (Capital),2,All items,3.0
+2021-02,2021,2,City of Bacolod (Capital),2,All items,4.4
+2021-03,2021,3,City of Bacolod (Capital),2,All items,5.5
+2021-04,2021,4,City of Bacolod (Capital),2,All items,4.3
+2021-05,2021,5,City of Bacolod (Capital),2,All items,5.1
+2021-06,2021,6,City of Bacolod (Capital),2,All items,5.1
+2021-07,2021,7,City of Bacolod (Capital),2,All items,5.0
+2021-08,2021,8,City of Bacolod (Capital),2,All items,4.8
+2021-09,2021,9,City of Bacolod (Capital),2,All items,3.2
+2021-10,2021,10,City of Bacolod (Capital),2,All items,5.5
+2021-11,2021,11,City of Bacolod (Capital),2,All items,4.7
+2021-12,2021,12,City of Bacolod (Capital),2,All items,4.2
+2022-01,2022,1,City of Bacolod (Capital),2,All items,3.9
+2022-02,2022,2,City of Bacolod (Capital),2,All items,3.5
+2022-03,2022,3,City of Bacolod (Capital),2,All items,4.3
+2022-04,2022,4,City of Bacolod (Capital),2,All items,4.6
+2022-05,2022,5,City of Bacolod (Capital),2,All items,4.8
+2022-06,2022,6,City of Bacolod (Capital),2,All items,5.1
+2022-07,2022,7,City of Bacolod (Capital),2,All items,4.2
+2022-08,2022,8,City of Bacolod (Capital),2,All items,6.3
+2022-09,2022,9,City of Bacolod (Capital),2,All items,6.8
+2022-10,2022,10,City of Bacolod (Capital),2,All items,5.7
+2022-11,2022,11,City of Bacolod (Capital),2,All items,8.7
+2022-12,2022,12,City of Bacolod (Capital),2,All items,9.7
+2023-01,2023,1,City of Bacolod (Capital),2,All items,12.1
+2023-02,2023,2,City of Bacolod (Capital),2,All items,11.2
+2023-03,2023,3,City of Bacolod (Capital),2,All items,8.7
+2023-04,2023,4,City of Bacolod (Capital),2,All items,8.7
+2023-05,2023,5,City of Bacolod (Capital),2,All items,7.5
+2023-06,2023,6,City of Bacolod (Capital),2,All items,6.7
+2023-07,2023,7,City of Bacolod (Capital),2,All items,6.6
+2023-08,2023,8,City of Bacolod (Capital),2,All items,5.7
+2023-09,2023,9,City of Bacolod (Capital),2,All items,6.4
+2023-10,2023,10,City of Bacolod (Capital),2,All items,6.4
+2023-11,2023,11,City of Bacolod (Capital),2,All items,4.2
+2023-12,2023,12,City of Bacolod (Capital),2,All items,4.0
+2024-01,2024,1,City of Bacolod (Capital),2,All items,2.5
+2024-02,2024,2,City of Bacolod (Capital),2,All items,3.1
+2024-03,2024,3,City of Bacolod (Capital),2,All items,3.3
+2024-04,2024,4,City of Bacolod (Capital),2,All items,3.9
+2024-05,2024,5,City of Bacolod (Capital),2,All items,4.5
+2024-06,2024,6,City of Bacolod (Capital),2,All items,6.1
+2024-07,2024,7,City of Bacolod (Capital),2,All items,6.6
+2024-08,2024,8,City of Bacolod (Capital),2,All items,5.7
+2024-09,2024,9,City of Bacolod (Capital),2,All items,3.9
+2024-10,2024,10,City of Bacolod (Capital),2,All items,3.2
+2024-11,2024,11,City of Bacolod (Capital),2,All items,2.7
+2024-12,2024,12,City of Bacolod (Capital),2,All items,2.4
+2025-01,2025,1,City of Bacolod (Capital),2,All items,3.3
+2025-02,2025,2,City of Bacolod (Capital),2,All items,3.3
+2025-03,2025,3,City of Bacolod (Capital),2,All items,3.5
+2025-04,2025,4,City of Bacolod (Capital),2,All items,2.2
+2025-05,2025,5,City of Bacolod (Capital),2,All items,2.4
+2025-06,2025,6,City of Bacolod (Capital),2,All items,0.5
+2025-07,2025,7,City of Bacolod (Capital),2,All items,0.1
+2025-08,2025,8,City of Bacolod (Capital),2,All items,0.0
+2025-09,2025,9,City of Bacolod (Capital),2,All items,1.1
+2025-10,2025,10,City of Bacolod (Capital),2,All items,1.2
+2025-11,2025,11,City of Bacolod (Capital),2,All items,2.1
+2025-12,2025,12,City of Bacolod (Capital),2,All items,2.7
+2026-01,2026,1,City of Bacolod (Capital),2,All items,1.1
+2026-02,2026,2,City of Bacolod (Capital),2,All items,0.1
+2026-03,2026,3,City of Bacolod (Capital),2,All items,3.4
+2026-04,2026,4,City of Bacolod (Capital),2,All items,6.6
+2026-05,2026,5,City of Bacolod (Capital),2,All items,7.0
+2026-06,2026,6,City of Bacolod (Capital),2,All items,7.1
+2026-07,2026,7,City of Bacolod (Capital),2,All items,7.3
+2026-08,2026,8,City of Bacolod (Capital),2,All items,7.8
+2026-09,2026,9,City of Bacolod (Capital),2,All items,8.4
+2026-10,2026,10,City of Bacolod (Capital),2,All items,8.7
+2019-01,2019,1,City of Bacolod (Capital),2,Food,7.4
+2019-02,2019,2,City of Bacolod (Capital),2,Food,5.7
+2019-03,2019,3,City of Bacolod (Capital),2,Food,5.2
+2019-04,2019,4,City of Bacolod (Capital),2,Food,5.3
+2019-05,2019,5,City of Bacolod (Capital),2,Food,6.4
+2019-06,2019,6,City of Bacolod (Capital),2,Food,4.6
+2019-07,2019,7,City of Bacolod (Capital),2,Food,4.8
+2019-08,2019,8,City of Bacolod (Capital),2,Food,1.8
+2019-09,2019,9,City of Bacolod (Capital),2,Food,1.0
+2019-10,2019,10,City of Bacolod (Capital),2,Food,-0.4
+2019-11,2019,11,City of Bacolod (Capital),2,Food,-0.7
+2019-12,2019,12,City of Bacolod (Capital),2,Food,0.5
+2020-01,2020,1,City of Bacolod (Capital),2,Food,2.1
+2020-02,2020,2,City of Bacolod (Capital),2,Food,3.2
+2020-03,2020,3,City of Bacolod (Capital),2,Food,3.6
+2020-04,2020,4,City of Bacolod (Capital),2,Food,7.7
+2020-05,2020,5,City of Bacolod (Capital),2,Food,4.8
+2020-06,2020,6,City of Bacolod (Capital),2,Food,3.8
+2020-07,2020,7,City of Bacolod (Capital),2,Food,4.2
+2020-08,2020,8,City of Bacolod (Capital),2,Food,5.2
+2020-09,2020,9,City of Bacolod (Capital),2,Food,3.6
+2020-10,2020,10,City of Bacolod (Capital),2,Food,2.4
+2020-11,2020,11,City of Bacolod (Capital),2,Food,3.0
+2020-12,2020,12,City of Bacolod (Capital),2,Food,3.0
+2021-01,2021,1,City of Bacolod (Capital),2,Food,1.7
+2021-02,2021,2,City of Bacolod (Capital),2,Food,4.0
+2021-03,2021,3,City of Bacolod (Capital),2,Food,4.3
+2021-04,2021,4,City of Bacolod (Capital),2,Food,-0.2
+2021-05,2021,5,City of Bacolod (Capital),2,Food,1.8
+2021-06,2021,6,City of Bacolod (Capital),2,Food,3.4
+2021-07,2021,7,City of Bacolod (Capital),2,Food,2.0
+2021-08,2021,8,City of Bacolod (Capital),2,Food,0.6
+2021-09,2021,9,City of Bacolod (Capital),2,Food,1.1
+2021-10,2021,10,City of Bacolod (Capital),2,Food,4.4
+2021-11,2021,11,City of Bacolod (Capital),2,Food,4.1
+2021-12,2021,12,City of Bacolod (Capital),2,Food,4.1
+2022-01,2022,1,City of Bacolod (Capital),2,Food,7.0
+2022-02,2022,2,City of Bacolod (Capital),2,Food,5.4
+2022-03,2022,3,City of Bacolod (Capital),2,Food,5.6
+2022-04,2022,4,City of Bacolod (Capital),2,Food,5.2
+2022-05,2022,5,City of Bacolod (Capital),2,Food,5.6
+2022-06,2022,6,City of Bacolod (Capital),2,Food,5.7
+2022-07,2022,7,City of Bacolod (Capital),2,Food,5.6
+2022-08,2022,8,City of Bacolod (Capital),2,Food,7.0
+2022-09,2022,9,City of Bacolod (Capital),2,Food,7.6
+2022-10,2022,10,City of Bacolod (Capital),2,Food,6.2
+2022-11,2022,11,City of Bacolod (Capital),2,Food,8.3
+2022-12,2022,12,City of Bacolod (Capital),2,Food,9.8
+2023-01,2023,1,City of Bacolod (Capital),2,Food,10.4
+2023-02,2023,2,City of Bacolod (Capital),2,Food,10.2
+2023-03,2023,3,City of Bacolod (Capital),2,Food,8.5
+2023-04,2023,4,City of Bacolod (Capital),2,Food,9.5
+2023-05,2023,5,City of Bacolod (Capital),2,Food,7.5
+2023-06,2023,6,City of Bacolod (Capital),2,Food,7.2
+2023-07,2023,7,City of Bacolod (Capital),2,Food,8.2
+2023-08,2023,8,City of Bacolod (Capital),2,Food,8.0
+2023-09,2023,9,City of Bacolod (Capital),2,Food,9.3
+2023-10,2023,10,City of Bacolod (Capital),2,Food,9.3
+2023-11,2023,11,City of Bacolod (Capital),2,Food,7.5
+2023-12,2023,12,City of Bacolod (Capital),2,Food,8.0
+2024-01,2024,1,City of Bacolod (Capital),2,Food,4.3
+2024-02,2024,2,City of Bacolod (Capital),2,Food,3.7
+2024-03,2024,3,City of Bacolod (Capital),2,Food,5.5
+2024-04,2024,4,City of Bacolod (Capital),2,Food,4.7
+2024-05,2024,5,City of Bacolod (Capital),2,Food,6.2
+2024-06,2024,6,City of Bacolod (Capital),2,Food,7.4
+2024-07,2024,7,City of Bacolod (Capital),2,Food,7.2
+2024-08,2024,8,City of Bacolod (Capital),2,Food,6.7
+2024-09,2024,9,City of Bacolod (Capital),2,Food,3.0
+2024-10,2024,10,City of Bacolod (Capital),2,Food,2.6
+2024-11,2024,11,City of Bacolod (Capital),2,Food,2.8
+2024-12,2024,12,City of Bacolod (Capital),2,Food,0.9
+2025-01,2025,1,City of Bacolod (Capital),2,Food,2.7
+2025-02,2025,2,City of Bacolod (Capital),2,Food,2.6
+2025-03,2025,3,City of Bacolod (Capital),2,Food,1.6
+2025-04,2025,4,City of Bacolod (Capital),2,Food,0.8
+2025-05,2025,5,City of Bacolod (Capital),2,Food,1.0
+2025-06,2025,6,City of Bacolod (Capital),2,Food,-1.4
+2025-07,2025,7,City of Bacolod (Capital),2,Food,-3.2
+2025-08,2025,8,City of Bacolod (Capital),2,Food,-3.6
+2025-09,2025,9,City of Bacolod (Capital),2,Food,-1.6
+2025-10,2025,10,City of Bacolod (Capital),2,Food,-2.3
+2025-11,2025,11,City of Bacolod (Capital),2,Food,-0.2
+2025-12,2025,12,City of Bacolod (Capital),2,Food,1.9
+2026-01,2026,1,City of Bacolod (Capital),2,Food,-0.2
+2026-02,2026,2,City of Bacolod (Capital),2,Food,-1.3
+2026-03,2026,3,City of Bacolod (Capital),2,Food,0.9
+2026-04,2026,4,City of Bacolod (Capital),2,Food,3.3
+2026-05,2026,5,City of Bacolod (Capital),2,Food,5.7
+2026-06,2026,6,City of Bacolod (Capital),2,Food,6.0
+2026-07,2026,7,City of Bacolod (Capital),2,Food,6.1
+2026-08,2026,8,City of Bacolod (Capital),2,Food,5.9
+2026-09,2026,9,City of Bacolod (Capital),2,Food,6.9
+2026-10,2026,10,City of Bacolod (Capital),2,Food,7.0
+2019-01,2019,1,City of Bacolod (Capital),2,Food and non-alcoholic beverages,7.3
+2019-02,2019,2,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.6
+2019-03,2019,3,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.2
+2019-04,2019,4,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.2
+2019-05,2019,5,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.1
+2019-06,2019,6,City of Bacolod (Capital),2,Food and non-alcoholic beverages,4.9
+2019-07,2019,7,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.1
+2019-08,2019,8,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.5
+2019-09,2019,9,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.7
+2019-10,2019,10,City of Bacolod (Capital),2,Food and non-alcoholic beverages,0.4
+2019-11,2019,11,City of Bacolod (Capital),2,Food and non-alcoholic beverages,0.1
+2019-12,2019,12,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.3
+2020-01,2020,1,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.7
+2020-02,2020,2,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.8
+2020-03,2020,3,City of Bacolod (Capital),2,Food and non-alcoholic beverages,4.0
+2020-04,2020,4,City of Bacolod (Capital),2,Food and non-alcoholic beverages,7.7
+2020-05,2020,5,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.2
+2020-06,2020,6,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.8
+2020-07,2020,7,City of Bacolod (Capital),2,Food and non-alcoholic beverages,4.1
+2020-08,2020,8,City of Bacolod (Capital),2,Food and non-alcoholic beverages,4.9
+2020-09,2020,9,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.6
+2020-10,2020,10,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.5
+2020-11,2020,11,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.0
+2020-12,2020,12,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.9
+2021-01,2021,1,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.7
+2021-02,2021,2,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.7
+2021-03,2021,3,City of Bacolod (Capital),2,Food and non-alcoholic beverages,4.1
+2021-04,2021,4,City of Bacolod (Capital),2,Food and non-alcoholic beverages,0.0
+2021-05,2021,5,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.8
+2021-06,2021,6,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.4
+2021-07,2021,7,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.1
+2021-08,2021,8,City of Bacolod (Capital),2,Food and non-alcoholic beverages,0.9
+2021-09,2021,9,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.2
+2021-10,2021,10,City of Bacolod (Capital),2,Food and non-alcoholic beverages,4.1
+2021-11,2021,11,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.8
+2021-12,2021,12,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.9
+2022-01,2022,1,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.5
+2022-02,2022,2,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.1
+2022-03,2022,3,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.3
+2022-04,2022,4,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.1
+2022-05,2022,5,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.4
+2022-06,2022,6,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.4
+2022-07,2022,7,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.3
+2022-08,2022,8,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.6
+2022-09,2022,9,City of Bacolod (Capital),2,Food and non-alcoholic beverages,7.2
+2022-10,2022,10,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.1
+2022-11,2022,11,City of Bacolod (Capital),2,Food and non-alcoholic beverages,8.1
+2022-12,2022,12,City of Bacolod (Capital),2,Food and non-alcoholic beverages,9.6
+2023-01,2023,1,City of Bacolod (Capital),2,Food and non-alcoholic beverages,10.3
+2023-02,2023,2,City of Bacolod (Capital),2,Food and non-alcoholic beverages,10.0
+2023-03,2023,3,City of Bacolod (Capital),2,Food and non-alcoholic beverages,8.5
+2023-04,2023,4,City of Bacolod (Capital),2,Food and non-alcoholic beverages,9.3
+2023-05,2023,5,City of Bacolod (Capital),2,Food and non-alcoholic beverages,7.5
+2023-06,2023,6,City of Bacolod (Capital),2,Food and non-alcoholic beverages,7.2
+2023-07,2023,7,City of Bacolod (Capital),2,Food and non-alcoholic beverages,8.3
+2023-08,2023,8,City of Bacolod (Capital),2,Food and non-alcoholic beverages,8.0
+2023-09,2023,9,City of Bacolod (Capital),2,Food and non-alcoholic beverages,9.2
+2023-10,2023,10,City of Bacolod (Capital),2,Food and non-alcoholic beverages,9.2
+2023-11,2023,11,City of Bacolod (Capital),2,Food and non-alcoholic beverages,7.6
+2023-12,2023,12,City of Bacolod (Capital),2,Food and non-alcoholic beverages,8.0
+2024-01,2024,1,City of Bacolod (Capital),2,Food and non-alcoholic beverages,4.5
+2024-02,2024,2,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.8
+2024-03,2024,3,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.4
+2024-04,2024,4,City of Bacolod (Capital),2,Food and non-alcoholic beverages,4.7
+2024-05,2024,5,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.1
+2024-06,2024,6,City of Bacolod (Capital),2,Food and non-alcoholic beverages,7.1
+2024-07,2024,7,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.8
+2024-08,2024,8,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.4
+2024-09,2024,9,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.0
+2024-10,2024,10,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.6
+2024-11,2024,11,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.9
+2024-12,2024,12,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.2
+2025-01,2025,1,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.9
+2025-02,2025,2,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.9
+2025-03,2025,3,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.0
+2025-04,2025,4,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.3
+2025-05,2025,5,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.5
+2025-06,2025,6,City of Bacolod (Capital),2,Food and non-alcoholic beverages,-0.5
+2025-07,2025,7,City of Bacolod (Capital),2,Food and non-alcoholic beverages,-2.1
+2025-08,2025,8,City of Bacolod (Capital),2,Food and non-alcoholic beverages,-2.4
+2025-09,2025,9,City of Bacolod (Capital),2,Food and non-alcoholic beverages,-0.7
+2025-10,2025,10,City of Bacolod (Capital),2,Food and non-alcoholic beverages,-1.3
+2025-11,2025,11,City of Bacolod (Capital),2,Food and non-alcoholic beverages,0.3
+2025-12,2025,12,City of Bacolod (Capital),2,Food and non-alcoholic beverages,2.3
+2026-01,2026,1,City of Bacolod (Capital),2,Food and non-alcoholic beverages,0.4
+2026-02,2026,2,City of Bacolod (Capital),2,Food and non-alcoholic beverages,-0.7
+2026-03,2026,3,City of Bacolod (Capital),2,Food and non-alcoholic beverages,1.5
+2026-04,2026,4,City of Bacolod (Capital),2,Food and non-alcoholic beverages,3.8
+2026-05,2026,5,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.9
+2026-06,2026,6,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.0
+2026-07,2026,7,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.2
+2026-08,2026,8,City of Bacolod (Capital),2,Food and non-alcoholic beverages,5.9
+2026-09,2026,9,City of Bacolod (Capital),2,Food and non-alcoholic beverages,6.8
+2026-10,2026,10,City of Bacolod (Capital),2,Food and non-alcoholic beverages,7.0
+2019-01,2019,1,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",3.0
+2019-02,2019,2,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",3.7
+2019-03,2019,3,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",4.0
+2019-04,2019,4,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.1
+2019-05,2019,5,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.8
+2019-06,2019,6,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",4.7
+2019-07,2019,7,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.2
+2019-08,2019,8,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",3.6
+2019-09,2019,9,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.2
+2019-10,2019,10,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.1
+2019-11,2019,11,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.8
+2019-12,2019,12,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.7
+2020-01,2020,1,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",3.6
+2020-02,2020,2,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.5
+2020-03,2020,3,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.1
+2020-04,2020,4,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.0
+2020-05,2020,5,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.0
+2020-06,2020,6,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-2.5
+2020-07,2020,7,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-0.3
+2020-08,2020,8,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-2.8
+2020-09,2020,9,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-1.2
+2020-10,2020,10,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-1.6
+2020-11,2020,11,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.2
+2020-12,2020,12,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.0
+2021-01,2021,1,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-1.6
+2021-02,2021,2,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-0.8
+2021-03,2021,3,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.1
+2021-04,2021,4,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.2
+2021-05,2021,5,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.0
+2021-06,2021,6,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.8
+2021-07,2021,7,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",4.5
+2021-08,2021,8,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",5.4
+2021-09,2021,9,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",4.2
+2021-10,2021,10,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",7.3
+2021-11,2021,11,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",5.5
+2021-12,2021,12,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",5.4
+2022-01,2022,1,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-0.7
+2022-02,2022,2,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-1.3
+2022-03,2022,3,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.5
+2022-04,2022,4,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.0
+2022-05,2022,5,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.4
+2022-06,2022,6,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.8
+2022-07,2022,7,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.3
+2022-08,2022,8,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",6.9
+2022-09,2022,9,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",8.4
+2022-10,2022,10,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",6.0
+2022-11,2022,11,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",8.0
+2022-12,2022,12,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",10.0
+2023-01,2023,1,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",19.6
+2023-02,2023,2,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",16.5
+2023-03,2023,3,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",8.8
+2023-04,2023,4,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",8.6
+2023-05,2023,5,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",7.0
+2023-06,2023,6,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",5.3
+2023-07,2023,7,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.9
+2023-08,2023,8,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-3.8
+2023-09,2023,9,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-3.8
+2023-10,2023,10,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-2.0
+2023-11,2023,11,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-1.6
+2023-12,2023,12,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-3.2
+2024-01,2024,1,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-4.2
+2024-02,2024,2,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-0.9
+2024-03,2024,3,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-3.1
+2024-04,2024,4,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.1
+2024-05,2024,5,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.7
+2024-06,2024,6,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",7.4
+2024-07,2024,7,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",6.6
+2024-08,2024,8,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",7.0
+2024-09,2024,9,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",5.3
+2024-10,2024,10,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",3.0
+2024-11,2024,11,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-0.2
+2024-12,2024,12,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-0.5
+2025-01,2025,1,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.1
+2025-02,2025,2,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.5
+2025-03,2025,3,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",4.6
+2025-04,2025,4,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.2
+2025-05,2025,5,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",1.8
+2025-06,2025,6,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-4.7
+2025-07,2025,7,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-1.3
+2025-08,2025,8,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-1.2
+2025-09,2025,9,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",0.8
+2025-10,2025,10,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.0
+2025-11,2025,11,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",3.6
+2025-12,2025,12,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",3.8
+2026-01,2026,1,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",2.9
+2026-02,2026,2,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",-0.4
+2026-03,2026,3,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",3.8
+2026-04,2026,4,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",6.9
+2026-05,2026,5,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",4.5
+2026-06,2026,6,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",7.1
+2026-07,2026,7,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",8.1
+2026-08,2026,8,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",9.0
+2026-09,2026,9,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",9.0
+2026-10,2026,10,City of Bacolod (Capital),2,"Housing, water, electricity, gas, and other fuels",8.4
+2019-01,2019,1,City of Bacolod (Capital),2,Transport,-0.1
+2019-02,2019,2,City of Bacolod (Capital),2,Transport,-1.8
+2019-03,2019,3,City of Bacolod (Capital),2,Transport,2.6
+2019-04,2019,4,City of Bacolod (Capital),2,Transport,3.5
+2019-05,2019,5,City of Bacolod (Capital),2,Transport,3.2
+2019-06,2019,6,City of Bacolod (Capital),2,Transport,0.1
+2019-07,2019,7,City of Bacolod (Capital),2,Transport,1.2
+2019-08,2019,8,City of Bacolod (Capital),2,Transport,0.5
+2019-09,2019,9,City of Bacolod (Capital),2,Transport,-0.5
+2019-10,2019,10,City of Bacolod (Capital),2,Transport,-1.4
+2019-11,2019,11,City of Bacolod (Capital),2,Transport,0.0
+2019-12,2019,12,City of Bacolod (Capital),2,Transport,4.7
+2020-01,2020,1,City of Bacolod (Capital),2,Transport,5.0
+2020-02,2020,2,City of Bacolod (Capital),2,Transport,1.2
+2020-03,2020,3,City of Bacolod (Capital),2,Transport,-4.6
+2020-04,2020,4,City of Bacolod (Capital),2,Transport,-11.0
+2020-05,2020,5,City of Bacolod (Capital),2,Transport,-12.0
+2020-06,2020,6,City of Bacolod (Capital),2,Transport,-0.7
+2020-07,2020,7,City of Bacolod (Capital),2,Transport,1.0
+2020-08,2020,8,City of Bacolod (Capital),2,Transport,1.2
+2020-09,2020,9,City of Bacolod (Capital),2,Transport,16.7
+2020-10,2020,10,City of Bacolod (Capital),2,Transport,15.9
+2020-11,2020,11,City of Bacolod (Capital),2,Transport,16.7
+2020-12,2020,12,City of Bacolod (Capital),2,Transport,17.9
+2021-01,2021,1,City of Bacolod (Capital),2,Transport,20.3
+2021-02,2021,2,City of Bacolod (Capital),2,Transport,25.2
+2021-03,2021,3,City of Bacolod (Capital),2,Transport,30.5
+2021-04,2021,4,City of Bacolod (Capital),2,Transport,35.7
+2021-05,2021,5,City of Bacolod (Capital),2,Transport,37.4
+2021-06,2021,6,City of Bacolod (Capital),2,Transport,25.6
+2021-07,2021,7,City of Bacolod (Capital),2,Transport,24.9
+2021-08,2021,8,City of Bacolod (Capital),2,Transport,25.0
+2021-09,2021,9,City of Bacolod (Capital),2,Transport,8.3
+2021-10,2021,10,City of Bacolod (Capital),2,Transport,12.6
+2021-11,2021,11,City of Bacolod (Capital),2,Transport,13.0
+2021-12,2021,12,City of Bacolod (Capital),2,Transport,7.9
+2022-01,2022,1,City of Bacolod (Capital),2,Transport,8.3
+2022-02,2022,2,City of Bacolod (Capital),2,Transport,8.6
+2022-03,2022,3,City of Bacolod (Capital),2,Transport,10.4
+2022-04,2022,4,City of Bacolod (Capital),2,Transport,12.8
+2022-05,2022,5,City of Bacolod (Capital),2,Transport,14.1
+2022-06,2022,6,City of Bacolod (Capital),2,Transport,16.5
+2022-07,2022,7,City of Bacolod (Capital),2,Transport,14.4
+2022-08,2022,8,City of Bacolod (Capital),2,Transport,11.0
+2022-09,2022,9,City of Bacolod (Capital),2,Transport,10.4
+2022-10,2022,10,City of Bacolod (Capital),2,Transport,8.6
+2022-11,2022,11,City of Bacolod (Capital),2,Transport,19.1
+2022-12,2022,12,City of Bacolod (Capital),2,Transport,19.8
+2023-01,2023,1,City of Bacolod (Capital),2,Transport,18.4
+2023-02,2023,2,City of Bacolod (Capital),2,Transport,15.2
+2023-03,2023,3,City of Bacolod (Capital),2,Transport,10.6
+2023-04,2023,4,City of Bacolod (Capital),2,Transport,9.0
+2023-05,2023,5,City of Bacolod (Capital),2,Transport,5.6
+2023-06,2023,6,City of Bacolod (Capital),2,Transport,3.1
+2023-07,2023,7,City of Bacolod (Capital),2,Transport,3.9
+2023-08,2023,8,City of Bacolod (Capital),2,Transport,10.3
+2023-09,2023,9,City of Bacolod (Capital),2,Transport,12.0
+2023-10,2023,10,City of Bacolod (Capital),2,Transport,8.8
+2023-11,2023,11,City of Bacolod (Capital),2,Transport,-2.3
+2023-12,2023,12,City of Bacolod (Capital),2,Transport,-0.7
+2024-01,2024,1,City of Bacolod (Capital),2,Transport,-1.4
+2024-02,2024,2,City of Bacolod (Capital),2,Transport,0.8
+2024-03,2024,3,City of Bacolod (Capital),2,Transport,1.3
+2024-04,2024,4,City of Bacolod (Capital),2,Transport,2.5
+2024-05,2024,5,City of Bacolod (Capital),2,Transport,2.9
+2024-06,2024,6,City of Bacolod (Capital),2,Transport,1.9
+2024-07,2024,7,City of Bacolod (Capital),2,Transport,2.4
+2024-08,2024,8,City of Bacolod (Capital),2,Transport,-1.8
+2024-09,2024,9,City of Bacolod (Capital),2,Transport,-4.3
+2024-10,2024,10,City of Bacolod (Capital),2,Transport,-3.3
+2024-11,2024,11,City of Bacolod (Capital),2,Transport,-2.6
+2024-12,2024,12,City of Bacolod (Capital),2,Transport,-0.4
+2025-01,2025,1,City of Bacolod (Capital),2,Transport,0.7
+2025-02,2025,2,City of Bacolod (Capital),2,Transport,-1.1
+2025-03,2025,3,City of Bacolod (Capital),2,Transport,-1.5
+2025-04,2025,4,City of Bacolod (Capital),2,Transport,-3.5
+2025-05,2025,5,City of Bacolod (Capital),2,Transport,-4.1
+2025-06,2025,6,City of Bacolod (Capital),2,Transport,-2.5
+2025-07,2025,7,City of Bacolod (Capital),2,Transport,-2.8
+2025-08,2025,8,City of Bacolod (Capital),2,Transport,-0.9
+2025-09,2025,9,City of Bacolod (Capital),2,Transport,0.5
+2025-10,2025,10,City of Bacolod (Capital),2,Transport,1.0
+2025-11,2025,11,City of Bacolod (Capital),2,Transport,2.6
+2025-12,2025,12,City of Bacolod (Capital),2,Transport,1.0
+2026-01,2026,1,City of Bacolod (Capital),2,Transport,-0.4
+2026-02,2026,2,City of Bacolod (Capital),2,Transport,-0.3
+2026-03,2026,3,City of Bacolod (Capital),2,Transport,14.1
+2026-04,2026,4,City of Bacolod (Capital),2,Transport,24.2
+2026-05,2026,5,City of Bacolod (Capital),2,Transport,18.5
+2026-06,2026,6,City of Bacolod (Capital),2,Transport,14.6
+2026-07,2026,7,City of Bacolod (Capital),2,Transport,14.5
+2026-08,2026,8,City of Bacolod (Capital),2,Transport,15.8
+2026-09,2026,9,City of Bacolod (Capital),2,Transport,18.2
+2026-10,2026,10,City of Bacolod (Capital),2,Transport,21.9
+2019-01,2019,1,Negros Occidental,2,All items,5.4
+2019-02,2019,2,Negros Occidental,2,All items,4.2
+2019-03,2019,3,Negros Occidental,2,All items,4.3
+2019-04,2019,4,Negros Occidental,2,All items,3.6
+2019-05,2019,5,Negros Occidental,2,All items,4.1
+2019-06,2019,6,Negros Occidental,2,All items,3.9
+2019-07,2019,7,Negros Occidental,2,All items,3.8
+2019-08,2019,8,Negros Occidental,2,All items,2.8
+2019-09,2019,9,Negros Occidental,2,All items,2.1
+2019-10,2019,10,Negros Occidental,2,All items,1.5
+2019-11,2019,11,Negros Occidental,2,All items,1.4
+2019-12,2019,12,Negros Occidental,2,All items,2.1
+2020-01,2020,1,Negros Occidental,2,All items,3.0
+2020-02,2020,2,Negros Occidental,2,All items,3.4
+2020-03,2020,3,Negros Occidental,2,All items,2.6
+2020-04,2020,4,Negros Occidental,2,All items,4.2
+2020-05,2020,5,Negros Occidental,2,All items,3.1
+2020-06,2020,6,Negros Occidental,2,All items,3.3
+2020-07,2020,7,Negros Occidental,2,All items,3.8
+2020-08,2020,8,Negros Occidental,2,All items,3.2
+2020-09,2020,9,Negros Occidental,2,All items,4.0
+2020-10,2020,10,Negros Occidental,2,All items,3.4
+2020-11,2020,11,Negros Occidental,2,All items,4.3
+2020-12,2020,12,Negros Occidental,2,All items,4.4
+2021-01,2021,1,Negros Occidental,2,All items,4.1
+2021-02,2021,2,Negros Occidental,2,All items,5.8
+2021-03,2021,3,Negros Occidental,2,All items,6.4
+2021-04,2021,4,Negros Occidental,2,All items,4.5
+2021-05,2021,5,Negros Occidental,2,All items,5.2
+2021-06,2021,6,Negros Occidental,2,All items,5.1
+2021-07,2021,7,Negros Occidental,2,All items,4.6
+2021-08,2021,8,Negros Occidental,2,All items,5.3
+2021-09,2021,9,Negros Occidental,2,All items,5.3
+2021-10,2021,10,Negros Occidental,2,All items,7.0
+2021-11,2021,11,Negros Occidental,2,All items,6.1
+2021-12,2021,12,Negros Occidental,2,All items,5.9
+2022-01,2022,1,Negros Occidental,2,All items,7.6
+2022-02,2022,2,Negros Occidental,2,All items,6.3
+2022-03,2022,3,Negros Occidental,2,All items,7.3
+2022-04,2022,4,Negros Occidental,2,All items,7.7
+2022-05,2022,5,Negros Occidental,2,All items,8.2
+2022-06,2022,6,Negros Occidental,2,All items,8.2
+2022-07,2022,7,Negros Occidental,2,All items,8.4
+2022-08,2022,8,Negros Occidental,2,All items,8.0
+2022-09,2022,9,Negros Occidental,2,All items,7.8
+2022-10,2022,10,Negros Occidental,2,All items,6.9
+2022-11,2022,11,Negros Occidental,2,All items,11.1
+2022-12,2022,12,Negros Occidental,2,All items,12.3
+2023-01,2023,1,Negros Occidental,2,All items,12.2
+2023-02,2023,2,Negros Occidental,2,All items,12.4
+2023-03,2023,3,Negros Occidental,2,All items,10.8
+2023-04,2023,4,Negros Occidental,2,All items,8.8
+2023-05,2023,5,Negros Occidental,2,All items,8.3
+2023-06,2023,6,Negros Occidental,2,All items,8.1
+2023-07,2023,7,Negros Occidental,2,All items,7.6
+2023-08,2023,8,Negros Occidental,2,All items,7.9
+2023-09,2023,9,Negros Occidental,2,All items,7.6
+2023-10,2023,10,Negros Occidental,2,All items,7.8
+2023-11,2023,11,Negros Occidental,2,All items,4.7
+2023-12,2023,12,Negros Occidental,2,All items,3.5
+2024-01,2024,1,Negros Occidental,2,All items,2.2
+2024-02,2024,2,Negros Occidental,2,All items,2.3
+2024-03,2024,3,Negros Occidental,2,All items,2.3
+2024-04,2024,4,Negros Occidental,2,All items,4.4
+2024-05,2024,5,Negros Occidental,2,All items,4.2
+2024-06,2024,6,Negros Occidental,2,All items,4.5
+2024-07,2024,7,Negros Occidental,2,All items,4.9
+2024-08,2024,8,Negros Occidental,2,All items,4.6
+2024-09,2024,9,Negros Occidental,2,All items,3.2
+2024-10,2024,10,Negros Occidental,2,All items,3.5
+2024-11,2024,11,Negros Occidental,2,All items,3.0
+2024-12,2024,12,Negros Occidental,2,All items,3.7
+2025-01,2025,1,Negros Occidental,2,All items,2.7
+2025-02,2025,2,Negros Occidental,2,All items,2.0
+2025-03,2025,3,Negros Occidental,2,All items,2.8
+2025-04,2025,4,Negros Occidental,2,All items,2.1
+2025-05,2025,5,Negros Occidental,2,All items,2.4
+2025-06,2025,6,Negros Occidental,2,All items,1.2
+2025-07,2025,7,Negros Occidental,2,All items,0.5
+2025-08,2025,8,Negros Occidental,2,All items,-0.2
+2025-09,2025,9,Negros Occidental,2,All items,1.4
+2025-10,2025,10,Negros Occidental,2,All items,0.5
+2025-11,2025,11,Negros Occidental,2,All items,0.7
+2025-12,2025,12,Negros Occidental,2,All items,1.2
+2026-01,2026,1,Negros Occidental,2,All items,0.7
+2026-02,2026,2,Negros Occidental,2,All items,0.3
+2026-03,2026,3,Negros Occidental,2,All items,0.0
+2026-04,2026,4,Negros Occidental,2,All items,3.2
+2026-05,2026,5,Negros Occidental,2,All items,4.2
+2026-06,2026,6,Negros Occidental,2,All items,3.5
+2026-07,2026,7,Negros Occidental,2,All items,4.6
+2026-08,2026,8,Negros Occidental,2,All items,4.8
+2026-09,2026,9,Negros Occidental,2,All items,6.4
+2026-10,2026,10,Negros Occidental,2,All items,6.7
+2019-01,2019,1,Negros Occidental,2,Food,7.5
+2019-02,2019,2,Negros Occidental,2,Food,5.4
+2019-03,2019,3,Negros Occidental,2,Food,4.8
+2019-04,2019,4,Negros Occidental,2,Food,4.6
+2019-05,2019,5,Negros Occidental,2,Food,5.5
+2019-06,2019,6,Negros Occidental,2,Food,4.0
+2019-07,2019,7,Negros Occidental,2,Food,4.4
+2019-08,2019,8,Negros Occidental,2,Food,0.8
+2019-09,2019,9,Negros Occidental,2,Food,-0.1
+2019-10,2019,10,Negros Occidental,2,Food,-1.3
+2019-11,2019,11,Negros Occidental,2,Food,-1.5
+2019-12,2019,12,Negros Occidental,2,Food,-0.5
+2020-01,2020,1,Negros Occidental,2,Food,0.8
+2020-02,2020,2,Negros Occidental,2,Food,1.9
+2020-03,2020,3,Negros Occidental,2,Food,2.4
+2020-04,2020,4,Negros Occidental,2,Food,7.0
+2020-05,2020,5,Negros Occidental,2,Food,5.0
+2020-06,2020,6,Negros Occidental,2,Food,4.0
+2020-07,2020,7,Negros Occidental,2,Food,3.6
+2020-08,2020,8,Negros Occidental,2,Food,4.1
+2020-09,2020,9,Negros Occidental,2,Food,3.2
+2020-10,2020,10,Negros Occidental,2,Food,1.8
+2020-11,2020,11,Negros Occidental,2,Food,2.1
+2020-12,2020,12,Negros Occidental,2,Food,2.7
+2021-01,2021,1,Negros Occidental,2,Food,1.5
+2021-02,2021,2,Negros Occidental,2,Food,4.2
+2021-03,2021,3,Negros Occidental,2,Food,4.1
+2021-04,2021,4,Negros Occidental,2,Food,-0.7
+2021-05,2021,5,Negros Occidental,2,Food,0.7
+2021-06,2021,6,Negros Occidental,2,Food,2.3
+2021-07,2021,7,Negros Occidental,2,Food,1.3
+2021-08,2021,8,Negros Occidental,2,Food,2.2
+2021-09,2021,9,Negros Occidental,2,Food,3.8
+2021-10,2021,10,Negros Occidental,2,Food,7.2
+2021-11,2021,11,Negros Occidental,2,Food,7.2
+2021-12,2021,12,Negros Occidental,2,Food,7.2
+2022-01,2022,1,Negros Occidental,2,Food,11.7
+2022-02,2022,2,Negros Occidental,2,Food,9.8
+2022-03,2022,3,Negros Occidental,2,Food,10.7
+2022-04,2022,4,Negros Occidental,2,Food,11.0
+2022-05,2022,5,Negros Occidental,2,Food,11.3
+2022-06,2022,6,Negros Occidental,2,Food,11.3
+2022-07,2022,7,Negros Occidental,2,Food,12.1
+2022-08,2022,8,Negros Occidental,2,Food,10.1
+2022-09,2022,9,Negros Occidental,2,Food,9.8
+2022-10,2022,10,Negros Occidental,2,Food,8.1
+2022-11,2022,11,Negros Occidental,2,Food,10.8
+2022-12,2022,12,Negros Occidental,2,Food,12.8
+2023-01,2023,1,Negros Occidental,2,Food,12.7
+2023-02,2023,2,Negros Occidental,2,Food,12.2
+2023-03,2023,3,Negros Occidental,2,Food,11.0
+2023-04,2023,4,Negros Occidental,2,Food,7.3
+2023-05,2023,5,Negros Occidental,2,Food,7.5
+2023-06,2023,6,Negros Occidental,2,Food,8.2
+2023-07,2023,7,Negros Occidental,2,Food,8.0
+2023-08,2023,8,Negros Occidental,2,Food,10.0
+2023-09,2023,9,Negros Occidental,2,Food,9.7
+2023-10,2023,10,Negros Occidental,2,Food,9.9
+2023-11,2023,11,Negros Occidental,2,Food,8.7
+2023-12,2023,12,Negros Occidental,2,Food,6.9
+2024-01,2024,1,Negros Occidental,2,Food,3.8
+2024-02,2024,2,Negros Occidental,2,Food,3.6
+2024-03,2024,3,Negros Occidental,2,Food,3.7
+2024-04,2024,4,Negros Occidental,2,Food,7.5
+2024-05,2024,5,Negros Occidental,2,Food,6.7
+2024-06,2024,6,Negros Occidental,2,Food,6.0
+2024-07,2024,7,Negros Occidental,2,Food,6.3
+2024-08,2024,8,Negros Occidental,2,Food,5.4
+2024-09,2024,9,Negros Occidental,2,Food,2.9
+2024-10,2024,10,Negros Occidental,2,Food,3.5
+2024-11,2024,11,Negros Occidental,2,Food,2.6
+2024-12,2024,12,Negros Occidental,2,Food,2.8
+2025-01,2025,1,Negros Occidental,2,Food,1.2
+2025-02,2025,2,Negros Occidental,2,Food,0.1
+2025-03,2025,3,Negros Occidental,2,Food,2.2
+2025-04,2025,4,Negros Occidental,2,Food,1.2
+2025-05,2025,5,Negros Occidental,2,Food,1.3
+2025-06,2025,6,Negros Occidental,2,Food,-0.3
+2025-07,2025,7,Negros Occidental,2,Food,-1.4
+2025-08,2025,8,Negros Occidental,2,Food,-2.1
+2025-09,2025,9,Negros Occidental,2,Food,0.8
+2025-10,2025,10,Negros Occidental,2,Food,-1.2
+2025-11,2025,11,Negros Occidental,2,Food,-1.0
+2025-12,2025,12,Negros Occidental,2,Food,0.7
+2026-01,2026,1,Negros Occidental,2,Food,0.0
+2026-02,2026,2,Negros Occidental,2,Food,-0.2
+2026-03,2026,3,Negros Occidental,2,Food,-3.7
+2026-04,2026,4,Negros Occidental,2,Food,0.0
+2026-05,2026,5,Negros Occidental,2,Food,1.5
+2026-06,2026,6,Negros Occidental,2,Food,1.3
+2026-07,2026,7,Negros Occidental,2,Food,2.9
+2026-08,2026,8,Negros Occidental,2,Food,2.0
+2026-09,2026,9,Negros Occidental,2,Food,4.7
+2026-10,2026,10,Negros Occidental,2,Food,5.0
+2019-01,2019,1,Negros Occidental,2,Food and non-alcoholic beverages,7.4
+2019-02,2019,2,Negros Occidental,2,Food and non-alcoholic beverages,5.4
+2019-03,2019,3,Negros Occidental,2,Food and non-alcoholic beverages,4.9
+2019-04,2019,4,Negros Occidental,2,Food and non-alcoholic beverages,4.5
+2019-05,2019,5,Negros Occidental,2,Food and non-alcoholic beverages,5.4
+2019-06,2019,6,Negros Occidental,2,Food and non-alcoholic beverages,4.4
+2019-07,2019,7,Negros Occidental,2,Food and non-alcoholic beverages,4.8
+2019-08,2019,8,Negros Occidental,2,Food and non-alcoholic beverages,1.6
+2019-09,2019,9,Negros Occidental,2,Food and non-alcoholic beverages,0.6
+2019-10,2019,10,Negros Occidental,2,Food and non-alcoholic beverages,-0.6
+2019-11,2019,11,Negros Occidental,2,Food and non-alcoholic beverages,-0.7
+2019-12,2019,12,Negros Occidental,2,Food and non-alcoholic beverages,0.3
+2020-01,2020,1,Negros Occidental,2,Food and non-alcoholic beverages,1.5
+2020-02,2020,2,Negros Occidental,2,Food and non-alcoholic beverages,2.6
+2020-03,2020,3,Negros Occidental,2,Food and non-alcoholic beverages,3.0
+2020-04,2020,4,Negros Occidental,2,Food and non-alcoholic beverages,7.3
+2020-05,2020,5,Negros Occidental,2,Food and non-alcoholic beverages,5.4
+2020-06,2020,6,Negros Occidental,2,Food and non-alcoholic beverages,4.1
+2020-07,2020,7,Negros Occidental,2,Food and non-alcoholic beverages,3.6
+2020-08,2020,8,Negros Occidental,2,Food and non-alcoholic beverages,4.0
+2020-09,2020,9,Negros Occidental,2,Food and non-alcoholic beverages,3.3
+2020-10,2020,10,Negros Occidental,2,Food and non-alcoholic beverages,2.0
+2020-11,2020,11,Negros Occidental,2,Food and non-alcoholic beverages,2.1
+2020-12,2020,12,Negros Occidental,2,Food and non-alcoholic beverages,2.7
+2021-01,2021,1,Negros Occidental,2,Food and non-alcoholic beverages,1.6
+2021-02,2021,2,Negros Occidental,2,Food and non-alcoholic beverages,4.0
+2021-03,2021,3,Negros Occidental,2,Food and non-alcoholic beverages,3.9
+2021-04,2021,4,Negros Occidental,2,Food and non-alcoholic beverages,-0.5
+2021-05,2021,5,Negros Occidental,2,Food and non-alcoholic beverages,0.7
+2021-06,2021,6,Negros Occidental,2,Food and non-alcoholic beverages,2.2
+2021-07,2021,7,Negros Occidental,2,Food and non-alcoholic beverages,1.4
+2021-08,2021,8,Negros Occidental,2,Food and non-alcoholic beverages,2.2
+2021-09,2021,9,Negros Occidental,2,Food and non-alcoholic beverages,3.6
+2021-10,2021,10,Negros Occidental,2,Food and non-alcoholic beverages,6.9
+2021-11,2021,11,Negros Occidental,2,Food and non-alcoholic beverages,7.0
+2021-12,2021,12,Negros Occidental,2,Food and non-alcoholic beverages,6.9
+2022-01,2022,1,Negros Occidental,2,Food and non-alcoholic beverages,11.2
+2022-02,2022,2,Negros Occidental,2,Food and non-alcoholic beverages,9.4
+2022-03,2022,3,Negros Occidental,2,Food and non-alcoholic beverages,10.3
+2022-04,2022,4,Negros Occidental,2,Food and non-alcoholic beverages,10.6
+2022-05,2022,5,Negros Occidental,2,Food and non-alcoholic beverages,10.9
+2022-06,2022,6,Negros Occidental,2,Food and non-alcoholic beverages,10.7
+2022-07,2022,7,Negros Occidental,2,Food and non-alcoholic beverages,11.6
+2022-08,2022,8,Negros Occidental,2,Food and non-alcoholic beverages,9.8
+2022-09,2022,9,Negros Occidental,2,Food and non-alcoholic beverages,9.5
+2022-10,2022,10,Negros Occidental,2,Food and non-alcoholic beverages,7.9
+2022-11,2022,11,Negros Occidental,2,Food and non-alcoholic beverages,10.4
+2022-12,2022,12,Negros Occidental,2,Food and non-alcoholic beverages,12.3
+2023-01,2023,1,Negros Occidental,2,Food and non-alcoholic beverages,12.2
+2023-02,2023,2,Negros Occidental,2,Food and non-alcoholic beverages,11.8
+2023-03,2023,3,Negros Occidental,2,Food and non-alcoholic beverages,10.7
+2023-04,2023,4,Negros Occidental,2,Food and non-alcoholic beverages,7.2
+2023-05,2023,5,Negros Occidental,2,Food and non-alcoholic beverages,7.4
+2023-06,2023,6,Negros Occidental,2,Food and non-alcoholic beverages,8.1
+2023-07,2023,7,Negros Occidental,2,Food and non-alcoholic beverages,7.9
+2023-08,2023,8,Negros Occidental,2,Food and non-alcoholic beverages,9.8
+2023-09,2023,9,Negros Occidental,2,Food and non-alcoholic beverages,9.5
+2023-10,2023,10,Negros Occidental,2,Food and non-alcoholic beverages,9.6
+2023-11,2023,11,Negros Occidental,2,Food and non-alcoholic beverages,8.5
+2023-12,2023,12,Negros Occidental,2,Food and non-alcoholic beverages,6.9
+2024-01,2024,1,Negros Occidental,2,Food and non-alcoholic beverages,3.9
+2024-02,2024,2,Negros Occidental,2,Food and non-alcoholic beverages,3.7
+2024-03,2024,3,Negros Occidental,2,Food and non-alcoholic beverages,3.8
+2024-04,2024,4,Negros Occidental,2,Food and non-alcoholic beverages,7.4
+2024-05,2024,5,Negros Occidental,2,Food and non-alcoholic beverages,6.6
+2024-06,2024,6,Negros Occidental,2,Food and non-alcoholic beverages,5.8
+2024-07,2024,7,Negros Occidental,2,Food and non-alcoholic beverages,6.1
+2024-08,2024,8,Negros Occidental,2,Food and non-alcoholic beverages,5.3
+2024-09,2024,9,Negros Occidental,2,Food and non-alcoholic beverages,2.9
+2024-10,2024,10,Negros Occidental,2,Food and non-alcoholic beverages,3.5
+2024-11,2024,11,Negros Occidental,2,Food and non-alcoholic beverages,2.6
+2024-12,2024,12,Negros Occidental,2,Food and non-alcoholic beverages,2.9
+2025-01,2025,1,Negros Occidental,2,Food and non-alcoholic beverages,1.4
+2025-02,2025,2,Negros Occidental,2,Food and non-alcoholic beverages,0.4
+2025-03,2025,3,Negros Occidental,2,Food and non-alcoholic beverages,2.3
+2025-04,2025,4,Negros Occidental,2,Food and non-alcoholic beverages,1.3
+2025-05,2025,5,Negros Occidental,2,Food and non-alcoholic beverages,1.5
+2025-06,2025,6,Negros Occidental,2,Food and non-alcoholic beverages,0.0
+2025-07,2025,7,Negros Occidental,2,Food and non-alcoholic beverages,-1.0
+2025-08,2025,8,Negros Occidental,2,Food and non-alcoholic beverages,-1.7
+2025-09,2025,9,Negros Occidental,2,Food and non-alcoholic beverages,1.2
+2025-10,2025,10,Negros Occidental,2,Food and non-alcoholic beverages,-0.7
+2025-11,2025,11,Negros Occidental,2,Food and non-alcoholic beverages,-0.6
+2025-12,2025,12,Negros Occidental,2,Food and non-alcoholic beverages,1.0
+2026-01,2026,1,Negros Occidental,2,Food and non-alcoholic beverages,0.2
+2026-02,2026,2,Negros Occidental,2,Food and non-alcoholic beverages,0.0
+2026-03,2026,3,Negros Occidental,2,Food and non-alcoholic beverages,-3.1
+2026-04,2026,4,Negros Occidental,2,Food and non-alcoholic beverages,0.4
+2026-05,2026,5,Negros Occidental,2,Food and non-alcoholic beverages,1.8
+2026-06,2026,6,Negros Occidental,2,Food and non-alcoholic beverages,1.7
+2026-07,2026,7,Negros Occidental,2,Food and non-alcoholic beverages,3.1
+2026-08,2026,8,Negros Occidental,2,Food and non-alcoholic beverages,2.3
+2026-09,2026,9,Negros Occidental,2,Food and non-alcoholic beverages,4.6
+2026-10,2026,10,Negros Occidental,2,Food and non-alcoholic beverages,4.9
+2019-01,2019,1,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.0
+2019-02,2019,2,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.7
+2019-03,2019,3,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.6
+2019-04,2019,4,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.8
+2019-05,2019,5,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.4
+2019-06,2019,6,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.2
+2019-07,2019,7,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.7
+2019-08,2019,8,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.3
+2019-09,2019,9,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.8
+2019-10,2019,10,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.3
+2019-11,2019,11,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.9
+2019-12,2019,12,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.0
+2020-01,2020,1,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.8
+2020-02,2020,2,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.7
+2020-03,2020,3,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.7
+2020-04,2020,4,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.7
+2020-05,2020,5,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.7
+2020-06,2020,6,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-2.2
+2020-07,2020,7,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.0
+2020-08,2020,8,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-2.6
+2020-09,2020,9,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-1.0
+2020-10,2020,10,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-1.9
+2020-11,2020,11,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.2
+2020-12,2020,12,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.9
+2021-01,2021,1,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.1
+2021-02,2021,2,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.3
+2021-03,2021,3,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.2
+2021-04,2021,4,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.1
+2021-05,2021,5,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.0
+2021-06,2021,6,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",6.2
+2021-07,2021,7,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",7.9
+2021-08,2021,8,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",9.2
+2021-09,2021,9,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",11.4
+2021-10,2021,10,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",9.8
+2021-11,2021,11,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.0
+2021-12,2021,12,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.0
+2022-01,2022,1,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.0
+2022-02,2022,2,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.7
+2022-03,2022,3,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.1
+2022-04,2022,4,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.2
+2022-05,2022,5,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.9
+2022-06,2022,6,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.5
+2022-07,2022,7,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.3
+2022-08,2022,8,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",7.8
+2022-09,2022,9,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",6.5
+2022-10,2022,10,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",8.6
+2022-11,2022,11,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",18.2
+2022-12,2022,12,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",19.9
+2023-01,2023,1,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",21.0
+2023-02,2023,2,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",19.4
+2023-03,2023,3,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",11.8
+2023-04,2023,4,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",10.3
+2023-05,2023,5,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",8.3
+2023-06,2023,6,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",7.8
+2023-07,2023,7,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.7
+2023-08,2023,8,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.5
+2023-09,2023,9,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-0.5
+2023-10,2023,10,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.1
+2023-11,2023,11,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-5.0
+2023-12,2023,12,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-7.5
+2024-01,2024,1,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-7.2
+2024-02,2024,2,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-5.7
+2024-03,2024,3,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-5.2
+2024-04,2024,4,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-2.8
+2024-05,2024,5,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-1.6
+2024-06,2024,6,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.7
+2024-07,2024,7,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.0
+2024-08,2024,8,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.8
+2024-09,2024,9,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.1
+2024-10,2024,10,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.6
+2024-11,2024,11,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.2
+2024-12,2024,12,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.2
+2025-01,2025,1,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.2
+2025-02,2025,2,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.1
+2025-03,2025,3,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.0
+2025-04,2025,4,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.7
+2025-05,2025,5,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",4.2
+2025-06,2025,6,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.1
+2025-07,2025,7,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.3
+2025-08,2025,8,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-1.6
+2025-09,2025,9,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.0
+2025-10,2025,10,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.6
+2025-11,2025,11,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",1.4
+2025-12,2025,12,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.0
+2026-01,2026,1,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.7
+2026-02,2026,2,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",-0.2
+2026-03,2026,3,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.4
+2026-04,2026,4,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.1
+2026-05,2026,5,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",2.0
+2026-06,2026,6,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",0.9
+2026-07,2026,7,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",3.6
+2026-08,2026,8,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",5.4
+2026-09,2026,9,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",8.0
+2026-10,2026,10,Negros Occidental,2,"Housing, water, electricity, gas, and other fuels",8.4
+2019-01,2019,1,Negros Occidental,2,Transport,0.7
+2019-02,2019,2,Negros Occidental,2,Transport,-1.1
+2019-03,2019,3,Negros Occidental,2,Transport,2.6
+2019-04,2019,4,Negros Occidental,2,Transport,3.3
+2019-05,2019,5,Negros Occidental,2,Transport,3.8
+2019-06,2019,6,Negros Occidental,2,Transport,1.0
+2019-07,2019,7,Negros Occidental,2,Transport,2.0
+2019-08,2019,8,Negros Occidental,2,Transport,1.6
+2019-09,2019,9,Negros Occidental,2,Transport,0.8
+2019-10,2019,10,Negros Occidental,2,Transport,0.3
+2019-11,2019,11,Negros Occidental,2,Transport,0.0
+2019-12,2019,12,Negros Occidental,2,Transport,3.4
+2020-01,2020,1,Negros Occidental,2,Transport,3.6
+2020-02,2020,2,Negros Occidental,2,Transport,1.8
+2020-03,2020,3,Negros Occidental,2,Transport,-2.9
+2020-04,2020,4,Negros Occidental,2,Transport,-7.9
+2020-05,2020,5,Negros Occidental,2,Transport,-9.2
+2020-06,2020,6,Negros Occidental,2,Transport,3.4
+2020-07,2020,7,Negros Occidental,2,Transport,5.1
+2020-08,2020,8,Negros Occidental,2,Transport,5.2
+2020-09,2020,9,Negros Occidental,2,Transport,18.4
+2020-10,2020,10,Negros Occidental,2,Transport,17.8
+2020-11,2020,11,Negros Occidental,2,Transport,19.2
+2020-12,2020,12,Negros Occidental,2,Transport,19.4
+2021-01,2021,1,Negros Occidental,2,Transport,21.1
+2021-02,2021,2,Negros Occidental,2,Transport,24.5
+2021-03,2021,3,Negros Occidental,2,Transport,28.3
+2021-04,2021,4,Negros Occidental,2,Transport,32.3
+2021-05,2021,5,Negros Occidental,2,Transport,33.3
+2021-06,2021,6,Negros Occidental,2,Transport,20.5
+2021-07,2021,7,Negros Occidental,2,Transport,19.6
+2021-08,2021,8,Negros Occidental,2,Transport,20.5
+2021-09,2021,9,Negros Occidental,2,Transport,6.6
+2021-10,2021,10,Negros Occidental,2,Transport,8.8
+2021-11,2021,11,Negros Occidental,2,Transport,10.2
+2021-12,2021,12,Negros Occidental,2,Transport,6.0
+2022-01,2022,1,Negros Occidental,2,Transport,5.5
+2022-02,2022,2,Negros Occidental,2,Transport,5.6
+2022-03,2022,3,Negros Occidental,2,Transport,6.5
+2022-04,2022,4,Negros Occidental,2,Transport,8.6
+2022-05,2022,5,Negros Occidental,2,Transport,9.1
+2022-06,2022,6,Negros Occidental,2,Transport,10.4
+2022-07,2022,7,Negros Occidental,2,Transport,10.8
+2022-08,2022,8,Negros Occidental,2,Transport,7.0
+2022-09,2022,9,Negros Occidental,2,Transport,8.0
+2022-10,2022,10,Negros Occidental,2,Transport,5.3
+2022-11,2022,11,Negros Occidental,2,Transport,9.0
+2022-12,2022,12,Negros Occidental,2,Transport,10.6
+2023-01,2023,1,Negros Occidental,2,Transport,10.5
+2023-02,2023,2,Negros Occidental,2,Transport,10.4
+2023-03,2023,3,Negros Occidental,2,Transport,7.6
+2023-04,2023,4,Negros Occidental,2,Transport,5.6
+2023-05,2023,5,Negros Occidental,2,Transport,3.5
+2023-06,2023,6,Negros Occidental,2,Transport,1.4
+2023-07,2023,7,Negros Occidental,2,Transport,0.3
+2023-08,2023,8,Negros Occidental,2,Transport,5.2
+2023-09,2023,9,Negros Occidental,2,Transport,6.0
+2023-10,2023,10,Negros Occidental,2,Transport,6.2
+2023-11,2023,11,Negros Occidental,2,Transport,0.2
+2023-12,2023,12,Negros Occidental,2,Transport,0.8
+2024-01,2024,1,Negros Occidental,2,Transport,0.5
+2024-02,2024,2,Negros Occidental,2,Transport,0.1
+2024-03,2024,3,Negros Occidental,2,Transport,0.4
+2024-04,2024,4,Negros Occidental,2,Transport,1.5
+2024-05,2024,5,Negros Occidental,2,Transport,1.8
+2024-06,2024,6,Negros Occidental,2,Transport,1.5
+2024-07,2024,7,Negros Occidental,2,Transport,2.2
+2024-08,2024,8,Negros Occidental,2,Transport,-0.6
+2024-09,2024,9,Negros Occidental,2,Transport,-3.2
+2024-10,2024,10,Negros Occidental,2,Transport,-2.7
+2024-11,2024,11,Negros Occidental,2,Transport,-1.9
+2024-12,2024,12,Negros Occidental,2,Transport,0.3
+2025-01,2025,1,Negros Occidental,2,Transport,0.5
+2025-02,2025,2,Negros Occidental,2,Transport,-0.6
+2025-03,2025,3,Negros Occidental,2,Transport,-0.6
+2025-04,2025,4,Negros Occidental,2,Transport,-1.0
+2025-05,2025,5,Negros Occidental,2,Transport,-1.6
+2025-06,2025,6,Negros Occidental,2,Transport,-0.3
+2025-07,2025,7,Negros Occidental,2,Transport,-1.2
+2025-08,2025,8,Negros Occidental,2,Transport,0.4
+2025-09,2025,9,Negros Occidental,2,Transport,1.4
+2025-10,2025,10,Negros Occidental,2,Transport,1.6
+2025-11,2025,11,Negros Occidental,2,Transport,2.7
+2025-12,2025,12,Negros Occidental,2,Transport,1.6
+2026-01,2026,1,Negros Occidental,2,Transport,-0.8
+2026-02,2026,2,Negros Occidental,2,Transport,-1.5
+2026-03,2026,3,Negros Occidental,2,Transport,5.2
+2026-04,2026,4,Negros Occidental,2,Transport,13.9
+2026-05,2026,5,Negros Occidental,2,Transport,10.9
+2026-06,2026,6,Negros Occidental,2,Transport,8.7
+2026-07,2026,7,Negros Occidental,2,Transport,7.8
+2026-08,2026,8,Negros Occidental,2,Transport,9.0
+2026-09,2026,9,Negros Occidental,2,Transport,9.6
+2026-10,2026,10,Negros Occidental,2,Transport,11.5
+2019-01,2019,1,Negros Oriental,2,All items,4.8
+2019-02,2019,2,Negros Oriental,2,All items,3.7
+2019-03,2019,3,Negros Oriental,2,All items,3.7
+2019-04,2019,4,Negros Oriental,2,All items,3.0
+2019-05,2019,5,Negros Oriental,2,All items,1.6
+2019-06,2019,6,Negros Oriental,2,All items,1.2
+2019-07,2019,7,Negros Oriental,2,All items,0.5
+2019-08,2019,8,Negros Oriental,2,All items,0.6
+2019-09,2019,9,Negros Oriental,2,All items,-0.9
+2019-10,2019,10,Negros Oriental,2,All items,-0.8
+2019-11,2019,11,Negros Oriental,2,All items,-0.3
+2019-12,2019,12,Negros Oriental,2,All items,1.7
+2020-01,2020,1,Negros Oriental,2,All items,2.4
+2020-02,2020,2,Negros Oriental,2,All items,2.1
+2020-03,2020,3,Negros Oriental,2,All items,1.9
+2020-04,2020,4,Negros Oriental,2,All items,1.8
+2020-05,2020,5,Negros Oriental,2,All items,0.1
+2020-06,2020,6,Negros Oriental,2,All items,0.7
+2020-07,2020,7,Negros Oriental,2,All items,0.9
+2020-08,2020,8,Negros Oriental,2,All items,0.4
+2020-09,2020,9,Negros Oriental,2,All items,1.3
+2020-10,2020,10,Negros Oriental,2,All items,1.3
+2020-11,2020,11,Negros Oriental,2,All items,1.9
+2020-12,2020,12,Negros Oriental,2,All items,1.2
+2021-01,2021,1,Negros Oriental,2,All items,1.4
+2021-02,2021,2,Negros Oriental,2,All items,2.2
+2021-03,2021,3,Negros Oriental,2,All items,2.3
+2021-04,2021,4,Negros Oriental,2,All items,2.6
+2021-05,2021,5,Negros Oriental,2,All items,4.6
+2021-06,2021,6,Negros Oriental,2,All items,3.8
+2021-07,2021,7,Negros Oriental,2,All items,3.8
+2021-08,2021,8,Negros Oriental,2,All items,4.0
+2021-09,2021,9,Negros Oriental,2,All items,4.0
+2021-10,2021,10,Negros Oriental,2,All items,5.0
+2021-11,2021,11,Negros Oriental,2,All items,5.1
+2021-12,2021,12,Negros Oriental,2,All items,5.2
+2022-01,2022,1,Negros Oriental,2,All items,5.7
+2022-02,2022,2,Negros Oriental,2,All items,5.1
+2022-03,2022,3,Negros Oriental,2,All items,6.1
+2022-04,2022,4,Negros Oriental,2,All items,6.4
+2022-05,2022,5,Negros Oriental,2,All items,4.9
+2022-06,2022,6,Negros Oriental,2,All items,5.3
+2022-07,2022,7,Negros Oriental,2,All items,6.2
+2022-08,2022,8,Negros Oriental,2,All items,6.7
+2022-09,2022,9,Negros Oriental,2,All items,6.8
+2022-10,2022,10,Negros Oriental,2,All items,6.7
+2022-11,2022,11,Negros Oriental,2,All items,7.7
+2022-12,2022,12,Negros Oriental,2,All items,7.9
+2023-01,2023,1,Negros Oriental,2,All items,7.4
+2023-02,2023,2,Negros Oriental,2,All items,8.4
+2023-03,2023,3,Negros Oriental,2,All items,6.3
+2023-04,2023,4,Negros Oriental,2,All items,6.4
+2023-05,2023,5,Negros Oriental,2,All items,7.3
+2023-06,2023,6,Negros Oriental,2,All items,6.9
+2023-07,2023,7,Negros Oriental,2,All items,5.9
+2023-08,2023,8,Negros Oriental,2,All items,6.8
+2023-09,2023,9,Negros Oriental,2,All items,7.1
+2023-10,2023,10,Negros Oriental,2,All items,5.8
+2023-11,2023,11,Negros Oriental,2,All items,5.4
+2023-12,2023,12,Negros Oriental,2,All items,5.6
+2024-01,2024,1,Negros Oriental,2,All items,4.6
+2024-02,2024,2,Negros Oriental,2,All items,4.5
+2024-03,2024,3,Negros Oriental,2,All items,5.8
+2024-04,2024,4,Negros Oriental,2,All items,4.7
+2024-05,2024,5,Negros Oriental,2,All items,3.6
+2024-06,2024,6,Negros Oriental,2,All items,4.2
+2024-07,2024,7,Negros Oriental,2,All items,3.4
+2024-08,2024,8,Negros Oriental,2,All items,2.7
+2024-09,2024,9,Negros Oriental,2,All items,1.5
+2024-10,2024,10,Negros Oriental,2,All items,2.0
+2024-11,2024,11,Negros Oriental,2,All items,0.9
+2024-12,2024,12,Negros Oriental,2,All items,1.0
+2025-01,2025,1,Negros Oriental,2,All items,1.0
+2025-02,2025,2,Negros Oriental,2,All items,0.2
+2025-03,2025,3,Negros Oriental,2,All items,-0.7
+2025-04,2025,4,Negros Oriental,2,All items,-0.1
+2025-05,2025,5,Negros Oriental,2,All items,-0.2
+2025-06,2025,6,Negros Oriental,2,All items,-1.0
+2025-07,2025,7,Negros Oriental,2,All items,-0.3
+2025-08,2025,8,Negros Oriental,2,All items,-0.6
+2025-09,2025,9,Negros Oriental,2,All items,-0.6
+2025-10,2025,10,Negros Oriental,2,All items,-0.6
+2025-11,2025,11,Negros Oriental,2,All items,-0.1
+2025-12,2025,12,Negros Oriental,2,All items,0.3
+2026-01,2026,1,Negros Oriental,2,All items,0.8
+2026-02,2026,2,Negros Oriental,2,All items,1.8
+2026-03,2026,3,Negros Oriental,2,All items,3.0
+2026-04,2026,4,Negros Oriental,2,All items,6.1
+2026-05,2026,5,Negros Oriental,2,All items,6.5
+2026-06,2026,6,Negros Oriental,2,All items,6.2
+2026-07,2026,7,Negros Oriental,2,All items,6.0
+2026-08,2026,8,Negros Oriental,2,All items,6.2
+2026-09,2026,9,Negros Oriental,2,All items,6.9
+2026-10,2026,10,Negros Oriental,2,All items,6.9
+2019-01,2019,1,Negros Oriental,2,Food,2.2
+2019-02,2019,2,Negros Oriental,2,Food,0.4
+2019-03,2019,3,Negros Oriental,2,Food,-0.6
+2019-04,2019,4,Negros Oriental,2,Food,-1.2
+2019-05,2019,5,Negros Oriental,2,Food,-1.0
+2019-06,2019,6,Negros Oriental,2,Food,-2.5
+2019-07,2019,7,Negros Oriental,2,Food,-3.3
+2019-08,2019,8,Negros Oriental,2,Food,-3.0
+2019-09,2019,9,Negros Oriental,2,Food,-5.7
+2019-10,2019,10,Negros Oriental,2,Food,-5.8
+2019-11,2019,11,Negros Oriental,2,Food,-4.5
+2019-12,2019,12,Negros Oriental,2,Food,-1.6
+2020-01,2020,1,Negros Oriental,2,Food,-1.3
+2020-02,2020,2,Negros Oriental,2,Food,-1.6
+2020-03,2020,3,Negros Oriental,2,Food,-0.2
+2020-04,2020,4,Negros Oriental,2,Food,0.8
+2020-05,2020,5,Negros Oriental,2,Food,1.4
+2020-06,2020,6,Negros Oriental,2,Food,3.0
+2020-07,2020,7,Negros Oriental,2,Food,2.8
+2020-08,2020,8,Negros Oriental,2,Food,1.1
+2020-09,2020,9,Negros Oriental,2,Food,3.1
+2020-10,2020,10,Negros Oriental,2,Food,4.3
+2020-11,2020,11,Negros Oriental,2,Food,4.8
+2020-12,2020,12,Negros Oriental,2,Food,3.9
+2021-01,2021,1,Negros Oriental,2,Food,4.8
+2021-02,2021,2,Negros Oriental,2,Food,7.1
+2021-03,2021,3,Negros Oriental,2,Food,6.3
+2021-04,2021,4,Negros Oriental,2,Food,5.1
+2021-05,2021,5,Negros Oriental,2,Food,4.6
+2021-06,2021,6,Negros Oriental,2,Food,2.6
+2021-07,2021,7,Negros Oriental,2,Food,3.3
+2021-08,2021,8,Negros Oriental,2,Food,3.9
+2021-09,2021,9,Negros Oriental,2,Food,3.7
+2021-10,2021,10,Negros Oriental,2,Food,3.5
+2021-11,2021,11,Negros Oriental,2,Food,3.2
+2021-12,2021,12,Negros Oriental,2,Food,4.6
+2022-01,2022,1,Negros Oriental,2,Food,6.5
+2022-02,2022,2,Negros Oriental,2,Food,3.4
+2022-03,2022,3,Negros Oriental,2,Food,5.4
+2022-04,2022,4,Negros Oriental,2,Food,5.8
+2022-05,2022,5,Negros Oriental,2,Food,5.9
+2022-06,2022,6,Negros Oriental,2,Food,6.9
+2022-07,2022,7,Negros Oriental,2,Food,9.1
+2022-08,2022,8,Negros Oriental,2,Food,10.8
+2022-09,2022,9,Negros Oriental,2,Food,10.2
+2022-10,2022,10,Negros Oriental,2,Food,10.8
+2022-11,2022,11,Negros Oriental,2,Food,12.3
+2022-12,2022,12,Negros Oriental,2,Food,12.2
+2023-01,2023,1,Negros Oriental,2,Food,11.2
+2023-02,2023,2,Negros Oriental,2,Food,14.2
+2023-03,2023,3,Negros Oriental,2,Food,10.0
+2023-04,2023,4,Negros Oriental,2,Food,7.9
+2023-05,2023,5,Negros Oriental,2,Food,7.7
+2023-06,2023,6,Negros Oriental,2,Food,7.2
+2023-07,2023,7,Negros Oriental,2,Food,4.3
+2023-08,2023,8,Negros Oriental,2,Food,6.1
+2023-09,2023,9,Negros Oriental,2,Food,7.7
+2023-10,2023,10,Negros Oriental,2,Food,5.8
+2023-11,2023,11,Negros Oriental,2,Food,6.1
+2023-12,2023,12,Negros Oriental,2,Food,5.9
+2024-01,2024,1,Negros Oriental,2,Food,3.5
+2024-02,2024,2,Negros Oriental,2,Food,3.5
+2024-03,2024,3,Negros Oriental,2,Food,6.1
+2024-04,2024,4,Negros Oriental,2,Food,6.7
+2024-05,2024,5,Negros Oriental,2,Food,5.6
+2024-06,2024,6,Negros Oriental,2,Food,6.7
+2024-07,2024,7,Negros Oriental,2,Food,7.8
+2024-08,2024,8,Negros Oriental,2,Food,5.0
+2024-09,2024,9,Negros Oriental,2,Food,2.4
+2024-10,2024,10,Negros Oriental,2,Food,2.8
+2024-11,2024,11,Negros Oriental,2,Food,2.3
+2024-12,2024,12,Negros Oriental,2,Food,0.9
+2025-01,2025,1,Negros Oriental,2,Food,1.6
+2025-02,2025,2,Negros Oriental,2,Food,0.8
+2025-03,2025,3,Negros Oriental,2,Food,-0.8
+2025-04,2025,4,Negros Oriental,2,Food,-0.2
+2025-05,2025,5,Negros Oriental,2,Food,-0.1
+2025-06,2025,6,Negros Oriental,2,Food,-1.0
+2025-07,2025,7,Negros Oriental,2,Food,-1.7
+2025-08,2025,8,Negros Oriental,2,Food,-1.7
+2025-09,2025,9,Negros Oriental,2,Food,-2.1
+2025-10,2025,10,Negros Oriental,2,Food,-2.7
+2025-11,2025,11,Negros Oriental,2,Food,-2.4
+2025-12,2025,12,Negros Oriental,2,Food,0.1
+2026-01,2026,1,Negros Oriental,2,Food,0.2
+2026-02,2026,2,Negros Oriental,2,Food,2.0
+2026-03,2026,3,Negros Oriental,2,Food,2.7
+2026-04,2026,4,Negros Oriental,2,Food,6.8
+2026-05,2026,5,Negros Oriental,2,Food,7.7
+2026-06,2026,6,Negros Oriental,2,Food,8.0
+2026-07,2026,7,Negros Oriental,2,Food,7.3
+2026-08,2026,8,Negros Oriental,2,Food,7.5
+2026-09,2026,9,Negros Oriental,2,Food,9.2
+2026-10,2026,10,Negros Oriental,2,Food,9.3
+2019-01,2019,1,Negros Oriental,2,Food and non-alcoholic beverages,2.5
+2019-02,2019,2,Negros Oriental,2,Food and non-alcoholic beverages,0.7
+2019-03,2019,3,Negros Oriental,2,Food and non-alcoholic beverages,-0.2
+2019-04,2019,4,Negros Oriental,2,Food and non-alcoholic beverages,-1.0
+2019-05,2019,5,Negros Oriental,2,Food and non-alcoholic beverages,-0.7
+2019-06,2019,6,Negros Oriental,2,Food and non-alcoholic beverages,-2.2
+2019-07,2019,7,Negros Oriental,2,Food and non-alcoholic beverages,-3.0
+2019-08,2019,8,Negros Oriental,2,Food and non-alcoholic beverages,-2.6
+2019-09,2019,9,Negros Oriental,2,Food and non-alcoholic beverages,-5.3
+2019-10,2019,10,Negros Oriental,2,Food and non-alcoholic beverages,-5.5
+2019-11,2019,11,Negros Oriental,2,Food and non-alcoholic beverages,-4.2
+2019-12,2019,12,Negros Oriental,2,Food and non-alcoholic beverages,-1.4
+2020-01,2020,1,Negros Oriental,2,Food and non-alcoholic beverages,-1.1
+2020-02,2020,2,Negros Oriental,2,Food and non-alcoholic beverages,-1.4
+2020-03,2020,3,Negros Oriental,2,Food and non-alcoholic beverages,-0.1
+2020-04,2020,4,Negros Oriental,2,Food and non-alcoholic beverages,0.9
+2020-05,2020,5,Negros Oriental,2,Food and non-alcoholic beverages,1.4
+2020-06,2020,6,Negros Oriental,2,Food and non-alcoholic beverages,2.9
+2020-07,2020,7,Negros Oriental,2,Food and non-alcoholic beverages,2.6
+2020-08,2020,8,Negros Oriental,2,Food and non-alcoholic beverages,1.0
+2020-09,2020,9,Negros Oriental,2,Food and non-alcoholic beverages,2.9
+2020-10,2020,10,Negros Oriental,2,Food and non-alcoholic beverages,4.1
+2020-11,2020,11,Negros Oriental,2,Food and non-alcoholic beverages,4.5
+2020-12,2020,12,Negros Oriental,2,Food and non-alcoholic beverages,3.7
+2021-01,2021,1,Negros Oriental,2,Food and non-alcoholic beverages,4.5
+2021-02,2021,2,Negros Oriental,2,Food and non-alcoholic beverages,6.8
+2021-03,2021,3,Negros Oriental,2,Food and non-alcoholic beverages,5.9
+2021-04,2021,4,Negros Oriental,2,Food and non-alcoholic beverages,4.9
+2021-05,2021,5,Negros Oriental,2,Food and non-alcoholic beverages,4.4
+2021-06,2021,6,Negros Oriental,2,Food and non-alcoholic beverages,2.6
+2021-07,2021,7,Negros Oriental,2,Food and non-alcoholic beverages,3.2
+2021-08,2021,8,Negros Oriental,2,Food and non-alcoholic beverages,3.8
+2021-09,2021,9,Negros Oriental,2,Food and non-alcoholic beverages,3.6
+2021-10,2021,10,Negros Oriental,2,Food and non-alcoholic beverages,3.4
+2021-11,2021,11,Negros Oriental,2,Food and non-alcoholic beverages,3.1
+2021-12,2021,12,Negros Oriental,2,Food and non-alcoholic beverages,4.4
+2022-01,2022,1,Negros Oriental,2,Food and non-alcoholic beverages,6.2
+2022-02,2022,2,Negros Oriental,2,Food and non-alcoholic beverages,3.2
+2022-03,2022,3,Negros Oriental,2,Food and non-alcoholic beverages,5.1
+2022-04,2022,4,Negros Oriental,2,Food and non-alcoholic beverages,5.4
+2022-05,2022,5,Negros Oriental,2,Food and non-alcoholic beverages,5.6
+2022-06,2022,6,Negros Oriental,2,Food and non-alcoholic beverages,6.5
+2022-07,2022,7,Negros Oriental,2,Food and non-alcoholic beverages,8.6
+2022-08,2022,8,Negros Oriental,2,Food and non-alcoholic beverages,10.2
+2022-09,2022,9,Negros Oriental,2,Food and non-alcoholic beverages,9.9
+2022-10,2022,10,Negros Oriental,2,Food and non-alcoholic beverages,10.4
+2022-11,2022,11,Negros Oriental,2,Food and non-alcoholic beverages,12.0
+2022-12,2022,12,Negros Oriental,2,Food and non-alcoholic beverages,11.9
+2023-01,2023,1,Negros Oriental,2,Food and non-alcoholic beverages,10.9
+2023-02,2023,2,Negros Oriental,2,Food and non-alcoholic beverages,13.9
+2023-03,2023,3,Negros Oriental,2,Food and non-alcoholic beverages,10.0
+2023-04,2023,4,Negros Oriental,2,Food and non-alcoholic beverages,8.0
+2023-05,2023,5,Negros Oriental,2,Food and non-alcoholic beverages,7.8
+2023-06,2023,6,Negros Oriental,2,Food and non-alcoholic beverages,7.3
+2023-07,2023,7,Negros Oriental,2,Food and non-alcoholic beverages,4.7
+2023-08,2023,8,Negros Oriental,2,Food and non-alcoholic beverages,6.3
+2023-09,2023,9,Negros Oriental,2,Food and non-alcoholic beverages,7.6
+2023-10,2023,10,Negros Oriental,2,Food and non-alcoholic beverages,5.8
+2023-11,2023,11,Negros Oriental,2,Food and non-alcoholic beverages,6.0
+2023-12,2023,12,Negros Oriental,2,Food and non-alcoholic beverages,5.7
+2024-01,2024,1,Negros Oriental,2,Food and non-alcoholic beverages,3.5
+2024-02,2024,2,Negros Oriental,2,Food and non-alcoholic beverages,3.4
+2024-03,2024,3,Negros Oriental,2,Food and non-alcoholic beverages,5.8
+2024-04,2024,4,Negros Oriental,2,Food and non-alcoholic beverages,6.5
+2024-05,2024,5,Negros Oriental,2,Food and non-alcoholic beverages,5.3
+2024-06,2024,6,Negros Oriental,2,Food and non-alcoholic beverages,6.4
+2024-07,2024,7,Negros Oriental,2,Food and non-alcoholic beverages,7.4
+2024-08,2024,8,Negros Oriental,2,Food and non-alcoholic beverages,4.8
+2024-09,2024,9,Negros Oriental,2,Food and non-alcoholic beverages,2.3
+2024-10,2024,10,Negros Oriental,2,Food and non-alcoholic beverages,2.7
+2024-11,2024,11,Negros Oriental,2,Food and non-alcoholic beverages,2.2
+2024-12,2024,12,Negros Oriental,2,Food and non-alcoholic beverages,0.9
+2025-01,2025,1,Negros Oriental,2,Food and non-alcoholic beverages,1.5
+2025-02,2025,2,Negros Oriental,2,Food and non-alcoholic beverages,0.8
+2025-03,2025,3,Negros Oriental,2,Food and non-alcoholic beverages,-0.8
+2025-04,2025,4,Negros Oriental,2,Food and non-alcoholic beverages,-0.2
+2025-05,2025,5,Negros Oriental,2,Food and non-alcoholic beverages,-0.1
+2025-06,2025,6,Negros Oriental,2,Food and non-alcoholic beverages,-0.9
+2025-07,2025,7,Negros Oriental,2,Food and non-alcoholic beverages,-1.6
+2025-08,2025,8,Negros Oriental,2,Food and non-alcoholic beverages,-1.6
+2025-09,2025,9,Negros Oriental,2,Food and non-alcoholic beverages,-2.0
+2025-10,2025,10,Negros Oriental,2,Food and non-alcoholic beverages,-2.6
+2025-11,2025,11,Negros Oriental,2,Food and non-alcoholic beverages,-2.3
+2025-12,2025,12,Negros Oriental,2,Food and non-alcoholic beverages,0.1
+2026-01,2026,1,Negros Oriental,2,Food and non-alcoholic beverages,0.2
+2026-02,2026,2,Negros Oriental,2,Food and non-alcoholic beverages,1.9
+2026-03,2026,3,Negros Oriental,2,Food and non-alcoholic beverages,2.7
+2026-04,2026,4,Negros Oriental,2,Food and non-alcoholic beverages,6.6
+2026-05,2026,5,Negros Oriental,2,Food and non-alcoholic beverages,7.5
+2026-06,2026,6,Negros Oriental,2,Food and non-alcoholic beverages,7.9
+2026-07,2026,7,Negros Oriental,2,Food and non-alcoholic beverages,7.1
+2026-08,2026,8,Negros Oriental,2,Food and non-alcoholic beverages,7.4
+2026-09,2026,9,Negros Oriental,2,Food and non-alcoholic beverages,9.0
+2026-10,2026,10,Negros Oriental,2,Food and non-alcoholic beverages,9.0
+2019-01,2019,1,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",12.1
+2019-02,2019,2,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.2
+2019-03,2019,3,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.8
+2019-04,2019,4,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",10.1
+2019-05,2019,5,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",3.6
+2019-06,2019,6,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.8
+2019-07,2019,7,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.3
+2019-08,2019,8,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.1
+2019-09,2019,9,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.4
+2019-10,2019,10,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.6
+2019-11,2019,11,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",1.8
+2019-12,2019,12,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.8
+2020-01,2020,1,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.7
+2020-02,2020,2,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.3
+2020-03,2020,3,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",3.5
+2020-04,2020,4,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",3.8
+2020-05,2020,5,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-1.3
+2020-06,2020,6,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-2.2
+2020-07,2020,7,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-2.1
+2020-08,2020,8,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-1.6
+2020-09,2020,9,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.2
+2020-10,2020,10,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.9
+2020-11,2020,11,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",0.2
+2020-12,2020,12,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.4
+2021-01,2021,1,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-1.4
+2021-02,2021,2,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-1.2
+2021-03,2021,3,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.6
+2021-04,2021,4,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",0.3
+2021-05,2021,5,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",6.8
+2021-06,2021,6,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",7.0
+2021-07,2021,7,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",7.3
+2021-08,2021,8,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",7.0
+2021-09,2021,9,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",7.6
+2021-10,2021,10,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.3
+2021-11,2021,11,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.4
+2021-12,2021,12,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.0
+2022-01,2022,1,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",10.8
+2022-02,2022,2,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",12.1
+2022-03,2022,3,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.6
+2022-04,2022,4,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.3
+2022-05,2022,5,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",5.4
+2022-06,2022,6,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",5.1
+2022-07,2022,7,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.8
+2022-08,2022,8,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.6
+2022-09,2022,9,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.1
+2022-10,2022,10,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",3.8
+2022-11,2022,11,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",5.3
+2022-12,2022,12,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",5.7
+2023-01,2023,1,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",5.7
+2023-02,2023,2,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",5.1
+2023-03,2023,3,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.4
+2023-04,2023,4,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",7.3
+2023-05,2023,5,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.7
+2023-06,2023,6,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.8
+2023-07,2023,7,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",12.7
+2023-08,2023,8,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",12.1
+2023-09,2023,9,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",11.9
+2023-10,2023,10,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",9.5
+2023-11,2023,11,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",8.4
+2023-12,2023,12,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",8.9
+2024-01,2024,1,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",8.5
+2024-02,2024,2,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",8.3
+2024-03,2024,3,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",9.7
+2024-04,2024,4,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",5.5
+2024-05,2024,5,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",3.0
+2024-06,2024,6,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",4.4
+2024-07,2024,7,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.3
+2024-08,2024,8,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",1.5
+2024-09,2024,9,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.0
+2024-10,2024,10,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",3.1
+2024-11,2024,11,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.2
+2024-12,2024,12,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",0.9
+2025-01,2025,1,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",0.4
+2025-02,2025,2,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.4
+2025-03,2025,3,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-1.6
+2025-04,2025,4,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.2
+2025-05,2025,5,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.6
+2025-06,2025,6,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-3.2
+2025-07,2025,7,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",0.6
+2025-08,2025,8,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-1.2
+2025-09,2025,9,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-1.3
+2025-10,2025,10,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.9
+2025-11,2025,11,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",0.5
+2025-12,2025,12,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.5
+2026-01,2026,1,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",-0.1
+2026-02,2026,2,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",1.0
+2026-03,2026,3,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",0.4
+2026-04,2026,4,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.4
+2026-05,2026,5,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",1.5
+2026-06,2026,6,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.0
+2026-07,2026,7,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",1.5
+2026-08,2026,8,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.6
+2026-09,2026,9,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.8
+2026-10,2026,10,Negros Oriental,2,"Housing, water, electricity, gas, and other fuels",2.6
+2019-01,2019,1,Negros Oriental,2,Transport,1.5
+2019-02,2019,2,Negros Oriental,2,Transport,0.6
+2019-03,2019,3,Negros Oriental,2,Transport,3.0
+2019-04,2019,4,Negros Oriental,2,Transport,3.1
+2019-05,2019,5,Negros Oriental,2,Transport,3.9
+2019-06,2019,6,Negros Oriental,2,Transport,1.8
+2019-07,2019,7,Negros Oriental,2,Transport,2.3
+2019-08,2019,8,Negros Oriental,2,Transport,1.7
+2019-09,2019,9,Negros Oriental,2,Transport,1.1
+2019-10,2019,10,Negros Oriental,2,Transport,0.6
+2019-11,2019,11,Negros Oriental,2,Transport,2.5
+2019-12,2019,12,Negros Oriental,2,Transport,6.6
+2020-01,2020,1,Negros Oriental,2,Transport,7.3
+2020-02,2020,2,Negros Oriental,2,Transport,4.8
+2020-03,2020,3,Negros Oriental,2,Transport,0.3
+2020-04,2020,4,Negros Oriental,2,Transport,-6.1
+2020-05,2020,5,Negros Oriental,2,Transport,-10.7
+2020-06,2020,6,Negros Oriental,2,Transport,-6.7
+2020-07,2020,7,Negros Oriental,2,Transport,-4.2
+2020-08,2020,8,Negros Oriental,2,Transport,-3.9
+2020-09,2020,9,Negros Oriental,2,Transport,-4.9
+2020-10,2020,10,Negros Oriental,2,Transport,-5.8
+2020-11,2020,11,Negros Oriental,2,Transport,-5.0
+2020-12,2020,12,Negros Oriental,2,Transport,-4.8
+2021-01,2021,1,Negros Oriental,2,Transport,-3.6
+2021-02,2021,2,Negros Oriental,2,Transport,-1.8
+2021-03,2021,3,Negros Oriental,2,Transport,0.6
+2021-04,2021,4,Negros Oriental,2,Transport,5.5
+2021-05,2021,5,Negros Oriental,2,Transport,8.9
+2021-06,2021,6,Negros Oriental,2,Transport,6.4
+2021-07,2021,7,Negros Oriental,2,Transport,4.8
+2021-08,2021,8,Negros Oriental,2,Transport,4.4
+2021-09,2021,9,Negros Oriental,2,Transport,4.6
+2021-10,2021,10,Negros Oriental,2,Transport,6.7
+2021-11,2021,11,Negros Oriental,2,Transport,8.2
+2021-12,2021,12,Negros Oriental,2,Transport,4.5
+2022-01,2022,1,Negros Oriental,2,Transport,4.6
+2022-02,2022,2,Negros Oriental,2,Transport,6.5
+2022-03,2022,3,Negros Oriental,2,Transport,10.0
+2022-04,2022,4,Negros Oriental,2,Transport,12.7
+2022-05,2022,5,Negros Oriental,2,Transport,13.8
+2022-06,2022,6,Negros Oriental,2,Transport,15.7
+2022-07,2022,7,Negros Oriental,2,Transport,15.2
+2022-08,2022,8,Negros Oriental,2,Transport,11.7
+2022-09,2022,9,Negros Oriental,2,Transport,12.1
+2022-10,2022,10,Negros Oriental,2,Transport,9.3
+2022-11,2022,11,Negros Oriental,2,Transport,8.0
+2022-12,2022,12,Negros Oriental,2,Transport,7.0
+2023-01,2023,1,Negros Oriental,2,Transport,4.9
+2023-02,2023,2,Negros Oriental,2,Transport,4.4
+2023-03,2023,3,Negros Oriental,2,Transport,-0.5
+2023-04,2023,4,Negros Oriental,2,Transport,-1.7
+2023-05,2023,5,Negros Oriental,2,Transport,-4.5
+2023-06,2023,6,Negros Oriental,2,Transport,-7.3
+2023-07,2023,7,Negros Oriental,2,Transport,-8.1
+2023-08,2023,8,Negros Oriental,2,Transport,-2.0
+2023-09,2023,9,Negros Oriental,2,Transport,-1.2
+2023-10,2023,10,Negros Oriental,2,Transport,-1.0
+2023-11,2023,11,Negros Oriental,2,Transport,-2.3
+2023-12,2023,12,Negros Oriental,2,Transport,0.1
+2024-01,2024,1,Negros Oriental,2,Transport,0.4
+2024-02,2024,2,Negros Oriental,2,Transport,1.2
+2024-03,2024,3,Negros Oriental,2,Transport,1.6
+2024-04,2024,4,Negros Oriental,2,Transport,1.8
+2024-05,2024,5,Negros Oriental,2,Transport,2.2
+2024-06,2024,6,Negros Oriental,2,Transport,2.3
+2024-07,2024,7,Negros Oriental,2,Transport,2.6
+2024-08,2024,8,Negros Oriental,2,Transport,-1.5
+2024-09,2024,9,Negros Oriental,2,Transport,-4.7
+2024-10,2024,10,Negros Oriental,2,Transport,-4.3
+2024-11,2024,11,Negros Oriental,2,Transport,-2.7
+2024-12,2024,12,Negros Oriental,2,Transport,0.5
+2025-01,2025,1,Negros Oriental,2,Transport,-0.4
+2025-02,2025,2,Negros Oriental,2,Transport,-2.1
+2025-03,2025,3,Negros Oriental,2,Transport,-2.5
+2025-04,2025,4,Negros Oriental,2,Transport,-3.3
+2025-05,2025,5,Negros Oriental,2,Transport,-4.1
+2025-06,2025,6,Negros Oriental,2,Transport,-2.1
+2025-07,2025,7,Negros Oriental,2,Transport,-2.0
+2025-08,2025,8,Negros Oriental,2,Transport,-1.1
+2025-09,2025,9,Negros Oriental,2,Transport,1.3
+2025-10,2025,10,Negros Oriental,2,Transport,1.5
+2025-11,2025,11,Negros Oriental,2,Transport,2.2
+2025-12,2025,12,Negros Oriental,2,Transport,-0.9
+2026-01,2026,1,Negros Oriental,2,Transport,0.1
+2026-02,2026,2,Negros Oriental,2,Transport,-0.4
+2026-03,2026,3,Negros Oriental,2,Transport,9.6
+2026-04,2026,4,Negros Oriental,2,Transport,21.0
+2026-05,2026,5,Negros Oriental,2,Transport,21.4
+2026-06,2026,6,Negros Oriental,2,Transport,13.5
+2026-07,2026,7,Negros Oriental,2,Transport,13.2
+2026-08,2026,8,Negros Oriental,2,Transport,14.8
+2026-09,2026,9,Negros Oriental,2,Transport,14.5
+2026-10,2026,10,Negros Oriental,2,Transport,16.6

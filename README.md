@@ -51,6 +51,9 @@ After deploying, check a link with the [Facebook Sharing Debugger](https://devel
 | `src/data/setup.js` | Preparation checklists, things to think about, sample datasets |
 | `src/data/modules.js` | Modules B to G: models, agents, local AI, data protection, MCP, skills |
 | `src/data/certificates.js` | The certificate activity, its prompt and the reference Apps Script |
+| `src/data/dataWebsite.js` | The Day 3 data website lab: datasets, steps, prompts, slop check |
+| `src/data/gov-data-website-skill.md` | The design skill; copied to `public/materials/day-3/` as the .md and the Claude .zip |
+| `public/api/v1/` | The training data API: four PSA OpenSTAT tables as JSON and CSV, served with open CORS (see `vercel.json`). Refresh with `python3 scripts/fetch-psa.py public/api/v1` |
 | `src/data/reference.js` | R-T-C-F-C, glossary, laws, tools, FAQ, capstone, rubric, assessment |
 | `src/data/tracking.js` | Every checklist and worksheet by id, shared with the My progress page |
 | `src/data/nav.js` | Sidebar groups, page order and the search index |

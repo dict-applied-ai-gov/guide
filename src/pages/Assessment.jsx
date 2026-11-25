@@ -45,7 +45,7 @@ export function Assessment() {
         lead="The same short assessment at the start of Day 1 and near the end of Day 3, so you and the trainers can see what changed."
       />
 
-      <Section id="pre-post" title="Pre and post assessment" intro="Day 1 at 9:00, from the QR code on screen, and Day 3 at 4:15.">
+      <Section id="pre-post" title="Pre and post assessment" intro="Day 1 at 9:00, from the QR code on screen, and Day 3 at 4:15, from the DICT staff.">
         <DefinitionRows rows={assessment.parts} />
       </Section>
 
